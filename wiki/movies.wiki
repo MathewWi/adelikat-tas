@@ -1,0 +1,58 @@
+List of all Tool Assisted movies created created by adelikat.
+
+==Currently Published movies==
+===*Count: 39===
+TODO: Fix links
+* [425M|Cobra Triangle NES]
+* [519M|Dragon Warrior 4 NES]
+* [531M|Wrath of the Black Manta NES]
+* [532M|Flintstones NES] (co-authored with [user:Guybrush])
+* [688M|Whomp 'Em NES]
+* [711M|Gradius NES]
+* [734M|Zanac NES]
+* [756M|Contra - Pacifist NES]
+* [766M|Mike Tyson's Punch-Out!! NES]
+* [774M|Jaws NES]
+* [797M|Contra NES] 2 Player
+* [830M|Super C NES ] 2 Player (co-authored with [user:Baxter])
+* [864M|Operation C GB]
+* [881M|Mercs GENS]
+* [890M|Holy Diver NES] (co-authored with [user:Vatchern])
+* [913M|Marble Madness NES] (co-authored with [user:Deign])
+* [915M|Midnight Resistance GENS]
+* [917M|Teenage Mutant Ninja Turtles NES]
+* [962M|Glover N64]
+* [976M|Super Mario Bros. 2 USA "Princess only" NES]
+* [1001M|Super Mario Bros. 2 USA "Warpless" NES] (co-authored with [user:Cardboard])
+* [1002M|Super Mario Bros. 2 USA "Warped" NES] (co-authored with [user:Cardboard])
+* [1013M|River City Ransom 2-player "All Aspects" NES] (co-authored with [user:JXQ])
+* [1025M|Beavis and Butt-head GENS]
+* [1039M|Tecmo Super Bowl NES]
+* [1059M|Super Mario Bros. 3 "warpless" NES] (co-authored with [user:Cardboard], [user:Deign], and [user:JXQ])
+* [1057M|Ninja Gaiden SMS]
+* [1097M|Contra - The Hard Corps "secret ending" GENS]
+* [1098M|Contra - The Hard Corps GENS]
+* [1104M|Duck Tales 2 NES]
+* [1118M|R.B.I. Baseball NES "playaround"]
+* [1151M|Batman Begins GBA]
+* [1155M|Super Spy Hunter NES] (co-authored with [user:Randil])
+* [1184M|Trojan NES]
+* [1225M|Karnov NES]
+* [1239M|Earnest Evans GENS]
+* [1279M|Double Dragon 2 NES] 2 Player, mode b
+* [1281M|Dragon Egg PCE]
+----
+==Obsoleted by others==
+
+----
+==Obsoleted by me (previous versions)===
+
+----
+==Rejected==
+
+----
+==Unsubmitted==
+
+----
+==Unfinished wips==
+* [1283M|New Super Mario Bros DS]
