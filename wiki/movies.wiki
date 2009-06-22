@@ -1,8 +1,10 @@
 List of all Tool Assisted movies created created by adelikat.
 
 ==Currently Published movies==
-===*Count: 39===
-TODO: Fix links
+ *Count: 39
+
+ * [http://tasvideos.org/1283M.html New Super Mario Bros DS]
+
 * [425M|Cobra Triangle NES]
 * [519M|Dragon Warrior 4 NES]
 * [531M|Wrath of the Black Manta NES]
@@ -55,4 +57,3 @@ TODO: Fix links
 
 ----
 ==Unfinished wips==
-* [1283M|New Super Mario Bros DS]
