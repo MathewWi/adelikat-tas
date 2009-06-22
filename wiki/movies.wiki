@@ -1,9 +1,12 @@
 List of all Tool Assisted movies created created by adelikat.
 
 ==Currently Published movies==
- *Count: 39
+ * Count: 39
 
- * [http://tasvideos.org/1283M.html New Super Mario Bros DS]
+ * [http://tasvideos.org/1283M.html New Super Mario Bros in 26:27.5 DS]
+ * [http://tasvideos.org/1281M.html Dragon Egg in 07:36.27 PCE]
+ * [http://tasvideos.org/1279M.html Double Dragon 2 in 08:40.13 2 Player, mode b NES]
+ * [http://tasvideos.org/1239M.html Earnest Evans in 07:51.48 GENS]
 
 * [425M|Cobra Triangle NES]
 * [519M|Dragon Warrior 4 NES]
@@ -40,9 +43,9 @@ List of all Tool Assisted movies created created by adelikat.
 * [1155M|Super Spy Hunter NES] (co-authored with [user:Randil])
 * [1184M|Trojan NES]
 * [1225M|Karnov NES]
-* [1239M|Earnest Evans GENS]
-* [1279M|Double Dragon 2 NES] 2 Player, mode b
-* [1281M|Dragon Egg PCE]
+
+
+
 ----
 ==Obsoleted by others==
 
