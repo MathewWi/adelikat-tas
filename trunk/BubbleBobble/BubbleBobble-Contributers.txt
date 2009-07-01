@@ -1,0 +1,122 @@
+Adelikat: 22
+Baxter: 5 
+Cardboard: 3
+CtrlAltDestroy: 3
+Randil: 2 
+Tompa: 30
+
+
+Level
+
+1. Adelikat/Tompa
+2. Cardboard/Randil/Tompa
+3. Cardboard/Tompa
+4. Adelikat/Baxter
+5. Adelikat/Cardboard/Tompa/
+6. Adelikat/Tompa
+7. Adelikat/Tompa
+8. Adelikat/Tompa
+9. Baxter/Tompa
+10. Tompa
+11. Tompa
+12. Adelikat/Tompa
+13. Adelikat
+14. Adelikat/Tompa
+15. Adelikat/Tompa
+16. Tompa
+17. Tompa
+18. Tompa
+19. Adelikat/Baxter
+20. Adelikat/Baxter
+21. Adelikat/Baxter
+22. *
+23. *
+24. *
+25. *
+26. Tompa
+27. Adelikat
+28. Adelikat/Tompa
+29. Tompa
+30. Adelikat/Tompa
+31. Adelikat/Tompa
+32. Adelikat/Tompa
+33. Randil/Tompa
+34. CtrlAltDestroy 
+35. Adelikat/CtrlAltDestroy/Tompa
+36. Adelikat/Tompa
+37. Adelikat/Tompa
+38. Adelikat/Tompa
+39. Tompa
+40. Tompa
+41. CtrlAltDestroy 
+42. Tompa/Adelikat
+43. Adelikat
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+A1. 
+A2. 
+A3. 
+A4. 
+A5. 
+A6. 
+A7. 
+A8. 
+A9. 
+B1. 
+B2. 
+V3. 
+B4. 
+BOSS. 
