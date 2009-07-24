@@ -20,5 +20,6 @@
 | |
 054D Enemy|X|pos
 05DD Boss|Hp
+05D8 PyramidBoss|Hp
 | |
 | |
