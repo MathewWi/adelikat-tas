@@ -1,10 +1,10 @@
-0057 X|speed
+077F 21|Frame|Rule
 006D Level|X|2nd
 0086 Level|X
 0400 X|subpixel
 03AD On|screen|X
 071D Camera|X
-077F 21|frame|rule
+0057 X|speed
 | |
 0483 Bowser|HP
 00CE Y|pixel
