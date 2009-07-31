@@ -5,7 +5,7 @@
 03AD On|screen|X
 071D Camera|X
 0057 X|speed
-| |
+0705 X|speed|sub?
 0483 Bowser|HP
 00CE Y|pixel
 0416 Y|subpixel
