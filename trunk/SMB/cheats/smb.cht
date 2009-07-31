@@ -3,4 +3,5 @@ S:0057:18:Walk Speed
 S:07fa:01:Freeze Timer
 S:0057:79:Fast Speed
 S:0400:f0:Subpixel push
-S:00ce:60:Y pixel
+S:00ce:68:Y pixel
+S:0086:c6:X pixel
