@@ -8,6 +8,7 @@ It contains:
 *Savestates for every level (Use [http://www.fceux.com|FCEUX2.1.1] and drag n' drop them on the emulator to watch any level you want in any order).
 *Memory watch file used in the making of the TAS
 *An outtakes folder that demonstrates varies failed strategies.
+*A MS Excel spreadsheet that shows not only frame counts but auto-calculates the number of frames needed to bust the next "frame rule" for any level.  (The formula for x-4 levels is slighty bugged however).
 
 ! New Tricks
 
