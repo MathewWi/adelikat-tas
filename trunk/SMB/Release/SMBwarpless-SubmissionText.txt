@@ -1,0 +1,49 @@
+This is a 148 frame improvement over the [1194S|published movie] by Happy Lee.
+
+The improvement comes from busting 7 frame rules and elminating 1 lag frame.
+
+I recommend downloading the [http://code.google.com/p/adelikat-tas/downloads/list|SMB Release package] from my [http://code.google.com/p/adelikat-tas/|adelikat-TAS SVN].
+
+It contains:
+*Savestates for every level (Use [http://www.fceux.com|FCEUX2.1.1] and drag n' drop them on the emulator to watch any level you want in any order).
+*Memory watch file used in the making of the TAS
+*An outtakes folder that demonstrates varies failed strategies.
+
+! New Tricks
+
+3 new tricks are represented in this movie
+
+* The "Vine glitch"
+**Pressing L+R on a vine at the right time can send mario to the right side of the screen instantly.  This is used to enable the "bullet bill flag pole glitch" where mario falls off the flag pole and runs against it.  This is used in 2-1, 3-1, and 6-2.
+***Discovered by klmz,andrewg
+
+* Faster acceleration from a stop
+**By manipulating the speed subpixel address (0705) it is possible to save a half a pixel at the start of every level or coming out frame every pipe.  In x-4 levels it is possible to save over a pixel.  Unfortunately the frame rule nullified this savings in nearly every level.  However, it did help contribute to busting a frame rule in 3-4.
+***Discovered by klmz
+
+* The "magic subpixel"
+**Mario's walk from a flagpole to the castle is not set in stone.  It can be manipluated by means of subpixel carry over.  Meaning, the x subpixel value mario has when he hits the flag will be used in calculating his acceleration after the flag!  The term "magic subpixel" was coined because the value of 48 seems to be the magic number on most every level; resulting a 103 frame walk to the castle rather than a 104 or 105 frame walk.  Unfortunately this glitch doesn't technically "save" time due to the 21 frame rule.
+
+***Discovered by adelikat
+
+! The good, the bad, the ugly
+
+These levels were improved: (the good)
+*2-1: 63 frames - Vine glitch.
+*3-1: 42 frames - Vine glitch.
+*3-4: 24 frames - Combination of "Faster accleration", better boss fight, not doing backwards jumps (which cost 1/16th of a pixel)
+*6-2: 42 frames - Vine glitch
+
+This level was slower: (the bad)
+*5-4: -21 frames - Bad randomness
+**Everyone is going to question this, but the randomness we got in 5-4 was HORRID.  As a result there was not way to complete the level without losing at least 1 frame rule.  We tried everything, including manipulating the level, the previous level, and even cheating to get to the level 21 frames faster to see if it would solve our woes.  Getting there 21 frames faster changed the randomness but ultimately not enough to save time.  But this hints to the fact that the fire wheels are determined by a universal timer.  As such there is nothing we can do about it.  If I thought otherwise, this wouldn't have been submitted, trust me.
+
+This level is sooooo close! (the ugly)
+*1-1
+**With the new acceleration trick and the "magic pixel", 2 frames can be saved in 1-1 (see Outtakes/1-1fastest).  This puts us 1 FRAME AWAY from busting the frame rule and improving both this and the warps movie!  Ouch!
+
+! Summary
+
+*Aims for fastest time
+*Abuses programming errors in the game
+
