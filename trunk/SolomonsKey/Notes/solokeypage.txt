@@ -1,0 +1,136 @@
+[http://bisqwit.iki.fi/kala/hloop.gif|left]
+!!! Bisqwit's Solomon's Key movie v5
+
+Back to:%%%
+[module:ListParents]
+
+[TODO]: Delete this page.
+
+!! Introduction
+
+In February 2004, I published the [1M|Solomon's Key movie v4]
+which is, as of this writing, still the best published Solomon's Key movie.
+(Thanks [OldChangeLog]!)
+
+In November 2004, I started making v5, which is now [498M|finished].
+
+!! Aim
+
+I'm aiming for%%%
+① the best ending (solve all the special hidden rooms)%%%
+② without using warps (wings).%%%
+③ to improve all the level times. [#3]%%%
+Fairy rooms will not be played.
+
+A warps-version will be coming later
+(and will use all of the warps, not only the last one.)
+
+I'm using Famtasia, but I might convert the movie to FCEU and continue with that.
+Currently I'm concentrating more on the [Bisqwit/RockmanMovie|Rockman movie].
+
+!! Progress
+
+The movie seems to be going much better than the previous version.%%%
+Almost all levels are improved a bit, and many are improved by a lot.%%%
+For emphasis, I provided a comment for each level in the form of a Japanese-style smiley.
+
+||Level   || Old time || New time|| Comment|| Notes
+||1       | 9340      | 9360      | (^ ^)   |
+||2       | 9210      | 9220      | (^ ^)   |
+||3       | 7960      | 8070      | \(^o^)/ |
+||4       | 9310      | 9330      | (^ ^)   | (if take icon, next level is fairies)
+||5       | 9000      | 9230      | \(^o^)/ |
+||6       | 8410      | 8410      | (~_~)   |
+||7       | 9000      | 9050      | \(^o^)/ | wings at 14,1
+||8       | 9210      | 9210      | (~_~)   | >(if take icon, next level is fairies)
+||9       | 8900      | ''s''8860 | \(^o^)/ | >seal 1 at 10,8
+||10      | 8220      | 8290      | (^ ^)   | > (( (after dozens of retries at this level, always%%%missing the previously got 8300 by exactly 2%%% frames, I decided to give up and move on.) [#3]))
+||11      | 8360      | 8730      | ＼(◎o◎)／ | >
+||12      | 8820      | 8840      | (^ ^)   | >(if take icon, next level is fairies)
+||13      | 8600;''½b''4690 | ''s''8760;''½b''4710 | \(^o^)/ | seal 2 at 8,9
+||14      | 8580      | 8650      | (^ ^)   | 
+||15      | 8560      | 8730      | ＼(◎o◎)／ | wings at 11,12
+||16      | 9200      | 9300      | \(^o^)/ | >(if take icon, next level is fairies)
+||17      | 8610;''½''4700  | 8980;''s½''4340  | (^ ^)  | >seal 3 at 14,2%%%(( (+luck abuse to get an extended fireball) ))
+||18      | 8860      | 8950      | (^ ^)   | > 
+||19      | 9140      | ''s''8950 | (^ ^)   | >seal 4 at 5,5
+||20      | 8150      | ''i''8130 | (^ ^)   | >icon at 11,2
+||Special 1| -        | 9200      | (^ ^)   | (4 seals and icon needed). page of time
+||21      | 8990      | ''s''9000 | \(^o^)/ | seal 5 at 11,6%%% (( (+saved a fireball) ))
+||22      | ''rg''45000 | ''rg''45450  | \(^o^)/ | (( (surprise! fireballs don't kill fire) ))
+||23      | 9180      | 9260      | (^ ^)   | wings at 4,12
+||24      | 8880;''½''4660 | 8990;''½''4700 | \(^o^)/  | >(if take icon, next level is fairies)
+||25      | 9300      | 9350      | (^ ^)   | >
+||26      | 9480;''½''4690 | 9560;''½''4720 | (^ ^)    | >
+||27      | 8460      | 8640      | (^ ^)   | >(( (+used a fireball) ))
+||28      | 7270      | 7580      | \(^o^)/ | >(if take icon, next level is fairies)
+||29      | 9250      | ''s''8960 | (^ ^)   | seal 6 at 8,11
+||30      | 7590;''½''3260 | 8120;''½''3490 | \(^o^)/  | (( (I hate this map. But at least I got it 5 seconds faster.) ))
+||31      | 8620      | 8760      | (^ ^);? | wings at 15,12
+||32      | ''d''9980 | 9180      | (^ ^)   | >(if take icon, next level is fairies)%%%(( (I did not use death this time. This method%%% of completion you don't see in walkthroughs!) ))
+||33      | 7840      | ---8050--- 8180  | ＼(◎o◎)／ | > (( (I found an improvement!) ))
+||34      | 8490      | 8510 ---8520--- |  (^ ^) | > ---(( (stupid fairies, they evaded me) ))---
+||35      | 8770      | 8790 ---8840--- | \(-_-)/ | > ((stupid randomness))
+||36      | 7090      | 7400 ---7430--- | \(-_-)/ | >(if take icon, next level is fairies)%%%(( ---(This is a really difficult level to play optimally.%%% I used the fireball. Without using a fireball, I%%% could only get 7290.)--- ))
+||37      | 9130      | 9290 ---9280--- | \(^o^)/ | 
+||38      | 7100      | 7670            | \(^o^)/ | 
+||39      | ''w''8660 | 8870            | \(^o^)/ | wings at 1,7%%% ---(( (No fireball needed!) ))---
+||40      | -         | 9240      | (^ ^)   | >(if take icon, next level is fairies)
+||41      | -         | 8750      | (^ ^)   | >
+||42      | -         | 8720      | \(^o^)/ | > ((got even a fairy… even though I solved the room in a totally wrong way))
+||43      | -         | 8570      | (^ ^)   | >
+||44      | -         | ''i''6060 | (^ ^)   | >icon at 1,5
+||Special 2| -        | 8770      | (^ ^)   | (6 seals and icon needed). page of space
+||45      | 7800      | 7960      | \(^o^)/ | ((lots of really close calls))
+||46      | 8900      | ''s''8600 | \(-_-)/ | seal 7 at 14,1
+||47      | 8950      | ''s''7640 | (・_・?) | seal 8 at 15,1
+||48      | 6860      | 7020      | \(^o^)/ | icon at 5,4
+||---Unscheduled detour--- | |  ---8920---    | ---(・_・?)--- | ---Oops! I wasn't supposed to take the icon in room 48. But I decided to include this room anyway, for completeness :)---
+||Special 3| -        | 7860      | (^ ^)   | (8 seals needed). princess
+||Solomon | 8900      | 8900      | (^ ^)   | 
+''½'' = Used the item that resets clock to 5000%%%
+''g'' = Used the item that multiplies clock value&speed by 5%%%
+''b'' = Took extra time to pick up a blue bottle%%%
+''r'' = Took extra time to pick up a red bottle%%%
+''w'' = Took extra time to pick up a wing%%%
+''i'' = Took extra time to pick up an icon%%%
+''s'' = Took extra time to pick up a seal%%%
+''d'' = Used death%%%
+''''> = skipped if a wing was taken
+
+Interpretation of comments:
+||Comment  ||Meaning
+|(~_~)     |Nothing new here
+|(^ ^)     |Minor optimizations
+|\(^o^)/   |I'm proud of this result
+|＼(◎o◎)／|Totally incredible based on my earlier experience
+|(・_・?)   |Uncertain
+|\(-_-)/   |(Lazily) yay.
+
+28098 re-records so far…
+
+So far, improvements consist of:
+* Better jump accuracy ― there's a certain method of jumping that is really hard to do (it requires frame precision) but which can greatly increase the speed when climbing.
+* New solutions ― things can often be done in different order, taking advantage of monster timing and resources.
+* More collision abuses ― Dana can sometimes pass monsters even in narrow tunnels.
+
+!! Notes
+
+! Resources
+
+There's a very invaluable
+[http://www.gamefaqs.com/console/nes/game/8143.html|FAQ/walkthrough]
+for Solomon's Key.
+
+! Timing weirdness
+
+[3]: It seems like Solomon's Key has a timer that is activated on every fourth
+frame, globally ― not starting from the beginning of the level. This means that
+depending on luck, the first tick of the level clock may be 1‐4 frames long.%%%
+This adds a some uncertainty to 10-unit changes in level completion times.
+
+Also, the Japanese version of this game (ソロモンの鍵) apparently
+has a different, slower timer.%%%
+The record times at
+[http://www.geocities.co.jp/Playtown-Denei/3370/|High level challenge]
+can't possibly apply to the USA version.
