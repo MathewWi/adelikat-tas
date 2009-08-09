@@ -7,7 +7,16 @@ List of all Tool Assisted movies created created by adelikat.
  * [http://tasvideos.org/1281M.html Dragon Egg in 07:36.27 PCE]
  * [http://tasvideos.org/1279M.html Double Dragon 2 in 08:40.13 2 Player, mode b NES]
  * [http://tasvideos.org/1239M.html Earnest Evans in 07:51.48 GENS]
-
+ * [http://tasvideos.org/1239M.html|Karnov in 08:58.50 NES]
+ * [http://tasvideos.org/1184M.html|Trojan in 06:16.73 NES]
+ * [http://tasvideos.org/1155M.html|Super Spy Hunter in 23:38.42 NES] (co-authored with [user:Randil])
+ * [http://tasvideos.org/1151M.html|Batman Begins in 18:34.52 GBA]
+ * [http://tasvideos.org/1118M.html|R.B.I. Baseball in 04:29.23 NES "playaround"]
+ * [http://tasvideos.org/1104M.html|Duck Tales 2 in 08:45.82 NES]
+ * [1098M|Contra - The Hard Corps GENS]
+ * [1097M|Contra - The Hard Corps "secret ending" GENS]
+ * [1057M|Ninja Gaiden SMS]
+ * [1059M|Super Mario Bros. 3 "warpless" NES] (co-authored with [user:Cardboard], [user:Deign], and [user:JXQ])
 * [425M|Cobra Triangle NES]
 * [519M|Dragon Warrior 4 NES]
 * [531M|Wrath of the Black Manta NES]
@@ -33,16 +42,16 @@ List of all Tool Assisted movies created created by adelikat.
 * [1013M|River City Ransom 2-player "All Aspects" NES] (co-authored with [user:JXQ])
 * [1025M|Beavis and Butt-head GENS]
 * [1039M|Tecmo Super Bowl NES]
-* [1059M|Super Mario Bros. 3 "warpless" NES] (co-authored with [user:Cardboard], [user:Deign], and [user:JXQ])
-* [1057M|Ninja Gaiden SMS]
-* [1097M|Contra - The Hard Corps "secret ending" GENS]
-* [1098M|Contra - The Hard Corps GENS]
-* [1104M|Duck Tales 2 NES]
-* [1118M|R.B.I. Baseball NES "playaround"]
-* [1151M|Batman Begins GBA]
-* [1155M|Super Spy Hunter NES] (co-authored with [user:Randil])
-* [1184M|Trojan NES]
-* [1225M|Karnov NES]
+
+
+
+
+
+
+
+
+
+
 
 
 
