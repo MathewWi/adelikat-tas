@@ -1,47 +1,51 @@
 List of all Tool Assisted movies created created by adelikat.
 
 ==Currently Published movies==
- * Count: 39
+ * Count: 43
 
+ * [http://tasvideos.org/1337M.html Akumajou Special - Boku Dracula-kun NES] (co-authored with Randil, aruKado, and DarkKobold]
+ * [http://tasvideos.org/1335M.html Castlevania - Rondo of Bood PCE] (co-authored with aruKado and paul_t)
+ * [http://tasvideos.org/1331M.html Super Mario Bros. "warpless" NES] (co-authored with klmz and andrewg]
+ * [http://tasvideos.org/1323M.html Transformers NES]
  * [http://tasvideos.org/1283M.html New Super Mario Bros in 26:27.5 DS]
  * [http://tasvideos.org/1281M.html Dragon Egg in 07:36.27 PCE]
  * [http://tasvideos.org/1279M.html Double Dragon 2 in 08:40.13 2 Player, mode b NES]
  * [http://tasvideos.org/1239M.html Earnest Evans in 07:51.48 GENS]
- * [http://tasvideos.org/1239M.html|Karnov in 08:58.50 NES]
- * [http://tasvideos.org/1184M.html|Trojan in 06:16.73 NES]
- * [http://tasvideos.org/1155M.html|Super Spy Hunter in 23:38.42 NES] (co-authored with [user:Randil])
- * [http://tasvideos.org/1151M.html|Batman Begins in 18:34.52 GBA]
- * [http://tasvideos.org/1118M.html|R.B.I. Baseball in 04:29.23 "playaround" NES]
- * [http://tasvideos.org/1104M.html|Duck Tales 2 in 08:45.82 NES]
- * [http://tasvideos.org/1098M.html|Contra: The Hard Corps in 14:11.9 GENS]
- * [http://tasvideos.org/1097M.html|Contra: The Hard Corps in 04:57.28 "secret ending" GENS]
- * [http://tasvideos.org/1057M.html|Ninja Gaiden in 15:04.25 SMS]
- * [http://tasvideos.org/1059M.html|Super Mario Bros. 3 in 47:33.52 "warpless" NES] (co-authored with [user:Cardboard], [user:Deign], and [user:JXQ])
- * [http://tasvideos.org/1039M.html|Tecmo Super Bowl in 11:05.02 "playaround" NES]
- * [http://tasvideos.org/1025M.html|Beavis and Butt-head in 09:27.03 GENS]
- * [http://tasvideos.org/1013M.html|River City Ransom 2-player "playaround" in 12:55.38  NES] (co-authored with [user:JXQ])
- * [http://tasvideos.org/1002M.html|Super Mario Bros. 2 USA "Warped" in 07:52.67 NES] (co-authored with [user:Cardboard])
- * [http://tasvideos.org/1001M.html|Super Mario Bros. 2 USA "Warpless" in 19:39.93 NES] (co-authored with [user:Cardboard])
- * [http://tasvideos.org/976M.html|Super Mario Bros. 2 USA "Princess only" in 08:29.57 NES]
- * [http://tasvideos.org/962M.html|Glover in 37:15.28 N64]
- * [http://tasvideos.org/917M.html|Teenage Mutant Ninja Turtles in 16:33.50 NES]
- * [http://tasvideos.org/915M.html|Midnight Resistance GENS]
- * [http://tasvideos.org/913M.html|Marble Madness NES] (co-authored with [user:Deign])
- * [http://tasvideos.org/890M.html|Holy Diver NES] (co-authored with [user:Vatchern])
- * [http://tasvideos.org/881M.html|Mercs GENS]
- * [http://tasvideos.org/864M.html|Operation C GB]
- * [http://tasvideos.org/830M.html|Super C NES ] 2 Player (co-authored with [user:Baxter])
- * [http://tasvideos.org/797M.html|Contra NES] 2 Player
- * [http://tasvideos.org/774M.html|Jaws NES]
- * [http://tasvideos.org/766M.html|Mike Tyson's Punch-Out!! NES]
- * [http://tasvideos.org/756M.html|Contra - Pacifist NES]
- * [http://tasvideos.org/734M.html|Zanac NES]
- * [http://tasvideos.org/711M.html|Gradius NES]
- * [http://tasvideos.org/688M.html|Whomp 'Em NES]
- * [http://tasvideos.org/532M.html|Flintstones NES] (co-authored with [user:Guybrush])
- * [http://tasvideos.org/531M.html|Wrath of the Black Manta NES]
- * [http://tasvideos.org/519M.html|Dragon Warrior 4 NES]
- * [http://tasvideos.org/425M.html|Cobra Triangle NES]
+ * [http://tasvideos.org/1239M.html Karnov in 08:58.50 NES]
+ * [http://tasvideos.org/1184M.html Trojan in 06:16.73 NES]
+ * [http://tasvideos.org/1155M.html Super Spy Hunter in 23:38.42 NES] (co-authored with [user:Randil])
+ * [http://tasvideos.org/1151M.html Batman Begins in 18:34.52 GBA]
+ * [http://tasvideos.org/1118M.html R.B.I. Baseball in 04:29.23 "playaround" NES]
+ * [http://tasvideos.org/1104M.html Duck Tales 2 in 08:45.82 NES]
+ * [http://tasvideos.org/1098M.html Contra: The Hard Corps in 14:11.9 GENS]
+ * [http://tasvideos.org/1097M.html Contra: The Hard Corps in 04:57.28 "secret ending" GENS]
+ * [http://tasvideos.org/1057M.html Ninja Gaiden in 15:04.25 SMS]
+ * [http://tasvideos.org/1059M.html Super Mario Bros. 3 in 47:33.52 "warpless" NES] (co-authored with [user:Cardboard], [user:Deign], and [user:JXQ])
+ * [http://tasvideos.org/1039M.html Tecmo Super Bowl in 11:05.02 "playaround" NES]
+ * [http://tasvideos.org/1025M.html Beavis and Butt-head in 09:27.03 GENS]
+ * [http://tasvideos.org/1013M.html River City Ransom 2-player "playaround" in 12:55.38  NES] (co-authored with [user:JXQ])
+ * [http://tasvideos.org/1002M.html Super Mario Bros. 2 USA "Warped" in 07:52.67 NES] (co-authored with [user:Cardboard])
+ * [http://tasvideos.org/1001M.html Super Mario Bros. 2 USA "Warpless" in 19:39.93 NES] (co-authored with [user:Cardboard])
+ * [http://tasvideos.org/976M.html Super Mario Bros. 2 USA "Princess only" in 08:29.57 NES]
+ * [http://tasvideos.org/962M.html Glover in 37:15.28 N64]
+ * [http://tasvideos.org/917M.html Teenage Mutant Ninja Turtles in 16:33.50 NES]
+ * [http://tasvideos.org/915M.html Midnight Resistance in 10:48.40 GENS]
+ * [http://tasvideos.org/913M.html Marble Madness in 02:48.40 NES] (co-authored with [user:Deign])
+ * [http://tasvideos.org/890M.html Holy Diver in 14:52.57 NES] (co-authored with [user:Vatchern])
+ * [http://tasvideos.org/881M.html Mercs in 09:52.90 GENS]
+ * [http://tasvideos.org/864M.html Operation C in 10:53.35 GB]
+ * [http://tasvideos.org/830M.html Super C in 12:20.02 NES ] 2 Player (co-authored with [user:Baxter])
+ * [http://tasvideos.org/797M.html Contra in 08:57.98 NES] 2 Player
+ * [http://tasvideos.org/774M.html Jaws in 03:36.48 NES]
+ * [http://tasvideos.org/766M.html Mike Tyson's Punch-Out!! in 17:50.0 NES]
+ * [http://tasvideos.org/756M.html Contra - Pacifist in  NES]
+ * [http://tasvideos.org/734M.html Zanac in NES]
+ * [http://tasvideos.org/711M.html Gradius in NES]
+ * [http://tasvideos.org/688M.html Whomp 'Em in NES]
+ * [http://tasvideos.org/532M.html Flintstones in NES] (co-authored with [user:Guybrush])
+ * [http://tasvideos.org/531M.html Wrath of the Black Manta in NES]
+ * [http://tasvideos.org/519M.html Dragon Warrior 4 in NES]
+ * [http://tasvideos.org/425M.html Cobra Triangle in NES]
 
 
 
