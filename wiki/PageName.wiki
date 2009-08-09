@@ -1,3 +1,17 @@
 =Completed projects=
 
 TAS projects completed since the creation of this SVN.
+
+----
+==NES Super Mario Bros.==
+[http://dl-client.getdropbox.com/u/75355/HostedImages/FullSMB32.png]
+
+Team members: adelikat, andrewg, klmz
+
+Done! Go and see: [http://tasvideos.org/2361S.html adelikat, andrewg, and klmz's NES Super Mario Bros "Warpless" in 18:44.50]
+
+----
+==NES Boku Dracula-kun==
+[http://dl-client.getdropbox.com/u/75355/HostedImages/bokudrak.png]
+
+Done! Go and see: [http://tasvideos.org/2359S.html adelikat, Randil, ArukAdo, DarkKobold's NES Akumajou Special - Boku Dracula-kun in 19:49.12]
