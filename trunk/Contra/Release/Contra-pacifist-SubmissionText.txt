@@ -8,38 +8,38 @@ I recommend downloading the [http://code.google.com/p/adelikat-tas/downloads/lis
 
 This package includes:
 * The movie file & this submission text
-* Savestates for every level (Windows users can just drag & drop them onto the emulator to view any level in any order)
+* Savestates for every area (Windows users can just drag & drop them onto the emulator to view any area in any order)
 * A spreadsheet showing frame comparisons to my previous movie
 * 2 memory watch files that were used in the making of my contra TAS movies.
-* A /Fails folder demonstrating the two ideas I had for improving the stage 3 boss/Stage 4 using the spread gun and how the end up being slower.
+* A /Fails folder demonstrating the two ideas I had for improving the area 3 boss/area 4 using the spread gun and how the end up being slower.
 
-I started this improvement in March of 2007, shortly after finishing my [797M|2-player] version of the game.  While doing the 2-player version I had found one extra place to do the "Jumping glitch" in Level 3 (explained in Level by Level).  This would save 60 frames in the pacifist version.  I redid my published movie (starting from that spot in the movie) and got to the boss 62 frames faster.  However, I got an idea that might improve the movie further by trying to use the spread gun on the level 3 boss & level 4.  The idea was difficult to test and caused me to lose motivation and ultimately abandon the movie.  This summer I created my adelikat-TAS SVN.  In the process I began uploading all my old unfinished works.  This led me to tinkering with this movie again and regaining my motivation.
+I started this improvement in March of 2007, shortly after finishing my [797M|2-player] version of the game.  While doing the 2-player version I had found one extra place to do the "Jumping glitch" in area 3 (explained in Area by Area).  This would save 60 frames in the pacifist version.  I redid my published movie (starting from that spot in the movie) and got to the boss 62 frames faster.  However, I got an idea that might improve the movie further by trying to use the spread gun on the area 3 boss & area 4.  The idea was difficult to test and caused me to lose motivation and ultimately abandon the movie.  This summer I created my adelikat-TAS SVN.  In the process I began uploading all my old unfinished works.  This led me to tinkering with this movie again and regaining my motivation.
 
 ! Fails
 
-* Idea 1: Get the spread gun in level 3 and use it through level 4
-**Pros: Beats the level 3 boss 290 frames faster
-**Pros: It is indeed possibly to do the "single stream" srpead technique in level 4 while still not harming enemies, with only minor losses in frames.
+* Idea 1: Get the spread gun in area 3 and use it through area 4
+**Pros: Beats the area 3 boss 290 frames faster
+**Pros: It is indeed possibly to do the "single stream" spread technique in area 4 while still not harming enemies, with only minor losses in frames.
 **Cons: A lot of time is lost on the first screen setting up the spread optimizing (about 50 frames)
 **Cons: Time is lost by having to avoid killing enemies with the constant stream of bullets
-**Cons: The real problem comes from not having a R upgrade (which causes bullets to be faster).  An R upgraded regular weapon is superior to a spread gun that is not R upgraded.  Therefore in this scenario, the 290 frames saved on the level 3 boss will be lost by the end of stage 4.
+**Cons: The real problem comes from not having an R upgrade (which causes bullets to be faster).  An R upgraded regular weapon is superior to a spread gun that is not R upgraded.  Therefore in this scenario, the 290 frames saved on the area 3 boss will be lost by the end of area 4.
 
 
-* Idea 2: Get the spread gun, beat the level 3 boss but die just as the last shot is delivered to the boss
-* Pros: It is possible to have enough extra lives and still do this by shooting and getting all the weapon upgrades in stage 5
+* Idea 2: Get the spread gun.  Then beat the area 3 boss, but die just as the last shot is delivered to the boss.
+* Pros: It is possible to have enough extra lives and still do this by shooting and getting all the weapon upgrades in area 5
 * Pros: Avoids the losses due to having a spread gun
-* Cons: Again, the lack of the R ugrade.  This casues about a 20 frame lost for each turret needed to be shot.  This adds up to well over the 290 frames saved by using the spread gun on the level 3 boss. 
+* Cons: Again, the lack of the R ugrade.  This casues about a 20 frame lost for each turret needed to be shot.  This adds up to well over the 290 frames saved by using the spread gun on the area 3 boss. 
 
 
 ! Misc. notes
 
-! Level by Level
+! Area by Area
 
-* Stage 1 & 2
+* Area 1 & 2
 
 No change from the published movie
 
-* Stage 3
+* Area 3
 
 Total improvement: 91 frames
 
@@ -53,39 +53,43 @@ This is a glitch that takes advantage of the vertical screen scrolling.  By movi
 
 The glitch can also be used to shorten the distance you jump slightly.  This is done to make sure to land on platforms 1 frame sooner than you would otherwise.
 
-* Stage 4
+* Area 4
 
 Total improvement: 25 frames
 
-3 frames were improved in room 2 with a bit of input trickery.  22 frames were saved with an altered strategy on the 3 icons at the beginning of the stage 4 boss.
+3 frames were improved in room 2 with a bit of input trickery.  22 frames were saved with an altered strategy on the 3 icons at the beginning of the area 4 boss.
 
-* Stage 5
+* Area 5
 
 Total improvement: 58 frames
 
 Nearly all of these frames come from an improved boss fight.  I used a strategy of jumping while delivering the shots.  This was originally pointed out by Truncated in my previous submission.
 
-* Stage 6
+* Area 6
 
 Total improvement: -12 frames
 
 Murphy's Law of TAS:  If a game is afflicted with unmanipuatable randomness any improvement to a TAS will result in worse randomness.
 
-The stage 6 flames and the stage 7 claws both are random and determined by a global timer:  001A.  This timer counts 0-255 and runs continuosly while the game is running.  Therefore, it is not manipulatable.
+The area 6 flames and the area 7 claws both are random and determined by a global timer:  001A.  This timer counts 0-255 and runs continuosly while the game is running.  Therefore, it is not manipulatable.
 
-In both stage 6 and stage 7 I got wrose randomness than my previous movie; resulting in lost time.
+In both area 6 and area 7 I got wrose randomness than my previous movie; resulting in lost time.
 
-In stage 6 the time lost was greater than any time I gained.  SO my net time was 12 frames slower than the published movie.
+In area 6 the time lost was greater than any time I gained.  So my net time was 12 frames slower than the published movie.
 
 I lost time on 2 of the flames which cost 47 frames.  I gained 32 frames on the boss.  I gained a few frames here and there in addition to that.
 
-* Stage 7
+* Area 7
 
-Total improvement:  
+Total improvement:  76 frames
 
-* Stage 8
+I lost some frames due to worse claw randomness but also got some better randomness too (I think a net loss overall).  I found a number of time savers by using better strategies dealing with the claw sections.
 
-Total improvement: 
+* Area 8
+
+Total improvement: 7 frames
+
+Improvements here come from 1 less jump, and very marginal improvements to the 2 bosses.
 
 ! Summary
 
