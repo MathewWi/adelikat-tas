@@ -4,7 +4,7 @@ Disclaimer:  No aliens were harmed in the making of this TAS
 
 This is an improvement of 245 frames over my previous [756M|Contra pacifist movie].
 
-I reccomend downloading the link: release package from *link to my svn|TAS SVN].
+I recommend downloading the [http://code.google.com/p/adelikat-tas/downloads/list|release package] from my [http://code.google.com/p/adelikat-tas/|TAS SVN].
 
 This package includes:
 * The movie file & this submission text
@@ -17,9 +17,75 @@ I started this improvement in March of 2007, shortly after finishing my [797M|2-
 
 ! Fails
 
+* Idea 1: Get the spread gun in level 3 and use it through level 4
+**Pros: Beats the level 3 boss 290 frames faster
+**Pros: It is indeed possibly to do the "single stream" srpead technique in level 4 while still not harming enemies, with only minor losses in frames.
+**Cons: A lot of time is lost on the first screen setting up the spread optimizing (about 50 frames)
+**Cons: Time is lost by having to avoid killing enemies with the constant stream of bullets
+**Cons: The real problem comes from not having a R upgrade (which causes bullets to be faster).  An R upgraded regular weapon is superior to a spread gun that is not R upgraded.  Therefore in this scenario, the 290 frames saved on the level 3 boss will be lost by the end of stage 4.
+
+
+* Idea 2: Get the spread gun, beat the level 3 boss but die just as the last shot is delivered to the boss
+* Pros: It is possible to have enough extra lives and still do this by shooting and getting all the weapon upgrades in stage 5
+* Pros: Avoids the losses due to having a spread gun
+* Cons: Again, the lack of the R ugrade.  This casues about a 20 frame lost for each turret needed to be shot.  This adds up to well over the 290 frames saved by using the spread gun on the level 3 boss. 
+
+
 ! Misc. notes
 
 ! Level by Level
+
+* Stage 1 & 2
+
+No change from the published movie
+
+* Stage 3
+
+Total improvement: 91 frames
+
+I used the "jump glitch" one more time to save 60 frames.  I used the "anti-jump glich" twice to save 2 additional frames.  I fixed a logic flaw in the boss fight resulting in 29 more frames.  The error was jumping up and shooting the first 4 bullets at the peak of a jump.  The correct logic is to shoot them from the ground and then jump and shoot the 2nd "round" at the peak of a jump.  I nor anyone that watched the published movie ever noticed this error.
+
+** The jump glitch
+
+This is a glitch that takes advantage of the vertical screen scrolling.  By moving left then right while jumping up, it is possible to jump a greater distance than usual, resulting in landing on platforms that would normally be impossible.  Each time this is done, it saves the time it takes to make 1 jump; which is 60 frames.
+
+** The anti-jump glitch
+
+The glitch can also be used to shorten the distance you jump slightly.  This is done to make sure to land on platforms 1 frame sooner than you would otherwise.
+
+* Stage 4
+
+Total improvement: 25 frames
+
+3 frames were improved in room 2 with a bit of input trickery.  22 frames were saved with an altered strategy on the 3 icons at the beginning of the stage 4 boss.
+
+* Stage 5
+
+Total improvement: 58 frames
+
+Nearly all of these frames come from an improved boss fight.  I used a strategy of jumping while delivering the shots.  This was originally pointed out by Truncated in my previous submission.
+
+* Stage 6
+
+Total improvement: -12 frames
+
+Murphy's Law of TAS:  If a game is afflicted with unmanipuatable randomness any improvement to a TAS will result in worse randomness.
+
+The stage 6 flames and the stage 7 claws both are random and determined by a global timer:  001A.  This timer counts 0-255 and runs continuosly while the game is running.  Therefore, it is not manipulatable.
+
+In both stage 6 and stage 7 I got wrose randomness than my previous movie; resulting in lost time.
+
+In stage 6 the time lost was greater than any time I gained.  SO my net time was 12 frames slower than the published movie.
+
+I lost time on 2 of the flames which cost 47 frames.  I gained 32 frames on the boss.  I gained a few frames here and there in addition to that.
+
+* Stage 7
+
+Total improvement:  
+
+* Stage 8
+
+Total improvement: 
 
 ! Summary
 

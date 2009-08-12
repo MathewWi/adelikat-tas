@@ -1,8 +1,8 @@
 version 3
-emuVersion 9816
+emuVersion 21010
 rerecordCount 15434
 palFlag 0
-romFilename Gryzor (J)
+romFilename Contra (J)
 romChecksum base64:0wbFTM/fXLT47FiPGbPjPQ==
 guid 6031304D-F4AB-7C91-F0E2-FB6ADDF548A7
 fourscore 0
@@ -10,6 +10,11 @@ port0 1
 port1 1
 port2 0
 comment author  adelikat
+comment Version v3
+comment Category pacifist
+comment Goals Primary: Does not kill nor harm any enemy not required to complete the game
+comment Goals Secondary: Aims for fastest time
+comment Improvement 245 frames
 |2|........|........||
 |0|........|........||
 |0|........|........||
