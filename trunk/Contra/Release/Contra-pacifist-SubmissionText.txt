@@ -1,0 +1,30 @@
+Disclaimer:  No aliens were harmed in the making of this TAS
+
+! Introduction
+
+This is an improvement of 245 frames over my previous [756M|Contra pacifist movie].
+
+I reccomend downloading the link: release package from *link to my svn|TAS SVN].
+
+This package includes:
+* The movie file & this submission text
+* Savestates for every level (Windows users can just drag & drop them onto the emulator to view any level in any order)
+* A spreadsheet showing frame comparisons to my previous movie
+* 2 memory watch files that were used in the making of my contra TAS movies.
+* A /Fails folder demonstrating the two ideas I had for improving the stage 3 boss/Stage 4 using the spread gun and how the end up being slower.
+
+I started this improvement in March of 2007, shortly after finishing my [797M|2-player] version of the game.  While doing the 2-player version I had found one extra place to do the "Jumping glitch" in Level 3 (explained in Level by Level).  This would save 60 frames in the pacifist version.  I redid my published movie (starting from that spot in the movie) and got to the boss 62 frames faster.  However, I got an idea that might improve the movie further by trying to use the spread gun on the level 3 boss & level 4.  The idea was difficult to test and caused me to lose motivation and ultimately abandon the movie.  This summer I created my adelikat-TAS SVN.  In the process I began uploading all my old unfinished works.  This led me to tinkering with this movie again and regaining my motivation.
+
+! Fails
+
+! Misc. notes
+
+! Level by Level
+
+! Summary
+
+* Pacifist (no killing or harming enemies unless it is requires to comlete the game)
+* Aims for fastest time
+* Manipulates luck
+* Genre: Shooter
+* Emulator: FCEUX 2.1.1 (Actually it was started originally in FCEU 0.98.16)
