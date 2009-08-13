@@ -1,9 +1,9 @@
-Adelikat: 22
+Adelikat: 23
 Baxter: 5 
 Cardboard: 3
 CtrlAltDestroy: 3
 Randil: 2 
-Tompa: 30
+Tompa: 31
 
 
 Level
@@ -51,7 +51,7 @@ Level
 41. CtrlAltDestroy 
 42. Tompa/Adelikat
 43. Adelikat
-44. 
+44. Adelikat/Tompa
 45. 
 46. 
 47. 
