@@ -6,9 +6,9 @@
 --**********************************************
 local players= 4
 
-local selectplayer = "tab"   -- For selecting which player
-local recordingtype= "space" -- For selecting how to record
-local key = {"right", "left", "down", "up",   "L",      "O",   "J", "K"}
+local selectplayer = "home"   -- For selecting which player
+local recordingtype= "end" -- For selecting how to record
+local key = {"right", "left", "down", "up", "enter", "M", "comma", "period"}
 local btn = {"right", "left", "down", "up", "start", "select", "B", "A"}
 -- Don't change btn, unless it's to adjust the spacing to keep it neat.
 --**********************************************
