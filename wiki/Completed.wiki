@@ -2,13 +2,18 @@
 
 TAS projects completed since the creation of this SVN.
 
+==Contra Pacifist==
+[http://dl-client.getdropbox.com/u/75355/HostedImages/ContraPacifist.png]
+
+Published!  Go and see: [http://tasvideos.org/1345M.html Contra "Pacifist" in 09:41.36]
+
 ----
 ==NES Super Mario Bros.==
 [http://dl-client.getdropbox.com/u/75355/HostedImages/FullSMB32.png]
 
 Team members: adelikat, andrewg, klmz
 
-Done! Go and see: [http://tasvideos.org/2361S.html adelikat, andrewg, and klmz's NES Super Mario Bros "Warpless" in 18:44.50]
+Published! Go and see: [http://tasvideos.org/1331M.html adelikat, andrewg, and klmz's NES Super Mario Bros "Warpless" in 18:44.50]
 
 ----
 ==NES Boku Dracula-kun==
