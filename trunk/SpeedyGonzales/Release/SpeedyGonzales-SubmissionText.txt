@@ -1,4 +1,4 @@
-If there is any character worthy of a _speed_ run it is Speedy Gonzalez!
+If there is any character worthy of a _speed_ run it is Speedy Gonzales!
 
 Also, no JXQ isn't back.  He started this TAS some years ago and got to the end of 2-1.  I decided to finish where he left off.
 
@@ -7,7 +7,7 @@ As always, I recommend downloading my [http://code.google.com/p/adelikat-tas/dow
 ! Noteworthy Game Physics
 
 *Super Speed
-**Obviously the TAS maker of this game is the Arrows, as they vault Speedy into Speedy Gonzalez worthy speeds.
+**Obviously the TAS maker of this game is the Arrows, as they vault Speedy into Speedy Gonzales worthy speeds.
 **When at super speeds, if speedy presses the opposite direction for even one frame, his speed is immediately reset to normal speed.
 *Downhill walking
 **When at normal speed being on a downhill floor for any length of time will boost Speedy's speed from 384 to 416 until he presses the opposite direction or walks on an uphill floor.
