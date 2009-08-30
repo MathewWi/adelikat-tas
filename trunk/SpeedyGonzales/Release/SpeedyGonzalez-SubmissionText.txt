@@ -2,6 +2,8 @@ If there is any character worthy of a _speed_ run it is Speedy Gonzalez!
 
 Also, no JXQ isn't back.  He started this TAS some years ago and got to the end of 2-1.  I decided to finish where he left off.
 
+As always, I recommend downloading my [http://code.google.com/p/adelikat-tas/downloads/list|release package] as it includes the movie file as well as other accessories such as level savestates, memory watch files, spreadsheets, etc.
+
 ! Noteworthy Game Physics
 
 *Super Speed
