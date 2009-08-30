@@ -1,0 +1,25 @@
+Comparing to the previous movie will be VERY difficult here.  For one thing, this movie will probably be longer than the previous.
+
+The famtasia emulator emulated the load times much too short.  Therefore the new movie with FCEUX's accurate load times will be significantly longer.
+
+With famtasia, I can not get accurate frame counts, but even if I could, they would have to be based on the level I am in only, since load times will obscure the actual frame counts.
+
+For convenience, I am basing improvements off the avi in virtual dub, which should be somewhat accurate in terms of frame counts.  I will compare some point in the beginning of the level to some point at the end.
+
+One more obstacle, what are these levels called?  There is no room number or any other indicator that I can tell, so I will use my best description.
+
+Given these circumstances, my calculations maybe somewhat off.
+
+About step calculations.  For my steps I am using a step counter lua script provided in the SVN.  For bag's I am...just trying to count them, so expect that number to be potentially off slightly.
+
+Improvements
+
+The level after the 1st room entrance glitch, about frame 8468 in my movie
+Comparing from when lolo turns after walking out of the medusa to when the screen scrolls.
+mine: 9829 - 8514 = 1315
+bag:  9494 - 8098 = 1396
+81 frames
+
+I walked 87 steps, bag walked 83.
+
+Better strategy for handling the red rolling enemy thing at the bottom of the screen.
