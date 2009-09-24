@@ -23,3 +23,5 @@ bag:  9494 - 8098 = 1396
 I walked 87 steps, bag walked 83.
 
 Better strategy for handling the red rolling enemy thing at the bottom of the screen.
+
+Room at about 29000 (my movie), going a better route to the key, about 96 frames
