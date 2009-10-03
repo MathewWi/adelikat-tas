@@ -24,4 +24,7 @@ I walked 87 steps, bag walked 83.
 
 Better strategy for handling the red rolling enemy thing at the bottom of the screen.
 
-Room at about 29000 (my movie), going a better route to the key, about 96 frames
+Room at about 29000 (my movie), going a better route to the key, about 16 frames
+
+Room at about 30000, 6 frames saved from frame optimizations
+
