@@ -28,3 +28,5 @@ Room at about 29000 (my movie), going a better route to the key, about 16 frames
 
 Room at about 30000, 6 frames saved from frame optimizations
 
+Room at about 40000, 16 frames saved from better enemy manipulation
+
