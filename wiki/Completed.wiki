@@ -2,6 +2,11 @@
 
 TAS projects completed since the creation of this SVN.
 
+==GBC Speedy Gonzalez==
+http://dl.getdropbox.com/u/75355/HostedImages/speedy-screenshot.png
+
+Published! Go and see: [http://tasvideos.org/1369M.html Speedy Gonzales in 30:17.50]
+
 ==Contra Pacifist==
 [http://dl-client.getdropbox.com/u/75355/HostedImages/ContraPacifist.png]
 
