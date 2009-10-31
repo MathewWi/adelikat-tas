@@ -1,5 +1,5 @@
 version 3
-emuVersion 9815
+emuVersion 20102
 rerecordCount 4196
 palFlag 0
 romFilename Eggerland
@@ -9,7 +9,16 @@ fourscore 0
 port0 1
 port1 1
 port2 0
-comment author  blah blah
+comment Author  adelikat
+comment Version 1
+comment Previous http://tasvideos.org/207M.html
+comment Improvements _
+comment 81-frames Room at about frame 9k.  Saved 4 steps with better enemy manipulation
+comment 16-frames Room at about 29k.  Better route to the key.
+comment 6-frames Room at about 30k.  Minor optimization.
+comment 16-frames Room at about 40k.  Better enemy manipulation.
+comment various Minor 1-2 frame improvements here and there due to the having the advantage of frame advance.
+
 |2|........|........||
 |0|........|........||
 |0|........|........||
