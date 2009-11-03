@@ -1,18 +1,23 @@
 [module:ActiveTab|tab=b8]
 [http://dl-client.getdropbox.com/u/75355/HostedImages/bombcrag.png|left]
+
+
 [user:adelikat]
 
-Another famtasia movie bites the dust!
+Another [http://tasvideos.org/forum/viewtopic.php?t=3365|famtasia movie] bites the dust!
 
 As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my SVN.  
 It includes the movie file, submission text, screenshots, a spreadsheet, and a lua script.
 
+__Important!__  This movie must be played on FCEUX2.1.2.  Prior versions do not support the recording of disk ejecting/switching inserting.
+
+
 Dailymotion link
 
 ! Possible screenshots
-[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss1.png]
-[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss2.png]
-[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss3.png]
+[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss1.png|left]
+[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss2.png|middle]
+[http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss3.png|right]
 
 (Note to publishers, these are already optimized)
 
