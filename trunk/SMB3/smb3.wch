@@ -10,7 +10,7 @@
 00007	00CF	b	s	0	Y Speed
 00008	0087	b	s	0	Y Level 2nd
 00009	00A2	b	s	0	Y Level
-0000A	075F	b	s	0	Y Subpix
+0000A	075F	b	u	0	Y Subpix
 0000B	0001	b	s	0	______________________
 0000C	03DD	b	s	0	P Meter
 0000D	056E	b	s	0	P Kill Counter
