@@ -1,8 +1,8 @@
 
 24
 00000	00BD	b	s	0	X Speed
-00001	0090	b	s	0	X Level
-00002	0075	b	u	0	X Level 2nd
+00001	0075	b	u	0	X Level 2nd
+00002	0090	b	u	0	X Level
 00003	074D	b	u	0	X Subpix
 00004	00FD	b	u	0	X Camera
 00005	00AB	b	u	0	X Screen
