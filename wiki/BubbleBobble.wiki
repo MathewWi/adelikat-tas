@@ -1,11 +1,11 @@
 ==Contributers==
-* adelikat 50
-* Baxter 5
-* Cardboard 3
-* CtrlAltDestroy 4
-* Randil 2
-* Tompa 51
-* Bablo 10
+ * adelikat 50
+ * Baxter 5
+ * Cardboard 3
+ * CtrlAltDestroy 4
+ * Randil 2
+ * Tompa 51
+ * Bablo 10
 
 
 ==Level== 
