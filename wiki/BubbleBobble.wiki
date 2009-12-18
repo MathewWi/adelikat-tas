@@ -1,10 +1,10 @@
 ==Contributers==
- * adelikat 50
- * Baxter 5
+ * adelikat 51
+ * Baxter 6
  * Cardboard 3
  * CtrlAltDestroy 4
  * Randil 2
- * Tompa 51
+ * Tompa 53
  * Bablo 10
 
 
@@ -90,4 +90,6 @@
  * 79 Bablo
  * 80 Bablo
  * 81 Bablo
- * 82 Bablo
+ * 82 Bablo/Tompa
+ * 83 adelikat/Tompa
+ * 84 Baxter
