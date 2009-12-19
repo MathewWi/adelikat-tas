@@ -4,7 +4,7 @@
  * Cardboard 3
  * CtrlAltDestroy 4
  * Randil 2
- * Tompa 54
+ * Tompa 56
  * Bablo 10
 
 
@@ -81,8 +81,8 @@
  * 70 Bablo
  * 71 Bablo/Tompa
  * 72 Bablo/Tompa
- * 73 adelikat
- * 74 adelikat
+ * 73 adelikat/Tompa
+ * 74 adelikat/Tompa
  * 75 adelikat/Tompa
  * 76 adelikat/Tompa
  * 77 adelikat/Bablo
@@ -92,5 +92,6 @@
  * 81 Bablo
  * 82 Bablo/Tompa
  * 83 adelikat/Tompa
- * 84 Baxter
+ * 84 Baxter/Tompa
  * 85 Tompa
+ * 86 Bablo
