@@ -2,6 +2,20 @@
 
 TAS projects completed since the creation of this SVN.
 
+==PCE Castlevania: Rondo of Blood===
+[http://dl-client.getdropbox.com/u/75355/HostedImages/MednafenPic.png]
+*Team members: adelikat, aruKado, and paul_t*
+
+This project is held on a separate [http://code.google.com/p/rondoofblood/ project page]
+
+Published movies:
+
+ * [http://tasvideos.org/1435M.html Maria any% v2] - adelikat, arukAdo
+ * [http://tasvideos.org/1413M.html 100%/Best ending] - adelikat, arukAdo
+ * [http://tasvideos.org/1335M.html Maria any% v1] - adelikat, arukAdo, paul_t
+ * [http://tasvideos.org/1341M.html Any% (Richter)] - arukAdo
+ * [http://tasvideos.org/2311S.html Richter regular stages] - arukAdo
+
 ==FDS Eggerland==
 http://dl.getdropbox.com/u/75355/HostedImages/adelikat-eggerland-ss3.png
 
