@@ -1,4 +1,8 @@
 2
-2
-00000	00FF847E	w	u	0	Camera X
-00001	00FFA322	w	u	0	Level X
+6
+00000	00FFA322	w	u	0	X Level
+00001	00FFA324	b	u	0	X Subpixel
+00002	00FF847E	w	u	0	X Camera
+00003	00FFA32A	w	u	0	X Screen
+00004	00FFA31B	b	s	0	X Pixel Speed
+00005	00FF848E	w	u	0	Y Level
