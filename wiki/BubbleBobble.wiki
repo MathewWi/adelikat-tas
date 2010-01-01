@@ -5,7 +5,7 @@
  * CtrlAltDestroy 4
  * Randil 2
  * Tompa 57
- * Bablo 10
+ * Bablo 11
 
 
 ==Level== 
@@ -96,7 +96,7 @@
  * 85 Tompa
  * 86 Bablo/Tompa
  * 87 adelikat
- * 88
+ * 88 Bablo
  * 89
  * 90
  * 91
