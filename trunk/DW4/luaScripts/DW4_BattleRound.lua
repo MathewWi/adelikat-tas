@@ -4,7 +4,7 @@ Turn = 0x96;
 
 
 
-
+attempts = 0;
 CHECK = savestate.create();
 local buttonmap = {[1]='up',[2]='down',[4]='left',[8]='right',[16]='A',[32]='B',[64]='start',[128]='select'} 
 
@@ -22,6 +22,7 @@ savestate.save(CHECK);
 while not done do
 --7076 to 7201 
 	savestate.load(CHECK);
+	for i = 1,3,1 do
 	control = math.random(0,255);
 	for bit,button in pairs(buttonmap) do
     		if AND(control,bit) ~= 0 then
@@ -29,9 +30,25 @@ while not done do
       		else
       			key1[button]=false;
 	    	end    
-  		end
+  		end  		
   		joypad.set(1,key1) 
-  		for i = 1,15,1 do   	  	
+  		FCEU.frameadvance();  
+  		end
+  		for i = 1,117,1 do
+  	    FCEU.frameadvance();  
+  		end;																																													
+  	    
+  	    
+  	    control = math.random(0,255);
+	for bit,button in pairs(buttonmap) do
+    		if AND(control,bit) ~= 0 then
+      			key1[button]=true;
+      		else
+      			key1[button]=false;
+	    	end    
+  		end  	
+  		joypad.set(1,key1) 
+  	    for i = 1,15,1 do   	  	
   			FCEU.frameadvance();  
 		end;
 	   control = math.random(1,255);
@@ -81,7 +98,7 @@ while not done do
   		end
   		--Select
   		joypad.set(1,key1) 
-  		fz =  1;		
+  		fz =  0;		
   		for i = 1,3+fz,1 do   	  	
   			FCEU.frameadvance();  
 		end;
@@ -132,5 +149,8 @@ while not done do
 		if memory.readbyte(0x7361) > 20 then
 			done = true;
 		end;
+		attempts = attempts  + 1;
+		print(attempts);
+		
 end;
 					
