@@ -1,5 +1,5 @@
---DW4_Get_Encounter
---Start on frame --7076.
+--DW4 - manipulate TREE Critical.
+--Start on frame --7293
 Turn = 0x96;
 
 
@@ -34,7 +34,7 @@ while not done do
   		joypad.set(1,key1) 
   		FCEU.frameadvance();  
   		end
-  		for i = 1,117,1 do
+  		for i = 1,115,1 do
   	    FCEU.frameadvance();  
   		end;																																													
   	    
@@ -124,7 +124,7 @@ while not done do
 	    	end    
   		end
        --Lagless  			
-  		for i = 1,3,1 do   	  	
+  		for i = 1,3,1 do   	  
   			joypad.set(1,key1) 
   			FCEU.frameadvance();  
 		end;
@@ -143,14 +143,14 @@ while not done do
 	    	end    
   		end
   		joypad.set(1,key1) 
-  		for i = 1,10,1 do   	  	
+  		for i = 1,20,1 do   	  	
   			FCEU.frameadvance();  
 		end;
-		if memory.readbyte(0x7361) > 20 then
+		if memory.readbyte(0x7361) > 19 then
 			done = true;
 		end;
 		attempts = attempts  + 1;
-		print(attempts);
+		print(string.format('%d %d', attempts,memory.readbyte(0x7361)));
 		
 end;
 					
