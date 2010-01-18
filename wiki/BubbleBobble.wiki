@@ -1,5 +1,5 @@
 ==Contributers==
- * adelikat 56
+ * adelikat 57
  * Baxter 6
  * Cardboard 3
  * CtrlAltDestroy 4
@@ -118,11 +118,11 @@ There are 3 useful power-ups in the game.  The shoes for increased speed (a must
  * 91 adelikat
  * 92 adelikat
  * 93 adelikat/Tompa
- * 94 
- * 95 
- * 96 
- * 97 
- * 98
+ * 94 adelikat
+ * 95 * skipped by warp
+ * 96 * skipped by warp
+ * 97 * skipped by warp
+ * 98 * skipped by warp
  * 99 
  * A1 
  * A2 
