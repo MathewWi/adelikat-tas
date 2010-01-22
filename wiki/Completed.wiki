@@ -28,13 +28,13 @@ http://dl.getdropbox.com/u/75355/HostedImages/speedy-screenshot.png
 Published! Go and see: [http://tasvideos.org/1369M.html Speedy Gonzales in 30:17.50]
 
 ==Contra Pacifist==
-[http://dl-client.getdropbox.com/u/75355/HostedImages/ContraPacifist.png]
+[http://dl.dropbox.com/u/75355/HostedImages/ContraPacifist.png]
 
 Published!  Go and see: [http://tasvideos.org/1345M.html Contra "Pacifist" in 09:41.36]
 
 ----
 ==NES Super Mario Bros.==
-[http://dl-client.getdropbox.com/u/75355/HostedImages/FullSMB32.png]
+[http://dl.dropbox.com/u/75355/HostedImages/FullSMB32.png]
 
 Team members: adelikat, andrewg, klmz
 
@@ -42,6 +42,6 @@ Published! Go and see: [http://tasvideos.org/1331M.html adelikat, andrewg, and k
 
 ----
 ==NES Boku Dracula-kun==
-[http://dl-client.getdropbox.com/u/75355/HostedImages/bokudrak.png]
+[http://dl.dropbox.com/u/75355/HostedImages/bokudrak.png]
 
 Published! Go and see: [http://tasvideos.org/1337M.html adelikat, Randil, ArukAdo, DarkKobold's NES Akumajou Special - Boku Dracula-kun in 19:49.12]
