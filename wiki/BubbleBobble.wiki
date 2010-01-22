@@ -1,10 +1,10 @@
 ==Contributers==
- * adelikat 57
+ * adelikat 61
  * Baxter 6
  * Cardboard 3
  * CtrlAltDestroy 4
  * Randil 2
- * Tompa 62
+ * Tompa 68
  * Bablo 11
 
 ==Water Bubbles==
@@ -127,13 +127,13 @@ There are 3 useful power-ups in the game.  The shoes for increased speed (a must
  * A0 Tompa
  * A1 Tompa
  * A2 Tompa
- * A3 
- * A4 
- * A5 
- * A6 
- * A7 
- * A8 
- * A9 
+ * A3 adelikat
+ * A4 Tompa
+ * A5 Tompa
+ * A6 Tompa
+ * A7 adelikat/Tompa
+ * A8 adelikat/Tompa
+ * A9 adelikat/Tompa
  * B1 
  * B2 
  * B3 
