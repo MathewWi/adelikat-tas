@@ -1,5 +1,5 @@
 ==Contributers==
- * adelikat 61
+ * adelikat 62
  * Baxter 6
  * Cardboard 3
  * CtrlAltDestroy 4
@@ -136,7 +136,5 @@ There are 3 useful power-ups in the game.  The shoes for increased speed (a must
  * A9 adelikat/Tompa
  * B0 Tompa
  * B1 Tompa
- * B2 
- * B3 
- * B4 
+ * B2 adelikat
  * BOSS 
