@@ -9,7 +9,7 @@ This movie improve the [64M|published movie] by x frames (x minutes x seconds).
 We decided to use warps in this movie (whereas the published movie did not).
 
 To warp you must collect an umbrella.  Umbrellas warp you 4-5 levels (depending on color)
-Umbrellas appear after you pop 20 water bubbles. Water bubbles are spread out over several levels. Unfortunately they appear in the levels at 255 frame intervals. So it is actually not worth it to hang out in a level and pop 20 of them. We determined that the optimal amount is to pop 2 bubbles in each water bubble level. Doing so allows for 2 warps to occur in the game. The reason for 2 is that all levels are completed with a 256-512 frame time span, so no bubble is waited on for a full 255 frames this way. In reality not all levels work the same. As such, some bubbles are waited on for a full 255 frames. Still, enough aren't that warping is profitable. 
+Umbrellas appear after you pop 20 water bubbles. Water bubbles are spread out over several levels. Unfortunately they appear in the levels at 240 frame intervals. So it is actually not worth it to hang out in a level and pop 20 of them. We determined that the optimal amount is to pop 2 bubbles in each water bubble level. Doing so allows for 2 warps to occur in the game. The reason for 2 is that all levels are completed with a 240-480 frame time span, so no bubble is waited on for a full 240 frames this way. In reality not all levels work the same. As such, some bubbles are waited on for a full 240 frames. Still, enough aren't that warping is profitable. 
 
 Unfortunately warping is only 1 level if used in A6 or A7! As such the optimal situation is to collect extra bubbles in 92 to initiate a warp then.
 
