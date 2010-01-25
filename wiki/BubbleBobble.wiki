@@ -4,7 +4,7 @@
  * Cardboard 3
  * CtrlAltDestroy 4
  * Randil 2
- * Tompa 68
+ * Tompa 70
  * Bablo 11
 
 ==Water Bubbles==
@@ -134,7 +134,8 @@ There are 3 useful power-ups in the game.  The shoes for increased speed (a must
  * A7 adelikat/Tompa
  * A8 adelikat/Tompa
  * A9 adelikat/Tompa
- * B1 
+ * B0 Tompa
+ * B1 Tompa
  * B2 
  * B3 
  * B4 
