@@ -34,6 +34,10 @@ We managed to use EXTEND to save time in many places throughout the movie.
 
 There are 3 useful power-ups in the game. The shoes for increased speed (a must!), the blue candy for longer range bubbles (comes in handy often), and the green candy for faster bubble delivery (a must). Only 1 power-up can appear in a level at a time. Each dragon needs each of these upgrades. The upgrades happen based on certain events: Blowing bubbles, popping bubbles, hopping on bubbles. The first levels of the game are devoted to making these power-ups appear in an optimal fashion. Once both dragon's are leveled up, they keep them until they die (making dying never profitable). The hardest part in planning the TAS was figuring out the optimal power-up strategy. 
 
+! Glitches
+
+One useful glitch was found in the making. When the bubble pops at the beginning of a level, you are able to jump in the air. This is used in almost all levels.
+
 
 ! Ram Values
 
