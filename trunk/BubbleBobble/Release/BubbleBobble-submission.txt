@@ -1,6 +1,10 @@
 [module:ActiveTab|tab=b8]
-Finally, the long anticipated Bubble Bobble improvement arrives!
-This movie improves the [64M|published movie] by 2 minutes 49.25 seconds.
+Finally, the long anticipated Bubble Bobble improvement arrives!  This movie was started early January of 2008.
+This movie improves the [64M|published movie] by 2 minutes 40.66 seconds.
+
+As with all adelikat submissions, I recommend you download the release package found here: http://code.google.com/p/adelikat-tas/downloads/list
+
+It contains the movie file, memory watch file, and most importantly, level savestates; including a savestate to go directly to the boss fight.
 
 ! Contributers
 *Tompa 72
