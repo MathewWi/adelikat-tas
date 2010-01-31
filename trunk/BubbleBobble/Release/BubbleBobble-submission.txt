@@ -1,3 +1,4 @@
+[module:ActiveTab|tab=b8]
 Finally, the long anticipated Bubble Bobble improvement arrives!
 This movie improves the [64M|published movie] by 2 minutes 49.25 seconds.
 
@@ -6,11 +7,13 @@ This movie improves the [64M|published movie] by 2 minutes 49.25 seconds.
 *adelikat 64
 *Bablo 12
 *CtrlAltDestroy 5
-*Baxter 6
+*Baxter 7
 *Cardboard 4
 *Randil 2 
 
 Numbers reflect the number of levels each author worked on.  They did not have to be the "final version" to count on the list.
+
+For a level by level list see: [http://code.google.com/p/adelikat-tas/wiki/BubbleBobble]
 
 ! Warps
 
@@ -63,6 +66,7 @@ One useful glitch was found in the making. When the bubble pops at the beginning
 ! Categories
 
 * Uses warps
+* Aims to get chicks (Best ending)
 * Uses death to save time (on final boss)
 * 2 players
 * Genre: Platform
