@@ -138,4 +138,4 @@ There are 3 useful power-ups in the game.  The shoes for increased speed (a must
  * B0 Tompa
  * B1 Tompa
  * B2 adelikat
- * BOSS adelikat/Tompa/Cardboard/CtrlAltDestroy
+ * BOSS adelikat/Tompa/Cardboard/CtrlAltDestroy/Baxter
