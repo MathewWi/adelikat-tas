@@ -1,5 +1,5 @@
 2
-12
+13
 00000	00FFA322	w	u	0	X Level
 00001	00FFA324	b	u	0	X Subpixel
 00002	00FF847E	w	u	0	X Camera
@@ -12,3 +12,4 @@
 00009	00A01E8A	b	u	0	Boss invulnerability?
 0000A	00FFA7FF	b	u	0	Boss 1 Head Timer
 0000B	00FFA865	b	u	0	Boss 2 Head Timer
+0000C	00FFA799	b	u	0	Boss 3 Head Timer
