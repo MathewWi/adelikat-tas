@@ -1,0 +1,24 @@
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]
+[user:adelikat]
+
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+It includes the movie file, submission text, screenshots, a spreadsheet, and a lua script.
+
+[Streaming goes here]
+
+! Game Description
+
+Tempo is 
+
+! Trick & Glitches
+
+! Level by Level Description
+
+! Summary
+
+*Heavy glitch abuse
+*Takes damage to save time
+*Contains groovy dancing
+*Genre: Platform
+*Emulator used: GENS11
