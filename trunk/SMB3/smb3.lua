@@ -15,8 +15,21 @@ local predxsub = 0
 
 local totalboost = 0
 
+local lastframe = 0
+local currentframe = 0
 while true do
-gui.text(176,1,"Lua script armed")
+
+lastframe = currentframe
+currentframe = emu.framecount()
+
+if (currentframe < lastframe) then	--Reset the boost counter if a state is loaded
+totalboost = 0
+end
+
+x = input.get()
+if (x.R) then			--Change R to whatever key you like for this hotkey
+totalboost = 0
+end
 
 oldx = newx
 oldxsub = newxsub
@@ -42,8 +55,8 @@ totalboost = totalboost + (newx - predx)
 end
 
 gui.text(1,1,"Total boost: " .. totalboost)
-gui.text(1,160,"Predict:       " .. string.format('%d',predx) .. " " .. string.format('%2d', predxsub/16) .. "/16" )
-gui.text(1,176,pos)
+gui.text(124,1,"Predict:       " .. string.format('%d',predx) .. " " .. string.format('%2d', predxsub/16) .. "/16" )
+gui.text(126,13,pos)
 
 emu.frameadvance()
 end
