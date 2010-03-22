@@ -1,4 +1,4 @@
-0033 E1|X|pos
+002D E1|X|pos
 040C E1|X|subpix
 0041 E1|X|speed
 0037 E1|Y|pos
