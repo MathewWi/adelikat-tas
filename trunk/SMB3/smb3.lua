@@ -50,7 +50,7 @@ pos = "Position: (" .. string.format('%3d',newspeed) .. ") " .. string.format('%
 predx = oldx + math.floor(((oldspeed*16 + oldxsub)/256))
 predxsub = (oldxsub + (oldspeed*16))%256
 
-if (oldspeed > 1 and newx-predx > 0) then
+if (oldspeed > 1 and newx-predx > 0 and (newx-predx < 3)  )then  -- if boost is 3 or greater it must be erroneous results, ignore
 totalboost = totalboost + (newx - predx)
 end
 
