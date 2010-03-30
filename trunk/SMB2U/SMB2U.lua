@@ -38,6 +38,11 @@ local E5_xsub = memory.readbyte(0x0408)
 local E5_ysub = memory.readbyte(0x0412)
 
 
+local P1_init = memory.readbyte(0x0057)
+local P2_init = memory.readbyte(0x0058)
+local P3_init = memory.readbyte(0x0059)
+local P4_init = memory.readbyte(0x0056)
+
 --Character
 local C_x = memory.readbyte(0x0028)
 local C_xsub = memory.readbyte(0x0407)
@@ -87,8 +92,11 @@ if (E5_oy < 0) then E5_oy = E5_oy + 0xFF; end;
 
 
 --Display enemy numbers
-local initstring = "E:" .. E1_init .. E2_init .. E3_init .. E4_init .. E5_init
-gui.text(1,1,initstring)
+local initEstring = "E:" .. E1_init .. E2_init .. E3_init .. E4_init .. E5_init
+gui.text(1,1,initEstring)
+
+local initPstring = "P:" .. P1_init .. P2_init .. P3_init .. P4_init
+gui.text(1,9,initPstring)
 
 gui.text(E1_ox,E1_oy,"1")
 gui.text(E2_ox,E2_oy,"2")
