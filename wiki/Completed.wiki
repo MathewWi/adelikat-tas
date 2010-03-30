@@ -1,6 +1,13 @@
 =Completed projects=
-
 TAS projects completed since the creation of this SVN.
+
+==Sega 32X Tempo==
+[http://dl.dropbox.com/u/75355/HostedImages/Tempo.png]
+
+V2: Published: [http://tasvideos.org/1487M.html]
+V1: Published: [http://tasvideos.org/1463M.html]
+
+----
 
 ==NES Bubble Bobble==
 [http://dl.dropbox.com/u/75355/HostedImages/BubbleBobble.png]
