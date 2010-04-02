@@ -1,0 +1,26 @@
+4-4 RNG frames
+
+678 = fail
+
+
+683 = fail
+687 = fail
+688 = fail
+689 = fail
+
+691 = fail
+692 = fail
+693 = fail
+694 = fail
+695 = win
+696 = fail
+697 = fail
+698 = fail
+699 = fail	current frame
+700 = fail
+701 = fail
+702 = win
+703 = win
+
+705 = fail
+709 = win
