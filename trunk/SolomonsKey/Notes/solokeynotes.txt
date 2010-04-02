@@ -1,0 +1,35 @@
+Optimization goals:
+# Minimal frame count
+# Timer slowed down as much as possible to achieve most impressive timer readings
+There is a 1/8 chance that goal 2 may hinder goal 1 in the score tallying phase,
+but I took this risk willingly. The movie thus sacrifices time for.. time.
+
+Room 3:
+	
+	There exists a faster way to pass the sparkling
+	at the bottom edge. However, doing so will cause the
+	gargoyle at left edge to shoot at an unfavorable moment,
+	causing an extra wait.
+	You could, avoid that shooting without delay by shooting
+	the gargoyle instead, but then you would miss the chances
+	of affecting the behavior of the cows, resulting in delays
+	at the center room when jumping over the cows.
+
+Room 4:
+	
+	Previous movie got 9330 in timer, this got 9320.
+	I could have got 9330 by being one frame _slower_.
+	Yes, the timer is _weird_.
+
+Room 10:
+	In the previous movie I had great trouble getting 8300 in the
+	timer -- I once succeeded and then never again. Thanks to the
+	robot-assisted playing, I got 8320 this time.
+
+Room 11:
+	Getting this room to actually _work_ -- being able to reach the
+	little tunnel before the enemy in the ceiling shoots Dana --
+	turned out to be nearly impossible. In fact, the bot tried this
+	for two days straight without success. Until, I extended the scope
+	into the previous stage as well; the way the previous stage ended
+	affected whether this stage succeeded or not.
