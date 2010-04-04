@@ -79,7 +79,7 @@ while not done do
   			joypad.set(1,keyr)  		
   			FCEU.frameadvance();  
   		 end;
-  		 if memory.readbyte(Encounter) == 1 then
+  		 if memory.readbyte(Encounter) == 1 and memory.readbyte(0x6E49) == 1 and memory.readbyte(0x6E4A) == 0 and memory.readbyte(0x6E45) == 19 then
 			done = true;
 		end;  	
 	  end;		  
