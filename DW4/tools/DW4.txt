@@ -13,10 +13,10 @@
 727E Enemy|HP
 727F 2nd|byte?
 728C Enemy|HP
-| |
-| |
+720C Who's|turn|it|is
+6E45 ID|Enemy|1
 627E chp2|talks|list
-| |
+6E46 ID|Enemy|2
 | |
 | |
 | |
