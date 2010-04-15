@@ -1,0 +1,16 @@
+4-6 RNG frames
+Based on 7 lag frames (published movie had 10)
+
+	Card/HB
+
+61239 = Pass/Pass
+
+61248 = Pass/Pass
+61249 = Pass/Pass
+
+61251 = Pass/Pass
+
+61252 = Fail
+61259 = Fail
+
+61263		*If matching published movie (discounting lag frame differences)
