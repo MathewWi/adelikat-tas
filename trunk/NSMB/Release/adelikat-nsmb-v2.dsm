@@ -1,5 +1,5 @@
 version 1
-emuVersion 90400
+emuVersion 90600
 rerecordCount 17905
 romFilename nsmb.nds
 romChecksum 0197576A
@@ -15,6 +15,7 @@ firmBirthDay 15
 firmLanguage 1
 rtcStart 2009-01-01T01:00:00Z
 comment author adelikat
+comment version 4 (2nd finished/submitted)
 |0|.............000 000 0|
 |0|.............000 000 0|
 |0|.............000 000 0|
