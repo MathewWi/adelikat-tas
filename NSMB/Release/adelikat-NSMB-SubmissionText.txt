@@ -1,1 +1,44 @@
-blah
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]%%%
+[user:adelikat]%%%
+%%%
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+It includes the movie file, submission text, screenshots, a spreadsheet of frame counts, and Ram Addresses.
+%%%
+You know Mario can't let his sidekick take all the glory!  
+
+[module:Flowplayer|v=|i=|w=320|h=224]%%%
+
+Streaming Links:%%%
+*[]
+
+IMPORTANT: This uses Desmume 9.6 with Advanced Bus-level Timing OFF.  It will not sync without this setting off.
+
+!! Improvement
+
+This is my long overdue completion of v2 that I started soon after my 1st publication.  I took a lot of time off due to luck manipulation issues World 5.  During that time, TRT finished his movie.  Most of the content up to 5-G was done prior to his movie (but map stuff edited to sync with 9.6 instead of 9.2).
+
+Because TRT's movie is the current published, I will compare my improvements to his movie.
+
+This movie is 11918 frames (3 minutes 18.6 seconds) shorter than TRT's [1408M|published movie].  Most of this, however, is due to Desmume9.6 having significantly less lag than 9.4.  It is hard to estimate the true improvement due to some improvements in the map movements I made.  However, the total in level improvements total 723 frames (12.05 seconds).
+
+Some tricks not used in previous published movies:
+
+* Sliding at the bottom of a hill
+** By running down a hill and sliding just before the bottom, you can get a speed boost.  If you hold down you can continue to get extra speed for many frames after the hill.  This is used in 1-1 and several levels in world 8
+
+* Fast vertical swimming
+**By alternating B and X for swimming, you can retain 31 vertical speed as opposed to turbo firing one of them which results in an alternating speed of 31 & 30.
+
+Most improvements come from varios strategy improvements, more corner boosts, and various optimizations.
+
+!! Summary
+
+*Emulator: DeSmuME 9.6 (with Advanced Bus-Level timing off)
+*Takes damage to save time
+*Genre: Platform
+
+!!Thanks
+
+*TRT for his published movie and many tricks/strats he discovered along the way
+*Was0x who kept beating me on the early levels forcing me to redo :)
