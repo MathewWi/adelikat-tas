@@ -7,10 +7,10 @@ It includes the movie file, submission text, screenshots, a spreadsheet of frame
 %%%
 You know Mario can't let his sidekick take all the glory!  
 
-[module:Flowplayer|v=|i=|w=320|h=224]%%%
+[module:Flowplayer|v=http://www.archive.org/download/DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb.mp4|i=]%%%
 
 Streaming Links:%%%
-*[]
+*[www.zexsoft.com/aktan/?DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb]
 
 IMPORTANT: This uses Desmume 9.6 with Advanced Bus-level Timing OFF.  It will not sync without this setting off.
 
