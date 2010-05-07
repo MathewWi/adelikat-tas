@@ -6,6 +6,7 @@ romChecksum 0197576A
 romSerial NEW MARIO____A2DE01
 guid D66CE184-52AE-4990-F1F1-BBE9EBB3A6DB
 useExtBios 0
+advancedTiming 0
 useExtFirmware 0
 firmNickname yopyop
 firmMessage DeSmuME makes you happy!
