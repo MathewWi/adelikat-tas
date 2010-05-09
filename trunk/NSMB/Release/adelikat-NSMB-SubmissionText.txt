@@ -7,20 +7,20 @@ It includes the movie file, submission text, screenshots, a spreadsheet of frame
 %%%
 You know Mario can't let his sidekick take all the glory!  
 
-[module:Flowplayer|v=http://www.archive.org/download/DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb.mp4|i=]%%%
-
 Streaming Links:%%%
-*[www.zexsoft.com/aktan/?DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb]
+* [http://www.zexsoft.com/aktan?DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb|Streaming]
 
-IMPORTANT: This uses Desmume 9.6 with Advanced Bus-level Timing OFF.  It will not sync without this setting off.
+IMPORTANT: This uses DeSmuME 9.6 with Advanced Bus-level Timing OFF.  It will not sync without this setting off.
 
-!! Improvement
+IMPORTANT TOO: DeSmuME 9.6 has not been officially released yet.  If you would like to watch this movie in the emulator, here is a pre release build I made: [http://dl.dropbox.com/u/75355/DeSmuME9.6-prerelease.zip]
 
-This is my long overdue completion of v2 that I started soon after my 1st publication.  I took a lot of time off due to luck manipulation issues World 5.  During that time, TRT finished his movie.  Most of the content up to 5-G was done prior to his movie (but map stuff edited to sync with 9.6 instead of 9.2).
+!! Improvements
 
-Because TRT's movie is the current published, I will compare my improvements to his movie.
+This is my long overdue completion of v2 that I started soon after my [1283M|1st publication].  I took a lot of time off due to luck manipulation issues World 5.  During that time, TRT finished his movie.  Most of the content up to 5-G was done prior to his movie (but map sections edited to sync with 9.6 instead of 9.2).
 
-This movie is 11918 frames (3 minutes 18.6 seconds) shorter than TRT's [1408M|published movie].  Most of this, however, is due to Desmume9.6 having significantly less lag than 9.4.  It is hard to estimate the true improvement due to some improvements in the map movements I made.  However, the total in level improvements total 723 frames (12.05 seconds).
+Because TRT's movie is the currently published, I will compare my improvements to his movie.
+
+This movie is 11918 frames (3 minutes 18.6 seconds) shorter than TRT's [1408M|published movie].  Most of this, however, is due to Desmume9.6 having significantly less lag than 9.4.  It is hard to estimate the true improvement due to some improvements in the map movements I made.  However, the in-level improvements total 723 frames (12.05 seconds).  I had overall better luck on map movements too, but I have no idea how to calculate a lag-reduced value.  I don't value map manipulation improvements much anyway since the entertainment value of this game is with the levels.
 
 Some tricks not used in previous published movies:
 
@@ -28,9 +28,13 @@ Some tricks not used in previous published movies:
 ** By running down a hill and sliding just before the bottom, you can get a speed boost.  If you hold down you can continue to get extra speed for many frames after the hill.  This is used in 1-1 and several levels in world 8
 
 * Fast vertical swimming
-**By alternating B and X for swimming, you can retain 31 vertical speed as opposed to turbo firing one of them which results in an alternating speed of 31 & 30.
+**By alternating B and X for swimming, you can retain 31 vertical speed as opposed to turbo firing one of them which results in an alternating speed of 31 & 30.  It also goes so fast that the swimming sound is canceled out (which is kind of pleasant compared to the sound of turbo fire swimming).
 
-Most improvements come from varios strategy improvements, more corner boosts, and various optimizations.
+Most improvements come from various strategy improvements, more corner boosts, and various optimizations.
+
+Also, not so relevant overall, I must mention, the luck manipulation for getting the 2nd blue shell for 8-3 is ABSOLUTELY EVIL.  I spent about as many hours getting good luck there as making the rest of the TAS.  You have so many elements working against you for luck manipulation: The previous level is a boss level so no flag, you are mini-mario so no killing enemies to change the RNG, the previous level is the most brutal in the whole game to optimize, and the hammer bros appears immediately in 8-3 so nothing in 8-3 can affect what he drops.  I think TRT mentioned struggling in this spot too. Evil :|  
+
+[module:Flowplayer|v=http://www.archive.org/download/DsNewSuperMarioBrosIn2141.54ByAdelikat/newsupermariobros-tasv2-adelikat_512kb.mp4|w=384|h=192|i=http://dl.dropbox.com/u/75355/HostedImages/nsmb-side.png]%%%
 
 !! Summary
 
@@ -38,7 +42,12 @@ Most improvements come from varios strategy improvements, more corner boosts, an
 *Takes damage to save time
 *Genre: Platform
 
-!!Thanks
+!! Thanks
 
 *TRT for his published movie and many tricks/strats he discovered along the way
 *Was0x who kept beating me on the early levels forcing me to redo :)
+*Sgrunt for taking the time to do the encoding & streaming
+
+!! Suggested Screenshot
+
+[http://dl.dropbox.com/u/75355/HostedImages/nsmb.png]
