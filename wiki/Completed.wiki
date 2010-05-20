@@ -1,6 +1,18 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==DS New Super Mario Bros.==
+[http://dl.dropbox.com/u/75355/HostedImages/nsmb.png]
+
+V2: Published: [http://tasvideos.org/1530M.html]
+----
+==VBoy Wario Land
+[http://dl.dropbox.com/u/75355/HostedImages/VBWario.png]
+
+V2: Published: [http://tasvideos.org/1528M.html]
+V1: Published: [http://tasvideos.org/1510M.html]
+
+----
 ==Sega 32X Tempo==
 [http://dl.dropbox.com/u/75355/HostedImages/Tempo.png]
 
