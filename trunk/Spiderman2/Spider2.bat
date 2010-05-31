@@ -1,0 +1,1 @@
+start desmume.exe Spider2.nds --play-movie Spider2.dsm
