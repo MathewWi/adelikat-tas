@@ -3,12 +3,10 @@ frame_burn = 3;
 
 
 CHECK = savestate.create();
+FF = savestate.create();
 local buttonmap = {[1]='up',[2]='down',[4]='left',[8]='right',[16]='A',[32]='B',[64]='start',[128]='select'} 
 
 
-
-
-FCEU.frameadvance();
 key1 = {};
 key_empty = {};
 done = false;
@@ -40,8 +38,10 @@ while not done do
   	RandFrame(1);
   	FCEU.frameadvance();   	
   	while FCEU.lagged() do
+  		savestate.save(FF);
   		FCEU.frameadvance();
   	end;
+  	savestate.load(FF);
   	RandFrame(math.random(1,frame_burn));
 	joypad.set(1,key_empty) 
   	FCEU.frameadvance(); 
@@ -52,16 +52,20 @@ while not done do
   	end;  	    	
   	FCEU.frameadvance();   	
   	while FCEU.lagged() do
+  		savestate.save(FF);
   		FCEU.frameadvance();
-  	end;  	
+  	end;
+  	savestate.load(FF); 	
   	RandFrame(math.random(1,frame_burn));
 	joypad.set(1,key_empty) 
   	FCEU.frameadvance(); 
   	RandFrame(1);
   	FCEU.frameadvance();   	
   	while FCEU.lagged() do
+  		savestate.save(FF);
   		FCEU.frameadvance();
-  	end;  	      	
+  	end;
+  	savestate.load(FF);      	
   	RandFrame(math.random(1,frame_burn));
 	joypad.set(1,key_empty) 
   	FCEU.frameadvance(); 
