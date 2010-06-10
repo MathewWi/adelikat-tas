@@ -94,8 +94,13 @@ while not done do
   					outs = outs .. seqmap[sequence[i]] .. ',';
   				end;
   			end;  			
-  			gui.text(18,137,outs,'white','black');  			
-  			gui.text(30,167,'(B)ack','white','black'); 
+  			for j = 1,math.min(NofChecks,5) do 
+  				gui.text(18,137,outs,'white','black');  			
+  				gui.text(37,137+j*10, NameTable[Checks1[j]],'white','black');  				
+  				gui.text(105,137+j*10, EqualityTable[Checks2[j]],'white','black');
+  				gui.text(116,137+j*10, string.format(ValTable[Checks3[j]],ccx),'white','black');  		
+  			end;
+  			gui.text(90,197,'(B)ack','white','black'); 
   			if (press(BackK)) then
   				mode = 'B';
   			end;  		    						  	
@@ -107,7 +112,7 @@ while not done do
   				gui.text(37,150, NameTable[currc[1]],'white','black');  				
   				gui.text(105,150, EqualityTable[currc[2]],'white','black');
   				gui.text(116,150, string.format(ValTable[currc[3]],ccx),'white','black');  				
-  				gui.text(30,167,'(D)one, (B)ack','white','black');   
+  				gui.text(30,167,'(C)lear, (D)one, (B)ack','white','black');   
   				if (press(plus) and currpos == 3) then  					  				
   					ccx = ccx + 1;
   				end;  					
@@ -131,7 +136,12 @@ while not done do
   				end;
   				if press(nums[5]) then 
   					currpos = math.max(currpos-1,1);
-  				end;  				  				
+  				end;  				  	
+  				if press('C') then
+  					NofChecks = 0;
+  					Checks1,Checks2,Checks3 = {}, {}, {};
+  					mode = 'B';
+  				end;			
   				if press(DispSCK) then
   					NofChecks = NofChecks + 1;
   					Checks1[NofChecks] = currc[1];
@@ -166,7 +176,7 @@ while not done do
   				else
   					outs = outs .. seqmap[sequence[i]] .. ',';
   				end;
-  			end;  	
+  			end;  	  			
   			gui.text(18,137,outs,'white','black');
   			gui.text(30,147,'Add to the Sequence','white','black');
   			gui.text(30,157,'(S)ingle Frame, (T)ext Advance','white','black');
@@ -198,9 +208,9 @@ while not done do
   		end;  	  		  	
   		  		  		
   		if cursoron then
-  			gui.text(30,187,'_','white','black');
+  			gui.text(180,197,'_','white','black');
   		else
-  			gui.text(30,187,'_','black','white');
+  			gui.text(180,197,'_','black','white');
   		end;
   		cursorflash = cursorflash - 1;
   		if cursorflash == 0 then
@@ -290,13 +300,14 @@ function SkipToText()
   				end;
   			end;
 end;
-
+local lost;
 --***************************************
 --Botting starts here
 --***************************************
 FCEU.speedmode('turbo');  	
 while not done do 
 	savestate.load(CHECK);
+	lost  = 0;
 	gui.text(1,1,'Running...');
 	for i = 1,sequences,1 do	
   		if sequence[i] == 1 then -- single frame  	
@@ -308,7 +319,9 @@ while not done do
   			end;
   			savestate.load(FF);  		
   		elseif sequence[i] == 2 then --multiframe 
-  			RandFrame(math.random(1,frame_burn),1); 
+  		    N = math.random(1,frame_burn);
+  		    lost = lost + N - 1;
+  			RandFrame(N,1); 
 			joypad.set(1,key_empty) 
 		  	FCEU.frameadvance(); 
   			RandFrame(1,1);  			
@@ -350,7 +363,7 @@ while not done do
 	end;	
 	if pass then done = true; end; -- We passed!
 	attempts = attempts  + 1;
-	print(string.format('%d', attempts));
+	print(string.format('%d -- %d', attempts, lost));
 end;  	
 FCEU.pause();	
 
