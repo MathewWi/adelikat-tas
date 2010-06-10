@@ -93,12 +93,19 @@ while not done do
   				else
   					outs = outs .. seqmap[sequence[i]] .. ',';
   				end;
-  			end;  			
+  			end;
+  			SV = 0;  			
   			for j = 1,math.min(NofChecks,5) do 
+  				
   				gui.text(18,137,outs,'white','black');  			
   				gui.text(37,137+j*10, NameTable[Checks1[j]],'white','black');  				
   				gui.text(105,137+j*10, EqualityTable[Checks2[j]],'white','black');
-  				gui.text(116,137+j*10, string.format(ValTable[Checks3[j]],ccx),'white','black');  		
+  				if Checks3[j] > 2 then
+  					SV = SV + 1;
+  					gui.text(116,137+j*10, string.format(ValTable[Checks3[j]],ValSet[SV]),'white','black');  		
+  				else
+  					gui.text(116,137+j*10, string.format(ValTable[Checks3[j]],0),'white','black');  		
+  				end;
   			end;
   			gui.text(90,197,'(B)ack','white','black'); 
   			if (press(BackK)) then
@@ -109,10 +116,11 @@ while not done do
   				elseif currpos == 2 then gui.drawbox(102, 148, 111, 158,'black','red');
   				else gui.drawbox(114, 148, 210, 158,'black','red');
   				end;
-  				gui.text(37,150, NameTable[currc[1]],'white','black');  				
+  				gui.text(37,150, NameTable[currc[1]],'white','black');    							
+  				gui.text(60,162, string.format('(%d)',memory.readbyte(MemoryTable[currc[1]])),'white','black');  				
   				gui.text(105,150, EqualityTable[currc[2]],'white','black');
   				gui.text(116,150, string.format(ValTable[currc[3]],ccx),'white','black');  				
-  				gui.text(30,167,'(C)lear, (D)one, (B)ack','white','black');   
+  				gui.text(30,177,'(C)lear, (D)one, (B)ack','white','black');   
   				if (press(plus) and currpos == 3) then  					  				
   					ccx = ccx + 1;
   				end;  					
