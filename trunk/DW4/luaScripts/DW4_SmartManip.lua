@@ -291,6 +291,7 @@ if NofChecks == 0 then
 end;
 
 function SkipToText()
+			lastskip = 0;
 			insidedone = false; -- advance one to make sure we are in lag.   		
   			while not insidedone do
   				while FCEU.lagged() do -- Go to next manipulation point.   					
@@ -301,7 +302,8 @@ function SkipToText()
   				if FCEU.lagged() then
   					savestate.load(FF);  		
   					RandFrame(1,0);  				
-  					FCEU.frameadvance();  			  			  				
+  					FCEU.frameadvance(); 
+  					if not FCEU.lagged() then FCEU.frameadvance(); end; --this should deal with frame - lag - frame.   				 			  			  				
   				else
   					savestate.load(FF);  		
 	  				insidedone = true;
