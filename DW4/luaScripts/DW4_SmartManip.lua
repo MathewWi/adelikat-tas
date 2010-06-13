@@ -37,7 +37,7 @@ for i = 1,7,1 do
 end;
 
 key1 = {};
-key_empty = {};
+key_empty = {}; 
 done = false;
 
 savestate.save(CHECK);
@@ -345,6 +345,8 @@ while not done do
   		    savestate.save(FF);
   			FCEU.frameadvance();  -- look 2 ahead, see if lagged
   			FCEU.frameadvance();			  			
+  			templag = FCEU.lagged();
+  			FCEU.frameadvance();
   			if FCEU.lagged() then  				
   				SkipToText();	
   			elseif sequence[i+1] == sequence[i] then -- if the next input is the same as the current one, we need an empty frame between. 
