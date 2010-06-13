@@ -178,7 +178,7 @@ while not done do
 	gui.drawbox(150,1,235,95,'black','white');
 	gui.text(153,4,string.format('attempts - %d',att), 'white','black');
 	gui.text(153,14,string.format('N - %d',N), 'white','black');
-	gui.text(153,24,string.format('RNG - %x',RNG), 'white','black');
+	gui.text(153,24,string.format('RNG - 0x%X4',RNG), 'white','black');
 	for i = 1,SM,1 do
 		gui.text(153,24 + i*10, NameTable[i], 'white','black');
 		gui.text(181,24 + i*10, '-', 'white','black');
