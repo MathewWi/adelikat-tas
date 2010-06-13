@@ -1,7 +1,7 @@
 --User settings
 Stat = 0x60BA; -- Characters Level, used for offset. 
 Tests = 5; -- How many Tests to run
-FB = 5; -- maximum number of frames allowed to burn.
+FB = 10; -- maximum number of frames allowed to burn.
 MPgain = false; --Whether or not the character gains MP.
 
 
@@ -31,9 +31,14 @@ key1 = {};
 
 local buttonmap = {[1]='up',[2]='down',[4]='left',[8]='right',[16]='A',[32]='B',[64]='start',[128]='select'};
 
-function RandFrame(frames,s) -- s is 0 for no required input, 1 for required input. 
+function RandFrame(frames) -- s is 0 for no required input, 1 for required input. 
 	for i = 1,frames,1 do
-		control = math.random(s,255);
+		if i ~= frames then
+			if math.random(0,2) == 0 then
+			control = 0; else control = math.random(0,15)+ 64*math.random(0,3); end;
+		else
+			control = 16 * math.random(1,3) + math.random(0,15)+ 64*math.random(0,3);
+		end;
 		for bit,button in pairs(buttonmap) do
     		if AND(control,bit) ~= 0 then
       			key1[button]=true;
@@ -45,12 +50,15 @@ function RandFrame(frames,s) -- s is 0 for no required input, 1 for required inp
   		FCEU.frameadvance(); 
   	end;
 end;
+local SFrames;
 
 function SkipToText()
 			lastskip = 0;
 			insidedone = false; -- advance one to make sure we are in lag.   		
+			C = -1;
   			while not insidedone do
   				while FCEU.lagged() do -- Go to next manipulation point.   					
+  					C = C + 1;
   					savestate.save(FF);  				
   					FCEU.frameadvance();  			  			
   				end;
@@ -66,6 +74,8 @@ function SkipToText()
 	  				insidedone = true;
   				end;
   			end;
+  			print(C);
+  			return C;
 end;
 
 done = false;
@@ -82,10 +92,8 @@ for z = 1,Tests,1 do
 		gui.text(1,1,string.format('Test #%d',z));
 		while(memory.readbyte(Stat+7) == ST[5]) do
 			N = math.random(1,10);
-  			RandFrame(N,1);
+  			RandFrame(N);
   			FCEU.frameadvance();  			  			
-  			RandFrame(1,1);
-  			FCEU.frameadvance();  	
   			SkipToText();  		  			
   		end;  		
   		for i = 1,SM,1 do
@@ -162,25 +170,33 @@ N = 1;
 savestate.load(START);
 savestate.save(CURR);
 att = 0;
+RNG = 0;
 
 while not done do 
 	savestate.load(CURR);
 	att = att + 1;
-	gui.drawbox(150,1,235,85,'black','white');
+	gui.drawbox(150,1,235,95,'black','white');
 	gui.text(153,4,string.format('attempts - %d',att), 'white','black');
 	gui.text(153,14,string.format('N - %d',N), 'white','black');
+	gui.text(153,24,string.format('RNG - %x',RNG), 'white','black');
 	for i = 1,SM,1 do
-		gui.text(153,14 + i*10, NameTable[i], 'white','black');
-		gui.text(181,14 + i*10, '-', 'white','black');
-		gui.text(190,14 + i*10, LS[i], 'white','black');
-	end;	
-	RandFrame(N,1);
-	FCEU.frameadvance();
-	RandFrame(1,1);  			
-  	FCEU.frameadvance();  
-  	SkipToText();		
+		gui.text(153,24 + i*10, NameTable[i], 'white','black');
+		gui.text(181,24 + i*10, '-', 'white','black');
+		gui.text(190,24 + i*10, LS[i], 'white','black');
+	end;
+		RandFrame(N);
+  		FCEU.frameadvance();  	  	
+  		  			
+	if attc == 0 then
+		SFrames = SkipToText();		
+  	else  		
+  		for sf = 1,SFrames,1 do
+  			FCEU.frameadvance();
+  		end;
+  	end;
   	pass1 = true;
   	pass2 = true;
+  	RNG = memory.readbyte(0x13)*256+memory.readbyte(0x12);
   	for i = 1,SM,1 do 
   		LS[i] = (memory.readbyte(Stat+Ups[i]) - ST[i]);
   		if (LS[i] ~= Des[i] and Eq[i]) or (LS[i] <= Des[i] and not Eq[i]) then
@@ -203,7 +219,7 @@ while not done do
   		attc = 0;
   	else
   		attc = attc + 1;
-  		if attc == 200 then
+  		if attc == 30 then
   			attc = 0;
   			N = N + 1;
   		end;  			  		  	
