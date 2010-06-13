@@ -199,6 +199,8 @@ while not done do
   		done = true;
   	elseif pass1 then 
   		savestate.save(CURR);
+  		N = 1;
+  		attc = 0;
   	else
   		attc = attc + 1;
   		if attc == 200 then
