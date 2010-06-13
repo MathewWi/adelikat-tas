@@ -1,6 +1,6 @@
 --User settings
 Stat = 0x60BA; -- Characters Level, used for offset. 
-Tests = 50; -- How many Tests to run
+Tests = 5; -- How many Tests to run
 FB = 2; -- maximum number of frames allowed to burn.
 MPgain = false; --Whether or not the character gains MP.
 
