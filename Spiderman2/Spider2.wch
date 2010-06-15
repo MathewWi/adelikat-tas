@@ -1,5 +1,5 @@
 
-15
+17
 00000	02259DCC	w	s	0	X Speed Lv1 pt 2
 00001	022ADCB8	w	s	0	X Speed Lv1 pt 1
 00002	02239A9C	w	s	0	X Speed Lv1 pt 3
@@ -15,3 +15,5 @@
 0000C	02158D08	w	s	0	Enemy HP
 0000D	02158CF4	w	s	0	Enemy HP
 0000E	02159014	w	s	0	Enemy HP
+0000F	02158C2C	w	s	0	Enemy HP
+00010	02158D80	w	s	0	Enemy HP
