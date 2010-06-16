@@ -1,0 +1,13 @@
+
+9
+00000	02274FBC	w	u	0	Vibe Guage
+00001	02298E88	b	u	0	X Pos on Screen
+00002	02285C9A	w	s	0	Y Pos on Screen
+00003	02298EC9	w	s	0	X Speed
+00004	02298EC2	w	u	0	X Pos on Map
+00005	02298EC1	b	u	0	X Sub Pixel
+00006	02298ECD	w	s	0	Y Speed
+00007	02298EC6	w	s	0	Y Pos on Map
+00008	02298EC5	b	u	0	Y Sub Pixel
+Sub Pixel
+00009	02274FBC	w	u	0	Vibe Guage
