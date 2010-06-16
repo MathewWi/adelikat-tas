@@ -1,5 +1,5 @@
 
-9
+10
 00000	02289EBC	w	u	0	Vibe Guage
 00001	022ADD88	b	u	0	X Pos on Screen
 00002	0229AB9A	w	s	0	Y Pos on Screen
@@ -9,5 +9,5 @@
 00006	022ADDCD	w	s	0	Y Speed
 00007	022ADDC6	w	s	0	Y Pos on Map
 00008	022ADDC5	b	u	0	Y Sub Pixel
-Sub Pixel
-00009	02289EBC	w	u	0	Vibe Guage
+00009	02289DD4	w	u	0	Coins
+	0	Vibe Guage
