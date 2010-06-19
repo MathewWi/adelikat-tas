@@ -1,5 +1,5 @@
 
-10
+11
 00000	02274FBC	w	u	0	Vibe Guage
 00001	02298E88	b	u	0	X Pos on Screen
 00002	02285C9A	w	s	0	Y Pos on Screen
@@ -10,3 +10,4 @@
 00007	02298EC6	w	s	0	Y Pos on Map
 00008	02298EC5	b	u	0	Y Sub Pixel
 00009	02274ED4	w	u	0	Coins
+0000A	02274FA8	b	u	0	Shoot when 40
