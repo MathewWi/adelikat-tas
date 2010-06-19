@@ -1,0 +1,149 @@
+blah blah blah:
+
+Tricks and stuff
+
+blah blah blah
+
+put my name first because I'm egotistical.
+
+andymac's comments
+
+Everyone knows Super mario Bros. 3. Morimoto's historic TAS was the reason that a lot of us found the site. This was one of my favourite games when I was younger, so one day, a short time after the warped run was published, I decided to start an updated full game run, with some of the new tricks that had been discovered. After the first few days I was told that Adelikat and Lord Tom were planning a warpless TAS, so I asked if I could join them to do this. Needless to say, here we are, a year later with the finished product. I present to you Super Mario Bros. 3 in XX.XX.xx.
+
+Firstly I'd like to thank Adelikat, Lord Tom and Tompa, for obvious reasons. I would like to especially thank Adelikat, since he had to put up with my incessant whining and procrastination for an entire year. If he wasn't telling me to "just get on with it you F***" I probably wouldn't have finished this TAS until sometime in the next century. He also had to put up with my constant misquotations as well.
+
+I'd like to thank Tompa as well. If it weren't for him I probably would have missed half of the potential improvements. Also Thanks to Lord Tom go here, since he is an absolute dude.
+
+As far as my SMB3 TASing experiences go, only one thing really stands out: luck manipulation. There are two things that need to be manipulated, Hammer Bros. and the end of level cards, which are based on two different frame based timers. The art here is finding the combination of manipulation that will give the least delay, while providing the right cards and the right hammer bros. movement. This generally cannot be done the first time around, so usually hex editing is required. To make it more complicated, if you need to insert frames inside a level that was previously done, which is sometimes a requirement, you have to manipulate mario's vertical and horizontal subpixel positions at the end to match those in the next level, otherwise the next level will desynch, and you will have to start again. Therefore, if there was ever luck manipulation to be done, I promtly handed it over to one of the other team members; delegation, a quality of true leadership.
+
+Before you start reading the comments, I would like to say first that for all the levels I've done, most have had time saved due to "greater precision". "greater precison" is an umbrella term used by TASers which means any frames saved due to circumstances unexplained. I try to keep the usage of the term "greater precision" to a minimum in my comments.
+
+So yeah, enjoy.
+
+Tompa's comments
+
+Adelikat's comments
+
+Lord Tom's comments
+
+Detailed comments
+
+1-1 and 1-2
+
+These levels were both copied from various WIPs and speedruns of SMB3. It turns out that no frames are saved in these levels compared to the previous run, however, no amount of foresight could have told us that. It just so happens that the particular sequence of randomness means that it's not worth using the "Faster" 1-1 from the warped run, since that would have an extra frame of lag, and we would lose a frame.
+
+1-F
+
+The start of the fortress was changed to remove the stutter running. In reality, this is not a faster or slower strategy, however frames were saved due to greater precision. Lord Tom discovered that jumping on the ? block saved time compared to jumping around it. This also meant that P speed could be kept all the way to the secret door, because we could reach the door before the P meter ran out.
+
+1-H
+
+The previous movie made no effort to manipulate the behaviour of the hammer bros. enemy. This was rectified in V3. The behaviour was manipulated so that the hammer would not throw a hammer before it was killed. This meant that the hammer bros. fell off the screen earlier, and the chest appeared faster.
+
+1-5
+
+A large amount of effort was made to reduce the lag at the start, while trying to maintain the optimal path. A small optimisation is made near the start, while jumping out of the hole, which saved a few frames.
+
+1-6 
+
+This level went through a number of iterations concerning various methods to get P speed as early as possible. The method in the movie was one frame away from not happening. If the gap between the blocks took one more frame to traverse, then the method would be slower than that shown in the current movie.
+
+1-Airship
+
+2-1
+
+Better stutter running was used at the start to get P speed earlier. Block clipping is also used to gain some frames. It turns out that it is possible to save 2 frames at the start of this level by pressing left for one frame, which would mean mario's initial position would be 10 pixels to the left of the ordinary starting position. However, this was not included in the final run as it did not include favourable randomness.
+
+2-2
+
+3 frames were saved near the start of the level by ensuring that mario did not land on the slope, which meant that mario's P meter would start increasing 3 frames earlier. Lag was also reduced to zero.
+
+2-F
+
+Nothing particularly interesting regarding this level, the only frames that were saved were due to better luck, meaning that the overly complicated hammer bros. movement could occur.
+
+2-H
+
+The only reason we could fight the hammer bros. so early was because of an extremely complicated map movement. Courtesy of the original team for this method.
+
+2-P
+
+The pyramid was one of the most complcated levels in the entire game, as such, many frames were saved due to optimisation of the many complicated elements involved. There were a few extra frames of lag near the start but that was pretty much unavoidable.
+
+3-1
+
+Accelerating in water has a frame rule, so you can only increment your speed value on certain frames. This is abused to save a reasonable amount of frames. Accelerating on the floor underneath the water is faster than just accelerating in water, however the top speed of walking underwater is much less than that of swimming. This is also abused to save frames.
+
+4-1
+
+The start is the most difficult part of this level, with all the complicated stutter running. It was at this time we discovered that duck jumping past corners gives a one pixel boost.
+
+4-2
+
+The start of this level is improved, with running speed gained significantly earlier, this strategy was for some reason not used in the previous run.
+
+4-2F
+
+The flower grab was much more optimal in this movie compared to the last one, with about a third of a second saved. Lag was also reduced.
+
+5-4
+
+The fastest strategy for this level is to hit one of the spinning platforms to gain a speed of 64. afterwards, the challenge is to maintain that speed while keeping the P meter full. This level went through several iterations.
+
+5-5
+
+This is a largely uninteresting level as far as time is concerned.
+
+5-7
+
+Allthough it looks cool, jumping into the block to get the flower is indeed the fastest method. Due to hammer bros. route changes, we were one star short, and a choice was made whether this level, or the fortress in world 6 would get the use of the star. It turned out about half a second faster to use it here.
+
+5-2F
+
+This level is largely boring, due to the need to spend a long time whithin a wall. A very long time it seems.
+
+5-8
+
+The aim of this level is to get mario to the right as fast as possible.
+
+6-F
+
+The first room of the fortress went through a number of iterations regarding the fastest way to get past the spikes. The startegy shown was only a few pixels away from not being possible. The next room was equally as difficult to get through, and this also went through a number of iterations. Overall, even without the use of the star, this level was faster than the previous movie.
+
+7-3
+
+A few frames of delay at the start meant that we could keep a higher speed throughout the level. However, one more frame of lag was a result.
+
+7-F
+
+It was faster to jump on the white platform instead of jumping straight to the pipe. A few frames were spent on the white platform to get a greater height when jumping, as more speed = more height.
+
+7-6
+
+A new way of jumping into the wall was found here, which does not require ducking. This is pretty cool.
+
+7-7
+
+A few frames were saved compared to the previous movie by doing a large jump before block clipping, because this meant that mario could fall through the block quicker and start moving through the wall earlier.
+
+7-9
+
+A large number of frames were saved here by, well, slowing down. Acceleration is based on a timer, and every 8 frames, mario can't accelerate. This is abused by losing frames so that mario did not need to lose two P triangles every time he jumped through a wall. This saved a number of frames each time it was used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
