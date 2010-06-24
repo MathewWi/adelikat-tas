@@ -1,16 +1,16 @@
 [module:ActiveTab|tab=b8]
 
-As always, I(We) have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+As always, I(We) have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my googlecode project.
 It includes the movie file, Savestates for each world, submission text, screenshots, a spreadsheet of frame counts, and Ram Addresses.
 %%% 
 
 ! Improvements
 
-This is a 13xx frame (22.x second) improvement over the [1059M|published] "Warpless" movie.  blah blah stuff about the warpless goal and basic info about our improvements
+This is a 1450 frame (24.2 second) improvement over the [1059M|published] "Warpless" movie.  3 major improvements account for about 60% of the time saved:  skipping a World 3 overworld hammer brother encounter (~8 seconds), getting ahead of the screen on autoscrollers as seen in the last two "Warps" movies (~6 seconds), and a sick new Bowser strat discovered by Tompa (~1 second).  Most of the work, however, went into the other 40%, which consists of several dozen improvements - many visually obvious - in geometry and strategy.
 
 ! andymac's comments
 
-Everyone knows Super Mario Bros. 3. Morimoto's historic TAS was the reason that a lot of us found the site. This was one of my favorite games when I was younger, so one day, a short time after the warped run was published, I decided to start an updated full game run, with some of the new tricks that had been discovered. After the first few days I was told that Adelikat and Lord Tom were planning a warpless TAS, so I asked if I could join them to do this. Needless to say, here we are, a year later with the finished product. I present to you Super Mario Bros. 3 in XX.XX.xx.
+Everyone knows Super Mario Bros. 3. Morimoto's historic TAS was the reason that a lot of us found the site. This was one of my favorite games when I was younger, so one day, a short time after the warped run was published, I decided to start an updated full game run, with some of the new tricks that had been discovered. After the first few days I was told that Adelikat and Lord Tom were planning a warpless TAS, so I asked if I could join them to do this. Needless to say, here we are, a year later with the finished product. I present to you Super Mario Bros. 3 in 47:04.70.
 
 Firstly I'd like to thank Adelikat, Lord Tom and Tompa, for obvious reasons. I would like to especially thank Adelikat, since he had to put up with my incessant whining and procrastination for an entire year. If he wasn't telling me to "just get on with it you F***" I probably wouldn't have finished this TAS until sometime in the next century. He also had to put up with my constant misquotations as well.
 
@@ -35,6 +35,12 @@ I have had many fun hours TASing this game. Thanks for the opportunity, dear tea
 ! Adelikat's comments
 
 ! Lord Tom's comments
+
+The seed for this project was planted during one of my rare IRC appearances with adelikat sometime in 2008.  We agreed it'd be cool to work on the warpless, but kind of dared each other to really get started for close to a year.  Once andymac came on board, we made halting progress through the first 3 worlds before everybody got motivated and roared through the rest of the run.  
+
+Alas, excessive life busyness made me a less-than-ideal team member, and I often had to settle for discovering improvements and posting them, rather than actually TASing entire levels, especially after World 3 was done.  For me, this was good and bad - good because I despise TASing auto-scrollers where pure entertainment is the goal, and bad because the rest of the gang had to pick up some slack (also, see Tompa's comment about whoring earlier levels).
+
+Did they ever, though.  I didn't know much about Tompa and andymac's skills when they came aboard (adelikat's a known quantity at this point!), but they're solid players who came up with some very surprising strats.
 
 !! Detailed comments
 
@@ -81,6 +87,10 @@ The only reason we could fight the hammer bros. so early was because of an extre
 ! 2-P
 
 The pyramid was one of the most complcated levels in the entire game, as such, many frames were saved due to optimisation of the many complicated elements involved. There were a few extra frames of lag near the start but that was pretty much unavoidable.
+
+! World 3
+
+Lord Tom held things up for a good month pondering novel strats, notably using the card game to get 2 flowers, thereby saving time on bosses later in the game.  It turns out this is slower by about 1 second, but proving that was very difficult as the change in item usage would reverberate through many levels as far ahead as World 7!  After that disappointment, however, Lord Tom was pleased to discover a way to get across the bridge between 3-6 and 3-8 without first fighting both hammer brothers.  By manipulating the hammer brother carrying the very-necessary hammer-item to cross the bridge ahead of Mario, we're able to kill the hammer after completing 3-8, leaving the other hammer brother, carrying a nearly worthless star, unfought, and banking almost 8 seconds.  
 
 ! 3-1
 
