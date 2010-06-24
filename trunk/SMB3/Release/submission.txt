@@ -46,9 +46,13 @@ Did they ever, though.  I didn't know much about Tompa and andymac's skills when
 ! Adelikat's comments
 
 As Lord Tom has mentioned this whole project started with Lord Tom and I discussing the idea of an improvement (shortly after his [1286|warps movie] was published).  I had a fun time making the published warpless movie and the idea of working with an impressive player such as Lord Tom was intruiging.  Also, last time I the floor glitching in auto-scrollers early in world 8 last time so it wasn't represented in any of the airships.  That always bugged me and I wanted a chance to correct those levels.  This project took forever and grinded to a halt to many times but I really enjoyed working with my teammates even when they annoying picked at spots many levels behind our current progress.  The result was a tightly optimized movie that I am proud of so it was all good in the end.  Also, everyone of my teammates are good and finding small improvements in seemingly anything.  That kept me on my toes and forced the highest quality work in all of us.  Having said all that, I'm glad we are done!  Whew!
+----
+!! Streaming
 
+[module:flowplayer|v=http://www.archive.org/download/supermariobros3-tas-warpless-adelikatandymaclordtomtompa/supermariobros3-tas-warpless-adelikatandymaclordtomtompa_512kb.mp4]
+%%%%
 !! Detailed comments
-
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World1.png]
 ! 1-1 and 1-2
 
 These levels were both copied from various WIPs and speedruns of SMB3. It turns out that no frames are saved in these levels compared to the previous run, however, no amount of foresight could have told us that. It just so happens that the particular sequence of randomness means that it's not worth using the "Faster" 1-1 from the warped run, since that would have an extra frame of lag, and we would lose a frame.
@@ -72,7 +76,9 @@ This level went through a number of iterations concerning various methods to get
 ! 1-Airship
 
 The usual cannon hopping 1up chains here.  But we also managed to show off a neat glitch with the fire flower.
-
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World2.png|right]
 ! 2-1
 
 Better stutter running was used at the start to get P speed earlier. Block clipping is also used to gain some frames. It turns out that it is possible to save 2 frames at the start of this level by pressing left for one frame, which would mean mario's initial position would be 10 pixels to the left of the ordinary starting position. However, this was not included in the final run as it did not include favourable randomness.
@@ -92,15 +98,19 @@ The only reason we could fight the hammer bros. so early was because of an extre
 ! 2-P
 
 The pyramid was one of the most complcated levels in the entire game, as such, many frames were saved due to optimisation of the many complicated elements involved. There were a few extra frames of lag near the start but that was pretty much unavoidable.
-
+%%%%
+----
 ! World 3
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World3.png]
 
 Lord Tom held things up for a good month pondering novel strats, notably using the card game to get 2 flowers, thereby saving time on bosses later in the game.  It turns out this is slower by about 1 second, but proving that was very difficult as the change in item usage would reverberate through many levels as far ahead as World 7!  After that disappointment, however, Lord Tom was pleased to discover a way to get across the bridge between 3-6 and 3-8 without first fighting both hammer brothers.  By manipulating the hammer brother carrying the very-necessary hammer-item to cross the bridge ahead of Mario, we're able to kill the hammer after completing 3-8, leaving the other hammer brother, carrying a nearly worthless star, unfought, and banking almost 8 seconds.  
 
 ! 3-1
 
 Accelerating in water has a frame rule, so you can only increment your speed value on certain frames. This is abused to save a reasonable amount of frames. Accelerating on the floor underneath the water is faster than just accelerating in water, however the top speed of walking underwater is much less than that of swimming. This is also abused to save frames.
-
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World4.png|right]
 ! 4-1
 
 The start is the most difficult part of this level, with all the complicated stutter running. It was at this time we discovered that duck jumping past corners gives a one pixel boost.
@@ -112,7 +122,9 @@ The start of this level is improved, with running speed gained significantly ear
 ! 4-2F
 
 The flower grab was much more optimal in this movie compared to the last one, with about a third of a second saved. Lag was also reduced.
-
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World5.png]
 ! 5-4
 
 The fastest strategy for this level is to hit one of the spinning platforms to gain a speed of 64. afterwards, the challenge is to maintain that speed while keeping the P meter full. This level went through several iterations.
@@ -132,11 +144,19 @@ This level is largely boring, due to the need to spend a long time whithin a wal
 ! 5-8
 
 The aim of this level is to get mario to the right as fast as possible.
-
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World6.png|right]
 ! 6-F
 
 The first room of the fortress went through a number of iterations regarding the fastest way to get past the spikes. The startegy shown was only a few pixels away from not being possible. The next room was equally as difficult to get through, and this also went through a number of iterations. Overall, even without the use of the star, this level was faster than the previous movie.
 
+! 6-F2
+
+! 6-F3
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World7.png]
 ! 7-3
 
 A few frames of delay at the start meant that we could keep a higher speed throughout the level. However, one more frame of lag was a result.
@@ -156,7 +176,9 @@ A few frames were saved compared to the previous movie by doing a large jump bef
 ! 7-9
 
 A large number of frames were saved here by, well, slowing down. Acceleration is based on a timer, and every 8 frames, mario can't accelerate. This is abused by losing frames so that mario did not need to lose two P triangles every time he jumped through a wall. This saved a number of frames each time it was used.
-
+%%%%
+----
+[http://dl.dropbox.com/u/75355/HostedImages/SMB3/SMB3-World8.png|right]
 ! 8-T
 
 (adelikat) What a pain, though only a fraction of the pain that a warps 8-T woudl be.  No raccoon mario means no difficult 1up chains to optimize and more freedom to try to good around and have fun.  I managed to remove a number of lag frames that I didn't even know were there last time (no lag counter bad in those days).
