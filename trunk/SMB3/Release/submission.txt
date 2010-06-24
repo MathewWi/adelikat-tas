@@ -6,7 +6,9 @@ It includes the movie file, Savestates for each world, submission text, screensh
 
 ! Improvements
 
-This is a 1450 frame (24.2 second) improvement over the [1059M|published] "Warpless" movie.  3 major improvements account for about 60% of the time saved:  skipping a World 3 overworld hammer brother encounter (~8 seconds), getting ahead of the screen on autoscrollers as seen in the last two "Warps" movies (~6 seconds), and a sick new Bowser strat discovered by Tompa (~1 second).  Most of the work, however, went into the other 40%, which consists of several dozen improvements - many visually obvious - in geometry and strategy.
+This is a 1450 frame (24.2 second) improvement over the [1059M|published] "Warpless" movie.  3 major improvements account for about 60% of the time saved:  skipping a World 3 overworld hammer brother encounter (~8 seconds), getting ahead of the screen on autoscrollers as seen in the last two "Warps" movies (~6 seconds), and a sick new Bowser strat discovered by Tompa (~1 second).  Most of the work, however, went into grinding away at the other 40%, which consists of numerous small frame improvements - many visually obvious - in geometry and strategy.
+
+This movie also demonstrates a new SMB3 trick - Corner boosting.  It works much like NSMB style corner boosts except mario must duck jump in order to achieve it.  Details are explained on the [SuperMarioBros3Tricks|SMB3 tricks page].
 
 ! andymac's comments
 
@@ -32,8 +34,6 @@ One thing that has made Adelikat (mainly) hate me a couple of times, is the way 
 
 I have had many fun hours TASing this game. Thanks for the opportunity, dear team members.
 
-! Adelikat's comments
-
 ! Lord Tom's comments
 
 The seed for this project was planted during one of my rare IRC appearances with adelikat sometime in 2008.  We agreed it'd be cool to work on the warpless, but kind of dared each other to really get started for close to a year.  Once andymac came on board, we made halting progress through the first 3 worlds before everybody got motivated and roared through the rest of the run.  
@@ -41,6 +41,11 @@ The seed for this project was planted during one of my rare IRC appearances with
 Alas, excessive life busyness made me a less-than-ideal team member, and I often had to settle for discovering improvements and posting them, rather than actually TASing entire levels, especially after World 3 was done.  For me, this was good and bad - good because I despise TASing auto-scrollers where pure entertainment is the goal, and bad because the rest of the gang had to pick up some slack (also, see Tompa's comment about whoring earlier levels).
 
 Did they ever, though.  I didn't know much about Tompa and andymac's skills when they came aboard (adelikat's a known quantity at this point!), but they're solid players who came up with some very surprising strats.
+
+
+! Adelikat's comments
+
+As Lord Tom has mentioned this whole project started with Lord Tom and I discussing the idea of an improvement (shortly after his [1286|warps movie] was published).  I had a fun time making the published warpless movie and the idea of working with an impressive player such as Lord Tom was intruiging.  Also, last time I the floor glitching in auto-scrollers early in world 8 last time so it wasn't represented in any of the airships.  That always bugged me and I wanted a chance to correct those levels.  This project took forever and grinded to a halt to many times but I really enjoyed working with my teammates even when they annoying picked at spots many levels behind our current progress.  The result was a tightly optimized movie that I am proud of so it was all good in the end.  Also, everyone of my teammates are good and finding small improvements in seemingly anything.  That kept me on my toes and forced the highest quality work in all of us.  Having said all that, I'm glad we are done!  Whew!
 
 !! Detailed comments
 
@@ -154,36 +159,31 @@ A large number of frames were saved here by, well, slowing down. Acceleration is
 
 ! 8-T
 
+(adelikat) What a pain, though only a fraction of the pain that a warps 8-T woudl be.  No raccoon mario means no difficult 1up chains to optimize and more freedom to try to good around and have fun.  I managed to remove a number of lag frames that I didn't even know were there last time (no lag counter bad in those days).
+
 ! 8-S
 
-We actually have a speed/entertainment tradeoff here.  TODO: explain
+(adelikat ) We actually have a speed/entertainment tradeoff here.  Instead of floor glitching in the same spots as the warps movie I delayed it in preference to do what I consider to be the most instersting 1up chain in smb3 tases since it is a long 1up chain without racoon mario.  Delaying the floor gltich means not having time to get all the way to the edge of the screen.  The cost is about 22 frames, but hey, this is a warpless movie anyway, the point is to show more of the game right?
 
 ! 8-A
 
+(adelikat) Not much to say here.  The jumping on the edge of the screen strat from the warps movie was used here saving some frames.
+
 ! 8-1
+
+Matches the warps movie (Well, technically it is 1 frame faster but that is due to not having to manipulate the card at the end) despite several pixels of improvements and a corner boosting opportunity.  Every small improvement got wiped by various things such as frame rules and other ill-timed events. 
 
 ! 8-2
 
-! 8-F
+Matches the warps movie but sooo close to saving a frame here!  
 
 ! 8-T2
 
+(adelikat) The goal is Fun & crazy antics here, lag isn't as much of an issue as the other auto-scrollers so there was nothing to improve.  On the map after T2 we saved a frame compared to the warps movie.  The warps movie made the mistake of using the start then moving to the castle.  The optimal strat was to move once then use the start then move to the castle (to take advantage of mario being able to insta-move on the first map movement by holding a direction ahead of time.
+
+
 ! Bowser's Castle
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 frame saved up to the door by dumb luck of the 8 frame rule going in our favor.  8 frames saved by andymac on from the door to bowswer.  Bowser improved by 50 frames compared to all previous movies (warps/warpless) with a new trick.  By killing him on the frame he is touching the ground, he pops into the air a lot less, thus falls of the screen a lot sooner.
 
 
