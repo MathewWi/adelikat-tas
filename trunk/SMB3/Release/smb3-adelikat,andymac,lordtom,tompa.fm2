@@ -13,6 +13,7 @@ port2 0
 FDS 0
 NewPPU 0
 comment author adelikat, andymac, Lord Tom, Tompa     
+comment improvement 1450 frames
 subtitle 100 NES Super Mario Bros. 3 "Warpless"
 subtitle 300 By adelikat, andymac, Lord Tom and Tompa
 subtitle 500 Running fast fills the P-meter, allowing higher speeds
