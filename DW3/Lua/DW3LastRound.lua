@@ -5,12 +5,21 @@
 local selectk, donek, hidek, morek, nextk = "S","D","H","M", "N";
    	
 BattleCheck =30;
-
+BATTLE = 0x0032;
 RNGA1 = 0x001C;
 RNGA2 = 0x00A4;
 MENU = 0x0D4F;
 EnemyHP = 0x0500; 
 PlayerHP = 0x71C;
+MHP = 0724;
+STR = 0x0704;
+AG = 0x0708;
+INT = 0x070C;
+LUCK = 0x0710;
+VIT = 0x0714;
+LVL = 0x0700;
+MMP = 0x0734;
+
 EALIVE = 0x0531;
 local keys, last_keys = {}, {};
 local nums = {};
@@ -31,12 +40,28 @@ key1 = {};
 key1['A'] = true;
 Results = {};
 FClist = {};
+Matcher = {};
 R1List = {};
 R2List = {};
 startframecount = movie.framecount();
 START = savestate.create();
 FCEU.speedmode('turbo');
 savestate.save(START);
+   
+for checks = 0,3,1 do
+		Matcher[checks] = {};
+	  	Matcher[checks].MaxHP =  memory.readbyte(MHP+checks*2);
+	  	Matcher[checks].Lvl = memory.readbyte(LVL + checks*1);
+	  	Matcher[checks].Str = memory.readbyte(STR + checks*1);	  	
+	  	Matcher[checks].Luck =memory.readbyte(LUCK + checks*1);
+	  	Matcher[checks].Ag = memory.readbyte(AG + checks*1);
+	  	Matcher[checks].Int = memory.readbyte(INT + checks*1);
+	  	Matcher[checks].Vit = memory.readbyte(VIT + checks*1);
+	  	Matcher[checks].MaxMP = memory.readbyte(MMP + checks*2);
+	  	 	
+end;
+Pgs = {};
+
 function GetOrders(Start,Finish)
 	for curord = Start,Finish,1 do
 		savestate.load(START);
@@ -51,7 +76,8 @@ function GetOrders(Start,Finish)
 		FCEU.frameadvance();
 		FCEU.frameadvance();
 		gui.text(10,10, string.format('%d of %d done.', curord+1-Start, Finish-Start+1)); 
-		while memory.readbyte(MENU) == 128 do
+		Finished = false;
+		while (memory.readbyte(MENU) == 128) and  Finished ~= true do
 			if FCEU.lagged() then
 				FCEU.frameadvance();
 			else
@@ -59,7 +85,39 @@ function GetOrders(Start,Finish)
 				FCEU.frameadvance();
 				FCEU.frameadvance();
 			end;
+			Passin = true;
+			for n = 0,4,1 do
+				if memory.readbyte(EALIVE+n*2) ~= 0 then
+					Passin = false;
+				end
+			end;
+			if Passin then 
+				Finished = true;
+			end;									
 		end;		
+		if Finished then 
+			while memory.readbyte(BATTLE) ~= 0 do
+				joypad.set(1,key1);
+				FCEU.frameadvance();
+			end;
+			Pg = {};
+			for checks = 0,3,1 do
+				 s1 = memory.readbyte(MHP+checks*2) - Matcher[checks].MaxHP;
+	  			 s2 =  memory.readbyte(STR + checks*1) - Matcher[checks].Str;	  	
+	  			 s3 = memory.readbyte(LUCK + checks*1) - Matcher[checks].Luck;		  		
+			  	 s4 = memory.readbyte(AG + checks*1) - Matcher[checks].Ag;
+	  			 s5 = memory.readbyte(INT + checks*1)-Matcher[checks].Int;
+	  			 s6 = memory.readbyte(VIT + checks*1) - Matcher[checks].Vit;
+	  			 s7 = memory.readbyte(MMP + checks*2) - Matcher[checks].MaxMP;
+	  			Pg[checks+1] = string.format('%d: P%d S%d L%d A%d I%d V%d H%d M%d',curord, checks+1, s2, s3, s4, s5, s6, s1, s7);				  				  			
+	  		end;
+		else
+			Pg = {};
+			for n = 1,4,1 do 
+				Pg[n] = string.format('%d: ',curord);			
+			end;			
+		end;		
+		Pgs[curord+1] = Pg;
 		outs = string.format('%d: ',curord);			
 		for checks = 0,4,1 do		
 			Diff = memory.readbyte(EnemyHP+checks*2) - EHP[checks+1];
@@ -105,7 +163,7 @@ AttackNum = 0;
  entermode = false;
  CurStart = 0;
  poses = 0;
- pagetype = true;
+ pagetype =1;
  lastmessage = "Commands: S - Show Attack, M- more, D - done";
  lastmessage2 = ""; 
 FCEU.speedmode('normal');
@@ -117,19 +175,21 @@ FCEU.speedmode('normal');
 		   	if i+CurStart == BattleCheck+1 then
 		    		gui.text(7,10*(i-1)+1,'end','white','black');		 
 		   	elseif i+CurStart <= BattleCheck then 
-		   	    if pagetype then		   	    
+		   	    if pagetype == 1 then		   	    
 		    		if AttackNum+1 == i+CurStart then
 		    			gui.text(7,10*(i-1)+1,Results[i+CurStart],'red','black');		
 		    		else
 	    				gui.text(7,10*(i-1)+1,Results[i+CurStart],'white','black');
 	    			end;	    			
-	    		else
+	    		elseif pagetype == 2 then	    		
 	    			if AttackNum+1 == i+CurStart then		    			
-	    			gui.text(7,10*(i-1)+1, string.format('%d: RNG1: %d, RNG2: %d, Length: %d frames',i+CurStart-1, R1List[i+CurStart],R2List[i+CurStart], FClist[i+CurStart]), 'red','black');		
+	    				gui.text(7,10*(i-1)+1, string.format('%d: RNG1: %d, RNG2: %d, Length: %d frames',i+CurStart-1, R1List[i+CurStart],R2List[i+CurStart], FClist[i+CurStart]), 'red','black');		
 		    		else
 	    				gui.text(7,10*(i-1)+1, string.format('%d: RNG1: %d, RNG2: %d, Length: %d frames',i+CurStart-1, R1List[i+CurStart],R2List[i+CurStart], FClist[i+CurStart]), 'white','black');		
 	    			end;
-	    			
+	    		else 
+	    			Pg = Pgs[i+CurStart]
+	    			gui.text(7,10*(i-1)+1,Pg[pagetype-2],'white','black');	
 	    		end;	
 	        end;	    		
 	 	end;
@@ -146,7 +206,10 @@ FCEU.speedmode('normal');
 		end;   	
 	
 	if press(nextk) then
-		pagetype = not pagetype;
+			pagetype = pagetype + 1;
+			if pagetype == 7 then
+				pagetype = 1;
+			end;
 		end;
      
      if press(plus) then
@@ -232,7 +295,8 @@ FCEU.frameadvance();
 FCEU.frameadvance()
 FCEU.frameadvance()
 FCEU.frameadvance()
-while memory.readbyte(MENU) == 128 do
+Finished = false;
+while (memory.readbyte(MENU) == 128) and  Finished ~= true do
 			if FCEU.lagged() then
 				FCEU.frameadvance();
 			else
@@ -240,5 +304,19 @@ while memory.readbyte(MENU) == 128 do
 				FCEU.frameadvance();
 				FCEU.frameadvance();
 			end;
-end;		
-FCEU.pause();
+			Passin = true;
+			for n = 0,4,1 do
+				if memory.readbyte(EALIVE+n*2) ~= 0 then
+					Passin = false;
+				end
+			end;
+			if Passin then 
+				Finished = true;
+			end;									
+		end;		
+		if Finished then 
+			while memory.readbyte(BATTLE) ~= 0 do
+				joypad.set(1,key1);
+				FCEU.frameadvance();
+			end;
+		end;			
