@@ -1,0 +1,26 @@
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]%%%
+[user:adelikat]%%%
+%%%
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+It includes the movie file, submission text, and level savestates.
+%%%
+Streaming Links:%%%
+* []
+
+!
+[image goes here]
+This is an Best ending version of Virtual Boy Wario Land.  It aims to get all hidden treasures in the game.  Blah blah offers more variety of power-ups showing different strats, and shows more of the game.
+
+
+
+%%%%
+----
+! Summary
+
+* Best Ending (All Treasures)
+* Takes damage to save time
+* Emulator used: VBjin SVN61
+
+
+[module:Flowplayer|v=|w=384|h=224|i=]%%%
