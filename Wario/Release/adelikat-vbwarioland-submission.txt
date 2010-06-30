@@ -5,8 +5,9 @@
 As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
 It includes the movie file, submission text, and level savestates.
 %%%
-Streaming Links:%%%
-* []
+! Streaming Links:%%%
+* [http://www.dailymotion.com/video/xdv11j|Dailymotion]
+* [ http://www.archive.org/details/virtualboywarioland-goodending-tas-adelikat|Archive]
 
 !
 [image goes here]
@@ -20,6 +21,9 @@ This is an Best ending version of Virtual Boy Wario Land.  It aims to get all hi
 * Best Ending (All Treasures)
 * Takes damage to save time
 * Emulator used: VBjin SVN61
-
-
-[module:Flowplayer|v=|w=384|h=224|i=]%%%
+%%%
+----
+[module:Flowplayer|v= http://www.archive.org/details/virtualboywarioland-goodending-tas-adelikat|w=384|h=224|i=http://dl.dropbox.com/u/75355/HostedImages/Wario100-1.png]
+%%%
+%%%
+Enjoy!
