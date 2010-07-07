@@ -1,6 +1,13 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==NES Super Mario Bros 3 "Warpless"==
+[http://dl.dropbox.com/u/75355/HostedImages/smb3_1059.png]
+
+authors: adelikat, andymac, Lord Tom, Tompa
+
+Published: [http://tasvideos.org/1558M.html here]!
+
 ==DS New Super Mario Bros.==
 [http://dl.dropbox.com/u/75355/HostedImages/nsmb.png]
 
