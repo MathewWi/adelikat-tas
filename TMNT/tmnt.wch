@@ -7,17 +7,17 @@
 00004	04C0	b	s	0	X Pix Speed
 00005	04F0	b	s	0	X subPix Speed
 00006	0470	b	s	0	Y subs
-00007	0000	b	h	0	-----------------------------
+00007	0000	S	S	0	----------------------------
 00008	0077	b	u	0	Leo Health
 00009	0079	b	u	0	Mike Health
 0000A	0078	b	u	0	Raph Health
 0000B	007A	b	u	0	Don Health
-0000C	0001	b	h	0	----------------------------
+0000C	0000	S	S	0	----------------------------
 0000D	007D	b	s	0	Bombs Defused
 0000E	0055	b	u	0	Technodrom location
 0000F	03D8	b	u	0	Drop counter
 00010	0604	b	u	0	Enemy Set
-00011	0002	b	h	0	-------------------------------
+00011	0000	S	S	0	----------------------------
 00012	0565	b	s	0	E1 HP
 00013	0505	b	u	0	E1 invuln timer
 00014	0566	b	u	0	E2 HP
@@ -28,3 +28,4 @@
 00019	0508	b	s	0	E4 invuln timer
 0001A	0569	b	s	0	E5 HP
 0001B	0509	b	u	0	E5 invuln timer
+mer
