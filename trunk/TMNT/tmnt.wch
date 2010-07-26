@@ -17,7 +17,7 @@
 0000E	0055	b	u	0	Technodrom location
 0000F	03D8	b	u	0	Drop counter
 00010	0604	b	u	0	Enemy Set
-00011	0565	b	s	0	E1 HP
+00011	0565	b	u	0	E1 HP
 00012	0505	b	u	0	E1 invuln timer
 00013	0566	b	u	0	E2 HP
 00014	0506	b	u	0	E2 invuln timer
