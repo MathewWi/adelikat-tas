@@ -7,8 +7,8 @@ Jc 6h 9c 5h 0h 7h 9s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 6c    0d Qh 9d 
-8h 3h 7d 2s 6c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 8s Qh 0s Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s Qs 6c 
 
 
 
@@ -21,8 +21,8 @@ DECK 1
                8h 5h 
                   Ah 
 
-2h 0d 6d 9h 7c 9c 3s 5c    2h 0d 6d 
-9h 7c 9c 3s 5c    2h 0d 6d 9h 7c 9c 
+Js Ad 2h 8s Kc 0d 4d 5d 6d 7d Qs 9h 
+4h 9s 7c 6h Qc 9c Qh As 3s 5s Kh 5c 
 
 
 
@@ -35,8 +35,8 @@ As Js 9c 6c 5d Jc Ah
                4d Kh 
                   Jh 
 
-2d Kc 7d 5h Qs Jd 4h 4c    2d Kc 7d 
-5h Qs Jd 4h 4c    2d Kc 7d 5h Qs Jd 
+Qh 7h 2d 8h 2h Kc Qd Kd 7d 8d 9d 5h 
+Ac 9h Qs 3d 6d Jd 6h 4s 4h 5s 8s 4c 
 
 
 
@@ -49,8 +49,8 @@ As 8h 9h Jc 0c Kc 4s
                Js 6h 
                   Qh 
 
-8d 6s 4h Kh Qc 9d 2c 3c    8d 6s 4h 
-Kh Qc 9d 2c 3c    8d 6s 4h Kh Qc 9d 
+7c Ad 8d Kd 3s 6s 9s Qs 4h 7h 0h Kh 
+5c 9c Qc 2d 6d 9d Ks 5d 2c 8c Ah 3c 
 
 
 
@@ -63,8 +63,8 @@ Ad Kh 3h 7s 7h 5d 0s
                Kc 5s 
                   9s 
 
-Qs 7c 0d 8c 6s 6h Qd 2d    Qs 7c 0d 
-8c 6s 6h Qd 2d    Qs 7c 0d 8c 6s 6h 
+3s 5h Qs Ah 8s 7c 3d 4d 0d 4c 5c 8c 
+2h 0h 6s Jh 9h 6h Ks 2s Qd 2c Qc 2d 
 
 
 
@@ -77,8 +77,8 @@ DECK 5
                Jd Kh 
                   0h 
 
-8s 2d 8h 8d 2c 3s Jh As    8s 2d 8h 
-8d 2c 3s Jh As    8s 2d 8h 8d 2c 3s 
+Qh 6h 8s 9s Ah 2d Js 3c 8h 5c 0s 8d 
+5s 7d 2c 3d Ac 3s Jc 6d Jh 5d 0c As 
 
 
 
@@ -91,8 +91,8 @@ Jh Qs Ad 6s 2s 3h 8c
                5s 0d 
                   Kd 
 
-Jd 4c Kc Ah Qc 9s 8s 9d    Jd 4c Kc 
-Ah Qc 9s 8s 9d    Jd 4c Kc Ah Qc 9s 
+Kh 7s Jd 3c 4d 4c 0c Jc Kc 4s 4h Ah 
+3s 9c Qc 6c Ks 9s 7d Ac 8s 2d Qd 9d 
 
 
 
@@ -105,8 +105,8 @@ DECK 7
                Ac 3c 
                   8h 
 
-8s Qs 7c 4d As 0h 3d 8d    8s Qs 7c 
-4d As 0h 3d 8d    8s Qs 7c 4d As 0h 
+2s 4h 8s Kd 6s Qs 5h 7d 7c Qc Js 4d 
+4s 0c As 6h 8c 0h 0d 7h 3d 5s 5d 8d 
 
 
 
@@ -119,8 +119,8 @@ DECK 8
                Js 6d 
                   5c 
 
-9h 8d 3s 9c 0s 5s 4s 7d    9h 8d 3s 
-9c 0s 5s 4s 7d    9h 8d 3s 9c 0s 5s 
+Kc 8c 9h 3d 0d 8d 4h Kh 3s 4d Jh 9c 
+2d 7h 0s Ad 2h 5s 3h 5d 4s Ac 9s 7d 
 
 
 
@@ -133,8 +133,8 @@ DECK 9
                0h Kh 
                   Qh 
 
-Qc Ks 2s 3h 7s 6c 9s 6d    Qc Ks 2s 
-3h 7s 6c 9s 6d    Qc Ks 2s 3h 7s 6c 
+4c 2h Qc 7h Ah Ks 8h Jc 2s 4d 5d 3h 
+7d 9c 7s Js Kd 6c 6h 2d 9s 0s 6s 6d 
 
 
 
@@ -147,8 +147,8 @@ DECK 10
                6c Ks 
                   2c 
 
-2d 9d 8s 2h Jh Qd Ac 5s    2d 9d 8s 
-2h Jh Qd Ac 5s    2d 9d 8s 2h Jh Qd 
+Jc 7d 2d 6s 5c 9d 3c 7h 8s 3d 5h 2h 
+8c Jd Jh Kh 8d Qd 0h 9c Ac 0c 3s 5s 
 
 
 
@@ -161,8 +161,8 @@ DECK 11
                Qs 5s 
                   Qc 
 
-6d 0h Ah 4s Qh 3c 4d 4h    6d 0h Ah 
-4s Qh 3c 4d 4h    6d 0h Ah 4s Qh 3c 
+Ac Ad 6d 3s 9c 0h Kh Jc Ah 7h 2h 4s 
+Jd Ks Qh 8d 3d 3c Jh 7d 4d 9d 4c 4h 
 
 
 
@@ -175,8 +175,8 @@ DECK 12
                4c 6c 
                   Jh 
 
-3s 9c 7c 5s 9h 0d 4d Qs    3s 9c 7c 
-5s 9h 0d 4d Qs    3s 9c 7c 5s 9h 0d 
+6h Jd 3s 4s 9s 9c 8h Ah 7c 2c Kd 5s 
+6d 3c 9h 3h 7d 0d 4h Qd 4d Qc Ks Qs 
 
 
 
@@ -189,8 +189,8 @@ DECK 13
                4d 3h 
                   4c 
 
-6s 3s 0h 9s 7s 5h 5d Js    6s 3s 0h 
-9s 7s 5h 5d Js    6s 3s 0h 9s 7s 5h 
+6d Qh 6s 8c Ah 3s Jh Kc 0h 4s 2c 9s 
+8s 2s 7s 2h Ad 5h Kh 6c 5d 7c Jc Js 
 
 
 
@@ -203,8 +203,8 @@ DECK 14
                6h Kd 
                   Jh 
 
-2h Ad 3c 6c Ks 2d 5d 0s    2h Ad 3c 
-6c Ks 2d 5d 0s    2h Ad 3c 6c Ks 2d 
+9c 9d 2h 6d Kc Ad Qd 5h 3c 8c As 6c 
+4h 9h Ks 0d Ah 2d 3d 5s 5d 6s 8s 0s 
 
 
 
@@ -217,8 +217,8 @@ DECK 15
                4d 8d 
                   Ad 
 
-5d 3c 5c 6d Qh 2c 7h 9s    5d 3c 5c 
-6d Qh 2c 7h 9s    5d 3c 5c 6d Qh 2c 
+Qc 2d 5d 8c Kd 3c 0h 4h 5c As Kc 6d 
+8s 4c Qh 7c 0s 2c Ac Kh 7h 0c 9c 9s 
 
 
 
@@ -231,8 +231,8 @@ DECK 16
                2s 7h 
                   Ac 
 
-Qd As 6h 6s 4h 8d Jh 8h    Qd As 6h 
-6s 4h 8d Jh 8h    Qd As 6h 6s 4h 8d 
+7c 2c Qd Qh 0c As 4d Jd 6h 6d Jc 6s 
+Qs Js 4h Ks 5d 8d Qc Kd Jh Kc 0d 8h 
 
 
 
@@ -245,8 +245,8 @@ DECK 17
                6c Ad 
                   4d 
 
-5h 8s 8c 9h Ac 2h Qc 7c    5h 8s 8c 
-9h Ac 2h Qc 7c    5h 8s 8c 9h Ac 2h 
+8d 3d 5h 3c 7h 8s Ks 0c 8c 9c 5c 9h 
+6h 2s Ac Js 7s 2h 6d 9s Qc 0d 7d 7c 
 
 
 
@@ -259,8 +259,8 @@ DECK 18
                2h 8d 
                   7c 
 
-7s Ks Jh 4s As 5d 8h 6d    7s Ks Jh 
-4s As 5d 8h 6d    7s Ks Jh 4s As 5d 
+0s 9s 7s Qd Qc Ks 6s 2s Jh 9c Js 4s 
+6c Ad As Qh Ah 5d 6h Qs 8h 0d 7h 6d 
 
 
 
@@ -273,8 +273,8 @@ Qh 0d 3d 2d 0s 6h Jc
                7c 5h 
                   4c 
 
-Kc 7d 2s 4d 3h 9d 5s Ad    Kc 7d 2s 
-4d 3h 9d 5s Ad    Kc 7d 2s 4d 3h 9d 
+9c 8d Kc 8s 6c 7d 9s As 2s 2c Jd 4d 
+Js 4h 3h 9h 7h 9d Qd 5d 5s Ac 3s Ad 
 
 
 
@@ -287,8 +287,8 @@ DECK 20
                Kh 0s 
                   9c 
 
-Qd 5s 2d Jc Qh 2h Ac Kc    Qd 5s 2d 
-Jc Qh 2h Ac Kc    Qd 5s 2d Jc Qh 2h 
+4h 7d Qd Ad 9h 5s 8c 7s 2d 7c 2s Jc 
+5d 4s Qh Qs Jd 2h 5c 6s Ac 3d 0c Kc 
 
 
 
@@ -301,8 +301,8 @@ DECK 21
                Qd 6c 
                   Qh 
 
-Ah 0s Ad 4s 3h Kd 5s Qc    Ah 0s Ad 
-4s 3h Kd 5s Qc    Ah 0s Ad 4s 3h Kd 
+2s Qs Ah 9h 8c 0s Ks Jc Ad 0c 3d 4s 
+8h 5d 3h Jd 4c Kd Kh 4d 5s 7s 2c Qc 
 
 
 
@@ -315,8 +315,8 @@ Js As 8h 9s Jc Kc 8s
                0h Ks 
                   8d 
 
-7c Kh 7s 5c 3s 9c 3c Jd    7c Kh 7s 
-5c 3s 9c 3c Jd    7c Kh 7s 5c 3s 9c 
+4c 6h 7c Qs Jh Kh Ac 4d 7s 6s 9d 5c 
+8c 2d 3s 9h Ah 9c 0c 2c 3c 4s Qh Jd 
 
 
 
@@ -329,8 +329,8 @@ DECK 23
                5h 7h 
                   8s 
 
-Ac 3d 3c 6s Kc 5d Ks 0s    Ac 3d 3c 
-6s Kc 5d Ks 0s    Ac 3d 3c 6s Kc 5d 
+9c 2h Ac Qc 6c 3d 2s 0c 3c Kd 7s 6s 
+Qs 3s Kc 6d 5c 5d 6h 8c Ks 2d Ad 0s 
 
 
 
@@ -343,8 +343,8 @@ DECK 24
                Jh 4d 
                   4c 
 
-6s Qc Qh 9h 3s Qd Jc 5s    6s Qc Qh 
-9h 3s Qd Jc 5s    6s Qc Qh 9h 3s Qd 
+0c 5d 6s Kd Qs Qc 7s 8c Qh Ks 0d 9h 
+6h Kc 3s Kh 6c Qd As Ac Jc 3c Ad 5s 
 
 
 
@@ -357,8 +357,8 @@ DECK 25
                7s Qc 
                   Ks 
 
-0s 5h 9s 6s As 0h 2s 4s    0s 5h 9s 
-6s As 0h 2s 4s    0s 5h 9s 6s As 0h 
+Qs 8h 0s Js 4d 5h 5s Qh 9s Qd 7h 6s 
+2c 8c As 5d Ah 0h 6d 3d 2s 6c 8d 4s 
 
 
 
@@ -371,8 +371,8 @@ As 3h Kc 8c Qd 4d 5h
                Jd Kh 
                   0h 
 
-8s 2d 8h 8d 2c 2s Jh 3s    8s 2d 8h 
-8d 2c 2s Jh 3s    8s 2d 8h 8d 2c 2s 
+Qh 6h 8s 9s Ah 2d Js 3c 8h 5c 0s 8d 
+5s 7d 2c 3d Ac 2s Jc 6d Jh 5d 0c 3s 
 
 
 
@@ -385,8 +385,8 @@ DECK 27
                0d Jh 
                   8c 
 
-7c Kh 2c Ks 6s 3h 5c 2s    7c Kh 2c 
-Ks 6s 3h 5c 2s    7c Kh 2c Ks 6s 3h 
+6h 9d 7c 4h 6d Kh 5h 4d 2c 8h 2d Ks 
+3s 3d 6s 9h Kd 3h 4c Qh 5c 0c 8d 2s 
 
 
 
@@ -399,8 +399,8 @@ Qs As 5d Qd 2h 6d 3s
                Qc 4c 
                   6c 
 
-7h 4h 9d 6s 5c Qh 8c Ah    7h 4h 9d 
-6s 5c Qh 8c Ah    7h 4h 9d 6s 5c Qh 
+0c Ad 7h 8d 8h 4h Ks Ac 9d 9c 3d 6s 
+9h 0h 5c 4s Kh Qh Jh 5h 8c 7c 7s Ah 
 
 
 
@@ -413,8 +413,8 @@ Qc 9d 7c 6h Ac 0d As
                3h 9h 
                   9c 
 
-2s 5s 3c Jc 2d 8c 8s Kh    2s 5s 3c 
-Jc 2d 8c 8s Kh    2s 5s 3c Jc 2d 8c 
+0c 2h 2s 6d Kc 5s 6c 4h 3c 7h 4c Jc 
+7s Ks 2d 6s 4d 8c Qh Jh 8s 3d 4s Kh 
 
 
 
@@ -427,8 +427,8 @@ Ad 4h 8s Jh Ah 9s 7d
                4c 2d 
                   8d 
 
-Jd 3h 7h 9h Qh 6c 5s 8c    Jd 3h 7h 
-9h Qh 6c 5s 8c    Jd 3h 7h 9h Qh 6c 
+7s 4s Jd As 5h 3h 8h 9d 7h 5d 0c 9h 
+Js 2c Qh 6d 0s 6c 4d 6s 5s Jc 3d 8c 
 
 
 
@@ -441,8 +441,8 @@ As Qh Kh Jc 0c Qc 4s
                3h 0h 
                   3c 
 
-6d 6s 8h 4c 9s Ks 0d 7c    6d 6s 8h 
-4c 9s Ks 0d 7c    6d 6s 8h 4c 9s Ks 
+9c Ad 6d Qd 3s 6s 0s 5h 8h Jh Ac 4c 
+5d Ah 9s 4h Kc Ks Qs Kd 0d Jd Js 7c 
 
 
 
@@ -455,8 +455,8 @@ As Ah Js 9s 4d 3c 8h
                Ks Qh 
                   0h 
 
-9h Jh 0s 5c 3h Kh Kd 6c    9h Jh 0s 
-5c 3h Kh Kd 6c    9h Jh 0s 5c 3h Kh 
+5s 8d 9h 0d 5d Jh 9c 8s 0s 7d 9d 5c 
+0c Jd 3h Qd 2c Kh 7h 3s Kd 7c Qc 6c 
 
 
 
@@ -469,8 +469,8 @@ DECK 33
                Jh Ac 
                   Js 
 
-As 3d 6c Qs 8h 0h 4s 5c    As 3d 6c 
-Qs 8h 0h 4s 5c    As 3d 6c Qs 8h 0h 
+4d Ad As 2d Ks 3d Qh 9h 6c Qd 4c Qs 
+Qc 4h 8h 0s 7h 0h 6d Jc 4s 5h 9s 5c 
 
 
 
@@ -483,8 +483,8 @@ Jh 8h Jd 2h Kd 6d 2d
                9s 7d 
                   Qs 
 
-9h Ah 9d 6c Ac Jc Ad 4c    9h Ah 9d 
-6c Ac Jc Ad 4c    9h Ah 9d 6c Ac Jc 
+3h Js 9h 0h 7h Ah Kc 8d 9d 2s Qc 6c 
+9c 6h Ac 0s Qh Jc 7s As Ad 5d 0c 4c 
 
 
 
@@ -497,8 +497,8 @@ DECK 35
                9c 8c 
                   0d 
 
-Js Kd Jh 7s 3s 7h 5d 3d    Js Kd Jh 
-7s 3s 7h 5d 3d    Js Kd Jh 7s 3s 7h 
+Qh 8h Js 6h 7c Kd 4c 0c Jh Ac Ad 7s 
+Qc 6c 3s 3h Jc 7h 8s Ah 5d Qd 0s 3d 
 
 
 
@@ -511,8 +511,8 @@ Ks Ah 9c 2d Kh 0h 3c
                Qh Jd 
                   4c 
 
-4h 0c Jh 9d 0s Qc 5c 2s    4h 0c Jh 
-9d 0s Qc 5c 2s    4h 0c Jh 9d 0s Qc 
+0d 3d 4h Ac 2c 0c 7s 6h Jh Kd 5s 9d 
+2h 6s 0s 4s 5d Qc 8h 6c 5c 7h 8d 2s 
 
 
 
@@ -525,8 +525,8 @@ DECK 37
                Qd 5c 
                   Jh 
 
-8s 9h Jd Kd 5h 9c 4s 0d    8s 9h Jd 
-Kd 5h 9c 4s 0d    8s 9h Jd Kd 5h 9c 
+As 9d 8s 5d 0h 9h 6h 2c Jd 6c 8c Kd 
+8d Qs 5h Ah Kc 9c Ac 2s 4s Qh 5s 0d 
 
 
 
@@ -539,8 +539,8 @@ As 9c 8c 2s 4h 6c 4c
                4d 0d 
                   5d 
 
-Jd Jh 3d 0c 5s Js Ks 9d    Jd Jh 3d 
-0c 5s Js Ks 9d    Jd Jh 3d 0c 5s Js 
+7d Kd Jd Kh 7c Jh 0s 3h 3d Jc Qc 0c 
+Qh 9h 5s 5c 2h Js 7h 8d Ks Ad Qd 9d 
 
 
 
@@ -553,8 +553,8 @@ DECK 39
                5h 8s 
                   Ac 
 
-4c Jh 7s Qd 9h 7d Jc 8d    4c Jh 7s 
-Qd 9h 7d Jc 8d    4c Jh 7s Qd 9h 7d 
+5c 8c 4c As Qh Jh 5d 3s 7s 0d Jd Qd 
+8h 2c 9h Ks 4d 7d Kd 6h Jc 3c 5s 8d 
 
 
 
@@ -567,8 +567,8 @@ As 7c 8d 9d 0c Jd 3s
                7h 5h 
                   Qs 
 
-Ks 0d 5d 9h Kc 3h 7d 7s    Ks 0d 5d 
-9h Kc 3h 7d 7s    Ks 0d 5d 9h Kc 3h 
+9s 9c Ks 5s 8c 0d Ad 2d 5d 6d 0s 9h 
+4h 6s Kc 3d Qc 3h 2h 8h 7d 4d 4c 7s 
 
 
 
@@ -581,8 +581,8 @@ DECK 41
                7c 9c 
                   Jc 
 
-Kh 9s Qd 3h Ad Ks 2d 6h    Kh 9s Qd 
-3h Ad Ks 2d 6h    Kh 9s Qd 3h Ad Ks 
+6c Qs Kh 2h 3s 9s 4h Qh Qd Kc 8d 3h 
+Jd 8s Ad 4s 4d Ks 0s 3c 2d 5s Ac 6h 
 
 
 
@@ -595,8 +595,8 @@ DECK 42
                5d 5c 
                   Ad 
 
-Jc Ks 3s 8h 4h 9h 6s Ah    Jc Ks 3s 
-8h 4h 9h 6s Ah    Jc Ks 3s 8h 4h 9h 
+9s 6c Jc 0s 2d Ks 6h 8s 3s 7c As 8h 
+4s Qd 4h 0d 2h 9h 4d Qh 6s Ac 3d Ah 
 
 
 
@@ -609,8 +609,8 @@ Qc 4s 7d 4c 3c As 6d
                6s 9s 
                   Kc 
 
-Kd 9d 6c Jh 8d Js Jc Ks    Kd 9d 6c 
-Jh 8d Js Jc Ks    Kd 9d 6c Jh 8d Js 
+6h 4h Kd 3h 0d 9d 5d Qs 6c 2d 0s Jh 
+8h 7h 8d Ad Qd Js Ac 8s Jc 3d 8c Ks 
 
 
 
@@ -623,8 +623,8 @@ Jc 7h 9c 6h Jh 8h 9s
                7s 0h 
                   4d 
 
-0d Kh 9d 9h 4h 7d 2s Qs    0d Kh 9d 
-9h 4h 7d 2s Qs    0d Kh 9d 9h 4h 7d 
+4c 6s 0d As 8s Kh 0s Ac 9d 5s Ah 9h 
+Kc 5h 4h 3h 5d 7d 0c 2c 2s 4s Ks Qs 
 
 
 
@@ -637,8 +637,8 @@ DECK 45
                3d Jc 
                   5s 
 
-8d 6c 0h 9s 3h Kh 6s Js    8d 6c 0h 
-9s 3h Kh 6s Js    8d 6c 0h 9s 3h Kh 
+4d 2s 8d 9h 5c 6c 2d 2h 0h Ac 4s 9s 
+Jd 0s 3h 9c Kd Kh Ks Qc 6s 8c 0d Js 
 
 
 
@@ -651,8 +651,8 @@ DECK 46
                9c 2d 
                   6h 
 
-Qh 4c 9d Kd 2c 5d Qc 0h    Qh 4c 9d 
-Kd 2c 5d Qc 0h    Qh 4c 9d Kd 2c 5d 
+As Ad Qh Jc 7h 4c 5c 6c 9d Qs 9s Kd 
+7c 0c 2c 0s 4s 5d 9h 6s Qc 0d 7d 0h 
 
 
 
@@ -665,8 +665,8 @@ Js As 0h 9s 7c Jc 8s
                Jh Ks 
                   7d 
 
-5c Kh 7s 3c 6s 4h 8d 9c    5c Kh 7s 
-3c 6s 4h 8d 9c    5c Kh 7s 3c 6s 4h 
+2c 6h 5c Qs Qh Kh Ac Ad 7s 5s 9d 3c 
+6c 9h 6s Kd 3d 4h 4s 8c 8d 5d 7h 9c 
 
 
 
@@ -679,8 +679,8 @@ Kc 8h 0s 6s Ah 3d 8s
                Jc 4h 
                   8c 
 
-3c Js 9c 6c Qd 2s Qc 8d    3c Js 9c 
-6c Qd 2s Qc 8d    3c Js 9c 6c Qd 2s 
+Qh Ks 3c 4d 2d Js 6h Kd 9c 5h 4c 6c 
+2h 7s Qd Ad 7c 2s 0c 2c Qc As 5s 8d 
 
 
 
@@ -693,8 +693,8 @@ DECK 49
                4c 0s 
                   5d 
 
-7s 5c 7c Ad Ah 2d 4s 3d    7s 5c 7c 
-Ad Ah 2d 4s 3d    7s 5c 7c Ad Ah 2d 
+0c Js 7s 6h As 5c 2c 0h 7c 2s 9c Ad 
+5s Kd Ah 7h 5h 2d Qc 3c 4s 6s Ac 3d 
 
 
 
@@ -707,8 +707,8 @@ DECK 50
                5h 7h 
                   9s 
 
-Ac Ad 3c 7s Kc 5d 7c 2d    Ac Ad 3c 
-7s Kc 5d 7c 2d    Ac Ad 3c 7s Kc 5d 
+9c 2h Ac Qc 6c Ad 2s 0c 3c Kd 8s 7s 
+Ks 3s Kc 6d 5c 5d 6h 4d 7c 4s Qs 2d 
 
 
 
@@ -721,8 +721,8 @@ Ac 8c 5h 4h Kh 8h Kc
                Qs Jh 
                   3s 
 
-5d 9d 0c Js Ah Qc 6c Ad    5d 9d 0c 
-Js Ah Qc 6c Ad    5d 9d 0c Js Ah Qc 
+9s 0d 5d Jd Kd 9d 8s 9c 0c 9h Jc Js 
+8d Qd Ah 2d 4c Qc 6h 7c 6c 5c Qh Ad 
 
 
 
@@ -735,8 +735,8 @@ DECK 52
                8h 2h 
                   Kd 
 
-Kh 8s 3h 3s 4c Jh 6d Kc    Kh 8s 3h 
-3s 4c Jh 6d Kc    Kh 8s 3h 3s 4c Jh 
+3d 6h Kh 4d 7h 8s 5h Ks 3h Qh Jd 3s 
+7c Qd 4c 0s 9s Jh As Qc 6d 8c Ad Kc 
 
 
 
@@ -749,8 +749,8 @@ DECK 53
                8s Ac 
                   3h 
 
-9d 2s 0d 2c 9s 3c Ad Qd    9d 2s 0d 
-2c 9s 3c Ad Qd    9d 2s 0d 2c 9s 3c 
+8d 8c 9d As Ah 2s 5h 2d 0d 7s 2h 2c 
+Js 0s 9s 9c Kc 3c 8h 4d Ad 5d 0c Qd 
 
 
 
@@ -763,8 +763,8 @@ DECK 54
                8s 8d 
                   Ac 
 
-5c 7d 9d 7s 4d 3h 3c Js    5c 7d 9d 
-7s 4d 3h 3c Js    5c 7d 9d 7s 4d 3h 
+6s 8h 5c Jh 9c 7d 6c Qh 9d 3s 2s 7s 
+Jd Kc 4d 2c Ad 3h 7c Qc 3c 0h Qs Js 
 
 
 
@@ -777,8 +777,8 @@ Kc 5d 9d Jd 7c 5h 2s
                3h 8h 
                   Kh 
 
-6h 3d 7h 8c 4h 8d Ac 6s    6h 3d 7h 
-8c 4h 8d Ac 6s    6h 3d 7h 8c 4h 8d 
+Qc 2d 6h 7s Qd 3d Ks 9c 7h 6c 0h 8c 
+Ad 0s 4h 4d 9s 8d 0c 2c Ac Qs 7d 6s 
 
 
 
@@ -791,8 +791,8 @@ DECK 56
                9s 3d 
                   3h 
 
-6s 0h As 6c 2s 7c 5c 5s    6s 0h As 
-6c 2s 7c 5c 5s    6s 0h As 6c 2s 7c 
+2h Kh 6s 8h 9h 0h 9c Kd As 6d Ac 6c 
+4h 3s 2s 4s 0c 7c 5h 8d 5c 2c Ad 5s 
 
 
 
@@ -805,8 +805,8 @@ DECK 57
                2d Jc 
                   6s 
 
-9d 7c 9h 0s Ac 8c 5d 4s    9d 7c 9h 
-0s Ac 8c 5d 4s    9d 7c 9h 0s Ac 8c 
+3d 2s 9d 8h 6c 7c Ad Ks 9h Qh 5s 0s 
+Qd 3h Ac 0d 4d 8c 5c 3c 5d 4h 8s 4s 
 
 
 
@@ -819,8 +819,8 @@ DECK 58
                0c 4c 
                   3s 
 
-9d 4h 2s 4d 9c Ad 2d 3h    9d 4h 2s 
-4d 9c Ad 2d 3h    9d 4h 2s 4d 9c Ad 
+5d Jc 9d Kd 2h 4h 5s 6s 2s 8c 8s 4d 
+Qc 7d 9c 9s Ah Ad 6d 3d 2d Kh 4s 3h 
 
 
 
@@ -833,8 +833,8 @@ DECK 59
                7c Qs 
                   Ac 
 
-2d 9d 7s Ah 0h Qd Kh 2c    2d 9d 7s 
-Ah 0h Qd Kh 2c    2d 9d 7s Ah 0h Qd 
+Jc 7d 2d 5s 6c 9d 3c 6h 7s 3d 4h Ah 
+9c Jd 0h Qh 8d Qd 9h 0c Kh 2s 5c 2c 
 
 
 
@@ -847,8 +847,8 @@ DECK 60
                0s 5d 
                   7c 
 
-6c Qs 5h 4c 4s 0d 3c 0c    6c Qs 5h 
-4c 4s 0d 3c 0c    6c Qs 5h 4c 4s 0d 
+7s 6h 6c Ah 3s Qs 8s 9s 5h 6d Jd 4c 
+8d Jh 4s 5s 7h 0d 9c 4d 3c Qc Jc 0c 
 
 
 
@@ -861,8 +861,8 @@ As Jh Qh 0c 8c Jc 4s
                2h 9h 
                   2c 
 
-7d 6s 7h 3c 9s Qs Jd 9c    7d 6s 7h 
-3c 9s Qs Jd 9c    7d 6s 7h 3c 9s Qs 
+7c Ad 7d Qd 3s 6s 0s 4h 7h 0h Kh 3c 
+6d Ks 9s 3h Kc Qs Js Kd Jd Qc 4d 9c 
 
 
 
@@ -875,8 +875,8 @@ DECK 62
                Qc 4c 
                   4s 
 
-6d 0c 2s Ac 0d 2c 7s 8c    6d 0c 2s 
-Ac 0d 2c 7s 8c    6d 0c 2s Ac 0d 2c 
+2d Kc 6d 3s 8s 0c 0h 8h 2s 3c 7d Ac 
+5d 5c 0d Kd 6h 2c Qd 5h 7s 4d 9c 8c 
 
 
 
@@ -889,8 +889,8 @@ Ac Ad 7d 5s Qh 2d Ah
                0h 5h 
                   8d 
 
-4h 9s 3c Jd 8h 9d Qd 7c    4h 9s 3c 
-Jd 8h 9d Qd 7c    4h 9s 3c Jd 8h 9d 
+7s 8s 4h Jh 6s 9s 2c 6c 3c 3s 0c Jd 
+5d 4c 8h 9c 5c 9d 3h Kc Qd Qs As 7c 
 
 
 
@@ -903,8 +903,8 @@ DECK 64
                7s Qh 
                   Qs 
 
-8d Kc 4d 8h 3h 5d 9d 6c    8d Kc 4d 
-8h 3h 5d 9d 6c    8d Kc 4d 8h 3h 5d 
+7d 0c 8d 2s Js Kc 2c 4c 4d 9h 0h 8h 
+9s As 3h 3c 0d 5d 8c Kh 9d 6d Jd 6c 
 
 
 
@@ -917,8 +917,8 @@ DECK 65
                7h Qs 
                   4d 
 
-Jc 2h 3c 2d 8s 0h 9h 5d    Jc 2h 3c 
-2d 8s 0h 9h 5d    Jc 2h 3c 2d 8s 0h 
+3d 0d Jc 3h 4h 2h 8h 6d 3c 2c 7d 2d 
+9s Ah 8s 9c 4c 0h Kd 2s 9h 3s 8d 5d 
 
 
 
@@ -931,8 +931,8 @@ DECK 66
                6h 2c 
                   3h 
 
-Qs Ah 2h Qd 7h 8h 5d 4s    Qs Ah 2h 
-Qd 7h 8h 5d 4s    Qs Ah 2h Qd 7h 8h 
+0c Jh Qs 3d 9h Ah Jc Qh 2h 9c 9s Qd 
+2d 2s 7h Kc 3c 8h Ks Qc 5d 3s 8c 4s 
 
 
 
@@ -945,8 +945,8 @@ DECK 67
                4d 7h 
                   0h 
 
-0s 2d 8h Qc 6c 6d 3c Qd    0s 2d 8h 
-Qc 6c 6d 3c Qd    0s 2d 8h Qc 6c 6d 
+7d Jc 0s Kc 5c 2d 4c Qh 8h 9d 4h Qc 
+9h 6h 6c 5h Ad 6d 2h 3s 3c 8c 2s Qd 
 
 
 
@@ -959,8 +959,8 @@ As Kc Jc 2s 6h 8c 7c
                3d 9d 
                   4d 
 
-Qd Kh Jh 0d 7s Js Qc Jd    Qd Kh Jh 
-0d 7s Js Qc Jd    Qd Kh Jh 0d 7s Js 
+8d Kd Qd Ac 0c Kh 2h 5h Jh 9c 5s 0d 
+8s 8h 7s Ah 5d Js 6c 7d Qc 6s 2c Jd 
 
 
 
@@ -973,8 +973,8 @@ DECK 69
                4h 5s 
                   Jc 
 
-7d Ah 4s 8s 4c 5h 5d 0d    7d Ah 4s 
-8s 4c 5h 5d 0d    7d Ah 4s 8s 4c 5h 
+Qh Ad 7d 3s 8d Ah 0c 3d 4s Qs 9h 8s 
+7s 6s 4c 9c Kh 5h Kc 6c 5d 2d Kd 0d 
 
 
 
@@ -987,8 +987,8 @@ DECK 70
                Kc 9c 
                   6s 
 
-0d 6c 0h 0s Js 8d 3d 9d    0d 6c 0h 
-0s Js 8d 3d 9d    0d 6c 0h 0s Js 8d 
+2d 2s 0d 9h 5c 6c Qc 2h 0h Ac 4s 0s 
+Qd 5h Js Ks 7s 8d Ad 6d 3d 5s Kh 9d 
 
 
 
@@ -1001,8 +1001,8 @@ Js Kc 2h 2c 4h 6s Ah
                0s 6d 
                   Kh 
 
-3c 5d 7d 9s 2d 3h 9d 8s    3c 5d 7d 
-9s 2d 3h 9d 8s    3c 5d 7d 9s 2d 3h 
+7s 8h 3c 0h 7c 5d 4c Jh 7d 4s 3s 9s 
+Jd Jc 2d Ac Qc 3h 5c 0c 9d 8d As 8s 
 
 
 
@@ -1015,8 +1015,8 @@ DECK 72
                3d Jd 
                   5c 
 
-4d 9c 2c 8h 2d 6d 5h 7h    4d 9c 2c 
-8h 2d 6d 5h 7h    4d 9c 2c 8h 2d 6d 
+Kh Qd 4d 2h 8d 9c 7d 7c 2c Ac 3s 8h 
+Kc Jh 2d 5d 9d 6d 2s 8c 5h 4s Qc 7h 
 
 
 
@@ -1029,8 +1029,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -1043,8 +1043,8 @@ Js Ac 0d 2d Kc 8h Kh
                4h 9d 
                   4c 
 
-Jc 9c 8s Jd 3c 7d 7c Ah    Jc 9c 8s 
-Jd 3c 7d 7c Ah    Jc 9c 8s Jd 3c 7d 
+0c 3h Jc 8c Ks 9c Qs 0s 8s 7h 4d Jd 
+9h 6c 3c 2c 5s 7d 3s 5h 7c 2h 3d Ah 
 
 
 
@@ -1057,8 +1057,8 @@ DECK 75
                4d Jd 
                   6c 
 
-5d 0c 3c 7h 0h 2d 4s Ks    5d 0c 3c 
-7h 0h 2d 4s Ks    5d 0c 3c 7h 0h 2d 
+Ac Qd 5d 2h 7d 0c 6d 9c 3c 2c 2s 7h 
+Kc Qh 0h 8c 8h 2d 8d 5h 4s 3d 9d Ks 
 
 
 
@@ -1071,8 +1071,8 @@ Qs Jh 9h 2c 9c 0d Qd
                Ks 3c 
                   Jc 
 
-8s 6s 6h 3s 4s Kd 9d Qh    8s 6s 6h 
-3s 4s Kd 9d Qh    8s 6s 6h 3s 4s Kd 
+2d 3h 8s Qc 0s 6s 8c 4d 6h 4h 5s 3s 
+0c Ad 4s 8h As Kd 2h Ac 9d Kc 7h Qh 
 
 
 
@@ -1085,8 +1085,8 @@ DECK 77
                Jd Qh 
                   7c 
 
-6c Kh 2c Ks 6s 5c 3d Jc    6c Kh 2c 
-Ks 6s 5c 3d Jc    6c Kh 2c Ks 6s 5c 
+6h 0d 6c 4h 7d Kh 5h 5d 2c 8h 2d Ks 
+2s 4d 6s 9h Ad 5c 0h 3h 3d 9d 5s Jc 
 
 
 
@@ -1099,8 +1099,8 @@ DECK 78
                9d Qd 
                   8d 
 
-8s 0c 6h 9s 4h 7d 4c 0d    8s 0c 6h 
-9s 4h 7d 4c 0d    8s 0c 6h 9s 4h 7d 
+Qs 4s 8s 3s Qh 0c Jc 5d 6h 0h Ac 9s 
+Ah 2s 4h 2c Kd 7d 9c 8c 4c Jh 4d 0d 
 
 
 
@@ -1113,8 +1113,8 @@ DECK 79
                2c Ad 
                   5c 
 
-5s Jc 9s 3s 7h Qh 8d 5d    5s Jc 9s 
-3s 7h Qh 8d 5d    5s Jc 9s 3s 7h Qh 
+0c 2d 5s Jd Ks Jc Kd 2h 9s 7s 9c 3s 
+9d Ah 7h 6h Jh Qh Qd As 8d 8s 3c 5d 
 
 
 
@@ -1127,8 +1127,8 @@ DECK 80
                7h Jd 
                   2c 
 
-Ks 8c 6h 9d 7d 0h 7c 4d    Ks 8c 6h 
-9d 7d 0h 7c 4d    Ks 8c 6h 9d 7d 0h 
+0d 3d Ks Qh Kh 8c 4s 2h 6h Kd 3s 9d 
+Js 9h 7d Ad 3c 0h Jh 5h 7c Kc Qc 4d 
 
 
 
@@ -1141,8 +1141,8 @@ DECK 81
                4h 0h 
                   4c 
 
-Qd 0s 6h 3c Kc 2s 0d 3d    Qd 0s 6h 
-3c Kc 2s 0d 3d    Qd 0s 6h 3c Kc 2s 
+0c 5d Qd 4s 7s 0s Ks 3h 6h 9h Qh 3c 
+6c 9c Kc 4d 8d 2s Qc Kd 0d 7d Ac 3d 
 
 
 
@@ -1155,8 +1155,8 @@ Jc 3d 2h 5s 7s Qd 0d
                2s Qh 
                   8s 
 
-4c Ac Kh 9c 9s 2c Qc 2d    4c Ac Kh 
-9c 9s 2c Qc 2d    4c Ac Kh 9c 9s 2c 
+Kc 5d 4c Ks 8d Ac As 8c Kh Jd 7c 9c 
+Kd 8h 9s 9d Qs 2c 4s 0h Qc 6c 0c 2d 
 
 
 
@@ -1169,8 +1169,8 @@ DECK 83
                Qh 4c 
                   3c 
 
-4d 0s Ac 4h Qd 9h 5c As    4d 0s Ac 
-4h Qd 9h 5c As    4d 0s Ac 4h Qd 9h 
+0c Ks 4d 5h Js 0s 6h 3d Ac Qc 3s 4h 
+7h 2c Qd Jh 0h 9h 3h 6c 5c 6s Qs As 
 
 
 
@@ -1183,8 +1183,8 @@ DECK 84
                0c Kc 
                   5d 
 
-8h Qs 6c As Js 3c 3s Ks    8h Qs 6c 
-As Js 3c 3s Ks    8h Qs 6c As Js 3c 
+8d 2d 8h 7c 0h Qs 3h 9h 6c 5s 7d As 
+6h 2s Js 3d 8s 3c 4d 8c 3s Kh 9d Ks 
 
 
 
@@ -1197,8 +1197,8 @@ DECK 85
                Jh 3c 
                   2c 
 
-3d Js Kh 3h Jd 8h Ad 8s    3d Js Kh 
-3h Jd 8h Ad 8s    3d Js Kh 3h Jd 8h 
+8c Ks 3d 4h Qs Js 5h 2d Kh 0c 3s 3h 
+6h Ac Jd 0h 9h 8h As Kd Ad 6c 6s 8s 
 
 
 
@@ -1211,8 +1211,8 @@ DECK 86
                Qs 7d 
                   3c 
 
-8h 8d 4s 8c Js Jc 5c 7s    8h 8d 4s 
-8c Js Jc 5c 7s    8h 8d 4s 8c Js Jc 
+Ad 7c 8h 5d 0d 8d 3h Qh 4s 6d 0h 8c 
+3d 6h Js 6s 4d Jc 5s Kc 5c 2d 3s 7s 
 
 
 
@@ -1225,8 +1225,8 @@ Jc 8h 2s 0h 7c 6d 5h
                6h 7s 
                   Ad 
 
-7d 3h 5s 0s 8c 7h 4s 6s    7d 3h 5s 
-0s 8c 7h 4s 6s    7d 3h 5s 0s 8c 7h 
+2c 3d 7d 3s 8d 3h Kc 4d 5s Ah Jh 0s 
+9s 8s 8c Qc 4c 7h 0d Kd 4s Ac 3c 6s 
 
 
 
@@ -1239,8 +1239,8 @@ DECK 88
                4h 0s 
                   8s 
 
-9h Qs 9c Jh 7d 2s 2c 5s    9h Qs 9c 
-Jh 7d 2s 2c 5s    9h Qs 9c Jh 7d 2s 
+6c 8c 9h Kc Jc Qs 4d 5d 9c 7h 3d Jh 
+6d Ac 7d 7s Ad 2s 9d 5h 2c 0d 5c 5s 
 
 
 
@@ -1253,8 +1253,8 @@ As 9c 7d 8d Qc Jd 5s
                0h 8h 
                   2h 
 
-5h 0d 5d Jh Ad 3h 2s 4h    5h 0d 5d 
-Jh Ad 3h 2s 4h    5h 0d 5d Jh Ad 3h 
+Js Jc 5h 8s 0c 0d 2d 3d 5d 6d Qs Jh 
+7h 9s Ad 4d 9d 3h 3s Ks 2s 6s 2c 4h 
 
 
 
@@ -1267,8 +1267,8 @@ DECK 90
                6c Ah 
                   Qh 
 
-Kc Jd 9s 6s Ac 4d Kh 3c    Kc Jd 9s 
-6s Ac 4d Kh 3c    Kc Jd 9s 6s Ac 4d 
+8c 9d Kc 5s 5c Jd 2c 8h 9s Ad 6d 6s 
+0d 8d Ac 3h 6h 4d 9c 5d Kh 7s 2s 3c 
 
 
 
@@ -1281,8 +1281,8 @@ DECK 91
                8s Kh 
                   Ks 
 
-9d Ad 5d 9h 4h 7d 4c Jc    9d Ad 5d 
-9h 4h 7d 4c Jc    9d Ad 5d 9h 4h 7d 
+8d 9c 9d 3s Qs Ad 2c 5c 5d 0h Jh 9h 
+0s 2s 4h 3c Jd 7d 0d 0c 4c As 6d Jc 
 
 
 
@@ -1295,8 +1295,8 @@ As 9h 0h 9c 8c Qc 4s
                Ks 6h 
                   Kh 
 
-6d 6s 4h Ac Jc 7d 8h 0c    6d 6s 4h 
-Ac Jc 7d 8h 0c    6d 6s 4h Ac Jc 7d 
+6c Kc 6d Qd 3s 6s Js Ah 4h 7h Jh Ac 
+4c 7c Jc Ad 4d 7d 0d Kd 8h 0s 9s 0c 
 
 
 
@@ -1309,8 +1309,8 @@ DECK 93
                9s Jc 
                   0h 
 
-9h 5h Js 8s 7c 0d Jd 9c    9h 5h Js 
-8s 7c 0d Jd 9c    9h 5h Js 8s 7c 0d 
+Kd Kh 9h 4c 7h 5h 5s 8c Js 5c Ah 8s 
+Qh 0s 7c Kc 7s 0d 8h 2c Jd 3h 4d 9c 
 
 
 
@@ -1323,8 +1323,8 @@ DECK 94
                7d 7s 
                   Ah 
 
-4s Qc 4h 4d 0h 5h 2c 8c    4s Qc 4h 
-4d 0h 5h 2c 8c    4s Qc 4h 4d 0h 5h 
+2s 3s 4s 5s 5c Qc 3c Ks 4h 0d 2d 4d 
+3d Ac 0h 8s 0c 5h 2h Jh 2c Jd 8d 8c 
 
 
 
@@ -1337,8 +1337,8 @@ DECK 95
                9c 0h 
                   Kh 
 
-9d 5s 0c Qh Qs Js 3c 7d    9d 5s 0c 
-Qh Qs Js 3c 7d    9d 5s 0c Qh Qs Js 
+5c 2d 9d Jh Ks 5s 6d 3h 0c 9h 8c Qh 
+Qc 3d Qs 6h 5d Js Qd Jc 3c Jd 8h 7d 
 
 
 
@@ -1351,8 +1351,8 @@ Jc 2d Ad 9h Kc 0s 3d
                0h 8h 
                   2c 
 
-Qs Ks 5c 3h 7h 9d 4c 6s    Qs Ks 5c 
-3h 7h 9d 4c 6s    Qs Ks 5c 3h 7h 9d 
+As 9c Qs 2s 5s Ks 7c 4h 5c Qd Js 3h 
+Jh 5d 7h 6h 5h 9d 0d Qc 4c 4s 7s 6s 
 
 
 
@@ -1365,8 +1365,8 @@ DECK 97
                6d 0d 
                   7d 
 
-Qd Jh 9s 6c 0s Kc 2c As    Qd Jh 9s 
-6c 0s Kc 2c As    Qd Jh 9s 6c 0s Kc 
+9d Kd Qd Qh Qc Jh 3s Ac 9s 6s Jd 6c 
+Jc 2d 0s 5h 3c Kc 4h 9c 2c 0h 8c As 
 
 
 
@@ -1379,8 +1379,8 @@ As 8h 9h 9c 8c Jc 6s
                Ks 6h 
                   Kh 
 
-5d 8s 4h Ac 0c 6d 2s Kd    5d 8s 4h 
-Ac 0c 6d 2s Kd    5d 8s 4h Ac 0c 6d 
+6c Qc 5d Jd 5s 8s Js Ah 4h 7h 0h Ac 
+4c 7c 0c Kc 3d 6d 9d Qd 2s 4s Qh Kd 
 
 
 
@@ -1393,8 +1393,8 @@ DECK 99
                0c Ad 
                   7h 
 
-Qh 6c 7d Kd 4c 8d 2c Qd    Qh 6c 7d 
-Kd 4c 8d 2c Qd    Qh 6c 7d Kd 4c 8d 
+2s Kc Qh Jc 8h 6c 7c 8c 7d Qs 9s Kd 
+Jh 0s 4c Kh 5h 8d Jd As 2c 2d 4s Qd 
 
 
 
@@ -1407,8 +1407,8 @@ DECK 100
                Kc 3c 
                   6c 
 
-4d 2h 2c 5c 6h 9h Kh Jd    4d 2h 2c 
-5c 6h 9h Kh Jd    4d 2h 2c 5c 6h 9h 
+7h Kd 4d 6s 9d 2h 6d Ac 2c 7c 4s 5c 
+Ks Qc 6h Jh Js 9h 0h 7d Kh 2d Ad Jd 
 
 
 
@@ -1421,8 +1421,8 @@ Js 4c 8c 2h 0h 5c 6c
                2s 8h 
                   Ac 
 
-Jd As 7h 6s 5h 8d Jh 0s    Jd As 7h 
-6s 5h 8d Jh 0s    Jd As 7h 6s 5h 8d 
+7c 2c Jd Qh 0c As 4d 0d 7h 6d Jc 6s 
+Ks Qs 5h Ah 5d 8d Kc Kd Jh Qd Qc 0s 
 
 
 
@@ -1435,8 +1435,8 @@ DECK 102
                As 5h 
                   4c 
 
-Qd Jh 0c 6c 6h 3h Kd 9h    Qd Jh 0c 
-6c 6h 3h Kd 9h    Qd Jh 0c 6c 6h 3h 
+Kc 5c Qd Ac Ad Jh Ah 2s 0c Ks 0s 6c 
+7d 7h 6h 4d 9d 3h 7c 0h Kd 3c Qh 9h 
 
 
 
@@ -1449,8 +1449,8 @@ Jc 6h 9c 5h 0h 7h 0s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 4c    0d Qh 9d 
-8h 3h 7d 2s 4c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 9s Qh Js Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s 8s 4c 
 
 
 
@@ -1463,8 +1463,8 @@ DECK 104
                Kc 6c 
                   4s 
 
-8d 9c 2s 4c Kh Ks 0c 3c    8d 9c 2s 
-4c Kh Ks 0c 3c    8d 9c 2s 4c Kh Ks 
+5d Ad 8d 3s 7s 9c Jh 9h 2s 5c 9d 4c 
+7d 0s Kh Js 2d Ks Qc 0d 0c 4d 6h 3c 
 
 
 
@@ -1477,8 +1477,8 @@ DECK 105
                0s 7h 
                   Ad 
 
-9h Ah 2h Qd 0h 9c 6c 2c    9h Ah 2h 
-Qd 0h 9c 6c 2c    9h Ah 2h Qd 0h 9c 
+Kh 8h 9h Jh As Ah 3h Jc 2h 2s 8s Qd 
+Kc 9d 0h 5c Jd 9c Qc 6d 6c Kd 4s 2c 
 
 
 
@@ -1491,8 +1491,8 @@ DECK 106
                Kc 4d 
                   8h 
 
-4c 9c 0d Kd 9s 6h Jh Ah    4c 9c 0d 
-Kd 9s 6h Jh Ah    4c 9c 0d Kd 9s 6h 
+As 3d 4c Ad 9h 9c 0c Jc 0d Js 8s Kd 
+3c 0h 9s 4h 2c 6h 5d Qh Jh 6c 5s Ah 
 
 
 
@@ -1505,8 +1505,8 @@ DECK 107
                Ah Ac 
                   8h 
 
-3h Qs 0d 9c 3c 9d Qd Kh    3h Qs 0d 
-9c 3c 9d Qd Kh    3h Qs 0d 9c 3c 9d 
+4h 5h 3h 4d Ks Qs 5c Js 0d 5s 6d 9c 
+2d 6h 3c 7d 6c 9d Kd 2s Qd 8s 5d Kh 
 
 
 
@@ -1519,8 +1519,8 @@ As 0c 7d 8d Ad Jd 3s
                4h 2h 
                   Js 
 
-Qs 0d 5d 6h 6c 8h 9d Qc    Qs 0d 5d 
-6h 6c 8h 9d Qc    Qs 0d 5d 6h 6c 8h 
+8s Kc Qs 5s Jc 0d 3d 4d 5d 6d 9s 6h 
+Ah 6s 6c Ac 5h 8h 8c 0h 9d 3c 2c Qc 
 
 
 
@@ -1533,8 +1533,8 @@ DECK 109
                0c 0h 
                   Kh 
 
-9d 5s Jc Qh Qs Js 4c Jd    9d 5s Jc 
-Qh Qs Js 4c Jd    9d 5s Jc Qh Qs Js 
+6c 3d 9d Jh Ks 5s 7d 4h Jc 9h 9c Qh 
+Kc 4d Qs 7h 6d Js Qd Qc 4c 3c 2h Jd 
 
 
 
@@ -1547,8 +1547,8 @@ DECK 110
                3h 9d 
                   5c 
 
-7s Ks 9h 4s As 2h 0s 6d    7s Ks 9h 
-4s As 2h 0s 6d    7s Ks 9h 4s As 2h 
+Js 9s 7s Qd Jc Ks 6s 2s 9h 7c Qs 4s 
+4c Kc As 0h Ah 2h 8d 5d 0s 4d 9c 6d 
 
 
 
@@ -1561,8 +1561,8 @@ DECK 111
                8c 0d 
                   0c 
 
-Ad 8d Qs 5s 2s 6h Ac 5d    Ad 8d Qs 
-5s 2s 6h Ac 5d    Ad 8d Qs 5s 2s 6h 
+6d 7h Ad 2d Ah 8d 4h 9h Qs Js Qc 5s 
+Jh 9s 2s 5h Qd 6h Qh 7d Ac 8s 3c 5d 
 
 
 
@@ -1575,8 +1575,8 @@ Qc 2s Kc 0h 8d 9d 7h
                7s 4h 
                   3d 
 
-6c Jh Ad 5h Ah 0s 5c 4d    6c Jh Ad 
-5h Ah 0s 5c 4d    6c Jh Ad 5h Ah 0s 
+4c 4s 6c Kh 9c Jh 8h Qs Ad 2h 8c 5h 
+Ks 2c Ah 0c 2d 0s Qd Qh 5c Kd Js 4d 
 
 
 
@@ -1589,8 +1589,8 @@ DECK 113
                Ah Qc 
                   Ad 
 
-Kd 2s Ks 2d 9h As 7d 3s    Kd 2s Ks 
-2d 9h As 7d 3s    Kd 2s Ks 2d 9h As 
+2c 9c Kd Js 3c 2s 0d Jd Ks 0h 8c 2d 
+9s Kc 9h Ac 5h As 7h Qd 7d 0s 9d 3s 
 
 
 
@@ -1603,8 +1603,8 @@ DECK 114
                0h Js 
                   8s 
 
-Jc 6s As Ah 8d 2s 3c 2h    Jc 6s As 
-Ah 8d 2s 3c 2h    Jc 6s As Ah 8d 2s 
+4d 3s Jc 8c Kh 6s Qh 7c As 6h 3h Ah 
+Kc 0c 8d 5s 9h 2s 6c Qc 3c 9s 9c 2h 
 
 
 
@@ -1617,8 +1617,8 @@ Ac 0c 8c Js 6c 9s Qc
                2c 4c 
                   Ah 
 
-2s 4d 7h 4s Jh 4h 7s 0s    2s 4d 7h 
-4s Jh 4h 7s 0s    2s 4d 7h 4s Jh 4h 
+3c 2d 2s 9h 0d 4d 6d 5s 7h 5c Jc 4s 
+9c 6h Jh 2h Qd 4h 8d 5d 7s 7d 8s 0s 
 
 
 
@@ -1631,8 +1631,8 @@ DECK 116
                0s 4d 
                   Kd 
 
-5h 2c 5c Ad Kh Kc Jh 9s    5h 2c 5c 
-Ad Kh Kc Jh 9s    5h 2c 5c Ad Kh Kc 
+4s Ah 5h 2s 6s 2c Ac 3c 5c Jd 2h Ad 
+Js 3d Kh 9d 9h Kc As 3s Jh Ks 4c 9s 
 
 
 
@@ -1645,8 +1645,8 @@ As 0h Jh 0c 9c Qc 7s
                2h 8h 
                   Ac 
 
-6d 0s 6h 2c Jc 7d 2s 8s    6d 0s 6h 
-2c Jc 7d 2s 8s    6d 0s 6h 2c Jc 7d 
+7c Kc 6d Qd 5s 0s Ks 3h 6h 9h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 8s 
 
 
 
@@ -1659,8 +1659,8 @@ DECK 118
                5c Js 
                   5d 
 
-8s 6c 8c 2d 2h 3d 4s 7s    8s 6c 8c 
-2d 2h 3d 4s 7s    8s 6c 8c 2d 2h 3d 
+Jc Qs 8s 7h As 6c 3c Jh 8c 2s 0c 2d 
+5s Kd 2h 8h 6h 3d Kc 4c 4s 6s 2c 7s 
 
 
 
@@ -1673,8 +1673,8 @@ Js 0c 3d Ks Ac Qc Kc
                3s 8h 
                   4c 
 
-Kd Kh Jc 7c 9h 5h 6c 6h    Kd Kh Jc 
-7c 9h 5h 6c 6h    Kd Kh Jc 7c 9h 5h 
+Ad 5c Kd 2c 2d Kh 3h 4s Jc 2h Qs 7c 
+8d 0h 9h 5d 0d 5h 8c Qh 6c As 2s 6h 
 
 
 
@@ -1687,8 +1687,8 @@ Js 2d 2h 2c 4h 6s Ah
                9s 8d 
                   Kh 
 
-3c 7d 9d 8s 4d 3h As 5c    3c 7d 9d 
-8s 4d 3h As 5c    3c 7d 9d 8s 4d 3h 
+7s 8h 3c 0h 8c 7d 6c Jh 9d 4s 3s 8s 
+Jd Jc 4d Ac Ad 3h Qc 4c As 0s Kc 5c 
 
 
 
@@ -1701,8 +1701,8 @@ Qs 6c 2d Ks Jh 8c 9c
                As 6h 
                   2c 
 
-Kd 8h 7c 5d 0s 5c 4s 4d    Kd 8h 7c 
-5d 0s 5c 4s 4d    Kd 8h 7c 5d 0s 5c 
+0c 3c Kd Kh Jc 8h 3h 3s 7c Qc 2s 5d 
+3d 0h 0s Ah Ad 5c Kc 9h 4s Qd Qh 4d 
 
 
 
@@ -1715,8 +1715,8 @@ DECK 122
                0h Jh 
                   7s 
 
-9h 4d 4s 2h 3d 4h 9d Qc    9h 4d 4s 
-2h 3d 4h 9d Qc    9h 4d 4s 2h 3d 4h 
+Kc 3h 9h Qs 3s 4d 8h 8s 4s Qh Jc 2h 
+9s 8c 3d 6s Kh 4h 7h 0d 9d Ks 7d Qc 
 
 
 
@@ -1729,8 +1729,8 @@ DECK 123
                5h 8s 
                   2c 
 
-4c Qh 7s Kd 0h 8d 8h Jc    4c Qh 7s 
-Kd 0h 8d 8h Jc    4c Qh 7s Kd 0h 8d 
+5c 9c 4c As Kh Qh 6d 4s 7s Jd Qd Kd 
+7h 3c 0h Ks 5d 8d 9d 9h 8h 2s 6c Jc 
 
 
 
@@ -1743,8 +1743,8 @@ DECK 124
                3d 8d 
                   Kc 
 
-4d 3c 5c 6d Qh 2c 0s 0c    4d 3c 5c 
-6d Qh 2c 0s 0c    4d 3c 5c 6d Qh 2c 
+Jc Ad 4d 8c Kd 3c 0h 5h 5c As Qc 6d 
+9s 4c Qh 7c Js 2c Ac Kh 0s 6s 5d 0c 
 
 
 
@@ -1757,8 +1757,8 @@ Jh 3s Jd 8d 9s 9h Jc
                8h Ac 
                   7c 
 
-Kd Ks 0h 6c 3d Qd 3h 9c    Kd Ks 0h 
-6c 3d Qd 3h 9c    Kd Ks 0h 6c 3d Qd 
+Ad 7d Kd 7s 0s Ks 4h 7h 0h Kh 3c 6c 
+0c Kc 3d 6d 9d Qd As 4s 3h 2s 6s 9c 
 
 
 
@@ -1771,8 +1771,8 @@ Qh Qs 2d 8s 4s 3h Jc
                7s 0d 
                   Kd 
 
-Jd 8c Ad Ks Ah 8h 3s 8d    Jd 8c Ad 
-Ks Ah 8h 3s 8d    Jd 8c Ad Ks Ah 8h 
+2c 9s Jd 6c 4d 8c Qc Kc Ad 6s 4h Ks 
+5s Ac Ah 7c 3c 8h Qd As 3s 4c 5d 8d 
 
 
 
@@ -1785,8 +1785,8 @@ DECK 127
                3c 2d 
                   6c 
 
-5s Qc 0s 3s 8h Kh 8d 7s    5s Qc 0s 
-3s 8h Kh 8d 7s    5s Qc 0s 3s 8h Kh 
+Jc 3d 5s Jd Ah Qc Kd 3h 0s 8s 0c 3s 
+9d 2h 8h 7h Qh Kh Qd As 8d 9s 4c 7s 
 
 
 
@@ -1799,8 +1799,8 @@ Kh 9c 7c 0s 5c 9s Jc
                Ac 3c 
                   Ks 
 
-3s 3d 6h 5s 0h 3h 8s 2s    3s 3d 6h 
-5s 0h 3h 8s 2s    3s 3d 6h 5s 0h 3h 
+2c Ad 3s 8h 9d 3d 5d 6s 6h 4c 0c 5s 
+8c 5h 0h Ah Jd 3h 7d 4d 8s 6d Kd 2s 
 
 
 
@@ -1813,8 +1813,8 @@ Ah 2s 5d Qd 3h 6d 5s
                Jc 4c 
                   6c 
 
-7h 5h 9d 9s 5c Qh 4s As    7h 5h 9d 
-9s 5c Qh 4s As    7h 5h 9d 9s 5c Qh 
+9c Kc 7h 8d 8h 5h 2h Ac 9d 7c 2d 9s 
+9h 0h 5c 6s Kh Qh Jh 7s 4s 3d 8c As 
 
 
 
@@ -1827,8 +1827,8 @@ DECK 130
                Qs Qh 
                   7h 
 
-2h 0s 0d 8c Ac 9d Ks Kd    2h 0s 0d 
-8c Ac 9d Ks Kd    2h 0s 0d 8c Ac 9d 
+3h 4h 2h 5d Js 0s 3c 9s 0d 4s 6d 8c 
+2d 5h Ac 7d 4c 9d Qd 4d Ks 7c Jc Kd 
 
 
 
@@ -1841,8 +1841,8 @@ As 9h 0h 0c 9c Qc 5s
                Ah 7h 
                   Ac 
 
-6d 7s 5h 2c Jc 7d 2s Qs    6d 7s 5h 
-2c Jc 7d 2s Qs    6d 7s 5h 2c Jc 7d 
+7c Kc 6d Qd 4s 7s 0s 2h 5h 8h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s Jh Ks Qs 
 
 
 
@@ -1855,8 +1855,8 @@ DECK 132
                0h Qs 
                   5d 
 
-6c 2c 6s 6h 8h 7d Jc Jh    6c 2c 6s 
-6h 8h 7d Jc Jh    6c 2c 6s 6h 8h 7d 
+4c 5h 6c Js Ac 2c 3c Kc 6s 5s 6d 6h 
+4s Kh 8h Ks 4d 7d Jd Qh Jc Kd 0d Jh 
 
 
 
@@ -1869,8 +1869,8 @@ Js 6h Kh 3d 2c 3h 6d
                3c 2s 
                   6s 
 
-Qs 7h Kc 9s Kd 2h Jh 6c    Qs 7h Kc 
-9s Kd 2h Jh 6c    Qs 7h Kc 9s Kd 2h 
+4h Ad Qs Ks Ah 7h 4d 8d Kc 8h Qh 9s 
+0d Jd Kd 8c 4c 2h 5d Ac Jh 0c 3s 6c 
 
 
 
@@ -1883,8 +1883,8 @@ DECK 134
                0c 5d 
                   7d 
 
-Jd 7h 0s 3h 4s Kh 3s 5c    Jd 7h 0s 
-3h 4s Kh 3s 5c    Jd 7h 0s 3h 4s Kh 
+8s 7s Jd As 0h 7h 2c 8d 0s Qh 6h 3h 
+0d Qs 4s 8h Ac Kh 6c Jc 3s 5s 9s 5c 
 
 
 
@@ -1897,8 +1897,8 @@ DECK 135
                Qh 3s 
                   Qd 
 
-Ks Kh 3c 8h 6c 8s 4s 4c    Ks Kh 3c 
-8h 6c 8s 4s 4c    Ks Kh 3c 8h 6c 8s 
+Jd 7s Ks 3d 4h Kh 3h 6h 3c Kd 2c 8h 
+0d Js 6c 0s 2s 8s 8c 8d 4s 9c 4d 4c 
 
 
 
@@ -1911,8 +1911,8 @@ As Js 0c 6c 7d Kc Ah
                6d Qh 
                   9h 
 
-5d 3d 8d 4h Qs Ad 3s 3c    5d 3d 8d 
-4h Qs Ad 3s 3c    5d 3d 8d 4h Qs Ad 
+Jh 5h 5d 6h 2h 3d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 9c 0h Ad Jc 2c 3s 5s 7s 3c 
 
 
 
@@ -1925,8 +1925,8 @@ Kh Qs 4d 8s 4s 3h Kc
                7s 0d 
                   Kd 
 
-Jd 0c 3d Ks Ah 8h 3s 2c    Jd 0c 3d 
-Ks Ah 8h 3s 2c    Jd 0c 3d Ks Ah 8h 
+5c 9s Jd 8c 6d 0c Ad 2d 3d 6s 4h Ks 
+5s 4c Ah 9c 6c 8h Qd As 3s 0h 3c 2c 
 
 
 
@@ -1939,8 +1939,8 @@ DECK 138
                3c 5c 
                   9h 
 
-0s Ah 9c 7d As 7s 3s Ad    0s Ah 9c 
-7d As 7s 3s Ad    0s Ah 9c 7d As 7s 
+2s 7h 0s Kd 6s Ah 8h 9d 9c 3d Ks 7d 
+5s Qc As 2d 9s 7s Kh Jc 3s Jh 2h Ad 
 
 
 
@@ -1953,8 +1953,8 @@ DECK 139
                3h 9h 
                   3c 
 
-Qd 9s 5h 2c Qc 7c 4d Kd    Qd 9s 5h 
-2c Qc 7c 4d Kd    Qd 9s 5h 2c Qc 7c 
+0c 5d Qd 3s 6s 9s Qs 2h 5h 8h Qh 2c 
+5c 9c Qc 3d 9d 7c 0d 7d 4d Jh Kc Kd 
 
 
 
@@ -1967,8 +1967,8 @@ DECK 140
                5h 7h 
                   8s 
 
-Ac Ad 3c 6s Kc 3d 5d 8d    Ac Ad 3c 
-6s Kc 3d 5d 8d    Ac Ad 3c 6s Kc 3d 
+9c Ah Ac Qc 6c Ad 2s 0c 3c Kd 7s 6s 
+Qs 3s Kc 4d 5c 3d 6h 8c 5d 3h 0s 8d 
 
 
 
@@ -1981,8 +1981,8 @@ DECK 141
                2c 4c 
                   8h 
 
-8s 4h 6h 6d Qd As Ad 7d    8s 4h 6h 
-6d Qd As Ad 7d    8s 4h 6h 6d Qd As 
+3s 7h 8s Kd 6s 4h 0h Jh 6h Ah Js 6d 
+5h 2s Qd 5s Kc As 5c 4d Ad 9c 8d 7d 
 
 
 
@@ -1995,8 +1995,8 @@ Qc 2s Kc 0h 8d 9d 6h
                7s 3h 
                   3d 
 
-6c Jh Ad 4h Ks 0s 5c 6d    6c Jh Ad 
-4h Ks 0s 5c 6d    6c Jh Ad 4h Ks 0s 
+4c 4s 6c Kh 9c Jh 8h Js Ad Ah 8c 4h 
+Qs 2c Ks 0c 2d 0s Qd Qh 5c Kd 7h 6d 
 
 
 
@@ -2009,8 +2009,8 @@ DECK 143
                3d 5h 
                   8h 
 
-0s Qc 6h 9c Ad Kd 2s 5d    0s Qc 6h 
-9c Ad Kd 2s 5d    0s Qc 6h 9c Ad Kd 
+7d 7c 0s 0c 2c Qc Ac 0h 6h 9d 4h 9c 
+7h Jc Ad 6d 2d Kd 4c 3h 2s 4s 8c 5d 
 
 
 
@@ -2023,8 +2023,8 @@ DECK 144
                Qs 5d 
                   Kd 
 
-6h 5c Qd Qh 2h 4c 2d 4s    6h 5c Qd 
-Qh 2h 4c 2d 4s    6h 5c Qd Qh 2h 4c 
+3s 3h 6h As 7s 5c 2c 7c Qd Ah 6c Qh 
+7h 2s 2h 9s Jh 4c 3c 8c 2d 6s 8s 4s 
 
 
 
@@ -2037,8 +2037,8 @@ Qh 9h Jd 2h Kd 5d Ad
                9s 6d 
                   Qs 
 
-0h Ah 9d 7c 3c Ac 8d 3h    0h Ah 9d 
-7c 3c Ac 8d 3h    0h Ah 9d 7c 3c Ac 
+4h Js 0h Jh 8h Ah Kc 7d 9d As Jc 7c 
+0c 7h 3c 0s Kh Ac Qc 3d 8d 2s 6s 3h 
 
 
 
@@ -2051,8 +2051,8 @@ Jh 4s Ks 0d 3d 7c 8d
                6h 9d 
                   9c 
 
-Jd 7h Qh 4d 6s 0c 2d Js    Jd 7h Qh 
-4d 6s 0c 2d Js    Jd 7h Qh 4d 6s 0c 
+8c Ad Jd 2s 5c 7h 2h Qd Qh 7d 2c 4d 
+7s 0h 6s Qc 0s 0c 6d 6c 2d 4h Ac Js 
 
 
 
@@ -2065,8 +2065,8 @@ Jh 6c 6h 4s 5c 5s Ah
                Jd Kc 
                   5d 
 
-9d Qc Jc Js 2h Qh 6d 0s    9d Qc Jc 
-Js 2h Qh 6d 0s    9d Qc Jc Js 2h Qh 
+9h As 9d 8h Qs Qc 3h 4d Jc 4c 3d Js 
+2d Qd 2h 9s 7h Qh 2c 7d 6d 8c 8s 0s 
 
 
 
@@ -2079,8 +2079,8 @@ As 0c 7d 8d Ad Jd 4s
                8h 5h 
                   Ah 
 
-2h 0d 5d 9h 6c 8c Qs 9s    2h 0d 5d 
-9h 6c 8c Qs 9s    2h 0d 5d 9h 6c 8c 
+0s Kc 2h 6s Qc 0d 3d 4d 5d 6d Js 9h 
+4h 7s 6c 6h Jc 8c Qh 4c Qs 9d 2s 9s 
 
 
 
@@ -2093,8 +2093,8 @@ DECK 149
                8s Ac 
                   Ks 
 
-9d 2d 6d 0h 4h 7d 0d 8h    9d 2d 6d 
-0h 4h 7d 0d 8h    9d 2d 6d 0h 4h 7d 
+8d Jc 9d 2s Qs 2d 4c 6c 6d Jh Qh 0h 
+0s As 4h 5c Jd 7d 9c 2c 0d 5s Kc 8h 
 
 
 
@@ -2107,8 +2107,8 @@ DECK 150
                6c 0h 
                   8d 
 
-8s 5s Ad 4d 2s 8c 0c 7c    8s 5s Ad 
-4d 2s 8c 0c 7c    8s 5s Ad 4d 2s 8c 
+Qs 9h 8s Qd 7s 5s 3s Ks Ad 5d Ac 4d 
+5h Kd 2s 4h 6d 8c 2d Jh 0c 9c Qh 7c 
 
 
 
@@ -2121,8 +2121,8 @@ DECK 151
                Ah 5h 
                   Jh 
 
-4d 8s Ac Qs Kh As 5s 6d    4d 8s Ac 
-Qs Kh As 5s 6d    4d 8s Ac Qs Kh As 
+6c Jc 4d Kd 4s 8s Js 7h Ac 2d Qd Qs 
+7d 8d Kh 4c 5c As 6h 9c 5s Ad Jd 6d 
 
 
 
@@ -2135,8 +2135,8 @@ DECK 152
                4c 6c 
                   9h 
 
-9s 5h 7h 8d Qd As 3d Ad    9s 5h 7h 
-8d Qd As 3d Ad    9s 5h 7h 8d Qd As 
+3s 8h 9s Kd 7s 5h Jh Kh 7h 2h Qs 8d 
+6h 2s Qd 6s 2d As 7c 6d 3d 4s Qh Ad 
 
 
 
@@ -2149,8 +2149,8 @@ Ac 8h Ks 8c 9h 3h 6d
                4s 6c 
                   0h 
 
-Ad 5h 4h Ah 8s 2d 2s Kc    Ad 5h 4h 
-Ah 8s 2d 2s Kc    Ad 5h 4h Ah 8s 2d 
+6s Jh Ad Jc 7s 5h 0d 4c 4h 5c 3c Ah 
+As 9c 8s 9d Js 2d 0s 2c 2s 2h 5s Kc 
 
 
 
@@ -2163,8 +2163,8 @@ DECK 154
                5c 2s 
                   5s 
 
-Js 8h Kc 7c 7s 5h 6h Qc    Js 8h Kc 
-7c 7s 5h 6h Qc    Js 8h Kc 7c 7s 5h 
+3h Ad Js Qs Ks 8h 5d 0d Kc 0h Ac 7c 
+8d 2h 7s Jh 3c 5h 9h Kd 6h 4d 9d Qc 
 
 
 
@@ -2177,8 +2177,8 @@ DECK 155
                3d 4h 
                   5c 
 
-7s 3s 0h Js 8s 4c 5s Jc    7s 3s 0h 
-Js 8s 4c 5s Jc    7s 3s 0h Js 8s 4c 
+4d Kh 7s 7c 2h 3s Jh Qc 0h 4s 2c Js 
+9s 2s 8s 3h Kc 4c Kd 0s 5s Qh 6d Jc 
 
 
 
@@ -2191,8 +2191,8 @@ DECK 156
                6h 3h 
                   Kd 
 
-3d 5c 2d 7c 7d 4h 4c 0d    3d 5c 2d 
-7c 7d 4h 4c 0d    3d 5c 2d 7c 7d 4h 
+6d 2h 3d Qc 7h 5c 2s 7s 2d 5d 2c 7c 
+8d Ks 7d Jh 0h 4h As Jd 4c 9c 3c 0d 
 
 
 
@@ -2205,8 +2205,8 @@ DECK 157
                4d 6h 
                   9h 
 
-0s Kc 7h 9c 2d Kd 2s 9s    0s Kc 7h 
-9c 2d Kd 2s 9s    0s Kc 7h 9c 2d Kd 
+7d 8c 0s Jc 3c Kc 2c Jh 7h 9d 5h 9c 
+8h Qc 2d 6d 3d Kd 5c 3h 2s 0c 4h 9s 
 
 
 
@@ -2219,8 +2219,8 @@ DECK 158
                5c 3h 
                   Qh 
 
-0c 3d Ac Qs 7d Qc 6d 4s    0c 3d Ac 
-Qs 7d Qc 6d 4s    0c 3d Ac Qs 7d Qc 
+2d 5s 0c 6c 7c 3d Js 0h Ac 0d Kh Qs 
+4h 9s 7d 8s 8c Qc 3s Ad 6d Jd Jc 4s 
 
 
 
@@ -2233,8 +2233,8 @@ DECK 159
                Qh 5d 
                   7d 
 
-4s 8d 4d 0h 2d 3d 0d 3s    4s 8d 4d 
-0h 2d 3d 0d 3s    4s 8d 4d 0h 2d 3d 
+Js Jd 4s 6c 7s 8d 5h 2s 4d Ah Kd 0h 
+3c 9d 2d 9s 6h 3d Qd 7c 0d Kc Jh 3s 
 
 
 
@@ -2247,8 +2247,8 @@ DECK 160
                Qc 5c 
                   5s 
 
-6d 0c 3s 2c 0d 3c 8s 2s    6d 0c 3s 
-2c 0d 3c 8s 2s    6d 0c 3s 2c 0d 3c 
+2d Kc 6d 4s 9s 0c Jh 9h 3s 4c 7d 2c 
+5d 6c 0d Kd 7h 3c Qd 6h 8s 4d 9c 2s 
 
 
 
@@ -2261,8 +2261,8 @@ DECK 161
                Js 6d 
                   5c 
 
-9h 7d 4s 9c 0s 6s 5s As    9h 7d 4s 
-9c 0s 6s 5s As    9h 7d 4s 9c 0s 6s 
+Kc 8c 9h 3d 9d 7d 4h Kh 4s 4d Jh 9c 
+2d 7h 0s Ad 2h 6s 3h 5d 5s Ac 0d As 
 
 
 
@@ -2275,8 +2275,8 @@ Jc 8h 2s 0h 6c 6d 5h
                6h 6s 
                   Ad 
 
-7d 3h 5s 9s 7c 7h 4s Ks    7d 3h 5s 
-9s 7c 7h 4s Ks    7d 3h 5s 9s 7c 7h 
+2c 3d 7d 3s 8d 3h Kc 4d 5s Ah Jh 9s 
+8s 7s 7c Qc 3c 7h 0d Kd 4s Ac 0c Ks 
 
 
 
@@ -2289,8 +2289,8 @@ DECK 163
                7c Qd 
                   Kc 
 
-9s 2s 6c 0s 5d 2h 0d Qh    9s 2s 6c 
-0s 5d 2h 0d Qh    9s 2s 6c 0s 5d 2h 
+3d Qc 9s 9d Qs 2s 6h Jd 6c 0c Jc 0s 
+9c 4h 5d Jh 5c 2h 4c 2c 0d 2d 8s Qh 
 
 
 
@@ -2303,8 +2303,8 @@ DECK 164
                6c 4d 
                   7d 
 
-0d 5h 9h Jh 4h 9c Jd 7c    0d 5h 9h 
-Jh 4h 9c Jd 7c    0d 5h 9h Jh 4h 9c 
+8s 7s 0d 2s 7h 5h 0h 8d 9h 5d Qc Jh 
+Qs 6s 4h Js 5s 9c 5c 4c Jd 3d As 7c 
 
 
 
@@ -2317,8 +2317,8 @@ DECK 165
                7d 2d 
                   4d 
 
-Qc Qs 9d 5d 3s 3c 5c 6c    Qc Qs 9d 
-5d 3s 3c 5c 6c    Qc Qs 9d 5d 3s 3c 
+4s 2s Qc 0s 8h Qs 3h Jh 9d 0h 2h 5d 
+7s 2c 3s Qd 5s 3c 6d As 5c Ad Ac 6c 
 
 
 
@@ -2331,8 +2331,8 @@ DECK 166
                Ad Ah 
                   Kc 
 
-6h 7d 5d Qd 9d 8c 6d 5c    6h 7d 5d 
-Qd 9d 8c 6d 5c    6h 7d 5d Qd 9d 8c 
+9c 0s 6h 7h 2c 7d 2h 5h 5d 0d 3d Qd 
+Js Ac 9d 8h 4s 8c 2s 3c 6d 7s 9s 5c 
 
 
 
@@ -2345,8 +2345,8 @@ Jh 2s Jd 8d 0s 9h Jc
                8h Ac 
                   8c 
 
-Kd Ah 0h 7c 3d Qd 6s 4c    Kd Ah 0h 
-7c 3d Qd 6s 4c    Kd Ah 0h 7c 3d Qd 
+Ad 7d Kd 7s Js Ah 4h 7h 0h Kh 3c 7c 
+0c Kc 3d 6d 9d Qd As 4s 6s 8s 3s 4c 
 
 
 
@@ -2359,8 +2359,8 @@ DECK 168
                Qd 4c 
                   0h 
 
-7s 8h Jd Kd 4h 8c 4s 3d    7s 8h Jd 
-Kd 4h 8c 4s 3d    7s 8h Jd Kd 4h 8c 
+As 0d 7s 6d 9h 8h 5h Ac Jd 5c 7c Kd 
+9d Js 4h Ks Qc 8c Kh 2s 4s Jh Kc 3d 
 
 
 
@@ -2373,8 +2373,8 @@ DECK 169
                3c 4h 
                   Kd 
 
-6d 8h 0h 0d Jh Jc Ad 2s    6d 8h 0h 
-0d Jh Jc Ad 2s    6d 8h 0h 0d Jh Jc 
+7d Qd 6d 5c As 8h Qc 5h 0h 9s 0c 0d 
+4c 7h Jh Qs 9d Jc Js Qh Ad 6s Kc 2s 
 
 
 
@@ -2387,8 +2387,8 @@ Ah 2h 3h Qh 4s Qc 9d
                2d As 
                   Qs 
 
-8s Jc 4h 5d 4c Kc 3c 0d    8s Jc 4h 
-5d 4c Kc 3c 0d    8s Jc 4h 5d 4c Kc 
+Ac 7s 8s 9s Ks Jc 3d 8c 4h 8h 3s 5d 
+6d 7d 4c Kh Js Kc 9h 6h 3c 5c Kd 0d 
 
 
 
@@ -2401,8 +2401,8 @@ DECK 171
                6h 6s 
                   Kc 
 
-6d 3h 5s 0s 6c 7h 4s 9d    6d 3h 5s 
-0s 6c 7h 4s 9d    6d 3h 5s 0s 6c 7h 
+Ac 2d 6d 3s 7d 3h Qc 3d 5s Ah Jh 0s 
+9s 7s 6c Jc 2c 7h 0d Kd 4s 8s 7c 9d 
 
 
 
@@ -2415,8 +2415,8 @@ DECK 172
                5s 6h 
                   Kc 
 
-9d 9h 7d 5h Ks 4d 6d 8d    9d 9h 7d 
-5h Ks 4d 6d 8d    9d 9h 7d 5h Ks 4d 
+Kh 4s 9d As 6s 9h 8s 0h 7d 3s 0s 5h 
+9c Ah Ks Qs 2d 4d 6c Jh 6d Ad Jd 8d 
 
 
 
@@ -2429,8 +2429,8 @@ As Js 9c 5c 6d Qc Ah
                5d Qh 
                   9h 
 
-4d 2d 8d 4h Qs Kc 3s 7d    4d 2d 8d 
-4h Qs Kc 3s 7d    4d 2d 8d 4h Qs Kc 
+Jh 5h 4d 6h 2h 2d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 8c 0h Kc 0c 2c 3s 5s 7s 7d 
 
 
 
@@ -2443,8 +2443,8 @@ Qs 2d 3h 3c 5h 5s 2h
                Js 8d 
                   Ac 
 
-4c 7d 9d 9s 4d 4h Kc 6s    4c 7d 9d 
-9s 4d 4h Kc 6s    4c 7d 9d 9s 4d 4h 
+8s 9h 4c Jh 8c 7d 5c Qh 9d 3s 2s 9s 
+Jd Jc 4d 2c Ad 4h 6c 0s Kc Qc 7s 6s 
 
 
 
@@ -2457,8 +2457,8 @@ DECK 175
                7s Kc 
                   Kd 
 
-Ah 0h Qd Ad 6c Qs 8s 5h    Ah 0h Qd 
-Ad 6c Qs 8s 5h    Ah 0h Qd Ad 6c Qs 
+2s 0s Ah As 4s 0h 9h Jh Qd Ac 8d Ad 
+Kh 2h 6c 2c 6d Qs 0c 7d 8s Jd 5c 5h 
 
 
 
@@ -2471,8 +2471,8 @@ DECK 176
                5c 8c 
                   3s 
 
-0h 2h Js Kh 5s 0c 3d Ks    0h 2h Js 
-Kh 5s 0c 3d Ks    0h 2h Js Kh 5s 0c 
+Jc 8d 0h 0d 4d 2h Jd 9c Js 9d 8h Kh 
+7d Qc 5s 4h Kc 0c 6d Ac 3d Kd As Ks 
 
 
 
@@ -2485,8 +2485,8 @@ DECK 177
                4d Qh 
                   2d 
 
-6c Jh Ah 5c 7c 8h 8d Qs    6c Jh Ah 
-5c 7c 8h 8d Qs    6c Jh Ah 5c 7c 8h 
+5s Kh 6c 6s 3d Jh 3s Ad Ah 6h Jc 5c 
+7d 0s 7c 4c 8c 8h 0c 9d 8d 9s Qc Qs 
 
 
 
@@ -2499,8 +2499,8 @@ DECK 178
                3c 5c 
                   0h 
 
-8s Ah 9c 6d As Qh 5d Js    8s Ah 9c 
-6d As Qh 5d Js    8s Ah 9c 6d As Qh 
+2s 6h 8s Kd 6s Ah 7h 8d 9c Ad Ks 6d 
+4s Qc As 8h 0c Qh 0d 9h 5d 5s 9s Js 
 
 
 
@@ -2513,8 +2513,8 @@ DECK 179
                5h 7s 
                   2c 
 
-5c Jh 6s Qd 9h 8d Qc 0s    5c Jh 6s 
-Qd 9h 8d Qc 0s    5c Jh 6s Qd 9h 8d 
+6c 9c 5c As Qh Jh 6d 3s 6s 0d Jd Qd 
+8h 3c 9h Ks 5d 8d Kd 6h Qc 4c Kh 0s 
 
 
 
@@ -2527,8 +2527,8 @@ DECK 180
                5h Qh 
                   5c 
 
-Kd Js 7h 4c Kc Qd 2s 9h    Kd Js 7h 
-4c Kc Qd 2s 9h    Kd Js 7h 4c Kc Qd 
+Jc 5d Kd 4s 8s Js Ah 4h 7h Jh Ac 4c 
+7c 0c Kc 4d 8d Qd 7s 6d 2s 2d Jd 9h 
 
 
 
@@ -2541,8 +2541,8 @@ DECK 181
                Kd 9c 
                   Kh 
 
-Ah 8s 5d 4h 0h Qs 6c 8c    Ah 8s 5d 
-4h 0h Qs 6c 8c    Ah 8s 5d 4h 0h Qs 
+2s 0s Ah 9h Jc 8s Js 3d 5d 2d 5s 4h 
+Kc 4c 0h Ks 5h Qs Ac 7c 6c Qc 0d 8c 
 
 
 
@@ -2555,8 +2555,8 @@ Ac Kc 6d 4s Qh Ad Ah
                0h 5h 
                   8d 
 
-4h 8s 3c Jd 8h 9d Qd 7d    4h 8s 3c 
-Jd 8h 9d Qd 7d    4h 8s 3c Jd 8h 9d 
+6s 7s 4h Jh 5s 8s 2c 6c 3c 2s 9c Jd 
+4d 4c 8h 8c 5c 9d 3h Qc Qd Qs 9s 7d 
 
 
 
@@ -2569,8 +2569,8 @@ DECK 183
                9c Kc 
                   6h 
 
-Jh 5c 8d Kd 3c 9d Ac 2d    Jh 5c 8d 
-Kd 3c 9d Ac 2d    Jh 5c 8d Kd 3c 9d 
+2s Qc Jh 0c 7h 5c 6c 7c 8d Js 8s Kd 
+0h 9s 3c Qh 4h 9d Qd As Ac Ad 5d 2d 
 
 
 
@@ -2583,8 +2583,8 @@ DECK 184
                4c 6c 
                   9h 
 
-9s 5h 7h 8d Qd As 3d Ad    9s 5h 7h 
-8d Qd As 3d Ad    9s 5h 7h 8d Qd As 
+3s 8h 9s Kd 7s 5h Jh Kh 7h 2h Qs 8d 
+6h 2s Qd 6s 2d As 7c 6d 3d 4s Qh Ad 
 
 
 
@@ -2597,8 +2597,8 @@ DECK 185
                5s Ad 
                   Qs 
 
-9s 4h 7s 4s As 9h Qc Kc    9s 4h 7s 
-4s As 9h Qc Kc    9s 4h 7s 4s As 9h 
+Js 7h 9s 0s 5d 4h 3s Jh 7s Qd 6h 4s 
+Ac 8c As 6d Ks 9h 7d 8s Qc 4c 3c Kc 
 
 
 
@@ -2611,8 +2611,8 @@ As Jh Qh Jc 9c Kc 7s
                2h 9h 
                   Ac 
 
-7d 9s 7h Kd 2c 3d Qc Qd    7d 9s 7h 
-Kd 2c 3d Qc Qd    7d 9s 7h Kd 2c 3d 
+8c Ad 7d Jd 4s 9s Ks 4h 7h 0h 0c Kd 
+3s 0s 2c 6s 5s 3d 4d 7c Qc 4c 3h Qd 
 
 
 
@@ -2625,8 +2625,8 @@ DECK 187
                4c 3d 
                   6c 
 
-6s Qc 9s 3s 8h Ac 5s Js    6s Qc 9s 
-3s 8h Ac 5s Js    6s Qc 9s 3s 8h Ac 
+Jc 4d 6s Jd Ah Qc Kd 3h 9s 8s 0c 3s 
+9d 2h 8h 7h Qh Ac Qd As 5s Kh 2d Js 
 
 
 
@@ -2639,8 +2639,8 @@ Ks 7c Qc 4h Kh 8c 9c
                4s Jh 
                   4c 
 
-Kd 2s 0h 9s 7h 0d Jc 6s    Kd 2s 0h 
-9s 7h 0d Jc 6s    Kd 2s 0h 9s 7h 0d 
+0c 5c Kd Ac Ad 2s 6d Qd 0h 8d 2d 9s 
+2h Ah 7h 3h 7d 0d As 8h Jc 3s 3c 6s 
 
 
 
@@ -2653,8 +2653,8 @@ DECK 189
                9c Jc 
                   Kc 
 
-Kh 9s 5c 2h 7s 3d Kd 5s    Kh 9s 5c 
-2h 7s 3d Kd 5s    Kh 9s 5c 2h 7s 3d 
+8c Qs Kh Ah 4s 9s 2c 4c 5c Ac 6h 2h 
+0d Qh 7s 3s 0s 3d 5h 0h Kd Qd 9d 5s 
 
 
 
@@ -2667,8 +2667,8 @@ DECK 190
                Js 5d 
                   8c 
 
-7c Ks 6h 5c 5s 0d 4c 4s    7c Ks 6h 
-5c 5s 0d 4c 4s    7c Ks 6h 5c 5s 0d 
+8s 7h 7c 2h 3s Ks 9s 0s 6h 6d Jd 5c 
+8d Qh 5s 6s 8h 0d 0c 4d 4c Qc Jc 4s 
 
 
 
@@ -2681,8 +2681,8 @@ Kh 8d 0h Kc 6h 4h 6s
                Ac 8c 
                   7s 
 
-4c 0d 7d 5d 5s 7h Qc 3s    4c 0d 7d 
-5d 5s 7h Qc 3s    4c 0d 7d 5d 5s 7h 
+Qh Qd 4c 4s 8s 0d Ad 8h 7d 3h Jd 5d 
+Qs 6d 5s 2h 9c 7h 2s 9h Qc Js 0c 3s 
 
 
 
@@ -2695,8 +2695,8 @@ DECK 192
                8c 6h 
                   2c 
 
-Kc 5d 4c Ah 8d Ad 4s 2h    Kc 5d 4c 
-Ah 8d Ad 4s 2h    Kc 5d 4c Ah 8d Ad 
+4d 5s Kc 9c 0c 5d Ks Kh 4c Jd 3c Ah 
+7h Js 8d 0s Jc Ad 3s 3d 4s 6s 8s 2h 
 
 
 
@@ -2709,8 +2709,8 @@ Kc 8h 6h Qs 7d 2s Js
                6c 4h 
                   Kd 
 
-3h Qh Jd 6d Jh 5c 7h Ac    3h Qh Jd 
-6d Jh 5c 7h Ac    3h Qh Jd 6d Jh 5c 
+2h 9h 3h 3c 9c Qh 5h 4d Jd Qd 4s 6d 
+Qc 2d Jh 0c Ks 5c 8c Kh 7h 9s 7s Ac 
 
 
 
@@ -2723,8 +2723,8 @@ DECK 194
                9s Jc 
                   0h 
 
-9h 5h Js 8s 7c 0d Jd 9c    9h 5h Js 
-8s 7c 0d Jd 9c    9h 5h Js 8s 7c 0d 
+Kd Kh 9h 4c 7h 5h 5s 8c Js 5c Ah 8s 
+Qh 0s 7c Kc 7s 0d 8h 2c Jd 3h 4d 9c 
 
 
 
@@ -2737,8 +2737,8 @@ Js As Jh 9s 9c Qc 8s
                Qh Ks 
                   7d 
 
-6c Ac 7s 4c 6s 5h 8d 8c    6c Ac 7s 
-4c 6s 5h 8d 8c    6c Ac 7s 4c 6s 5h 
+3c 7h 6c Qs Kh Ac 2c 2d 7s 5s 9d 4c 
+7c 9h 6s Kd 4d 5h 4s 0c 8d 0h Ah 8c 
 
 
 
@@ -2751,8 +2751,8 @@ Kh Qs 4d 8s 4s 3h Qc
                7s 0d 
                   Kd 
 
-Jd 9c 3d Ks Ah 8h 3s 7c    Jd 9c 3d 
-Ks Ah 8h 3s 7c    Jd 9c 3d Ks Ah 8h 
+3c 9s Jd 6c 6d 9c Ad 2d 3d 6s 4h Ks 
+5s 2c Ah 8c 4c 8h Qd As 3s 0h Kc 7c 
 
 
 
@@ -2765,8 +2765,8 @@ Jc 6h 9c 5h 0h 7h 9s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 6c    0d Qh 9d 
-8h 3h 7d 2s 6c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 8s Qh 0s Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s Qs 6c 
 
 
 
@@ -2779,8 +2779,8 @@ DECK 198
                0h 8c 
                   3h 
 
-5d 6d Jd 9d 4c 7d 4h 5c    5d 6d Jd 
-9d 4c 7d 4h 5c    5d 6d Jd 9d 4c 7d 
+Ks Kc 5d 2c As 6d 2h 2s Jd Ad 9h 9d 
+3c Qd 4c 7c Qs 7d 9c 3s 4h 2d Kh 5c 
 
 
 
@@ -2793,8 +2793,8 @@ DECK 199
                7h Ah 
                   4s 
 
-Kd 6h 5s 5c 3d 5h Jd 4d    Kd 6h 5s 
-5c 3d 5h Jd 4d    Kd 6h 5s 5c 3d 5h 
+7s 3h Kd Ks 3c 6h 9s Ac 5s 4c 2h 5c 
+0c Kh 3d Kc 8s 5h Ad 8h Jd 9c Qd 4d 
 
 
 
@@ -2807,8 +2807,8 @@ DECK 200
                6h Qh 
                   5c 
 
-Kd Qs 8h 4c Kc Jd 2s 3s    Kd Qs 8h 
-4c Kc Jd 2s 3s    Kd Qs 8h 4c Kc Jd 
+Jc 4d Kd 5s 9s Qs 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 3d 7d Jd 8s 5d 2s Qd 9d 3s 
 
 
 
@@ -2821,8 +2821,8 @@ As 9h 0h 9c 8c Jc 7s
                Ah 7h 
                   Kh 
 
-5d 9s 5h Ac 0c 6d 2s Jd    5d 9s 5h 
-Ac 0c 6d 2s Jd    5d 9s 5h Ac 0c 6d 
+6c Qc 5d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+4c 7c 0c Kc 3d 6d 9d Kd 2s 4s 6s Jd 
 
 
 
@@ -2835,8 +2835,8 @@ Ah 2h 3h Qh 4s Qc 9d
                2d As 
                   Qs 
 
-8s Jc 4h 5d 4c Kc 3c 0d    8s Jc 4h 
-5d 4c Kc 3c 0d    8s Jc 4h 5d 4c Kc 
+Ac 7s 8s 9s Ks Jc 3d 8c 4h 8h 3s 5d 
+6d 7d 4c Kh Js Kc 9h 6h 3c 5c Kd 0d 
 
 
 
@@ -2849,8 +2849,8 @@ Qs 4s 8h 4c 3s Js Jh
                8d Kh 
                   Ks 
 
-7d 7h 2h 5d 4d 3c Kc 9d    7d 7h 2h 
-5d 4d 3c Kc 9d    7d 7h 2h 5d 4d 3c 
+7c 9c 7d 2c 4h 7h Ac 6s 2h 8s Kd 5d 
+0s 5h 4d Qc Ad 3c 6h 0d Kc 5c 6d 9d 
 
 
 
@@ -2863,8 +2863,8 @@ Ad 4d 6d 9d 8c 4h 2s
                3h 7h 
                   Kh 
 
-5h 3d 6h Ah 4s 9h 8h 8s    5h 3d 6h 
-Ah 4s 9h 8h 8s    5h 3d 6h Ah 4s 9h 
+Kc 2d 5h 7s Qd 3d Qs Jc 6h 7c 0d Ah 
+8d 3c 4s 4c 9c 9h 0c Js 8h Jd 5c 8s 
 
 
 
@@ -2877,8 +2877,8 @@ DECK 205
                Kc 8h 
                   9h 
 
-Qd 9d Jd 5c 7s Jc Kd 7h    Qd 9d Jd 
-5c 7s Jc Kd 7h    Qd 9d Jd 5c 7s Jc 
+8c Jh Qd As 2d 9d 7d Qh Jd 6c Ac 5c 
+4c 2s 7s 7c Ad Jc 0c 4h Kd 0s 2c 7h 
 
 
 
@@ -2891,8 +2891,8 @@ DECK 206
                6c 0h 
                   8d 
 
-8s 5s Ad 4d 2s 7c 0c 2c    8s 5s Ad 
-4d 2s 7c 0c 2c    8s 5s Ad 4d 2s 7c 
+Qs 9h 8s Qd 7s 5s 3s Ks Ad 5d Kh 4d 
+5h Kd 2s 4h 6d 7c 2d Jh 0c 9c 8c 2c 
 
 
 
@@ -2905,8 +2905,8 @@ DECK 207
                Jd 4c 
                   6h 
 
-0d 8c 9s 4s 7c Ad 6c Ah    0d 8c 9s 
-4s 7c Ad 6c Ah    0d 8c 9s 4s 7c Ad 
+Kc 3d 0d 4d 0s 8c Qc As 9s 4h 5s 4s 
+3s Ac 7c Jh 3h Ad Jc 0c 6c 6d Qh Ah 
 
 
 
@@ -2919,8 +2919,8 @@ Ac 7h Qs 7c 8h 2h 5d
                5s 5c 
                   9h 
 
-Qc 4h 3h Ah 8s Kc 4s Ks    Qc 4h 3h 
-Ah 8s Kc 4s Ks    Qc 4h 3h Ah 8s Kc 
+6s Jh Qc 0c 7s 4h 0d 3c 3h 4c 2c Ah 
+2s 8c 8s 8d 0s Kc 9d 0h 4s 3d As Ks 
 
 
 
@@ -2933,8 +2933,8 @@ DECK 209
                6h Qh 
                   5c 
 
-Kd Js 8h 4c Kc Qd 2s Qs    Kd Js 8h 
-4c Kc Qd 2s Qs    Kd Js 8h 4c Kc Qd 
+Jc 5d Kd 4s 8s Js 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 4d 8d Qd 7s 6d 2s 2d Jd Qs 
 
 
 
@@ -2947,8 +2947,8 @@ DECK 210
                5h 3h 
                   Ah 
 
-2s 5s Kh 9d Qc 6c Kc Jh    2s 5s Kh 
-9d Qc 6c Kc Jh    2s 5s Kh 9d Qc 6c 
+Qs As 2s 3s 4c 5s 8h Ks Kh 4s Jc 9d 
+3d 6h Qc 9h Qd 6c Ad 7h Kc 7c 0d Jh 
 
 
 
@@ -2961,8 +2961,8 @@ Ah 2h 8c 2d Qh 8h 2c
                Jh 0d 
                   3c 
 
-4h Jc 9h 7d 4c 8s 5c 0c    4h Jc 9h 
-7d 4c 8s 5c 0c    4h Jc 9h 7d 4c 8s 
+9d 3d 4h Kh Ac Jc 6s 6h 9h Kd 3s 7d 
+5s Ks 4c Jd 0h 8s 9c 4s 5c 8d 9s 0c 
 
 
 
@@ -2975,8 +2975,8 @@ DECK 212
                9h 7h 
                   Ac 
 
-Js Qs 4c 2h 6h 8d 3c 9d    Js Qs 4c 
-2h 6h 8d 3c 9d    Js Qs 4c 2h 6h 8d 
+As 8c Js 2s 5s Qs 6c 3h 4c Qd 0s 2h 
+0h 4d 6h 5h 4h 8d 0d Jc 3c 4s 6s 9d 
 
 
 
@@ -2989,8 +2989,8 @@ Ad 9s Qd 7c 5c As 9d
                8s 2d 
                   9c 
 
-8c 0s 6h 6c 0h 6d Ah 4d    8c 0s 6h 
-6c 0h 6d Ah 4d    8c 0s 6h 6c 0h 6d 
+5s 7h 8c Qs 3s 0s 6s 7s 6h 3d 0d 6c 
+8d Qh 0h 2h Ks 6d Kh Jd Ah 7d 2c 4d 
 
 
 
@@ -3003,8 +3003,8 @@ DECK 214
                5d 7h 
                   0h 
 
-9s 2d 8h Qc 6c 7d 3c 3d    9s 2d 8h 
-Qc 6c 7d 3c 3d    9s 2d 8h Qc 6c 7d 
+8d Jc 9s Kc 5c 2d 4c Qh 8h 0d 4h Qc 
+9h 6h 6c 5h Ad 7d Ah 2s 3c 8c 2h 3d 
 
 
 
@@ -3017,8 +3017,8 @@ DECK 215
                8h 5h 
                   Ah 
 
-2h 0d 6d 9h 6c 8c 3s 2d    2h 0d 6d 
-9h 6c 8c 3s 2d    2h 0d 6d 9h 6c 8c 
+Js Kc 2h 8s Qc 0d 4d 5d 6d 7d Qs 9h 
+4h 9s 6c 6h Jc 8c Qh As 3s 5s Kh 2d 
 
 
 
@@ -3031,8 +3031,8 @@ DECK 216
                3c 3d 
                   5c 
 
-6s Jc 9s 3s 7h Kh 5s Ad    6s Jc 9s 
-3s 7h Kh 5s Ad    6s Jc 9s 3s 7h Kh 
+0c 4d 6s Jd Ks Jc Kd 2h 9s 8s 9c 3s 
+9d Ah 7h 6h Jh Kh Qd As 5s Qh 2d Ad 
 
 
 
@@ -3045,8 +3045,8 @@ DECK 217
                8c Ad 
                   7h 
 
-Qh 3c 7d Qd 2d 4s 9h Kd    Qh 3c 7d 
-Qd 2d 4s 9h Kd    Qh 3c 7d Qd 2d 4s 
+As Qc Qh 0c 8h 3c 4c 5c 7d Ks 0s Qd 
+6c 9c 2d 8s 0d 4s 8d 2s 9h Js Kc Kd 
 
 
 
@@ -3059,8 +3059,8 @@ DECK 218
                8h 4s 
                   Ac 
 
-0h 7h 5c Ks 6d 3c 9d Qs    0h 7h 5c 
-Ks 6d 3c 9d Qs    0h 7h 5c Ks 6d 3c 
+2c 9c 0h Js 2h 7h Qd Ah 5c Kh 7c Ks 
+0d 9s 6d 6c 4d 3c 5s Kc 9d 8d Kd Qs 
 
 
 
@@ -3073,8 +3073,8 @@ DECK 219
                5s Jd 
                   Kd 
 
-Qd 0c 3d Qs Qh 5c Ac 7s    Qd 0c 3d 
-Qs Qh 5c Ac 7s    Qd 0c 3d Qs Qh 5c 
+6c 8s Qd 8c 6d 0c Ad 2d 3d 4s 3h Qs 
+3s 4c Qh Ah 6h 5c 8h 7d Ac Kh 9c 7s 
 
 
 
@@ -3087,8 +3087,8 @@ As Ac 0h Jh Qh 6c 8h
                9h 2s 
                   0c 
 
-2d 6h 9s Ks Qd 4h 5d 6s    2d 6h 9s 
-Ks Qd 4h 5d 6s    2d 6h 9s Ks Qd 4h 
+0s Jd 2d Kd 8s 6h 7h Js 9s 5s Qc Ks 
+9d 3d Qd Jc Qs 4h 6d 8d 5d 4d 3c 6s 
 
 
 
@@ -3101,8 +3101,8 @@ DECK 221
                8c 6h 
                   2c 
 
-Kc 5d 4c 2h 8d Ad 4s 5s    Kc 5d 4c 
-2h 8d Ad 4s 5s    Kc 5d 4c 2h 8d Ad 
+4d 6s Kc 9c 0c 5d Ah Kh 4c Jd 3c 2h 
+7h Qs 8d Js Jc Ad 3s 3d 4s 7s 9s 5s 
 
 
 
@@ -3115,8 +3115,8 @@ DECK 222
                Jc Ks 
                   0c 
 
-6h 7d 6d Js Kd 2d 9h 4h    6h 7d 6d 
-Js Kd 2d 9h 4h    6h 7d 6d Js Kd 2d 
+5c 9s 6h 7h Ac 7d Ah 5h 6d 9d 3d Js 
+Jd 6s Kd Ad 6c 2d Qc As 9h 5d 7s 4h 
 
 
 
@@ -3129,8 +3129,8 @@ DECK 223
                0d 5c 
                   6h 
 
-9d 9c 0s 5s 8c 8d 8h 3c    9d 9c 0s 
-5s 8c 8d 8h 3c    9d 9c 0s 5s 8c 8d 
+Qc 2d 9d 3d Js 9c Jc As 0s 4h 6s 5s 
+4s Ac 8c Qh 3h 8d Jd 2s 8h Ad 6c 3c 
 
 
 
@@ -3143,8 +3143,8 @@ DECK 224
                Ks Qd 
                   2s 
 
-7d 4s 6h 4d 8c Ah 2c Jc    7d 4s 6h 
-4d 8c Ah 2c Jc    7d 4s 6h 4d 8c Ah 
+6d 2d 7d 0d 3d 4s 6c 5c 6h 7c 6s 4d 
+9d Js 8c Ac 9c Ah 4c 3c 2c 9h Qc Jc 
 
 
 
@@ -3157,8 +3157,8 @@ DECK 225
                3d 8d 
                   Kc 
 
-4d 3c 5c 6d Qh 2c 0s 0c    4d 3c 5c 
-6d Qh 2c 0s 0c    4d 3c 5c 6d Qh 2c 
+Jc Ad 4d 8c Kd 3c 0h 5h 5c As Qc 6d 
+9s 4c Qh 7c Js 2c Ac Kh 0s 6s 5d 0c 
 
 
 
@@ -3171,8 +3171,8 @@ Qc 6h 5h Js 6d 2s 0s
                2c 3h 
                   Kd 
 
-2h 0h 0d 5d 9h 5c 8s 9c    2h 0h 0d 
-5d 9h 5c 8s 9c    2h 0h 0d 5d 9h 5c 
+Ah 7h 2h Qh 4c 0h 4h 3d 0d Qd 4s 5d 
+8c Ad 9h 6c Qs 5c Kh Jd 8s Jc 0c 9c 
 
 
 
@@ -3185,8 +3185,8 @@ Ad 4h 8s Jh Ah 9s 7d
                4c 2d 
                   8d 
 
-Jd 3h 7h 9h Qh 6c 5s 8c    Jd 3h 7h 
-9h Qh 6c 5s 8c    Jd 3h 7h 9h Qh 6c 
+7s 4s Jd As 5h 3h 8h 9d 7h 5d 0c 9h 
+Js 2c Qh 6d 0s 6c 4d 6s 5s Jc 3d 8c 
 
 
 
@@ -3199,8 +3199,8 @@ DECK 228
                0h 6c 
                   3h 
 
-2d 3d 8d 6d 3c 4d 7h 7c    2d 3d 8d 
-6d 3c 4d 7h 7c    2d 3d 8d 6d 3c 4d 
+Ks Jc 2d Ac As 3d 2h 2s 8d Qc 9h 6d 
+2c 9d 3c 0d Js 4d 5s Jd 7h 4c Qd 7c 
 
 
 
@@ -3213,8 +3213,8 @@ DECK 229
                Jc Js 
                   0c 
 
-5h 5d 3d 9s Kd 4h 3h 6d    5h 5d 3d 
-9s Kd 4h 3h 6d    5h 5d 3d 9s Kd 4h 
+5c 7s 5h 6h Qh 5d Qs 2h 3d 8d Ad 9s 
+0d 5s Kd Kc 6c 4h 2c Kh 3h 4d Jd 6d 
 
 
 
@@ -3227,8 +3227,8 @@ As 2h Js 9s 3d 4c 9h
                Ah 2c 
                   Kh 
 
-Jh Ac 0s 6c 4h Ks 9c 5s    Jh Ac 0s 
-6c 4h Ks 9c 5s    Jh Ac 0s 6c 4h Ks 
+4s 8d Jh Qd 4d Ac 8c 8s 0s 6d 0d 6c 
+0c Kd 4h Jd 9d Ks Qh 7d 9c 5h 0h 5s 
 
 
 
@@ -3241,8 +3241,8 @@ DECK 231
                Ah 6s 
                   0c 
 
-6d Jh 2h Qc 4s 3d Qs Kd    6d Jh 2h 
-Qc 4s 3d Qs Kd    6d Jh 2h Qc 4s 3d 
+Kh Ad 6d 3s 6c Jh Qh 8c 2h 8h 2d Qc 
+Kc 6h 4s 7h Qd 3d 0d 9c Qs 8d 5s Kd 
 
 
 
@@ -3255,8 +3255,8 @@ DECK 232
                Kh 3h 
                   Jd 
 
-Ad Kd 4c Ac 9h 4h 7d Qd    Ad Kd 4c 
-Ac 9h 4h 7d Qd    Ad Kd 4c Ac 9h 4h 
+2d 6d Ad 2c As Kd 9d 6h 4c 6s 0d Ac 
+Jc 8d 9h Qs 3d 4h 9s 5h 7d 8s 3c Qd 
 
 
 
@@ -3269,8 +3269,8 @@ DECK 233
                5h 3h 
                   0h 
 
-Qs Ks Kc Qc 6h 2d 5d Jd    Qs Ks Kc 
-Qc 6h 2d 5d Jd    Qs Ks Kc Qc 6h 2d 
+2s 3c Qs 4s 6s Ks Ac 0d Kc Ad 8s Qc 
+4c 8c 6h 9s Jh 2d 3s Qd 5d 7c As Jd 
 
 
 
@@ -3283,8 +3283,8 @@ DECK 234
                Jc Jh 
                   2c 
 
-9d 5s Qc Ac Qs Js 8h 0d    9d 5s Qc 
-Ac Qs Js 8h 0d    9d 5s Qc Ac Qs Js 
+6c 3d 9d Qh Ks 5s 7d 3h Qc 0h 9c Ac 
+Kc 4d Qs 7h 6d Js Qd Kh 8h 0c 4h 0d 
 
 
 
@@ -3297,8 +3297,8 @@ DECK 235
                Qh 8c 
                   4h 
 
-6d 7d Qd Ac Jh 4d 9h 9s    6d 7d Qd 
-Ac Jh 4d 9h 9s    6d 7d Qd Ac Jh 4d 
+Qs Kc 6d 6c As 7d 3h 2s Qd Ad 8h Ac 
+Ah Jc Jh 2h Kh 4d 9d 3c 9h Jd 3d 9s 
 
 
 
@@ -3311,8 +3311,8 @@ DECK 236
                4h 7d 
                   9c 
 
-Jd 5h 0h 2d 9d 0d 4c 8h    Jd 5h 0h 
-2d 9d 0d 4c 8h    Jd 5h 0h 2d 9d 0d 
+8c Qc Jd 2s 6c 5h Qs Qd 0h 4d Ac 2d 
+5c 6d 9d 3h Kh 0d 2h 3s 4c Jh Kc 8h 
 
 
 
@@ -3325,8 +3325,8 @@ Qh 6h 8s 4c 7h Qs Kc
                0d Kd 
                   8d 
 
-9s 0c 0h Js 8h 0s 9d 3c    9s 0c 0h 
-Js 8h 0s 9d 3c    9s 0c 0h Js 8h 0s 
+Ah 4s 9s 3s 2c 0c Jc 4d 0h Ac 5c Js 
+5h 2s 8h 4h 3h 0s Qd 7d 9d 6d 7s 3c 
 
 
 
@@ -3339,8 +3339,8 @@ DECK 238
                3h 0h 
                   5c 
 
-Kd 9s 5h 4c Ad 8d 8h 2c    Kd 9s 5h 
-4c Ad 8d 8h 2c    Kd 9s 5h 4c Ad 8d 
+Qc 7d Kd 3s 6s 9s Qs 2h 5h 9h Qh 4c 
+7c 0c Ad 4d 3c 8d 5d 2d 8h Jc 9d 2c 
 
 
 
@@ -3353,8 +3353,8 @@ Ad 0c 6s 4d 8s Qc 3c
                8h Qs 
                   Qd 
 
-Qh 7s Ks 2s 5c 4h Kd Ah    Qh 7s Ks 
-2s 5c 4h Kd Ah    Qh 7s Ks 2s 5c 4h 
+2d 6h Qh 3d 7h 7s 3h 0s Ks Jh 9d 2s 
+9c 0d 5c Kh 5h 4h Jd 6c Kd 2c Jc Ah 
 
 
 
@@ -3367,8 +3367,8 @@ Ac 6h Qs 7c 7h Ah 5d
                4s 5c 
                   8h 
 
-Qc 3h 2h Ks 7s Kc 3s Kh    Qc 3h 2h 
-Ks 7s Kc 3s Kh    Qc 3h 2h Ks 7s Kc 
+5s 0h Qc 0c 6s 3h 0d 3c 2h 4c 2c Ks 
+As 8c 7s 8d 0s Kc 9d 9h 3s 3d 9s Kh 
 
 
 
@@ -3381,8 +3381,8 @@ DECK 241
                3d Jd 
                   5c 
 
-4d 9c 2c 8h 2d 6d 6h Qc    4d 9c 2c 
-8h 2d 6d 6h Qc    4d 9c 2c 8h 2d 6d 
+Kh Qd 4d 3h 8d 9c 7d 7c 2c Ac 3s 8h 
+Kc Jh 2d 5d 9d 6d 2s 8c 6h 4s 6s Qc 
 
 
 
@@ -3395,8 +3395,8 @@ Kh Js Ad 7s 4s Ks Qc
                6s Kd 
                   5s 
 
-8d 3h As Kc 6h 9c 3c Jd    8d 3h As 
-Kc 6h 9c 3c Jd    8d 3h As Kc 6h 9c 
+5d 9d 8d 8h 2s 3h 8s 9h As 7c 3d Kc 
+Ah Jc 6h 7d Ac 9c 4h 8c 3c Qd 6c Jd 
 
 
 
@@ -3409,8 +3409,8 @@ DECK 243
                2s 8h 
                   Ac 
 
-Qd As 6h 6s 4h 9d Jh 6d    Qd As 6h 
-6s 4h 9d Jh 6d    Qd As 6h 6s 4h 9d 
+7c 2c Qd Qh 0c As 4d Jd 6h 7d Jc 6s 
+Qs Js 4h Ks 5d 9d Qc Kd Jh Kc 7h 6d 
 
 
 
@@ -3423,8 +3423,8 @@ DECK 244
                0d Qd 
                   9d 
 
-8s 0c 6h 9s 4h 8d 4c 5d    8s 0c 6h 
-9s 4h 8d 4c 5d    8s 0c 6h 9s 4h 8d 
+Qs 4s 8s 3s Qh 0c Jc 6d 6h 0h Ac 9s 
+Ah 2s 4h 2c Kd 8d 9c 8c 4c Jh Kc 5d 
 
 
 
@@ -3437,8 +3437,8 @@ DECK 245
                9c Jc 
                   Jd 
 
-0d 8h 7h 3d 5h 3c 3s 4d    0d 8h 7h 
-3d 5h 3c 3s 4d    0d 8h 7h 3d 5h 3c 
+7d 6d 0d 3h Js 8h 5d 5s 7h Ah Qs 3d 
+8s Kd 5h Jh 0h 3c 6c As 3s 7s 2c 4d 
 
 
 
@@ -3451,8 +3451,8 @@ Ks 7c 9d 4d Qc 6h 3c
                3h 2c 
                   Qh 
 
-4c Kh 5h 3s 2s Qs 2d 3d    4c Kh 5h 
-3s 2s Qs 2d 3d    4c Kh 5h 3s 2s Qs 
+7s 0d 4c 6c Qd Kh 2h Jh 5h 0h 5c 3s 
+8s Jc 2s 9c Ah Qs Ac 5s 2d 8d Kc 3d 
 
 
 
@@ -3465,8 +3465,8 @@ DECK 247
                5h 3c 
                   2h 
 
-Js Ks Ah Jd 6h Kh 7c 2s    Js Ks Ah 
-Jd 6h Kh 7c 2s    Js Ks Ah Jd 6h Kh 
+0c 0h Js Ad 7h Ks Jc Jh Ah 9c 8s Jd 
+Kc 3s 6h 0d Qs Kh 8h 2c 7c 3d Kd 2s 
 
 
 
@@ -3479,8 +3479,8 @@ Qc 2s Kc 0h 7d 8d 7h
                7s 4h 
                   3d 
 
-6c Jh Ad 5h Ks 0s 5c Ah    6c Jh Ad 
-5h Ks 0s 5c Ah    6c Jh Ad 5h Ks 0s 
+4c 4s 6c Kh 9c Jh 8h Js Ad 2h 8c 5h 
+Qs 2c Ks 0c 2d 0s Qd Qh 5c Kd 0d Ah 
 
 
 
@@ -3493,8 +3493,8 @@ DECK 249
                7h 0s 
                   3c 
 
-6c Qh 8s Kd 0h Ac 5c 9s    6c Qh 8s 
-Kd 0h Ac 5c 9s    6c Qh 8s Kd 0h Ac 
+7c 0c 6c As Kh Qh 8d 3s 8s Jd Qd Kd 
+9h 4c 0h 2h Jc Ac 3d Kc 5c 5s 7s 9s 
 
 
 
@@ -3507,8 +3507,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd Ah Jh 7c 3d Qd 5s 8s    Kd Ah Jh 
-7c 3d Qd 5s 8s    Kd Ah Jh 7c 3d Qd 
+Ad 7d Kd 7s Js Ah 4h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7h 6s 8s 
 
 
 
@@ -3521,8 +3521,8 @@ DECK 251
                9s 3h 
                   4d 
 
-4c Jh Ad 4h 2d Ac 2s 7s    4c Jh Ad 
-4h 2d Ac 2s 7s    4c Jh Ad 4h 2d Ac 
+3c 5s 4c Qh 7c Jh 8h Qs Ad Ah 6c 4h 
+8c Jc 2d Qc 0d Ac Ks Kd 2s 3d 5h 7s 
 
 
 
@@ -3535,8 +3535,8 @@ Qh Qs 9h 9c 7h 0d Ac
                5c 0c 
                   Qd 
 
-Jd 5h 2d 5s 4d Qc 7c 6s    Jd 5h 2d 
-5s 4d Qc 7c 6s    Jd 5h 2d 5s 4d Qc 
+8d 7d Jd Ah Js 5h 6d 2h 2d 8c 6h 5s 
+Kh 0h 4d 8s 4c Qc 2s 3s 7c Ad 6c 6s 
 
 
 
@@ -3549,8 +3549,8 @@ DECK 253
                Qd 7c 
                   Kh 
 
-Ah 0s Ad 4s 3h Kd 5s 5h    Ah 0s Ad 
-4s 3h Kd 5s 5h    Ah 0s Ad 4s 3h Kd 
+2s Qs Ah 0h 9c 0s Ks Qc Ad Jc 3d 4s 
+9h 5d 3h Jd 5c Kd Ac 4d 5s 7s 3c 5h 
 
 
 
@@ -3563,8 +3563,8 @@ DECK 254
                6s 9c 
                   Jd 
 
-9d Qs Js Kh 2s 2h 5s 4c    9d Qs Js 
-Kh 2s 2h 5s 4c    9d Qs Js Kh 2s 2h 
+Qh 0h 9d 4s Kc Qs As 8h Js 3s 6d Kh 
+Kd 0c 2s 7c Qc 2h 0d Jc 5s 7h 4d 4c 
 
 
 
@@ -3577,8 +3577,8 @@ DECK 255
                3c 4h 
                   Kd 
 
-3h Jh Jd 5d 0h 2c 4s Qc    3h Jh Jd 
-5d 0h 2c 4s Qc    3h Jh Jd 5d 0h 2c 
+2h 8h 3h Kh 5c Jh 5h 2d Jd Qd 5s 5d 
+8c Jc 0h 6c Ks 2c Kc 0s 4s 3d 9d Qc 
 
 
 
@@ -3591,8 +3591,8 @@ DECK 256
                6h 3h 
                   Qs 
 
-Ad Qh As 0c 5d 0d 3c Jc    Ad Qh As 
-0c 5d 0d 3c Jc    Ad Qh As 0c 5d 0d 
+Ah 7s Ad 8s 6s Qh 5s 6d As 3d 5c 0c 
+Ks Jh 5d Ac 7d 0d 2d 9s 3c 8c Jd Jc 
 
 
 
@@ -3605,8 +3605,8 @@ Jh 7d 8h Jc 4h 2h 5s
                Qh 6c 
                   6s 
 
-2c 9d 6d 3d 4s 5h 9c 0c    2c 9d 6d 
-3d 4s 5h 9c 0c    2c 9d 6d 3d 4s 5h 
+0h Jd 2c 3s 7s 9d Qc 6h 6d Ah 0d 3d 
+0s 4d 4s Ks 7c 5h 2s 7h 9c Kd 5d 0c 
 
 
 
@@ -3619,8 +3619,8 @@ DECK 258
                2s 7h 
                   Kh 
 
-Qd As 6h 6s 4h 8d 0h 9c    Qd As 6h 
-6s 4h 8d 0h 9c    Qd As 6h 6s 4h 8d 
+6c Ac Qd Jh 0c As 4d 0d 6h 6d Jc 6s 
+Qs Js 4h Ks 5d 8d Qc Kd 0h Kc Jd 9c 
 
 
 
@@ -3633,8 +3633,8 @@ DECK 259
                Ks 0h 
                   Ad 
 
-Qh 4h 5h Qd Kh 0c 5s 8d    Qh 4h 5h 
-Qd Kh 0c 5s 8d    Qh 4h 5h Qd Kh 0c 
+3c Jh Qh Ac 2s 4h 6h Qc 5h 4s Js Qd 
+Kc 9d Kh 7c Jd 0c Kd 3s 5s As 0s 8d 
 
 
 
@@ -3647,8 +3647,8 @@ Qh 4c 0s 7d 4d 0d Qc
                6s 3d 
                   6h 
 
-3s 3c 2s 5h 9h 8h As 7s    3s 3c 2s 
-5h 9h 8h As 7s    3s 3c 2s 5h 9h 8h 
+4h 6c 3s Ac 2c 3c 0c Kd 2s 6d Jh 5h 
+Jd Ks 9h 2h Ad 8h 7h Kh As Qs 8s 7s 
 
 
 
@@ -3661,8 +3661,8 @@ DECK 261
                Qc 5c 
                   5s 
 
-6d 0c 3s 2c 0d 3c 8s 2s    6d 0c 3s 
-2c 0d 3c 8s 2s    6d 0c 3s 2c 0d 3c 
+2d Kc 6d 4s 9s 0c Jh 9h 3s 4c 7d 2c 
+5d 6c 0d Kd 7h 3c Qd 6h 8s 4d 9c 2s 
 
 
 
@@ -3675,8 +3675,8 @@ DECK 262
                Ah Qh 
                   8c 
 
-9h 9s Js 4d Ad 5c Kh As    9h 9s Js 
-4d Ad 5c Kh As    9h 9s Js 4d Ad 5c 
+6h 6d 9h 7c 4h 9s 0d 3c Js 8s 4c 4d 
+5h 2h Ad 7d Qs 5c 7h Jd Kh 8h Ac As 
 
 
 
@@ -3689,8 +3689,8 @@ DECK 263
                6h Qh 
                   5c 
 
-Qd Qs 8h 4c Kc Jd 0d Kd    Qd Qs 8h 
-4c Kc Jd 0d Kd    Qd Qs 8h 4c Kc Jd 
+Jc 4d Qd 5s 8s Qs 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 3d 7d Jd As Js 0d 4s 5d Kd 
 
 
 
@@ -3703,8 +3703,8 @@ Jh 9d Ad Kc 9s 5h 0c
                6c 4h 
                   3c 
 
-Qc 6d 2s 3d 2h 8d 4s Qd    Qc 6d 2s 
-3d 2h 8d 4s Qd    Qc 6d 2s 3d 2h 8d 
+8c 7d Qc 7s 5c 6d 8s As 2s Ac 0d 3d 
+0s 3h 2h 8h 6h 8d Jd 4d 4s Kh 2d Qd 
 
 
 
@@ -3717,8 +3717,8 @@ DECK 265
                Ac 3h 
                   Qd 
 
-Ad Kd 4c 2c 0h 4h 8d Js    Ad Kd 4c 
-2c 0h 4h 8d Js    Ad Kd 4c 2c 0h 4h 
+3d 7d Ad 3c As Kd 0d 7h 4c 6s Jd 2c 
+Jc 9d 0h Qs 4d 4h 8s 6h 8d 5h 2d Js 
 
 
 
@@ -3731,8 +3731,8 @@ Qh 7s 3h Jd 6d 3c 8d
                7h 9d 
                   6c 
 
-5d 0d 5c 8c 6s 4d 9h 0h    5d 0d 5c 
-8c 6s 4d 9h 0h    5d 0d 5c 8c 6s 4d 
+4c 3d 5d 8s 9s 0d As Qd 5c 4s 0c 8c 
+Qc 7c 6s Js Jc 4d Ad Kc 9h 2s Ks 0h 
 
 
 
@@ -3745,8 +3745,8 @@ DECK 267
                Ad Ah 
                   Kc 
 
-6h 7d 5d Qd 9d 8c 6d 5c    6h 7d 5d 
-Qd 9d 8c 6d 5c    6h 7d 5d Qd 9d 8c 
+9c 0s 6h 7h 2c 7d 2h 5h 5d 0d 3d Qd 
+Js Ac 9d 8h 4s 8c 2s 3c 6d 7s 9s 5c 
 
 
 
@@ -3759,8 +3759,8 @@ As Js 9c 6c 5d Jc Ah
                4d Kh 
                   Jh 
 
-2d Kc 7d 5h Qs Jd 4h 4c    2d Kc 7d 
-5h Qs Jd 4h 4c    2d Kc 7d 5h Qs Jd 
+Qh 7h 2d 8h 2h Kc Qd Kd 7d 8d 9d 5h 
+Ac 9h Qs 3d 6d Jd 6h 4s 4h 5s 8s 4c 
 
 
 
@@ -3773,8 +3773,8 @@ Ac 8h Ks 9c 9h 3h 6d
                4s 7c 
                   0h 
 
-Ad 5h 4h Ah 8s 2d 2s 3c    Ad 5h 4h 
-Ah 8s 2d 2s 3c    Ad 5h 4h Ah 8s 2d 
+6s Jh Ad Qc 7s 5h 0d 5c 4h 6c 4c Ah 
+As 0c 8s 9d Js 2d 0s 2c 2s 2h 5s 3c 
 
 
 
@@ -3787,8 +3787,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -3801,8 +3801,8 @@ DECK 271
                2h 9h 
                   Qh 
 
-5h Kc 2d 0s 8s 9c Jc Ac    5h Kc 2d 
-0s 8s 9c Jc Ac    5h Kc 2d 0s 8s 9c 
+4h 4d 5h 5c 0d Kc 8d Qs 2d 8c 3s 0s 
+9s Ah 8s 3d 6d 9c 9d 7h Jc 7d 7c Ac 
 
 
 
@@ -3815,8 +3815,8 @@ DECK 272
                0s 4c 
                   5h 
 
-9d 3s 0d 5c Js 6c 2s Kc    9d 3s 0d 
-5c Js 6c 2s Kc    9d 3s 0d 5c Js 6c 
+8d Jc 9d As 3h 3s 7h 4d 0d 9s 4h 5c 
+Ks Qs Js Qc 3d 6c 0h Kd 2s 8s 3c Kc 
 
 
 
@@ -3829,8 +3829,8 @@ Js 8h 3c 3d 5c 2h 6d
                6c 2s 
                   6s 
 
-Qs 9h Kc 8c 8s 6h 7h Qd    Qs 9h Kc 
-8c 8s 6h 7h Qd    Qs 9h Kc 8c 8s 6h 
+4h Ad Qs Ks Ah 9h 5d 9d Kc Jh 2c 8c 
+8d 3h 8s Qh 4c 6h 0h Kd 7h 4d 4s Qd 
 
 
 
@@ -3843,8 +3843,8 @@ DECK 274
                Ks 0h 
                   3c 
 
-4h 9s 7c Kc 0s 9c 9d 7d    4h 9s 7c 
-Kc 0s 9c 9d 7d    4h 9s 7c Kc 0s 9c 
+3h 5d 4h Ac 2h 9s 0d Qh 7c Qd 0c Kc 
+7h 5s 0s Jc 2c 9c 6h 2s 9d 8h Qc 7d 
 
 
 
@@ -3857,8 +3857,8 @@ DECK 275
                2h 4c 
                   3s 
 
-5d 0d Qc Ah 7s 7d 8s 6d    5d 0d Qc 
-Ah 7s 7d 8s 6d    5d 0d Qc Ah 7s 7d 
+Qs Jd 5d Qd Kd 0d Js Jc Qc 2c Kc Ah 
+5h 9s 7s 0c 3h 7d 6h Kh 8s 2d 7h 6d 
 
 
 
@@ -3871,8 +3871,8 @@ Ah 2h 8c 2d 5c Ac 6c
                4s 0c 
                   0d 
 
-9d 0s 9s 4c Ad 2c 7c 5d    9d 0s 9s 
-4c Ad 2c 7c 5d    9d 0s 9s 4c Ad 2c 
+0h 8h 9d 3s Jc 0s As 6h 9s 2s 4d 4c 
+3c 5h Ad Kh 4h 2c 6d Jd 7c Qh Kd 5d 
 
 
 
@@ -3885,8 +3885,8 @@ DECK 277
                4h 6h 
                   9s 
 
-Kh Kc 2c 7s Qc 3d Ad 4s    Kh Kc 2c 
-7s Qc 3d Ad 4s    Kh Kc 2c 7s Qc 3d 
+8c Ah Kh Jc 5c Kc 2s 9c 2c Qd 8s 7s 
+Qs 3s Qc 4d 4c 3d 5h 7c Ad Kd 0d 4s 
 
 
 
@@ -3899,8 +3899,8 @@ As 9h Kh Ad Kc 3d 4s
                Ks 7h 
                   3c 
 
-9d 7s 5h 5c 2d 0c 6s 3h    9d 7s 5h 
-5c 2d 0c 6s 3h    9d 7s 5h 5c 2d 0c 
+Jc 4d 9d Kd 3s 7s Js Ah 5h 8h Ac 5c 
+8c Qc 2d 5d 8s 0c 0h 4c 6s Qh Jh 3h 
 
 
 
@@ -3913,8 +3913,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd 2h Jh 7c 3d Qd 5s Js    Kd 2h Jh 
-7c 3d Qd 5s Js    Kd 2h Jh 7c 3d Qd 
+Ad 7d Kd 6s Qs 2h 5h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7s 9s Js 
 
 
 
@@ -3927,8 +3927,8 @@ Ac Qs 0h 9c 8h 9d 2c
                7c 0c 
                   Qd 
 
-0d 6h Ad 5s 6s Qh Kc 0s    0d 6h Ad 
-5s 6s Qh Kc 0s    0d 6h Ad 5s 6s Qh 
+6d 5d 0d 2h Js 6h 4d 3h Ad 8c 7h 5s 
+2s Ah 6s As 6c Qh Kh 8d Kc Jd 5c 0s 
 
 
 
@@ -3941,8 +3941,8 @@ DECK 281
                Ac 8h 
                   Jd 
 
-7h Qs Qc 9c 8s Kh 0c 9s    7h Qs Qc 
-9c 8s Kh 0c 9s    7h Qs Qc 9c 8s Kh 
+6s 0s 7h 3c 5s Qs Jc Kc Qc 2s 3h 9c 
+2c 9h 8s 4h Js Kh 6c 5c 0c 6d 7s 9s 
 
 
 
@@ -3955,8 +3955,8 @@ DECK 282
                2d Ks 
                   Ad 
 
-5h 8d 7d Js 0c 0h 3s 8s    5h 8d 7d 
-Js 0c 0h 3s 8s    5h 8d 7d Js 0c 0h 
+8c 7s 5h 6h 4c 8d Ah 4h 7d 0d 5d Js 
+9h 3d 0c 2c 7h 0h Kc 9s 3s Kd 3c 8s 
 
 
 
@@ -3969,8 +3969,8 @@ DECK 283
                9h 6h 
                   Kh 
 
-Ah 2h 2d Ad 5s 3h 6s 7h    Ah 2h 2d 
-Ad 5s 3h 6s 7h    Ah 2h 2d Ad 5s 3h 
+As 6c Ah 2s 9s 2h 3c Qd 2d 3d Js Ad 
+7c 3s 5s Jd 4c 3h Jc 8s 6s 4s 4d 7h 
 
 
 
@@ -3983,8 +3983,8 @@ DECK 284
                Qd 4c 
                   0h 
 
-7s 8h Jd Kd 4h 9c 4s 6c    7s 8h Jd 
-Kd 4h 9c 4s 6c    7s 8h Jd Kd 4h 9c 
+As 0d 7s 6d 9h 8h 5h Ac Jd 5c 8c Kd 
+9d Js 4h Ks Kc 9c Kh 2s 4s Jh Ad 6c 
 
 
 
@@ -3997,8 +3997,8 @@ Kh Ks Ad 7s 2s 4h 8c
                6s 9d 
                   Jd 
 
-0d 5c Kc 2h Qc Kd 4s 5d    0d 5c Kc 
-2h Qc Kd 4s 5d    0d 5c Kc 2h Qc Kd 
+2c 9s 0d 4c 3d 5c 0c Jc Kc 5s 5h 2h 
+3s 9c Qc 4d Js Kd 8s Qd 4s Qh Ah 5d 
 
 
 
@@ -4011,8 +4011,8 @@ DECK 286
                5s 6h 
                   Ad 
 
-9d 9h 8d 5h Ks 5d 7d Kc    9d 9h 8d 
-5h Ks 5d 7d Kc    9d 9h 8d 5h Ks 5d 
+Kh 4s 9d As 6s 9h 8s 0h 8d 3s 0s 5h 
+9c Ah Ks Qs 2d 5d 6c Jh 7d 4d 0d Kc 
 
 
 
@@ -4025,8 +4025,8 @@ DECK 287
                4d As 
                   Js 
 
-8s Ad 9h 5d 5h 6h Qd Qc    8s Ad 9h 
-5d 5h 6h Qd Qc    8s Ad 9h 5d 5h 6h 
+5c 7s 8s 9s Ks Ad 6d 0c 9h Qh 6c 5d 
+Qs 4s 5h Ac Ah 6h 0d 3h Qd 2c 8h Qc 
 
 
 
@@ -4039,8 +4039,8 @@ DECK 288
                8s Kh 
                   Ks 
 
-9d Ad 5d 9h 4h 7d 4c Jc    9d Ad 5d 
-9h 4h 7d 4c Jc    9d Ad 5d 9h 4h 7d 
+8d 9c 9d 3s Qs Ad 2c 5c 5d 0h Jh 9h 
+0s 2s 4h 3c Jd 7d 0d 0c 4c As 6d Jc 
 
 
 
@@ -4053,8 +4053,8 @@ As Js 9c 5c 7d Kc Ah
                6d Qh 
                   9h 
 
-5d 3d 8d 4h Qs Ad 3s 0c    5d 3d 8d 
-4h Qs Ad 3s 0c    5d 3d 8d 4h Qs Ad 
+Jh 5h 5d 6h 2h 3d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 8c 0h Ad Jc 2c 3s 5s 7s 0c 
 
 
 
@@ -4067,8 +4067,8 @@ DECK 290
                8h 5h 
                   Ah 
 
-2h 0d 5d 9h 5c 8c 3s 9d    2h 0d 5d 
-9h 5c 8c 3s 9d    2h 0d 5d 9h 5c 8c 
+Js Kc 2h 8s Qc 0d 3d 4d 5d 6d Qs 9h 
+4h 9s 5c 6h Jc 8c Qh As 3s 5s 7c 9d 
 
 
 
@@ -4081,8 +4081,8 @@ DECK 291
                4c 3d 
                   7c 
 
-6s Kc 0s 3s 8h Ac 5s 8s    6s Kc 0s 
-3s 8h Ac 5s 8s    6s Kc 0s 3s 8h Ac 
+Qc 4d 6s Jd Ah Kc Kd 3h 0s 9s Jc 3s 
+9d 2h 8h 7h Qh Ac Qd As 5s Kh 5c 8s 
 
 
 
@@ -4095,8 +4095,8 @@ DECK 292
                Js Jc 
                   Jh 
 
-0h 6h Ks 0s 8c 0d Jd 3s    0h 6h Ks 
-0s 8c 0d Jd 3s    0h 6h Ks 0s 8c 0d 
+Kd Ac 0h 5c 8h 6h 6s 9c Ks 6c 3h 0s 
+Kh Qs 8c Kc 8s 0d 9h 3c Jd 9s 2d 3s 
 
 
 
@@ -4109,8 +4109,8 @@ DECK 293
                3c 0s 
                   9s 
 
-As 7h Jh 2d Ah 2h Ks 2s    As 7h Jh 
-2d Ah 2h Ks 2s    As 7h Jh 2d Ah 2h 
+4d Qd As 6s 8c 7h 8s 4c Jh 0d 3s 2d 
+2c 6h Ah 6d 9d 2h 5c Js Ks Qh 9c 2s 
 
 
 
@@ -4123,8 +4123,8 @@ Qd 4d Kd Kc 4h 5h 8s
                0d 2c 
                   9h 
 
-Ac 9c 7c 7h 6c Ks Kh As    Ac 9c 7c 
-7h 6c Ks Kh As    Ac 9c 7c 7h 6c Ks 
+Js 6h Ac 5s Jh 9c Qh Ah 7c Qs 0c 7h 
+Jc 7d 6c 9d 5d Ks 0h 6d Kh 2s 2d As 
 
 
 
@@ -4137,8 +4137,8 @@ DECK 295
                0s 8d 
                   Ad 
 
-4c 7d 3d 6d Qc 2d 5h Ks    4c 7d 3d 
-6d Qc 2d 5h Ks    4c 7d 3d 6d Qc 2d 
+8s 8c 4c 4h Qh 7d 4s 0c 3d 2c 5c 6d 
+Js 4d Qc 7s 7h 2d Kh Qs 5h 0d As Ks 
 
 
 
@@ -4151,8 +4151,8 @@ DECK 296
                7c 4h 
                   Ac 
 
-Qc 4d 3c Ks 7d Kc 4s Qh    Qc 4d 3c 
-Ks 7d Kc 4s Qh    Qc 4d 3c Ks 7d Kc 
+3d 5s Qc 8c 9c 4d Qs Jh 3c 0d 2c Ks 
+5h 0s 7d 9s 0c Kc 3s 2d 4s 6s Jd Qh 
 
 
 
@@ -4165,8 +4165,8 @@ Qc 9d 6c 6h Kh 0d As
                3h 9h 
                   9c 
 
-2s 5s 2c Jc 2d 8c 8s 7c    2s 5s 2c 
-Jc 2d 8c 8s 7c    2s 5s 2c Jc 2d 8c 
+0c 2h 2s 6d Kc 5s 5c 4h 2c 7h 3c Jc 
+7s Ks 2d 6s 4d 8c Qh Jh 8s 3d 4s 7c 
 
 
 
@@ -4179,8 +4179,8 @@ Jc 6h 9c 5h 0h 7h 9s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 6c    0d Qh 9d 
-8h 3h 7d 2s 6c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 8s Qh 0s Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s Qs 6c 
 
 
 
@@ -4193,8 +4193,8 @@ As 8s 0c 3c 6d Kc Js
                5d 8h 
                   6h 
 
-4d 2d 7d Ah 9s 0h Kh 5c    4d 2d 7d 
-Ah 9s 0h Kh 5c    4d 2d 7d Ah 9s 0h 
+7h 2h 4d 3h Qs 2d Qd Kd 7d 8d 9d Ah 
+9h 4h 9s 9c 4c 0h Jh Qc Kh Jd 6c 5c 
 
 
 
@@ -4207,8 +4207,8 @@ Jc 6h 9c 5h 0h 7h 0s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 4c    0d Qh 9d 
-8h 3h 7d 2s 4c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 9s Qh Js Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s 8s 4c 
 
 
 
@@ -4221,8 +4221,8 @@ DECK 301
                0s 5c 
                   5h 
 
-9d 3s 0d 6c Js 7c 2s 3c    9d 3s 0d 
-6c Js 7c 2s 3c    9d 3s 0d 6c Js 7c 
+8d Qc 9d As 3h 3s 7h 4d 0d 9s 4h 6c 
+Ks Qs Js Kc 3d 7c 0h Kd 2s 8s 4c 3c 
 
 
 
@@ -4235,8 +4235,8 @@ Qh Js 4d 7s 2s 3h 9c
                6s Jd 
                   Kd 
 
-Qd 5c 3d Ah Kc Qs Ad 2d    Qd 5c 3d 
-Ah Kc Qs Ad 2d    Qd 5c 3d Ah Kc Qs 
+2c 8s Qd 4c 7d 5c Jc Qc 3d 5s 5h Ah 
+3s 0c Kc 7c Ks Qs 4h 5d Ad Ac 4s 2d 
 
 
 
@@ -4249,8 +4249,8 @@ DECK 303
                3d Js 
                   Ad 
 
-4h 9d 8d 9s 9c 9h Jc As    4h 9d 8d 
-9s 9c 9h Jc As    4h 9d 8d 9s 9c 9h 
+7c 7s 4h 5h 2c 9d Qs 2h 8d Jd 6d 9s 
+8h 4d 9c Ac 6h 9h 3h 5c Jc 0c 2d As 
 
 
 
@@ -4263,8 +4263,8 @@ As 9c 8c 2s 4h 6c 4c
                4d 0d 
                   5d 
 
-Jd Jh 3d 0c 5s Js Ks 9d    Jd Jh 3d 
-0c 5s Js Ks 9d    Jd Jh 3d 0c 5s Js 
+7d Kd Jd Kh 7c Jh 0s 3h 3d Jc Qc 0c 
+Qh 9h 5s 5c 2h Js 7h 8d Ks Ad Qd 9d 
 
 
 
@@ -4277,8 +4277,8 @@ DECK 305
                8c 0c 
                   Qc 
 
-Qh 8s 4c Ah 6s 2d Kd 8d    Qh 8s 4c 
-Ah 6s 2d Kd 8d    Qh 8s 4c Ah 6s 2d 
+7c Js Qh Ks 4s 8s Ac 3c 4c Kh 5h Ah 
+0d Jh 6s 3s 9s 2d 4h 9h Kd Qd 9d 8d 
 
 
 
@@ -4291,8 +4291,8 @@ Ks As Qc 0d 2h Kc 4s
                6c Kh 
                   Ac 
 
-8h 5h 3d 9d Jc 3h 7s 7d    8h 5h 3d 
-9d Jc 3h 7s 7d    8h 5h 3d 9d Jc 3h 
+3c 8c 8h 2d 9h 5h Ah 0h 3d 6s 8d 9d 
+7h Qd Jc 5d 2c 3h 5c Kd 7s 3s 9s 7d 
 
 
 
@@ -4305,8 +4305,8 @@ Jc 0c 8c 8d Kh 5c Jd
                8h Ah 
                   9d 
 
-3c 4d Qh 0d 2d 3d Kc 6d    3c 4d Qh 
-0d 2d 3d Kc 6d    3c 4d Qh 0d 2d 3d 
+Ks 6c 3c As 0s 4d 7h 9s Qh 6h 8s 0d 
+4c 3s 2d 5s 9c 3d 5h Kd Kc 7s 0h 6d 
 
 
 
@@ -4319,8 +4319,8 @@ DECK 308
                Qh Ad 
                   2c 
 
-4s 0c Kh 0d Jd 0h 8d 5s    4s 0c Kh 
-0d Jd 0h 8d 5s    4s 0c Kh 0d Jd 0h 
+9c 2d 4s Kd Ks 0c 6s 7c Kh Ah 9d 0d 
+Js As Jd 4c 8h 0h 6d Jc 8d 3c 9s 5s 
 
 
 
@@ -4333,8 +4333,8 @@ As Qh Kh Jc 9c Qc 8s
                3h 0h 
                   3c 
 
-7d 0s 8h Kd 4c 2d 7s 4h    7d 0s 8h 
-Kd 4c 2d 7s 4h    7d 0s 8h Kd 4c 2d 
+8c Kc 7d Qd 4s 0s Ah 5h 8h Jh 0c Kd 
+3s Js 4c 6s 5s 2d 3d 4d 7s 2c 8d 4h 
 
 
 
@@ -4347,8 +4347,8 @@ DECK 310
                0s 5c 
                   6h 
 
-9d 3s 0d 6c Js 7c 2s Qs    9d 3s 0d 
-6c Js 7c 2s Qs    9d 3s 0d 6c Js 7c 
+8d Qc 9d As 4h 3s 8h 4d 0d 9s 5h 6c 
+Ah Ks Js Kc 3d 7c Jh Kd 2s 6s 2c Qs 
 
 
 
@@ -4361,8 +4361,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd 2h Jh 7c 3d Qd 5s Js    Kd 2h Jh 
-7c 3d Qd 5s Js    Kd 2h Jh 7c 3d Qd 
+Ad 7d Kd 6s Qs 2h 5h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7s 9s Js 
 
 
 
@@ -4375,8 +4375,8 @@ Ac Qs Ad 7s 4s Ah Qc
                6s Kd 
                   5s 
 
-9d 4h As Kc 7h 9c 4c 0s    9d 4h As 
-Kc 7h 9c 4c 0s    9d 4h As Kc 7h 9c 
+6d 0d 9d 9h 2s 4h 8s 0h As 7c 3d Kc 
+2h Jc 7h 8d 2c 9c 5h 8c 4c Qd 4d 0s 
 
 
 
@@ -4389,8 +4389,8 @@ DECK 313
                Qd 5c 
                   Jh 
 
-7s 8h Jd Kd 4h 9c 4s 9h    7s 8h Jd 
-Kd 4h 9c 4s 9h    7s 8h Jd Kd 4h 9c 
+As 0d 7s 6d 0h 8h 5h 2c Jd 6c 8c Kd 
+9d Js 4h Ks Kc 9c Ac 2s 4s Qh Ad 9h 
 
 
 
@@ -4403,8 +4403,8 @@ Kh 6h 3s 6c 3c Ks 6s
                Qc 7d 
                   4c 
 
-Kd As 4d Jh 3d 8d 4s 8c    Kd As 4d 
-Jh 3d 8d 4s 8c    Kd As 4d Jh 3d 8d 
+Ad 9d Kd Ac 3h As 9h 5h 4d Qd 7c Jh 
+2h 0s 3d 6d Js 8d Kc 5c 4s 8s Ah 8c 
 
 
 
@@ -4417,8 +4417,8 @@ As 3h Jc 4c Jd 5d 5h
                9d Qh 
                   0h 
 
-6s 4d 3d 8s Qs 8c 0c 7d    6s 4d 3d 
-8s Qs 8c 0c 7d    6s 4d 3d 8s Qs 8c 
+Jh 6h 6s 7s Ks 4d 9s 0d 3d 9c 4s 8s 
+Kc 7c Qs Ah Qc 8c Ad 7h 0c 2c Qd 7d 
 
 
 
@@ -4431,8 +4431,8 @@ DECK 316
                Qc 5c 
                   4s 
 
-6d 0c 2s 2c 0d 3c 7s 2d    6d 0c 2s 
-2c 0d 3c 7s 2d    6d 0c 2s 2c 0d 3c 
+3d Kc 6d 3s 8s 0c 0h 8h 2s 4c 7d 2c 
+5d 6c 0d Kd 6h 3c Qd 5h 7s 7c Kh 2d 
 
 
 
@@ -4445,8 +4445,8 @@ DECK 317
                8s 3s 
                   5s 
 
-2s Kd 0c 9s Kh Jd Jc Ad    2s Kd 0c 
-9s Kh Jd Jc Ad    2s Kd 0c 9s Kh Jd 
+5d 6c 2s Qd 6h Kd Qc 0d 0c 3c 5c 9s 
+0h 2d Kh 4d 7d Jd 8d 4s Jc 8h 6s Ad 
 
 
 
@@ -4459,8 +4459,8 @@ DECK 318
                7s 3s 
                   4s 
 
-2s Kd Ad 8s Ac 0h 7h Kc    2s Kd Ad 
-8s Ac 0h 7h Kc    2s Kd Ad 8s Ac 0h 
+7d 7c 2s Qd 5h Kd 2d 0d Ad 4c 6c 8s 
+9h 4d Ac Kh Jc 0h 6d Jd 7h 6s 0c Kc 
 
 
 
@@ -4473,8 +4473,8 @@ As 7h 8h 8c 6c 0c 4s
                Js 4h 
                   Jh 
 
-5d 6s 2h Qh 9c 6d 6h Qc    5d 6s 2h 
-Qh 9c 6d 6h Qc    5d 6s 2h Qh 9c 6d 
+4c Jc 5d Jd 3s 6s 9s Qs 2h 5h 9h Qh 
+2c 5c 9c Kc 3d 6d 9d Qd 6h Kd 7c Qc 
 
 
 
@@ -4487,8 +4487,8 @@ As Qh Kh Jc 0c Qc 4s
                4h 0h 
                   3c 
 
-5d Js 8h Ad Ah 8s 7d Jd    5d Js 8h 
-Ad Ah 8s 7d Jd    5d Js 8h Ad Ah 8s 
+9c Kc 5d Kd 3s Js 2h 5h 8h Jh Ac Ad 
+5s 6s Ah 8c 0s 8s 8d 6d 7d 9s 4c Jd 
 
 
 
@@ -4501,8 +4501,8 @@ DECK 321
                3c 4h 
                   Kd 
 
-3h Jh 0d 4d 0h 2c 5d 0s    3h Jh 0d 
-4d 0h 2c 5d 0s    3h Jh 0d 4d 0h 2c 
+2h 8h 3h Kh 6c Jh 5h Ad 0d Qd 4s 4d 
+9c Qc 0h 7c Ks 2c 5c 3d 5d Jd 5s 0s 
 
 
 
@@ -4515,8 +4515,8 @@ DECK 322
                9s 3d 
                   3h 
 
-6s 0h As 6c 2s 7c 5c 5s    6s 0h As 
-6c 2s 7c 5c 5s    6s 0h As 6c 2s 7c 
+2h Kh 6s 8h 9h 0h 9c Kd As 6d Ac 6c 
+4h 3s 2s 4s 0c 7c 5h 8d 5c 2c Ad 5s 
 
 
 
@@ -4529,8 +4529,8 @@ DECK 323
                Qh 8c 
                   6h 
 
-4d 5d Jd 8d 5c 6d 0d 4s    4d 5d Jd 
-8d 5c 6d 0d 4s    4d 5d Jd 8d 5c 6d 
+3h Kc 4d 3c 2s 5d 5h 3s Jd Ad Jh 8d 
+4c Qd 5c 7c 2h 6d 9c Js 0d As Ks 4s 
 
 
 
@@ -4543,8 +4543,8 @@ DECK 324
                8h Qh 
                   0h 
 
-Qc Js 4s 2h Ad 2c As 3s    Qc Js 4s 
-2h Ad 2c As 3s    Qc Js 4s 2h Ad 2c 
+4c Ah Qc 5h Qs Js 6h Jc 4s 4d 5d 2h 
+6d 8c Ad Jh Ks 2c 8d 6s As 0d 0c 3s 
 
 
 
@@ -4557,8 +4557,8 @@ Ah 7s 0h 5c 6s Ks Kh
                9d 2c 
                   2h 
 
-7d 9h 6h Jc 3h 8d 5d 2s    7d 9h 6h 
-Jc 3h 8d 5d 2s    7d 9h 6h Jc 3h 8d 
+9c Ad 7d 4c 8h 9h 3c 9s 6h Kc 8c Jc 
+5h 3s 3h 0d Qc 8d 7c 0s 5d As Jd 2s 
 
 
 
@@ -4571,8 +4571,8 @@ DECK 326
                4h 6h 
                   8s 
 
-Ac 2d 3c 6s Ad 5d 3d Ah    Ac 2d 3c 
-6s Ad 5d 3d Ah    Ac 2d 3c 6s Ad 5d 
+0c Ks Ac Kc 7c 2d 2s Jc 3c Kd 7s 6s 
+Js 3s Ad 6d 6c 5d 5h 9c 3d 5c Qh Ah 
 
 
 
@@ -4585,8 +4585,8 @@ Jh 2s Jd 8d 0s 9h Jc
                8h 2c 
                   8c 
 
-Kd Ah 0h 7c 3d Qd 5s Kh    Kd Ah 0h 
-7c 3d Qd 5s Kh    Kd Ah 0h 7c 3d Qd 
+Ad 7d Kd 6s Js Ah 4h 7h 0h Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7s 9s Kh 
 
 
 
@@ -4599,8 +4599,8 @@ DECK 328
                5h 6s 
                   Kc 
 
-7d 2h 5s 9s 6c 6h 4s 8c    7d 2h 5s 
-9s 6c 6h 4s 8c    7d 2h 5s 9s 6c 6h 
+Ac 2d 7d 3s 8d 2h Qc 4d 5s Ks 0h 9s 
+8s 7s 6c Jc 2c 6h 0d Kd 4s Jh 3d 8c 
 
 
 
@@ -4613,8 +4613,8 @@ DECK 329
                0c Qc 
                   Jd 
 
-0d 8h 7h 4d 5h 3c 3s 7c    0d 8h 7h 
-4d 5h 3c 3s 7c    0d 8h 7h 4d 5h 3c 
+7d 6d 0d 3h Js 8h 5d 5s 7h Ah Qs 4d 
+8s Kd 5h Jh 0h 3c 6c As 3s 7s 2c 7c 
 
 
 
@@ -4627,8 +4627,8 @@ DECK 330
                9c Jc 
                   0d 
 
-9d 8h 7h 3d 5h 2c 3s 6c    9d 8h 7h 
-3d 5h 2c 3s 6c    9d 8h 7h 3d 5h 2c 
+6d 5d 9d 3h 0s 8h 4d 5s 7h Ah Js 3d 
+7s Kd 5h Jh 0h 2c 5c As 3s Jd Qs 6c 
 
 
 
@@ -4641,8 +4641,8 @@ DECK 331
                0c Ac 
                   8d 
 
-7s 4s Ad 4d Qs 8h 3c 5c    7s 4s Ad 
-4d Qs 8h 3c 5c    7s 4s Ad 4d Qs 8h 
+Ah Kh 7s Kd 6s 4s 2s 2h Ad 6d 4c 4d 
+6h 7h Qs Js 2d 8h 9d 9h 3c 0s 5d 5c 
 
 
 
@@ -4655,8 +4655,8 @@ DECK 332
                9h Ac 
                   Kh 
 
-2d 9s Jh Ah Jd 6h Qc 4d    2d 9s Jh 
-Ah Jd 6h Qc 4d    2d 9s Jh Ah Jd 6h 
+6c Js 2d 2h 0s 9s 3h Kc Jh 8c 3s Ah 
+4h Qh Jd 8h 7h 6h As Kd Qc 4c Ad 4d 
 
 
 
@@ -4669,8 +4669,8 @@ DECK 333
                Kh 0s 
                   0c 
 
-Qd 6s 2d Jc Qh 2h Ad 3s    Qd 6s 2d 
-Jc Qh 2h Ad 3s    Qd 6s 2d Jc Qh 2h 
+4h 6d Qd Kc 9h 6s 9c 7s 2d 8c 2s Jc 
+4d 5s Qh Qs Jd 2h 5c 9d Ad 6c 2c 3s 
 
 
 
@@ -4683,8 +4683,8 @@ DECK 334
                7h Kh 
                   6c 
 
-Kd Ks 9h 5c Ad Qd 0d Jd    Kd Ks 9h 
-5c Ad Qd 0d Jd    Kd Ks 9h 5c Ad Qd 
+Qc 5d Kd 6s 9s Ks 3h 6h 9h Qh 2c 5c 
+8c Jc Ad 4d 7d Qd 2s Qs 0d 5s As Jd 
 
 
 
@@ -4697,8 +4697,8 @@ DECK 335
                2d Jc 
                   5s 
 
-9d 6c Jh 9s 0s 8d 7c 0d    9d 6c Jh 
-9s 0s 8d 7c 0d    9d 6c Jh 9s 0s 8d 
+4d 2s 9d 8h 5c 6c Ad Ah Jh Ac 4s 9s 
+Qd 4h 0s Qs 6s 8d 3d 0h 7c 8c 9h 0d 
 
 
 
@@ -4711,8 +4711,8 @@ DECK 336
                9h Ac 
                   Kh 
 
-Ad 9s Jh Ah 0d 6h Qc 9d    Ad 9s Jh 
-Ah 0d 6h Qc 9d    Ad 9s Jh Ah 0d 6h 
+6c Js Ad 2h 0s 9s 3h Kc Jh 8c 3s Ah 
+4h Qh 0d 8h 7h 6h As Kd Qc 4c Qd 9d 
 
 
 
@@ -4725,8 +4725,8 @@ DECK 337
                6h 3h 
                   Qs 
 
-2d Ac As Jc 5d Kc Kd 8d    2d Ac As 
-Jc 5d Kc Kd 8d    2d Ac As Jc 5d Kc 
+Ah 7s 2d 9s 6s Ac 5s 6d As 3d 7c Jc 
+Ks Qh 5d 3c 4c Kc Kh 7d Kd 0h 8s 8d 
 
 
 
@@ -4739,8 +4739,8 @@ DECK 338
                6s 2d 
                   2h 
 
-3s 8h As 6c 7h 8c 2s 7s    3s 8h As 
-6c 7h 8c 2s 7s    3s 8h As 6c 7h 8c 
+Ah Kh 3s 5h 6h 8h 9c Qd As 5d 2c 6c 
+Qc Kd 7h Qs 5c 8c Qh Ac 2s 0h 8d 7s 
 
 
 
@@ -4753,8 +4753,8 @@ DECK 339
                4h 7d 
                   9c 
 
-Jd 5h 0h Ad 9d 0d 2d 6h    Jd 5h 0h 
-Ad 9d 0d 2d 6h    Jd 5h 0h Ad 9d 0d 
+8c Qc Jd 2s 4c 5h Qs Qd 0h 4d Kh Ad 
+3c 6d 9d 3h Qh 0d 2h 3s 2d 7c 6c 6h 
 
 
 
@@ -4767,8 +4767,8 @@ Js Ac 0d 2d Kc 8h Kh
                4h 9d 
                   4c 
 
-Jc 9c 8s Jd 3c 7d 7c Ah    Jc 9c 8s 
-Jd 3c 7d 7c Ah    Jc 9c 8s Jd 3c 7d 
+0c 3h Jc 8c Ks 9c Qs 0s 8s 7h 4d Jd 
+9h 6c 3c 2c 5s 7d 3s 5h 7c 2h 3d Ah 
 
 
 
@@ -4781,8 +4781,8 @@ DECK 341
                4d 3h 
                   7h 
 
-8s Ad 4h 0c 3d 5h 4c Ks    8s Ad 4h 
-0c 3d 5h 4c Ks    8s Ad 4h 0c 3d 5h 
+7d 9c 8s Jc 3c Ad 2c 9h 4h 9d 2h 0c 
+6h Qc 3d 7c 0d 5h Ac 5d 4c Jh Kc Ks 
 
 
 
@@ -4795,8 +4795,8 @@ Jc 7h 9c 6h Jh 8h 9s
                7s 0h 
                   4d 
 
-0d Kh 9d 9h 4h 7d 2s Qs    0d Kh 9d 
-9h 4h 7d 2s Qs    0d Kh 9d 9h 4h 7d 
+4c 6s 0d As 8s Kh 0s Ac 9d 5s Ah 9h 
+Kc 5h 4h 3h 5d 7d 0c 2c 2s 4s Ks Qs 
 
 
 
@@ -4809,8 +4809,8 @@ DECK 343
                Kd 5c 
                   Kh 
 
-3h 0s 2d 5d 0c 9c 3d Js    3h 0s 2d 
-5d 0c 9c 3d Js    3h 0s 2d 5d 0c 9c 
+4s Ks 3h 0h 7c 0s Ah Kc 2d Jc 7s 5d 
+2s 9d 0c Ac Qc 9c Qd 7h 3d 3s 2h Js 
 
 
 
@@ -4823,8 +4823,8 @@ Jc Kd 0d Ks 5h 9c 6c
                Qh Kh 
                   7s 
 
-8h 5d 4s Ah 4d 4h 3h 0h    8h 5d 4s 
-Ah 4d 4h 3h 0h    8h 5d 4s Ah 4d 4h 
+Ad 2h 8h Qs 3s 5d 7h 8s 4s Ac Kc Ah 
+9s 0c 4d 6s 2c 4h 8d 9h 3h Jh Qd 0h 
 
 
 
@@ -4837,8 +4837,8 @@ DECK 345
                0c 5d 
                   7h 
 
-Qh 4c 0d Kd 2c Ks Jh 9c    Qh 4c 0d 
-Kd 2c Ks Jh 9c    Qh 4c 0d Kd 2c Ks 
+2s 4d Qh Ad 8h 4c 5c 6c 0d Qs 8s Kd 
+7c Jc 2c 0s 9s Ks 3d Kc Jh As Qc 9c 
 
 
 
@@ -4851,8 +4851,8 @@ DECK 346
                Js 4c 
                   6h 
 
-9d 3s 0d 5c Qs 6c 2s 8d    9d 3s 0d 
-5c Qs 6c 2s 8d    9d 3s 0d 5c Qs 6c 
+7d Jc 9d As 4h 3s 8h 3d 0d 9s 5h 5c 
+Ah Ks Qs Qc 2d 6c Jh Kd 2s 8s 0s 8d 
 
 
 
@@ -4865,8 +4865,8 @@ DECK 347
                6h Qh 
                   5c 
 
-Kd Qs 8h 4c Ad Qd Jd 3d    Kd Qs 8h 
-4c Ad Qd Jd 3d    Kd Qs 8h 4c Ad Qd 
+Qc 6d Kd 5s 8s Qs 2h 5h 8h Jh Ac 4c 
+8c Jc Ad 5d 8d Qd As Js Jd 4s 6c 3d 
 
 
 
@@ -4879,8 +4879,8 @@ DECK 348
                4d Jd 
                   5c 
 
-5d 9c Ac 5h 3d As 7d 2d    5d 9c Ac 
-5h 3d As 7d 2d    5d 9c Ac 5h 3d As 
+Jh Qd 5d Ah 9d 9c 8d 8c Ac Qh 3s 5h 
+Kc 9h 3d 6d 0c As 8h 3c 7d 6c Kh 2d 
 
 
 
@@ -4893,8 +4893,8 @@ Kh Js 9h 8c 7h 9d Ac
                6c 9c 
                   Qd 
 
-0d 5h Kc 5s 6s Jh Qc Ad    0d 5h Kc 
-5s 6s Jh Qc Ad    0d 5h Kc 5s 6s Jh 
+6d 5d 0d Ah 0s 5h 4d 2h Kc 7c 6h 5s 
+2s Ks 6s As 5c Jh Qh 8d Qc Jd 4c Ad 
 
 
 
@@ -4907,8 +4907,8 @@ DECK 350
                0s 3d 
                   Qd 
 
-4h Ac 3c Kc Qh Qc 0h Kd    4h Ac 3c 
-Kc Qh Qc 0h Kd    4h Ac 3c Kc Qh Qc 
+4s Ks 4h 2s 7s Ac Kh 2c 3c 0d Ah Kc 
+Js 2d Qh 8d 8h Qc As 3s 0h 7c 5s Kd 
 
 
 
@@ -4921,8 +4921,8 @@ DECK 351
                6h Kh 
                   0c 
 
-Kd 9s 9h 9c Ad Ks 7h Qs    Kd 9s 9h 
-9c Ad Ks 7h Qs    Kd 9s 9h 9c Ad Ks 
+5d 9d Kd 3s 6s 9s 2h 5h 9h Qh 4c 9c 
+Ac Ah Ad Jc 7c Ks 3c 8c 7h 4d 3d Qs 
 
 
 
@@ -4935,8 +4935,8 @@ DECK 352
                5c Js 
                   5d 
 
-8s 6c 8c 2d 2h 3d 4s 7s    8s 6c 8c 
-2d 2h 3d 4s 7s    8s 6c 8c 2d 2h 3d 
+Jc Qs 8s 8h As 6c 3c Qh 8c 2s 0c 2d 
+5s Kd 2h 9h 7h 3d Kc 4c 4s 6s 5h 7s 
 
 
 
@@ -4949,8 +4949,8 @@ Ac Qs Jh 9c 9h 7d 2c
                7c 0c 
                   Jd 
 
-9d 8h 3s 4c 2h Qd Qh 6s    9d 8h 3s 
-4c 2h Qd Qh 6s    9d 8h 3s 4c 2h Qd 
+5d 4d 9d 3h Js 8h Ah Ad 3s 8c 2s 4c 
+5h 2d 2h 6c 8d Qd 6h 8s Qh 5s 0d 6s 
 
 
 
@@ -4963,8 +4963,8 @@ DECK 354
                6h 4h 
                   Jh 
 
-Ks Ah Kc Qc 7h 4d 3s 5s    Ks Ah Kc 
-Qc 7h 4d 3s 5s    Ks Ah Kc Qc 7h 4d 
+As 4c Ks 4s 7s Ah 2c Jd Kc 2d 9s Qc 
+5c 8c 7h 0s Qh 4d 2s Qd 3s 3d Ad 5s 
 
 
 
@@ -4977,8 +4977,8 @@ Ac Ah 2d 8s 2s 4h 9c
                7s 9d 
                   Jd 
 
-0d 6c Ad 2h Kc Kd 5s 4s    0d 6c Ad 
-2h Kc Kd 5s 4s    0d 6c Ad 2h Kc Kd 
+3c 0s 0d 5c 4d 6c Jc Qc Ad 6s 5h 2h 
+3s 0c Kc 5d Qs Kd 9s Qd 5s Kh Qh 4s 
 
 
 
@@ -4991,8 +4991,8 @@ Ah 6c Ad Ac 0c 4h 2c
                8d 8h 
                   8c 
 
-Kh 7h Kd As Qs 9h 4c 3h    Kh 7h Kd 
-As Qs 9h 4c 3h    Kh 7h Kd As Qs 9h 
+Js Jd Kh 6s 7d 7h 3c 6h Kd Jh 4s As 
+Qd 2s Qs Qc 2h 9h 5c 3d 4c 9c 9s 3h 
 
 
 
@@ -5005,8 +5005,8 @@ DECK 357
                4h 5s 
                   Kc 
 
-8d Ah 4s 8s 5c 5h Ad 2c    8d Ah 4s 
-8s 5c 5h Ad 2c    8d Ah 4s 8s 5c 5h 
+Qh 4d 8d 3s 0d Ah Jc 5d 4s Qs 9h 8s 
+7s 6s 5c 0c Kh 5h 3d Qc Ad 8c 9d 2c 
 
 
 
@@ -5019,8 +5019,8 @@ DECK 358
                8c 7h 
                   9h 
 
-Kh 5s 2h 3h 0h As Js 0c    Kh 5s 2h 
-3h 0h As Js 0c    Kh 5s 2h 3h 0h As 
+4s 4c Kh 7s Qh 5s 3s Qd 2h Jc 7d 3h 
+Ac Jh 0h Kd 4d As Ah 3c Js Kc 5d 0c 
 
 
 
@@ -5033,8 +5033,8 @@ DECK 359
                5s 4d 
                   Qs 
 
-9s 5h 8s 9h 3h Ks 8c 9c    9s 5h 8s 
-9h 3h Ks 8c 9c    9s 5h 8s 9h 3h Ks 
+Js 8h 9s 0s 8d 5h 4s Qh 8s Ac 6c 9h 
+3c As 3h 7c 6h Ks 2c 6s 8c Qc 3s 9c 
 
 
 
@@ -5047,8 +5047,8 @@ DECK 360
                3c 6c 
                   0h 
 
-3s 0c 7c 5s 8h Jd 7h 8c    3s 0c 7c 
-5s 8h Jd 7h 8c    3s 0c 7c 5s 8h Jd 
+4h Qd 3s 4s 9s 0c 6h Qs 7c Ac Kd 5s 
+6d 2c 8h Ah 7d Jd 2h 5c 7h 8d Ad 8c 
 
 
 
@@ -5061,8 +5061,8 @@ DECK 361
                6c 4d 
                   7d 
 
-0d 5h 9h Jh 4h 9c Jd 7c    0d 5h 9h 
-Jh 4h 9c Jd 7c    0d 5h 9h Jh 4h 9c 
+8s 7s 0d 2s 7h 5h 0h 8d 9h 5d Qc Jh 
+Qs 6s 4h Js 5s 9c 5c 4c Jd 3d As 7c 
 
 
 
@@ -5075,8 +5075,8 @@ DECK 362
                Qh 7h 
                   0d 
 
-6h 0s 8c 5h 7d Jh 5s 6c    6h 0s 8c 
-5h 7d Jh 5s 6c    6h 0s 8c 5h 7d Jh 
+8s 9s 6h Ac 7s 0s 7c 9c 8c Jc As 5h 
+3d Ks 7d 2c Jd Jh 2d 3s 5s Kh 2h 6c 
 
 
 
@@ -5089,8 +5089,8 @@ Kh 5h 3s 7c 4c Ks 5s
                Qc 7d 
                   6c 
 
-Qd As 3d Jh 2d Ac 8h 5d    Qd As 3d 
-Jh 2d Ac 8h 5d    Qd As 3d Jh 2d Ac 
+Kc 8d Qd 2c 2h As 9h 4h 3d Jd 8c Jh 
+Ah 0s 2d 6d Js Ac 7s 8s 8h 5c Kd 5d 
 
 
 
@@ -5103,8 +5103,8 @@ DECK 364
                2s Qh 
                   8s 
 
-5c Ac Kh 9c 9s 2c 3c 4s    5c Ac Kh 
-9c 9s 2c 3c 4s    5c Ac Kh 9c 9s 2c 
+Qc 3d 5c Ks 7d Ac As 8c Kh 0d 7c 9c 
+Kd 8h 9s 8d Qs 2c 6d Jc 3c Jh Qd 4s 
 
 
 
@@ -5117,8 +5117,8 @@ DECK 365
                6c 3d 
                   7d 
 
-9d 4h 6d 6s 5d Jd 0s Qd    9d 4h 6d 
-6s 5d Jd 0s Qd    9d 4h 6d 6s 5d Jd 
+8s 5s 9d 2s 7h 4h Qh 0h 6d 9s Jc 6s 
+0c 9h 5d 5h 9c Jd As 8h 0s Ac 7s Qd 
 
 
 
@@ -5131,8 +5131,8 @@ DECK 366
                9c 2d 
                   5d 
 
-6h 0s 0c Jh 4c 3h Ac Jd    6h 0s 0c 
-Jh 4c 3h Ac Jd    6h 0s 0c Jh 4c 3h 
+8d 4d 6h 6c 8h 0s Ah Qc 0c Jc 8c Jh 
+7h 3s 4c Qs 9s 3h 7d 9h Ac 4s As Jd 
 
 
 
@@ -5145,8 +5145,8 @@ DECK 367
                5c Ks 
                   4d 
 
-Jh Kd 2c 9h 0c 4h 5d 0d    Jh Kd 2c 
-9h 0c 4h 5d 0d    Jh Kd 2c 9h 0c 4h 
+6h 3h Jh 2h Ah Kd Kh 9s 2c Qs 3s 9h 
+8s 4c 0c 4s 7d 4h Qh 8d 5d 6s 8c 0d 
 
 
 
@@ -5159,8 +5159,8 @@ DECK 368
                8d 7s 
                   2h 
 
-4s Kc 5h 5d Jh 6h Qd 9s    4s Kc 5h 
-5d Jh 6h Qd 9s    4s Kc 5h 5d Jh 6h 
+2s 3s 4s 5s 7c Kc 4c Ah 5h 0d 3d 5d 
+4d 3c Jh 8s Jc 6h 3h Qh Qd Ac 6c 9s 
 
 
 
@@ -5173,8 +5173,8 @@ DECK 369
                4c 7c 
                   0c 
 
-3h Jd 3d Jh 2s 0d 3c 8h    3h Jd 3d 
-Jh 2s 0d 3c 8h    3h Jd 3d Jh 2s 0d 
+Ad 9c 3h Ac 4h Jd 8d Ks 3d 5d 7d Jh 
+3s As 2s 2d Kd 0d Kc Jc 3c 4s 5h 8h 
 
 
 
@@ -5187,8 +5187,8 @@ DECK 370
                As 5h 
                   4c 
 
-Qd 0h 0c 6c 6h 3h Kd 3c    Qd 0h 0c 
-6c 6h 3h Kd 3c    Qd 0h 0c 6c 6h 3h 
+Kc 5c Qd Kh Ad 0h Ah 2s 0c Ks 0s 6c 
+7d 7h 6h 4d 9d 3h 7c 9h Kd 2c Jh 3c 
 
 
 
@@ -5201,8 +5201,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -5215,8 +5215,8 @@ DECK 372
                6h 6s 
                   Kc 
 
-7d 3h 5s 9s 7c 7h 4s Ah    7d 3h 5s 
-9s 7c 7h 4s Ah    7d 3h 5s 9s 7c 7h 
+2c 2d 7d 3s 8d 3h Qc 4d 5s Ks Jh 9s 
+8s 7s 7c Jc 3c 7h 0d Kd 4s Qh 3d Ah 
 
 
 
@@ -5229,8 +5229,8 @@ Kc 3s Qs 0c 4s Qc 8c
                4d Qh 
                   Jc 
 
-As 8h 8s 3c 3h 7c 2c Ks    As 8h 8s 
-3c 3h 7c 2c Ks    As 8h 8s 3c 3h 7c 
+4h 2h As 7d Ah 8h 3d Js 8s 6s 0h 3c 
+Ad 0d 3h 8d Ac 7c Jh 5s 2c 7s Qd Ks 
 
 
 
@@ -5243,8 +5243,8 @@ Jh 5h 7s 4c 6h Js 2d
                0d Kd 
                   9d 
 
-8s Jc 9h 0s 7h 9s Kh Qh    8s Jc 9h 
-0s 7h 9s Kh Qh    8s Jc 9h 0s 7h 9s 
+Ks 4s 8s 3s 3c Jc Kc 6d 9h 2c 5c 0s 
+4h 2s 7h 3h 2h 9s Qd 8d Kh 0c Qc Qh 
 
 
 
@@ -5257,8 +5257,8 @@ DECK 375
                Js 4c 
                   6h 
 
-9d 3s 0d 5c Qs 6c 2s Jc    9d 3s 0d 
-5c Qs 6c 2s Jc    9d 3s 0d 5c Qs 6c 
+8d Qc 9d As 4h 3s 8h 4d 0d 9s 5h 5c 
+Ah Ks Qs Kc 3d 6c Jh Kd 2s 8s 0s Jc 
 
 
 
@@ -5271,8 +5271,8 @@ DECK 376
                5c 7c 
                   9c 
 
-Qh 8s Jd Ah Kc Qc 0h 0d    Qh 8s Jd 
-Ah Kc Qc 0h 0d    Qh 8s Jd Ah Kc Qc 
+4c Js Qh Ks 3s 8s 2h 9h Jd Jc 5d Ah 
+9d 7s Kc 4s Jh Qc 2c Kd 0h 6d 9s 0d 
 
 
 
@@ -5285,8 +5285,8 @@ DECK 377
                8c 0d 
                   0c 
 
-Ad 8d Qs 5s 2s 6h Ac 5d    Ad 8d Qs 
-5s 2s 6h Ac 5d    Ad 8d Qs 5s 2s 6h 
+6d 7h Ad 2d Ah 8d 4h 9h Qs Js Qc 5s 
+Jh 9s 2s 5h Qd 6h Qh 7d Ac 8s 3c 5d 
 
 
 
@@ -5299,8 +5299,8 @@ DECK 378
                Ah 0h 
                   5c 
 
-8d 8s 8h 6c As Jh 6h 4d    8d 8s 8h 
-6c As Jh 6h 4d    8d 8s 8h 6c As Jh 
+Jc 3d 8d Kd 5s 8s Qs 2h 8h Qh 3c 6c 
+9c Qc As Kh 4h Jh Jd 7h 6h 9s 4s 4d 
 
 
 
@@ -5313,8 +5313,8 @@ Ad 0h 2h 7s 5h 5d 0s
                Qc 5s 
                   9s 
 
-Qs 4c 0d 5c 6s 3s Kc 3d    Qs 4c 0d 
-5c 6s 3s Kc 3d    Qs 4c 0d 5c 6s 3s 
+2s 4h Qs Ks 8s 4c 2d 4d 0d Kh 2c 5c 
+Ah 7h 6s 8h 6c 3s Jd Jc Kc 7c Ac 3d 
 
 
 
@@ -5327,8 +5327,8 @@ DECK 380
                Ad 9c 
                   5s 
 
-9d 5c 6h 8s Qh 6c 8h 2d    9d 5c 6h 
-8s Qh 6c 8h 2d    9d 5c 6h 8s Qh 6c 
+4d 2s 9d 5h 4c 5c Kc Js 6h 0h 4s 8s 
+Qd Ah Qh 0d 5d 6c 3c Ac 8h 0c 3d 2d 
 
 
 
@@ -5341,8 +5341,8 @@ DECK 381
                7h Qs 
                   6d 
 
-Kc 2h 4c 4d 8s 0h 9h As    Kc 2h 4c 
-4d 8s 0h 9h As    Kc 2h 4c 4d 8s 0h 
+5d 0d Kc 3h 4h 2h 8h 7d 4c 2c 8d 4d 
+9s Ah 8s 0c 5c 0h Kd 3s 9h Qc 3c As 
 
 
 
@@ -5355,8 +5355,8 @@ DECK 382
                6h 4h 
                   Jh 
 
-Qs Ah Ad Kc 7h 3d 6d Ks    Qs Ah Ad 
-Kc 7h 3d 6d Ks    Qs Ah Ad Kc 7h 3d 
+2s 4c Qs 4s 6s Ah 2c Jd Ad 2d 8s Kc 
+5c 9c 7h 9s Qh 3d 3s Qd 6d 8c As Ks 
 
 
 
@@ -5369,8 +5369,8 @@ DECK 383
                7h 4h 
                   Ks 
 
-Kc Ac As 0c 4d 9d 6s 8s    Kc Ac As 
-0c 4d 9d 6s 8s    Kc Ac As 0c 4d 9d 
+2h 9s Kc 0s 7s Ac 5s 5d As Ad 6c 0c 
+Ah Kh 4d 3c 6d 9d Kd 0d 6s 2d Jh 8s 
 
 
 
@@ -5383,8 +5383,8 @@ Ad Jh 9s 3s 3h 3d 6s
                Kc 7h 
                   0c 
 
-5c 0s Jc 9c Qc Ah 7c 7s    5c 0s Jc 
-9c Qc Ah 7c 7s    5c 0s Jc 9c Qc Ah 
+2c 2h 5c 5d 2d 0s 9h Qd Jc 8h 6c 9c 
+4h 4s Qc Js Kd Ah 4d Ks 7c 5s 5h 7s 
 
 
 
@@ -5397,8 +5397,8 @@ As 0h Jh 0c 9c Qc 7s
                2h 8h 
                   Ac 
 
-6d 0s 6h 2c Jc 7d 2s 8s    6d 0s 6h 
-2c Jc 7d 2s 8s    6d 0s 6h 2c Jc 7d 
+7c Kc 6d Qd 5s 0s Ks 3h 6h 9h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 8s 
 
 
 
@@ -5411,8 +5411,8 @@ DECK 386
                3d 5h 
                   9h 
 
-0s Qc 6h 9c Ad Kd 2s 7h    0s Qc 6h 
-9c Ad Kd 2s 7h    0s Qc 6h 9c Ad Kd 
+7d 8c 0s 0c 3c Qc 2c Jh 6h 9d 4h 9c 
+8h Jc Ad 5d 2d Kd 5c 3h 2s 4s 6d 7h 
 
 
 
@@ -5425,8 +5425,8 @@ DECK 387
                9d 8s 
                   6h 
 
-5s 2d 8h 9s 0h 8d Jd 6c    5s 2d 8h 
-9s 0h 8d Jd 6c    5s 2d 8h 9s 0h 8d 
+3s 4s 5s 6s 8c 2d 5c 5h 8h Ac Ad 9s 
+As Qs 0h 0s 3h 8d Ks 0c Jd 4d 3c 6c 
 
 
 
@@ -5439,8 +5439,8 @@ DECK 388
                8h Qh 
                   0h 
 
-Jc Js 3s 2h Kc 2c As 5d    Jc Js 3s 
-2h Kc 2c As 5d    Jc Js 3s 2h Kc 2c 
+4c Ah Jc 5h Qs Js 6h 0c 3s 3d 6d 2h 
+7d 8c Kc Jh Ks 2c 9d 5s As 6s 4d 5d 
 
 
 
@@ -5453,8 +5453,8 @@ DECK 389
                6h 3s 
                   2d 
 
-7d 2h 4c Kd Qc 0h 8h Jc    7d 2h 4c 
-Kd Qc 0h 8h Jc    7d 2h 4c Kd Qc 0h 
+Qs 0d 7d Qd 9s 2h 3d 3c 4c 8s Kc Kd 
+8c Jd Qc 5s 4s 0h 7c As 8h Js 6d Jc 
 
 
 
@@ -5467,8 +5467,8 @@ DECK 390
                0d 0s 
                   4h 
 
-5s 5d 9c As 4d 7c Jc 0c    5s 5d 9c 
-As 4d 7c Jc 0c    5s 5d 9c As 4d 7c 
+3s 4s 5s 7s 5c 5d 2c 6s 9c Ks 9s As 
+8c Kc 4d Qs 8h 7c 2d 6h Jc 4c Kh 0c 
 
 
 
@@ -5481,8 +5481,8 @@ DECK 391
                9s Jc 
                   0h 
 
-9h 5h Js 8s 7c 0d Jd 9c    9h 5h Js 
-8s 7c 0d Jd 9c    9h 5h Js 8s 7c 0d 
+Kd Kh 9h 4c 7h 5h 5s 8c Js 5c Ah 8s 
+Qh 0s 7c Kc 7s 0d 8h 2c Jd 3h 4d 9c 
 
 
 
@@ -5495,8 +5495,8 @@ DECK 392
                3d 8d 
                   Kc 
 
-4d 3c 5c 6d Qh 2c 0s 0c    4d 3c 5c 
-6d Qh 2c 0s 0c    4d 3c 5c 6d Qh 2c 
+Jc Ad 4d 8c Kd 3c 0h 5h 5c As Qc 6d 
+9s 4c Qh 7c Js 2c Ac Kh 0s 6s 5d 0c 
 
 
 
@@ -5509,8 +5509,8 @@ DECK 393
                2d Jd 
                   5c 
 
-3d 9c 2c 8h Ad 5d 6h 9d    3d 9c 2c 
-8h Ad 5d 6h 9d    3d 9c 2c 8h Ad 5d 
+Kh Qd 3d 3h 7d 9c 6d 7c 2c Ac 3s 8h 
+Qc Jh Ad 4d 8d 5d 2s 8c 6h 4s 6s 9d 
 
 
 
@@ -5523,8 +5523,8 @@ DECK 394
                7c Kc 
                   4d 
 
-6h 0s 8c 0h 2c 3h 2d 8s    6h 0s 8c 
-0h 2c 3h 2d 8s    6h 0s 8c 0h 2c 3h 
+8d 3d 6h 4c 8h 0s Ah 0c 8c 9c 6c 0h 
+7h 2s 2c Qs 9s 3h 7d Qd 2d 4s 6d 8s 
 
 
 
@@ -5537,8 +5537,8 @@ DECK 395
                8h 6h 
                   Ks 
 
-2h 9d 4d 9h Kc 4h 7c As    2h 9d 4d 
-9h Kc 4h 7c As    2h 9d 4d 9h Kc 4h 
+9s 9c 2h 6s 8c 9d Ad 2d 4d 5d 0s 9h 
+5h 7s Kc 3d Qc 4h Ah Jd 7c Js 7d As 
 
 
 
@@ -5551,8 +5551,8 @@ DECK 396
                9c Ad 
                   4d 
 
-3h Jd 2s 8c Qs Ks 5h Kd    3h Jd 2s 
-8c Qs Ks 5h Kd    3h Jd 2s 8c Qs Ks 
+6d 3d 3h 3c 4h Jd 8h 5s 2s 7d 2c 8c 
+Qc 6s Qs 9h 0c Ks 6c Jh 5h 5c 4c Kd 
 
 
 
@@ -5565,8 +5565,8 @@ DECK 397
                4c Ks 
                   Jh 
 
-Qc 0d 8s 6s Kh 3d Qh Qd    Qc 0d 8s 
-6s Kh 3d Qh Qd    Qc 0d 8s 6s Kh 3d 
+6c 8d Qc 5s 3c 0d Ac 7h 8s Kc 5d 6s 
+9d 7d Kh 2h 5h 3d 7c 4d Qh 9c 4s Qd 
 
 
 
@@ -5579,8 +5579,8 @@ DECK 398
                6h Qh 
                   5c 
 
-Qd Qs 8h 4c Kc Jd 0d Kd    Qd Qs 8h 
-4c Kc Jd 0d Kd    Qd Qs 8h 4c Kc Jd 
+Jc 4d Qd 5s 8s Qs 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 3d 7d Jd As Js 0d 4s 5d Kd 
 
 
 
@@ -5593,8 +5593,8 @@ DECK 399
                Ac 4h 
                   Qd 
 
-2d Kd 5c 2c 0h 5h 8d Qs    2d Kd 5c 
-2c 0h 5h 8d Qs    2d Kd 5c 2c 0h 5h 
+3d 7d 2d 3c As Kd 0d 7h 5c 6s Jd 2c 
+Qc 9d 0h Ks 4d 5h 9s 6h 8d 8s 4c Qs 
 
 
 
@@ -5607,8 +5607,8 @@ Qc 8h 8s 3s Ah Ad 5s
                Jc 4h 
                   8c 
 
-4c 9s 9c 7c 0c Qs Qh Jh    4c 9s 9c 
-7c 0c Qs Qh Jh    4c 9s 9c 7c 0c Qs 
+Ac Ks 4c 3d Kc 9s 6h Jd 9c 5h 5c 7c 
+2h 4s 0c 0s Qd Qs 2d Kd Qh 6s 5d Jh 
 
 
 
@@ -5621,8 +5621,8 @@ As 5s 7d Ah 8h Qh 2d
                2c 0c 
                   2h 
 
-3h 0s Ac Kc 4s 0h 6c 4c    3h 0s Ac 
-Kc 4s 0h 6c 4c    3h 0s Ac Kc 4s 0h 
+0d 4d 3h 9s 3c 0s Jc 8c Ac Qc 7s Kc 
+8d Js 4s 4h 9h 0h 5d 3d 6c 6s 8s 4c 
 
 
 
@@ -5635,8 +5635,8 @@ DECK 402
                6h 3s 
                   3d 
 
-7d 2h 5c Kd Kc 0h 8h 3c    7d 2h 5c 
-Kd Kc 0h 8h 3c    7d 2h 5c Kd Kc 0h 
+Qs 0d 7d Qd 9s 2h 4d 4c 5c 8s Ad Kd 
+9c Jd Kc 5s 4s 0h 8c As 8h Js Jc 3c 
 
 
 
@@ -5649,8 +5649,8 @@ DECK 403
                9c Qc 
                   Ad 
 
-Qh 0s 5c 3h 8s 4d 8d 2c    Qh 0s 5c 
-3h 8s 4d 8d 2c    Qh 0s 5c 3h 8s 4d 
+8c Ks Qh 2h 4s 0s Ac 4c 5c Kh 6h 3h 
+Qd Jh 8s 3s Js 4d 5s 0c 8d 5d 6s 2c 
 
 
 
@@ -5663,8 +5663,8 @@ Qh 6h 8s 4c 7h Qs Kc
                0d Kd 
                   8d 
 
-9s 0c 0h Js 8h 0s 9d 3c    9s 0c 0h 
-Js 8h 0s 9d 3c    9s 0c 0h Js 8h 0s 
+Ah 4s 9s 3s 2c 0c Jc 4d 0h Ac 5c Js 
+5h 2s 8h 4h 3h 0s Qd 7d 9d 6d 7s 3c 
 
 
 
@@ -5677,8 +5677,8 @@ DECK 405
                3d 0s 
                   Ad 
 
-3h 9d 8d 8s 9c 8h Jc 2c    3h 9d 8d 
-8s 9c 8h Jc 2c    3h 9d 8d 8s 9c 8h 
+7c 6s 3h 4h Ac 9d Js Ah 8d Jd 6d 8s 
+7h 4d 9c Kh 5h 8h 2h 5c Jc 0c 2d 2c 
 
 
 
@@ -5691,8 +5691,8 @@ Jc 6h 5h Js 6d 2s 0s
                3c 3h 
                   Kd 
 
-2h 0h 0d 5d 9h 6c 8s Ad    2h 0h 0d 
-5d 9h 6c 8s Ad    2h 0h 0d 5d 9h 6c 
+Ah 7h 2h Qh 5c 0h 4h 3d 0d Qd 4s 5d 
+9c Kc 9h 7c Qs 6c Kh Jd 8s 0c Ac Ad 
 
 
 
@@ -5705,8 +5705,8 @@ DECK 407
                4h 5d 
                   7c 
 
-9d 5h 9h Qc 7d 8d Kc Kd    9d 5h 9h 
-Qc 7d 8d Kc Kd    9d 5h 9h Qc 7d 8d 
+6c 0c 9d 2s 3c 5h Qs 0d 9h 2d Qh Qc 
+2c 4d 7d 3h Jh 8d 2h 3s Kc 5c Qd Kd 
 
 
 
@@ -5719,8 +5719,8 @@ DECK 408
                Ks Jh 
                   4c 
 
-8d 8s 9h 5c 7h 7d 5s 6d    8d 8s 9h 
-5c 7h 7d 5s 6d    8d 8s 9h 5c 7h 7d 
+0c 2d 8d Kd 4s 8s Js 2h 9h Qh 2c 5c 
+8c Jd 7h Ah 8h 7d 4h 3h 5s As Ad 6d 
 
 
 
@@ -5733,8 +5733,8 @@ DECK 409
                Qs 5s 
                   Jc 
 
-6d 9h Ah 4s Jh 2c 3d 5d    6d 9h Ah 
-4s Jh 2c 3d 5d    6d 9h Ah 4s Jh 2c 
+Kh Kc 6d 3s 8c 9h Qh 0c Ah 6h 2h 4s 
+Jd Ks Jh 8d 2d 2c 0h 7d 3d 9d 3c 5d 
 
 
 
@@ -5747,8 +5747,8 @@ DECK 410
                2s 8h 
                   Ac 
 
-Qd As 6h 6s 4h 9d Jh 6d    Qd As 6h 
-6s 4h 9d Jh 6d    Qd As 6h 6s 4h 9d 
+7c 2c Qd Qh 0c As 4d Jd 6h 7d Jc 6s 
+Qs Js 4h Ks 5d 9d Qc Kd Jh Kc 7h 6d 
 
 
 
@@ -5761,8 +5761,8 @@ As Jh Qh 0c 8c Jc 8s
                3h 9h 
                   2c 
 
-7d 0s 7h Kd 3c Ad 7s 5d    7d 0s 7h 
-Kd 3c Ad 7s 5d    7d 0s 7h Kd 3c Ad 
+7c Qc 7d Qd 4s 0s Ah 4h 7h 0h 9c Kd 
+3s Js 3c 6s 5s Ad 2d 3d 7s Ac 8d 5d 
 
 
 
@@ -5775,8 +5775,8 @@ DECK 412
                Ac 0s 
                   9s 
 
-As 6h 0h Ad Qs Ks 5d 4s    As 6h 0h 
-Ad Qs Ks 5d 4s    As 6h 0h Ad Qs Ks 
+3d Qd As 6s 7c 6h 8s 2c 0h 0d 2s Ad 
+Kh 5h Qs 6d 9d Ks 3c 4h 5d Qc 6c 4s 
 
 
 
@@ -5789,8 +5789,8 @@ Ac Js 2d 7s 4s Ks Ad
                6s Kd 
                   5s 
 
-7d 7c 0d 3c 8c Ah 8d 3h    7d 7c 0d 
-3c 8c Ah 8d 3h    7d 7c 0d 3c 8c Ah 
+5d 9d 7d 7h As 7c Kh Qh 0d Jd 9c 3c 
+2s 8s 8c 4c 0c Ah 6c Jh 8d Qc 6h 3h 
 
 
 
@@ -5803,8 +5803,8 @@ As Kc Qc 2s 7h 9c 8c
                3d 0d 
                   4d 
 
-Qd 2c Kh Jd 6s Js 3h 9s    Qd 2c Kh 
-Jd 6s Js 3h 9s    Qd 2c Kh Jd 6s Js 
+9d Kd Qd 3c Jc 2c 2h 6h Kh 0c 5s Jd 
+7s 0h 6s Ah 5d Js 7d 8h 3h 7c 8d 9s 
 
 
 
@@ -5817,8 +5817,8 @@ As 0h Jh 0c 9c Qc 7s
                2h 8h 
                   Ac 
 
-6d 0s 6h 2c Jc 7d 2s 8s    6d 0s 6h 
-2c Jc 7d 2s 8s    6d 0s 6h 2c Jc 7d 
+7c Kc 6d Qd 5s 0s Ks 3h 6h 9h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 8s 
 
 
 
@@ -5831,8 +5831,8 @@ DECK 416
                7h 0s 
                   3c 
 
-6c Qh 8s Kd 0h Ac 5c 9s    6c Qh 8s 
-Kd 0h Ac 5c 9s    6c Qh 8s Kd 0h Ac 
+7c 0c 6c As Kh Qh 8d 3s 8s Jd Qd Kd 
+9h 4c 0h 2h Jc Ac 3d Kc 5c 5s 7s 9s 
 
 
 
@@ -5845,8 +5845,8 @@ As 4h Qc 5c Jd 6d 6h
                9d Kh 
                   Jh 
 
-6s 5d 4d 9s Ks 9c Jc 8s    6s 5d 4d 
-9s Ks 9c Jc 8s    6s 5d 4d 9s Ks 9c 
+Qh 7h 6s 7s Ah 5d 0s 0d 4d 0c 4s 9s 
+Ad 8c Ks 2h Kc 9c 2d 8h Jc 3c Qd 8s 
 
 
 
@@ -5859,8 +5859,8 @@ DECK 418
                0s 9h 
                   Ad 
 
-Jh Ah 2h Qd Qh 9c 7d 7h    Jh Ah 2h 
-Qd Qh 9c 7d 7h    Jh Ah 2h Qd Qh 9c 
+2c 0h Jh Kh As Ah 3h Jc 2h 3s 8s Qd 
+Kc 9d Qh 6c Jd 9c Kd 2s 7d 4h Qc 7h 
 
 
 
@@ -5873,8 +5873,8 @@ Ad Kh 3h 7s 6h 6d Js
                Kc 5s 
                   9s 
 
-Ks 8c Jd 9c 6s 5d 7h 6c    Ks 8c Jd 
-9c 6s 5d 7h 6c    Ks 8c Jd 9c 6s 5d 
+2s 5h Ks Ah 8s 8c 2d 3d Jd 3c 4c 9c 
+2h Jh 6s 0h 9h 5d 4s 5c 7h 4d 0s 6c 
 
 
 
@@ -5887,8 +5887,8 @@ As Js 9c 5c 7d Qc Ah
                6d Qh 
                   9h 
 
-4d 2d 8d 4h Qs Kc 3s 5d    4d 2d 8d 
-4h Qs Kc 3s 5d    4d 2d 8d 4h Qs Kc 
+Jh 5h 4d 6h 2h 2d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 8c 0h Kc 0c 2c 3s 5s 7s 5d 
 
 
 
@@ -5901,8 +5901,8 @@ DECK 421
                8s Ac 
                   3h 
 
-0d 2s Jd 2c 9s 3c 0c Jc    0d 2s Jd 
-2c 9s 3c 0c Jc    0d 2s Jd 2c 9s 3c 
+8d 8c 0d As Ah 2s 5h 2d Jd 7s 2h 2c 
+Js 0s 9s 9c Ad 3c 8h 4d 0c 9d 6d Jc 
 
 
 
@@ -5915,8 +5915,8 @@ DECK 422
                3c 4h 
                   Kd 
 
-3h Jh Jd 5d 0h 2c 4s Qc    3h Jh Jd 
-5d 0h 2c 4s Qc    3h Jh Jd 5d 0h 2c 
+2h 8h 3h Kh 5c Jh 5h 2d Jd Qd 5s 5d 
+8c Jc 0h 6c Ks 2c Kc 0s 4s 3d 9d Qc 
 
 
 
@@ -5929,8 +5929,8 @@ DECK 423
                2c 3h 
                   Kd 
 
-2h 0h 0d 4d 9h Ac 5d Jc    2h 0h 0d 
-4d 9h Ac 5d Jc    2h 0h 0d 4d 9h Ac 
+Ah 7h 2h Qh 5c 0h 4h Ad 0d Qd 4s 4d 
+8c Qc 9h 6c Qs Ac 4c 3d 5d Jd 5s Jc 
 
 
 
@@ -5943,8 +5943,8 @@ Ac 7d 3c Kd 2s 8d 7s
                5d 4c 
                   Ad 
 
-Jc Ks 3s 7h 3h 8h 6s 0c    Jc Ks 3s 
-7h 3h 8h 6s 0c    Jc Ks 3s 7h 3h 8h 
+9s 5c Jc 0s 2d Ks 5h 8s 3s 6c As 7h 
+4s Qd 3h 0d Ah 8h 4d Jh 6s Kh 3d 0c 
 
 
 
@@ -5957,8 +5957,8 @@ DECK 425
                2d Jd 
                   5c 
 
-3d 9c 2c 8h Ad 5d 6h 9d    3d 9c 2c 
-8h Ad 5d 6h 9d    3d 9c 2c 8h Ad 5d 
+Kh Qd 3d 3h 7d 9c 6d 7c 2c Ac 3s 8h 
+Qc Jh Ad 4d 8d 5d 2s 8c 6h 4s 6s 9d 
 
 
 
@@ -5971,8 +5971,8 @@ DECK 426
                7c Kc 
                   4d 
 
-6h 0s 8c 0h 2c 3h 2d 8s    6h 0s 8c 
-0h 2c 3h 2d 8s    6h 0s 8c 0h 2c 3h 
+8d 3d 6h 4c 8h 0s Ah 0c 8c 9c 6c 0h 
+7h 2s 2c Qs 9s 3h 7d Qd 2d 4s 6d 8s 
 
 
 
@@ -5985,8 +5985,8 @@ Ah 2s 5d Qd 3h 6d 5s
                Jc 4c 
                   6c 
 
-7h 5h 9d 9s 5c Qh 4s As    7h 5h 9d 
-9s 5c Qh 4s As    7h 5h 9d 9s 5c Qh 
+9c Kc 7h 8d 8h 5h 2h Ac 9d 7c 2d 9s 
+9h 0h 5c 6s Kh Qh Jh 7s 4s 3d 8c As 
 
 
 
@@ -5999,8 +5999,8 @@ DECK 428
                Qc 5c 
                   5s 
 
-6d 0c 3s 2c 0d 3c 8s 2s    6d 0c 3s 
-2c 0d 3c 8s 2s    6d 0c 3s 2c 0d 3c 
+2d Kc 6d 4s 9s 0c Jh 9h 3s 4c 7d 2c 
+5d 6c 0d Kd 7h 3c Qd 6h 8s 4d 9c 2s 
 
 
 
@@ -6013,8 +6013,8 @@ Qh 3s Jd 8d Js 0h Jc
                9h 2c 
                   8c 
 
-Kd 2h Jh 7c 3d Qd 6s As    Kd 2h Jh 
-7c 3d Qd 6s As    Kd 2h Jh 7c 3d Qd 
+Ad 7d Kd 7s Qs 2h 5h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd 2s 4s 6s 8s 0s As 
 
 
 
@@ -6027,8 +6027,8 @@ DECK 430
                6h Qh 
                   5c 
 
-Qd Qs 8h 4c Kc Jd 0d Kd    Qd Qs 8h 
-4c Kc Jd 0d Kd    Qd Qs 8h 4c Kc Jd 
+Jc 4d Qd 5s 8s Qs 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 3d 7d Jd As Js 0d 4s 5d Kd 
 
 
 
@@ -6041,8 +6041,8 @@ DECK 431
                8h 5h 
                   Kd 
 
-3d 6c 2d 8c 8d 9h 2h Qs    3d 6c 2d 
-8c 8d 9h 2h Qs    3d 6c 2d 8c 8d 9h 
+9d 4h 3d Qc 0h 6c As 6s 2d 7d 3c 8c 
+0d Ah 8d 4d 9s 9h 5d 5c 2h 7h 4c Qs 
 
 
 
@@ -6055,8 +6055,8 @@ Qc 8h 8s 3s Ah Ad 5s
                Jc 4h 
                   8c 
 
-4c 9s 9c 7c 0c Qs Qh Jh    4c 9s 9c 
-7c 0c Qs Qh Jh    4c 9s 9c 7c 0c Qs 
+Ac Ks 4c 3d Kc 9s 6h Jd 9c 5h 5c 7c 
+2h 4s 0c 0s Qd Qs 2d Kd Qh 6s 5d Jh 
 
 
 
@@ -6069,8 +6069,8 @@ DECK 433
                5h 7s 
                   Ac 
 
-3c 0h 6s Kd 8h Qh 9d 4c    3c 0h 6s 
-Kd 8h Qh 9d 4c    3c 0h 6s Kd 8h Qh 
+5c 8c 3c As Jh 0h 7d 3s 6s Jd Qd Kd 
+7h 2c 8h Ks 9c Qh Ad Jc 9d 6d 8s 4c 
 
 
 
@@ -6083,8 +6083,8 @@ Qh 6h 8s 4c 7h Qs Kc
                0d Kd 
                   8d 
 
-9s 0c 0h Js 8h 0s 9d 3c    9s 0c 0h 
-Js 8h 0s 9d 3c    9s 0c 0h Js 8h 0s 
+Ah 4s 9s 3s 2c 0c Jc 4d 0h Ac 5c Js 
+5h 2s 8h 4h 3h 0s Qd 7d 9d 6d 7s 3c 
 
 
 
@@ -6097,8 +6097,8 @@ As Js 9c 6c 5d Jc Ah
                4d Kh 
                   Jh 
 
-2d Kc 7d 5h Qs Jd 4h 4c    2d Kc 7d 
-5h Qs Jd 4h 4c    2d Kc 7d 5h Qs Jd 
+Qh 7h 2d 8h 2h Kc Qd Kd 7d 8d 9d 5h 
+Ac 9h Qs 3d 6d Jd 6h 4s 4h 5s 8s 4c 
 
 
 
@@ -6111,8 +6111,8 @@ Ah 2h 3h Qh 4s Kc 0d
                3d As 
                   Qs 
 
-8s Qc 4h 6d 5c Ad 4c 3c    8s Qc 4h 
-6d 5c Ad 4c 3c    8s Qc 4h 6d 5c Ad 
+Ac 7s 8s 9s Ks Qc 4d 9c 4h 8h 3s 6d 
+7d 8d 5c Kh Js Ad 9h 6h 4c 6c Kd 3c 
 
 
 
@@ -6125,8 +6125,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -6139,8 +6139,8 @@ DECK 438
                3d 5h 
                   8h 
 
-0s Jc 6h 8c Kc Kd 2s Ad    0s Jc 6h 
-8c Kc Kd 2s Ad    0s Jc 6h 8c Kc Kd 
+7d 7c 0s 9c 2c Jc Ac 0h 6h 9d 4h 8c 
+7h 0c Kc 5d 2d Kd 4c 3h 2s 4s 6d Ad 
 
 
 
@@ -6153,8 +6153,8 @@ DECK 439
                0s 4c 
                   5h 
 
-8d 3s 9d 5c Js 6c 2s Kd    8d 3s 9d 
-5c Js 6c 2s Kd    8d 3s 9d 5c Js 6c 
+7d Jc 8d As 3h 3s 7h 3d 9d 9s 4h 5c 
+Ks Qs Js Qc 2d 6c 0h Qd 2s 8s 3c Kd 
 
 
 
@@ -6167,8 +6167,8 @@ DECK 440
                4h 7s 
                   Ac 
 
-4c Jh 6s Kd 9h 6d 7h 8d    4c Jh 6s 
-Kd 9h 6d 7h 8d    4c Jh 6s Kd 9h 6d 
+5c 8c 4c As Qh Jh 4d 3s 6s 0d Qd Kd 
+6h 3c 9h Qs 3d 6d 7d 8h 7h 2c Jd 8d 
 
 
 
@@ -6181,8 +6181,8 @@ DECK 441
                4h 6d 
                   8c 
 
-Jd 5h 9h Kc 9d 0d Ad 7d    Jd 5h 9h 
-Kc 9d 0d Ad 7d    Jd 5h 9h Kc 9d 0d 
+7c Jc Jd 2s 3c 5h Qs Qd 9h 3d Qh Kc 
+2c 5d 9d 3h Jh 0d 2h 3s Ad 6c 5c 7d 
 
 
 
@@ -6195,8 +6195,8 @@ DECK 442
                2h 4c 
                   3s 
 
-5d 0d Qc Ah 7s 7d 8s 6d    5d 0d Qc 
-Ah 7s 7d 8s 6d    5d 0d Qc Ah 7s 7d 
+Qs Jd 5d Qd Kd 0d Js Jc Qc 2c Kc Ah 
+5h 9s 7s 0c 3h 7d 6h Kh 8s 2d 7h 6d 
 
 
 
@@ -6209,8 +6209,8 @@ DECK 443
                2c Ad 
                   5c 
 
-5s Jc 9s 3s 7h Qh 8d 5d    5s Jc 9s 
-3s 7h Qh 8d 5d    5s Jc 9s 3s 7h Qh 
+0c 2d 5s Jd Ks Jc Kd 2h 9s 7s 9c 3s 
+9d Ah 7h 6h Jh Qh Qd As 8d 8s 3c 5d 
 
 
 
@@ -6223,8 +6223,8 @@ Qc 9h 9s 3s 2h Ad 6s
                Jc 5h 
                   8c 
 
-4c 0s 9c 7c 0c Ks Qh 4s    4c 0s 9c 
-7c 0c Ks Qh 4s    4c 0s 9c 7c 0c Ks 
+Ac Ah 4c 3d Kc 0s 7h Jd 9c 6h 5c 7c 
+3h 5s 0c Js Qd Ks 2d Kd Qh 7s 5d 4s 
 
 
 
@@ -6237,8 +6237,8 @@ DECK 445
                9c Jh 
                   8c 
 
-0h 4h 8d 0s 3d 5s 3c 3h    0h 4h 8d 
-0s 3d 5s 3c 3h    0h 4h 8d 0s 3d 5s 
+2d 6d 0h Js 7d 4h Qs Qc 8d 2c 9h 0s 
+7s Kc 3d 8s Qh 5s 4s 6h 3c Jd 4d 3h 
 
 
 
@@ -6251,8 +6251,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd 2h Jh 7c 3d Qd 5s Js    Kd 2h Jh 
-7c 3d Qd 5s Js    Kd 2h Jh 7c 3d Qd 
+Ad 7d Kd 6s Qs 2h 5h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7s 9s Js 
 
 
 
@@ -6265,8 +6265,8 @@ DECK 447
                0c 5d 
                   8h 
 
-Kh 5c 0d Kd 3c Ah Qh 0s    Kh 5c 0d 
-Kd 3c Ah Qh 0s    Kh 5c 0d Kd 3c Ah 
+2s 4d Kh Ad 9h 5c 6c 7c 0d Ks 8s Kd 
+8c Jc 3c Js 9s Ah 3d Kc Qh As Qc 0s 
 
 
 
@@ -6279,8 +6279,8 @@ DECK 448
                Ac 8h 
                   Jd 
 
-7h Qs Qc 9c 8s Kh 0c 9s    7h Qs Qc 
-9c 8s Kh 0c 9s    7h Qs Qc 9c 8s Kh 
+6s 0s 7h 3c 5s Qs Jc Kc Qc 2s 3h 9c 
+2c 9h 8s 4h Js Kh 6c 5c 0c 6d 7s 9s 
 
 
 
@@ -6293,8 +6293,8 @@ Ks 9d 6c 3s 2c 5c 0h
                Ac 8d 
                   4c 
 
-9c 6d 4d 2d Ah Ad 0d 8s    9c 6d 4d 
-2d Ah Ad 0d 8s    9c 6d 4d 2d Ah Ad 
+5d 2h 9c Jc 0s 6d 3c 6s 4d 4h 9h 2d 
+8c Kd Ah 0c 7c Ad Jh Kc 0d Jd Qs 8s 
 
 
 
@@ -6307,8 +6307,8 @@ Kh 2h Qh 6s 9c Jd 8c
                Js 6c 
                   6h 
 
-9d 3s 0d 7c Qs 9h 5d 7h    9d 3s 0d 
-7c Qs 9h 5d 7h    9d 3s 0d 7c Qs 9h 
+8d Qc 9d As 4h 3s Jh 2d 0d 9s 5h 7c 
+Ah Ks Qs 5s 0h 9h Qd 2s 5d 3d 0s 7h 
 
 
 
@@ -6321,8 +6321,8 @@ DECK 451
                4h 5s 
                   Kc 
 
-9d Ah 4s 8s 4c 5h 7d 6c    9d Ah 4s 
-8s 4c 5h 7d 6c    9d Ah 4s 8s 4c 5h 
+Qh 3d 9d 3s 0d Ah Qc 5d 4s Qs 9h 8s 
+7s 6s 4c Jc Kh 5h 2d 7c 7d 4d 9c 6c 
 
 
 
@@ -6335,8 +6335,8 @@ Jh Js 8h 8c 6h 0d Kh
                4c 9c 
                   Qd 
 
-Jd 4h Ad 5s 3d Jc 6c 5d    Jd 4h Ad 
-5s 3d Jc 6c 5d    Jd 4h Ad 5s 3d Jc 
+8d 7d Jd Ks 0s 4h 6d Ah Ad 7c 5h 5s 
+Qh 9h 3d 7s 3c Jc 2s 3s 6c Kc 5c 5d 
 
 
 
@@ -6349,8 +6349,8 @@ DECK 453
                Kh 0s 
                   9c 
 
-Qd 5s 2d Jc Qh 2h Ac Kc    Qd 5s 2d 
-Jc Qh 2h Ac Kc    Qd 5s 2d Jc Qh 2h 
+4h 7d Qd Ad 9h 5s 8c 7s 2d 7c 2s Jc 
+5d 4s Qh Qs Jd 2h 5c 6s Ac 3d 0c Kc 
 
 
 
@@ -6363,8 +6363,8 @@ As Kh 9h 0h Jh 5c 7h
                8h 2s 
                   9c 
 
-2d 5h 8s Qs Qd 3h 5d Qc    2d 5h 8s 
-Qs Qd 3h 5d Qc    2d 5h 8s Qs Qd 3h 
+9s Jd 2d Kd 7s 5h 6h 0s 8s 5s Jc Qs 
+9d 3d Qd 0c Js 3h 6d 8d 5d 4d 2c Qc 
 
 
 
@@ -6377,8 +6377,8 @@ DECK 455
                8s Kh 
                   Ks 
 
-9d Ad 5d 9h 4h 7d 4c Jc    9d Ad 5d 
-9h 4h 7d 4c Jc    9d Ad 5d 9h 4h 7d 
+8d 9c 9d 3s Qs Ad 2c 5c 5d 0h Jh 9h 
+0s 2s 4h 3c Jd 7d 0d 0c 4c As 6d Jc 
 
 
 
@@ -6391,8 +6391,8 @@ DECK 456
                6c Jh 
                   8d 
 
-9s 6s Ad 4d 3s 7c 9c 0c    9s 6s Ad 
-4d 3s 7c 9c 0c    9s 6s Ad 4d 3s 7c 
+Ks 0h 9s Qd 8s 6s 4s Ah Ad 5d Ac 4d 
+6h Kd 3s 5h 6d 7c 2d Qh 9c 8c 2s 0c 
 
 
 
@@ -6405,8 +6405,8 @@ DECK 457
                8h 5h 
                   Kd 
 
-2d 5c Ad 7c 7d 9h 2h 9d    2d 5c Ad 
-7c 7d 9h 2h 9d    2d 5c Ad 7c 7d 9h 
+8d 4h 2d Jc 0h 5c 2s 7s Ad 6d 3c 7c 
+0d Ah 7d 3d 0s 9h 4d 4c 2h 7h As 9d 
 
 
 
@@ -6419,8 +6419,8 @@ As 9h 0h 0c 9c Qc 6s
                Ah 7h 
                   Ac 
 
-6d 9s 5h 2c Jc 7d 2s 8s    6d 9s 5h 
-2c Jc 7d 2s 8s    6d 9s 5h 2c Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s Kh 8s 
 
 
 
@@ -6433,8 +6433,8 @@ DECK 459
                5h 6s 
                   Kc 
 
-8d 2h 5s 9s 5c 6h Ad 3s    8d 2h 5s 
-9s 5c 6h Ad 3s    8d 2h 5s 9s 5c 6h 
+Kh 4d 8d 4s 0d 2h Jc 5d 5s Ks 0h 9s 
+8s 7s 5c 0c Ac 6h 3d Qc Ad 8c 9d 3s 
 
 
 
@@ -6447,8 +6447,8 @@ Jh 4c Qc 0d 7d Qd 2c
                6c Ah 
                   6d 
 
-Qh Kd 3c 0h Jc 5h Ks 2s    Qh Kd 3c 
-0h Jc 5h Ks 2s    Qh Kd 3c 0h Jc 5h 
+7h 4h Qh 3h 2h Kd Ac 9s 3c Qs 4s 0h 
+8s 5c Jc 5s 8d 5h Kh 9d Ks 2d 7c 2s 
 
 
 
@@ -6461,8 +6461,8 @@ DECK 461
                6d 0d 
                   7d 
 
-Qd Jh 9s 6c 0s Kc 2c As    Qd Jh 9s 
-6c 0s Kc 2c As    Qd Jh 9s 6c 0s Kc 
+9d Kd Qd Qh Qc Jh 3s Ac 9s 6s Jd 6c 
+Jc 2d 0s 5h 3c Kc 4h 9c 2c 0h 8c As 
 
 
 
@@ -6475,8 +6475,8 @@ DECK 462
                Ad Qs 
                   Kc 
 
-4h 7d 6d 0s 9c 0h 3s Kd    4h 7d 6d 
-0s 9c 0h 3s Kd    4h 7d 6d 0s 9c 0h 
+7c 7s 4h 5h 3c 7d Ks 3h 6d 9d 4d 0s 
+9h 2d 9c 2c 6h 0h Qc 8s 3s Qd 7h Kd 
 
 
 
@@ -6489,8 +6489,8 @@ As 8s 7c 4c 4d 9c Js
                2d Jh 
                   9h 
 
-Kc Jc 7d 2h 9s 3d Qh Qs    Kc Jc 7d 
-2h 9s 3d Qh Qs    Kc Jc 7d 2h 9s 3d 
+0h 3h Kc 4h Ks Jc Qd Kd 7d 8d 0d 2h 
+Kh 7h 9s Ad 5d 3d 6h 5h Qh 9d 6d Qs 
 
 
 
@@ -6503,8 +6503,8 @@ DECK 464
                7s Qc 
                   9h 
 
-7h 3h 8s 7c Ad Kc 8c Jh    7h 3h 8s 
-7c Ad Kc 8c Jh    7h 3h 8s 7c Ad Kc 
+Kd Kh 7h 4c 6h 3h 5s 9c 8s 5c Ks 7c 
+Jc 2c Ad 0s 8h Kc Qh 5h 8c 9s 5d Jh 
 
 
 
@@ -6517,8 +6517,8 @@ Jc 6h 9c 5h 0h 7h 9s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 6c    0d Qh 9d 
-8h 3h 7d 2s 6c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 8s Qh 0s Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s Qs 6c 
 
 
 
@@ -6531,8 +6531,8 @@ DECK 466
                2s Jh 
                   7s 
 
-4c Kh Qh 9c 8s Ac 2c 5c    4c Kh Qh 
-9c 8s Ac 2c 5c    4c Kh Qh 9c 8s Ac 
+Qc 3d 4c Qs 7d Kh As 8c Qh 0d 7c 9c 
+Kd 7h 8s 8d Js Ac 6d Jc 2c 0h Qd 5c 
 
 
 
@@ -6545,8 +6545,8 @@ Jc 6h 9c 5h 0h 7h 0s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 4c    0d Qh 9d 
-8h 3h 7d 2s 4c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 9s Qh Js Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s 8s 4c 
 
 
 
@@ -6559,8 +6559,8 @@ DECK 468
                0h 8c 
                   0d 
 
-5s Ks Ac As 8d Kc Jh 3c    5s Ks Ac 
-As 8d Kc Jh 3c    5s Ks Ac As 8d Kc 
+8h 6c 5s 0c 8s Ks 2s 7d Ac Jd 6h As 
+9d Ah 8d 9s 5h Kc 9h 4s Jh Ad Qs 3c 
 
 
 
@@ -6573,8 +6573,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -6587,8 +6587,8 @@ DECK 470
                3d 5h 
                   8h 
 
-0s Jc 6h 8c Kc Kd 2s Ad    0s Jc 6h 
-8c Kc Kd 2s Ad    0s Jc 6h 8c Kc Kd 
+7d 7c 0s 9c 2c Jc Ac 0h 6h 9d 4h 8c 
+7h 0c Kc 5d 2d Kd 4c 3h 2s 4s 6d Ad 
 
 
 
@@ -6601,8 +6601,8 @@ As 6c 7d 8d 9c 0d 3s
                6h 4h 
                   Js 
 
-Qs 9d 4d 8h Qc 2h 6d Kd    Qs 9d 4d 
-8h Qc 2h 6d Kd    Qs 9d 4d 8h Qc 2h 
+8s 8c Qs 5s 7c 9d Kc Ad 4d 5d 9s 8h 
+3h 6s Qc 2d Jc 2h Ah 7h 6d 3d 3c Kd 
 
 
 
@@ -6615,8 +6615,8 @@ DECK 472
                6h Qd 
                   2s 
 
-7d 7s Qh 2h 5c 4h Qc 8d    7d 7s Qh 
-2h 5c 4h Qc 8d    7d 7s Qh 2h 5c 4h 
+6d Ad 7d 0d 2d 7s 8c 7c Qh 9c 9s 2h 
+5s 4s 5c Js 4d 4h 9h 6s Qc 3h 3d 8d 
 
 
 
@@ -6629,8 +6629,8 @@ Ks As Qc 0d 2h Kc 4s
                6c Kh 
                   Ac 
 
-8h 5h 3d 9d Jc 3h 7s 7d    8h 5h 3d 
-9d Jc 3h 7s 7d    8h 5h 3d 9d Jc 3h 
+3c 8c 8h 2d 9h 5h Ah 0h 3d 6s 8d 9d 
+7h Qd Jc 5d 2c 3h 5c Kd 7s 3s 9s 7d 
 
 
 
@@ -6643,8 +6643,8 @@ DECK 474
                Qh 6h 
                   Jd 
 
-5h 0s Jc 8c 7s Jh 9c 6d    5h 0s Jc 
-8c 7s Jh 9c 6d    5h 0s Jc 8c 7s Jh 
+6s 8s 5h Ac 5s 0s 0c Qc Jc 2s Ah 8c 
+Kh 7h 7s 2h 9s Jh 5c 3c 9c 5d 4c 6d 
 
 
 
@@ -6657,8 +6657,8 @@ DECK 475
                8c 0d 
                   0c 
 
-Ad 8d Qs 5s 2s 6h Ac 5d    Ad 8d Qs 
-5s 2s 6h Ac 5d    Ad 8d Qs 5s 2s 6h 
+6d 7h Ad 2d Ah 8d 4h 9h Qs Js Qc 5s 
+Jh 9s 2s 5h Qd 6h Qh 7d Ac 8s 3c 5d 
 
 
 
@@ -6671,8 +6671,8 @@ Qc 9h 9s 3s 2h Ad 6s
                Jc 5h 
                   8c 
 
-4c 0s 9c 7c 0c Ks Qh 4s    4c 0s 9c 
-7c 0c Ks Qh 4s    4c 0s 9c 7c 0c Ks 
+Ac Ah 4c 3d Kc 0s 7h Jd 9c 6h 5c 7c 
+3h 5s 0c Js Qd Ks 2d Kd Qh 7s 5d 4s 
 
 
 
@@ -6685,8 +6685,8 @@ Jc 2d Ad 9h Kc 9s 3d
                0h 8h 
                   2c 
 
-Js Qs 5c 2h 7h 9d 4c 3h    Js Qs 5c 
-2h 7h 9d 4c 3h    Js Qs 5c 2h 7h 9d 
+As 9c Js 2s 5s Qs 7c 4h 5c Qd 0s 2h 
+Jh 5d 7h 6h 5h 9d 0d Qc 4c 4s 6s 3h 
 
 
 
@@ -6699,8 +6699,8 @@ DECK 478
                6c 8c 
                   0c 
 
-Kh 8s Jd 2h Ad Kc Jh Js    Kh 8s Jd 
-2h Ad Kc Jh Js    Kh 8s Jd 2h Ad Kc 
+5c Qs Kh Ah 3s 8s 3h 0h Jd Qc 6d 2h 
+0d 7s Ad 4s Qh Kc 3c Kd Jh 7d 9s Js 
 
 
 
@@ -6713,8 +6713,8 @@ Ac 0c 8c Js 6c 9s Qc
                2c 4c 
                   Ah 
 
-2s 4d 7h 4s Jh 4h 7s 0s    2s 4d 7h 
-4s Jh 4h 7s 0s    2s 4d 7h 4s Jh 4h 
+3c 2d 2s 9h 0d 4d 6d 5s 7h 5c Jc 4s 
+9c 6h Jh 2h Qd 4h 8d 5d 7s 7d 8s 0s 
 
 
 
@@ -6727,8 +6727,8 @@ DECK 480
                5h 5s 
                   Kc 
 
-9d 2h 4s 8s 5c 6h 7d 9s    9d 2h 4s 
-8s 5c 6h 7d 9s    9d 2h 4s 8s 5c 6h 
+Kh 3d 9d 3s 0d 2h Qc 5d 4s Ks 0h 8s 
+7s 6s 5c Jc Ac 6h 2d 7c 7d 4d 9c 9s 
 
 
 
@@ -6741,8 +6741,8 @@ As 0h Jh 0c 9c Qc 7s
                2h 8h 
                   Ac 
 
-6d 0s 6h 2c Jc 7d 2s 8s    6d 0s 6h 
-2c Jc 7d 2s 8s    6d 0s 6h 2c Jc 7d 
+7c Kc 6d Qd 5s 0s Ks 3h 6h 9h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 8s 
 
 
 
@@ -6755,8 +6755,8 @@ DECK 482
                3d 5h 
                   9h 
 
-0s Qc 6h 9c Ad Kd 2s 7h    0s Qc 6h 
-9c Ad Kd 2s 7h    0s Qc 6h 9c Ad Kd 
+7d 8c 0s 0c 3c Qc 2c Jh 6h 9d 4h 9c 
+8h Jc Ad 5d 2d Kd 5c 3h 2s 4s 6d 7h 
 
 
 
@@ -6769,8 +6769,8 @@ DECK 483
                0s 4c 
                   5h 
 
-9d 3s 0d 5c Js 7c 2s 6c    9d 3s 0d 
-5c Js 7c 2s 6c    9d 3s 0d 5c Js 7c 
+8d Qc 9d As 3h 3s 7h 4d 0d 9s 4h 5c 
+Ks Qs Js Kc 3d 7c 0h Kd 2s 8s 3c 6c 
 
 
 
@@ -6783,8 +6783,8 @@ DECK 484
                8h Qh 
                   0h 
 
-Jc Js 3s 2h Kc 2c As 5d    Jc Js 3s 
-2h Kc 2c As 5d    Jc Js 3s 2h Kc 2c 
+4c Ah Jc 5h Qs Js 6h 0c 3s 3d 6d 2h 
+7d 8c Kc Jh Ks 2c 9d 5s As 6s 4d 5d 
 
 
 
@@ -6797,8 +6797,8 @@ DECK 485
                7s 3s 
                   4s 
 
-2s Kd Ad 8s Ac 0h 7h Kc    2s Kd Ad 
-8s Ac 0h 7h Kc    2s Kd Ad 8s Ac 0h 
+7d 7c 2s Qd 5h Kd 2d 0d Ad 4c 6c 8s 
+9h 4d Ac Kh Jc 0h 6d Jd 7h 6s 0c Kc 
 
 
 
@@ -6811,8 +6811,8 @@ Ks 2s Kc 0d 2h Ad 5s
                6c Kh 
                   Ac 
 
-8h 5h 4d 9d Jc 3h 8s Qc    8h 5h 4d 
-9d Jc 3h 8s Qc    8h 5h 4d 9d Jc 3h 
+3c 8c 8h 3d 9h 5h Ah 0h 4d 7s 8d 9d 
+7h Qd Jc 6d 2c 3h 5c Kd 8s 4s As Qc 
 
 
 
@@ -6825,8 +6825,8 @@ DECK 487
                6h 3s 
                   2d 
 
-7d 2h 4c Kd Qc 0h 8h Jc    7d 2h 4c 
-Kd Qc 0h 8h Jc    7d 2h 4c Kd Qc 0h 
+Qs 0d 7d Qd 9s 2h 3d 3c 4c 8s Kc Kd 
+8c Jd Qc 5s 4s 0h 7c As 8h Js 6d Jc 
 
 
 
@@ -6839,8 +6839,8 @@ Ad Kc Jc 8d 2c 7c Jd
                0h 3h 
                   9d 
 
-5c 5d Ac 0d 4d 6s Qs 0c    5c 5d Ac 
-0d 4d 6s Qs 0c    5c 5d Ac 0d 4d 6s 
+2h 8c 5c As Js 5d 8h 0s Ac 7h 9s 0d 
+6c 4s 4d 7s Qc 6s 9h Qd Qs 3s Kh 0c 
 
 
 
@@ -6853,8 +6853,8 @@ As 0h Kh 9c 8c Jc 7s
                3h 9h 
                   2c 
 
-7d 0s 7h Kd 3s Qc Qh 9d    7d 0s 7h 
-Kd 3s Qc Qh 9d    7d 0s 7h Kd 3s Qc 
+7c Ad 7d Qd 6s 0s Ah 4h 7h 5c 6d Kd 
+8s Jh 3s 2s 0c Qc Kc 5s Qh 4d Ks 9d 
 
 
 
@@ -6867,8 +6867,8 @@ DECK 490
                Jh Ad 
                   Ac 
 
-4s 9c Qh 0d Jd 9h 8d 8s    4s 9c Qh 
-0d Jd 9h 8d 8s    4s 9c Qh 0d Jd 9h 
+8c 2d 4s Kd Qs 9c 5s 6c Qh Ks 9d 0d 
+0s As Jd 3c 7h 9h 6d 0c 8d 2c Qc 8s 
 
 
 
@@ -6881,8 +6881,8 @@ DECK 491
                8h Qh 
                   0h 
 
-Qc Js 4s 2h Ad 2c As 3s    Qc Js 4s 
-2h Ad 2c As 3s    Qc Js 4s 2h Ad 2c 
+4c Ah Qc 5h Qs Js 6h Jc 4s 4d 5d 2h 
+6d 8c Ad Jh Ks 2c 8d 6s As 0d 0c 3s 
 
 
 
@@ -6895,8 +6895,8 @@ DECK 492
                9s 2c 
                   4h 
 
-0d 3s Jd 3c 0s 4c Jc 2s    0d 3s Jd 
-3c 0s 4c Jc 2s    0d 3s Jd 3c 0s 4c 
+8d 9c 0d As 2h 3s 6h 2d Jd 8s 3h 3c 
+Qs Js 0s 0c Ad 4c 9h 4d Jc 9d 6d 2s 
 
 
 
@@ -6909,8 +6909,8 @@ Ah 2s 5d Qd 3h 6d 5s
                Jc 4c 
                   6c 
 
-7h 5h 9d 9s 5c Qh 4s As    7h 5h 9d 
-9s 5c Qh 4s As    7h 5h 9d 9s 5c Qh 
+9c Kc 7h 8d 8h 5h 2h Ac 9d 7c 2d 9s 
+9h 0h 5c 6s Kh Qh Jh 7s 4s 3d 8c As 
 
 
 
@@ -6923,8 +6923,8 @@ DECK 494
                8d 4c 
                   5h 
 
-7d 8c 9s 4s 7c 6d Jh Kd    7d 8c 9s 
-4s 7c 6d Jh Kd    7d 8c 9s 4s 7c 6d 
+Jc Kc 7d Ad 0s 8c 0c As 9s 3h 5s 4s 
+3s Ac 7c Qh 2h 6d 9d Qd Jh 0h 6c Kd 
 
 
 
@@ -6937,8 +6937,8 @@ DECK 495
                4d 7d 
                   Kc 
 
-5d 5c 6c 2s 7s 7c 4s Qs    5d 5c 6c 
-2s 7s 7c 4s Qs    5d 5c 6c 2s 7s 7c 
+Qc Ad 5d 0c Kd 5c 3c 0h 6c 3s 2h 2s 
+As Ac 7s 2d Jd 7c 7h 9c 4s 9s 5s Qs 
 
 
 
@@ -6951,8 +6951,8 @@ DECK 496
                5d 7h 
                   0h 
 
-0s 3d 8h Kc 7c 7d 4c Jh    0s 3d 8h 
-Kc 7c 7d 4c Jh    0s 3d 8h Kc 7c 7d 
+8d Qc 0s Ad 6c 3d 5c Kh 8h 0d 4h Kc 
+9h 6h 7c 5h 2d 7d 2h 3s 4c 9c 2s Jh 
 
 
 
@@ -6965,8 +6965,8 @@ DECK 497
                9c Jc 
                   0d 
 
-9d 8h 7h 3d 5h 2c 3s 6c    9d 8h 7h 
-3d 5h 2c 3s 6c    9d 8h 7h 3d 5h 2c 
+6d 5d 9d 3h 0s 8h 4d 5s 7h Ah Js 3d 
+7s Kd 5h Jh 0h 2c 5c As 3s Jd Qs 6c 
 
 
 
@@ -6979,8 +6979,8 @@ DECK 498
                0c 5d 
                   7d 
 
-Jd 7h 0s 3h 4s Kh 3s 5c    Jd 7h 0s 
-3h 4s Kh 3s 5c    Jd 7h 0s 3h 4s Kh 
+8s 7s Jd As 0h 7h 2c 8d 0s Qh 6h 3h 
+0d Qs 4s 8h Ac Kh 6c Jc 3s 5s 9s 5c 
 
 
 
@@ -6993,8 +6993,8 @@ Jh 8h Jd 2h Kd 6d 2d
                9s 7d 
                   Qs 
 
-9h Ah 9d 6c Ac Jc Ad 4c    9h Ah 9d 
-6c Ac Jc Ad 4c    9h Ah 9d 6c Ac Jc 
+3h Js 9h 0h 7h Ah Kc 8d 9d 2s Qc 6c 
+9c 6h Ac 0s Qh Jc 7s As Ad 5d 0c 4c 
 
 
 
@@ -7007,8 +7007,8 @@ As Js 0c 6c 7d Kc Ah
                6d Qh 
                   9h 
 
-5d 3d 8d 4h Qs Ad 3s 3c    5d 3d 8d 
-4h Qs Ad 3s 3c    5d 3d 8d 4h Qs Ad 
+Jh 5h 5d 6h 2h 3d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 9c 0h Ad Jc 2c 3s 5s 7s 3c 
 
 
 
@@ -7021,8 +7021,8 @@ DECK 501
                6c 0h 
                   8d 
 
-8s 5s Ad 4d 2s 7c 0c 2c    8s 5s Ad 
-4d 2s 7c 0c 2c    8s 5s Ad 4d 2s 7c 
+Qs 9h 8s Qd 7s 5s 3s Ks Ad 5d Kh 4d 
+5h Kd 2s 4h 6d 7c 2d Jh 0c 9c 8c 2c 
 
 
 
@@ -7035,8 +7035,8 @@ Ks Ah 5s 7d 4d Jd 5c
                8h Qh 
                   9s 
 
-As 2d 3c 0s 5h 7h 9c Ad    As 2d 3c 
-0s 5h 7h 9c Ad    As 2d 3c 0s 5h 7h 
+3d Qc As Kc Js 2d 9h 6h 3c Qd 2c 0s 
+8c 2h 5h 8s 4h 7h 5d 0h 9c Jc 9d Ad 
 
 
 
@@ -7049,8 +7049,8 @@ DECK 503
                9s 7d 
                   Kh 
 
-3c 6d 8d 8s Ad 3h Ks Kd    3c 6d 8d 
-8s Ad 3h Ks Kd    3c 6d 8d 8s Ad 3h 
+6s 8h 3c 0h 7c 6d 4c Jh 8d 3s 2s 8s 
+0d 0c Ad Ac Jc 3h 5c 2d Ks 7s 5d Kd 
 
 
 
@@ -7063,8 +7063,8 @@ DECK 504
                7s 3h 
                   2d 
 
-6d 6h 0c Kh 5s Qd Kc 8d    6d 6h 0c 
-Kh 5s Qd Kc 8d    6d 6h 0c Kh 5s Qd 
+9h 6s 6d 2s 8s 6h 5d 7c 0c As 4c Kh 
+Ac Ah 5s 7h 8c Qd 9d Kd Kc 9c 3s 8d 
 
 
 
@@ -7077,8 +7077,8 @@ Jh Qc 7h Ks As 4d Kc
                2h Qd 
                   2s 
 
-6d 4s 8h 3d 9c 3h 3c 7d    6d 4s 8h 
-3d 9c 3h 3c 7d    6d 4s 8h 3d 9c 3h 
+5d Ad 6d 0d 2d 4s 7c 6c 8h 8c 6s 3d 
+9d Qs 9c 2c 0c 3h 5c 4c 3c Ah 9s 7d 
 
 
 
@@ -7091,8 +7091,8 @@ DECK 506
                7c 2s 
                   7s 
 
-6h 2c Ad 4d Js 3h 0s 6d    6h 2c Ad 
-4d Js 3h 0s 6d    6h 2c Ad 4d Js 3h 
+Qh 2d 6h 9h 0h 2c 7d 0d Ad 7h Ah 4d 
+8s 2h Js 0c 4h 3h 8h Qd 0s 6s 3s 6d 
 
 
 
@@ -7105,8 +7105,8 @@ DECK 507
                0s 4c 
                   5h 
 
-9d 3s 0d 5c Js 6c 2s 5d    9d 3s 0d 
-5c Js 6c 2s 5d    9d 3s 0d 5c Js 6c 
+8d Jc 9d As 3h 3s 7h 3d 0d 9s 4h 5c 
+Ks Qs Js Qc 2d 6c 0h Kd 2s 6s Ac 5d 
 
 
 
@@ -7119,8 +7119,8 @@ DECK 508
                0s Ad 
                   Qd 
 
-3h Qh Jd 2d 9s 8s 8c 4s    3h Qh Jd 
-2d 9s 8s 8c 4s    3h Qh Jd 2d 9s 8s 
+2s Qs 3h As 5s Qh Jh Kh Jd 3c 8d 2d 
+2c 4h 9s 7h 2h 8s Jc 0c 8c Kd 5d 4s 
 
 
 
@@ -7133,8 +7133,8 @@ Jc 2d Ad 9h Kc 9s 3d
                0h 8h 
                   2c 
 
-Js Qs 5c 2h 7h 9d 4c 3h    Js Qs 5c 
-2h 7h 9d 4c 3h    Js Qs 5c 2h 7h 9d 
+As 9c Js 2s 5s Qs 7c 4h 5c Qd 0s 2h 
+Jh 5d 7h 6h 5h 9d 0d Qc 4c 4s 6s 3h 
 
 
 
@@ -7147,8 +7147,8 @@ DECK 510
                3d 5c 
                   8c 
 
-5d 4h 4c 7c 8h Qh Kc Js    5d 4h 4c 
-7c 8h Qh Kc Js    5d 4h 4c 7c 8h Qh 
+0h Kd 5d 7s 0d 4h 7d 3c 4c 9c 4s 7c 
+2h 2d 8h Ac Ks Qh Kh 8d Kc 6s 9h Js 
 
 
 
@@ -7161,8 +7161,8 @@ Jh 6c 6h 4s 5c 5s Ah
                Jd Kc 
                   5d 
 
-9d Qc Jc Js 2h Qh 6d 0s    9d Qc Jc 
-Js 2h Qh 6d 0s    9d Qc Jc Js 2h Qh 
+9h As 9d 8h Qs Qc 3h 4d Jc 4c 3d Js 
+2d Qd 2h 9s 7h Qh 2c 7d 6d 8c 8s 0s 
 
 
 
@@ -7175,8 +7175,8 @@ Kc Ac 4h 7s 8h 3d Js
                Qc 5s 
                   0s 
 
-Ks 7c 9d 8c 6s 7h Qd 9s    Ks 7c 9d 
-8c 6s 7h Qd 9s    Ks 7c 9d 8c 6s 7h 
+3s 6h Ks 2h 8s 7c Ad 2d 9d 4c 5c 8c 
+3h Jh 6s Qh 0h 7h Ah 2s Qd Jd 8d 9s 
 
 
 
@@ -7189,8 +7189,8 @@ As 0h Jh 0c 9c Qc 7s
                2h 8h 
                   Ac 
 
-6d 0s 6h 2c Jc 7d 2s 8s    6d 0s 6h 
-2c Jc 7d 2s 8s    6d 0s 6h 2c Jc 7d 
+7c Kc 6d Qd 5s 0s Ks 3h 6h 9h Qh 2c 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 8s 
 
 
 
@@ -7203,8 +7203,8 @@ DECK 514
                3d 5h 
                   9h 
 
-0s Qc 6h 9c Ad Kd 2s 7h    0s Qc 6h 
-9c Ad Kd 2s 7h    0s Qc 6h 9c Ad Kd 
+7d 8c 0s 0c 3c Qc 2c Jh 6h 9d 4h 9c 
+8h Jc Ad 5d 2d Kd 5c 3h 2s 4s 6d 7h 
 
 
 
@@ -7217,8 +7217,8 @@ DECK 515
                9d 8s 
                   6h 
 
-5s 2d 8h 9s 0h 8d Jd 6c    5s 2d 8h 
-9s 0h 8d Jd 6c    5s 2d 8h 9s 0h 8d 
+3s 4s 5s 6s 8c 2d 5c 5h 8h Ac Ad 9s 
+As Qs 0h 0s 3h 8d Ks 0c Jd 4d 3c 6c 
 
 
 
@@ -7231,8 +7231,8 @@ DECK 516
                8h Qh 
                   0h 
 
-Jc Js 3s 2h Kc 2c As 5d    Jc Js 3s 
-2h Kc 2c As 5d    Jc Js 3s 2h Kc 2c 
+4c Ah Jc 5h Qs Js 6h 0c 3s 3d 6d 2h 
+7d 8c Kc Jh Ks 2c 9d 5s As 6s 4d 5d 
 
 
 
@@ -7245,8 +7245,8 @@ DECK 517
                6h Qd 
                   3s 
 
-8d 7s Qh 4h 5c 2s 0c Kc    8d 7s Qh 
-4h 5c 2s 0c Kc    8d 7s Qh 4h 5c 2s 
+7d 3d 8d 0d 4d 7s 8c 7c Qh Jc Js 4h 
+6s 5s 5c Ks 5d 2s 9c 8h 0c 8s 0s Kc 
 
 
 
@@ -7259,8 +7259,8 @@ DECK 518
                5c 2s 
                   5s 
 
-Js 8h Kc 7c 7s 5h 6h Qc    Js 8h Kc 
-7c 7s 5h 6h Qc    Js 8h Kc 7c 7s 5h 
+3h Ad Js Qs Ks 8h 5d 0d Kc 0h Ac 7c 
+8d 2h 7s Jh 3c 5h 9h Kd 6h 4d 9d Qc 
 
 
 
@@ -7273,8 +7273,8 @@ DECK 519
                Ks Qd 
                   2s 
 
-7d 4s 6h 4d 8c Ah 2c Jc    7d 4s 6h 
-4d 8c Ah 2c Jc    7d 4s 6h 4d 8c Ah 
+6d 2d 7d 0d 3d 4s 6c 5c 6h 7c 6s 4d 
+9d Js 8c Ac 9c Ah 4c 3c 2c 9h Qc Jc 
 
 
 
@@ -7287,8 +7287,8 @@ DECK 520
                3d 8d 
                   Kc 
 
-4d 3c 5c 6d Qh 2c 0s 0c    4d 3c 5c 
-6d Qh 2c 0s 0c    4d 3c 5c 6d Qh 2c 
+Jc Ad 4d 8c Kd 3c 0h 5h 5c As Qc 6d 
+9s 4c Qh 7c Js 2c Ac Kh 0s 6s 5d 0c 
 
 
 
@@ -7301,8 +7301,8 @@ DECK 521
                2d Jd 
                   5c 
 
-3d 9c 2c 8h Ad 5d 6h 9d    3d 9c 2c 
-8h Ad 5d 6h 9d    3d 9c 2c 8h Ad 5d 
+Kh Qd 3d 3h 7d 9c 6d 7c 2c Ac 3s 8h 
+Qc Jh Ad 4d 8d 5d 2s 8c 6h 4s 6s 9d 
 
 
 
@@ -7315,8 +7315,8 @@ DECK 522
                7c Kc 
                   4d 
 
-6h 0s 8c 0h 2c 3h 2d 8s    6h 0s 8c 
-0h 2c 3h 2d 8s    6h 0s 8c 0h 2c 3h 
+8d 3d 6h 4c 8h 0s Ah 0c 8c 9c 6c 0h 
+7h 2s 2c Qs 9s 3h 7d Qd 2d 4s 6d 8s 
 
 
 
@@ -7329,8 +7329,8 @@ Qc 7h 6h Qs 6d 2s Js
                3c 4h 
                   Kd 
 
-3h Jh 0d 5d 0h 6c 9s 3s    3h Jh 0d 
-5d 0h 6c 9s 3s    3h Jh 0d 5d 0h 6c 
+2h 8h 3h Kh 5c Jh 5h 3d 0d Qd 5s 5d 
+9c Ad 0h 7c Ks 6c Ac Jd 9s Jc 0c 3s 
 
 
 
@@ -7343,8 +7343,8 @@ DECK 524
                9s 0c 
                   9h 
 
-8h 5h Js 5c 9c 0s Kc 2s    8h 5h Js 
-5c 9c 0s Kc 2s    8h 5h Js 5c 9c 0s 
+Qd Qh 8h 2c 7h 5h 7s 6c Js 3c Ah 5c 
+8c Qc 9c 7d 0h 0s 0d Kd Kc 3h 6s 2s 
 
 
 
@@ -7357,8 +7357,8 @@ Ah 2s 5d Qd 3h 6d 5s
                Jc 4c 
                   6c 
 
-7h 5h 9d 9s 5c Qh 4s As    7h 5h 9d 
-9s 5c Qh 4s As    7h 5h 9d 9s 5c Qh 
+9c Kc 7h 8d 8h 5h 2h Ac 9d 7c 2d 9s 
+9h 0h 5c 6s Kh Qh Jh 7s 4s 3d 8c As 
 
 
 
@@ -7371,8 +7371,8 @@ DECK 526
                Ah 6s 
                   0c 
 
-6d Jh 2h Qc 4s 3d Qs Kd    6d Jh 2h 
-Qc 4s 3d Qs Kd    6d Jh 2h Qc 4s 3d 
+Kh Ad 6d 3s 6c Jh Qh 8c 2h 8h 2d Qc 
+Kc 6h 4s 7h Qd 3d 0d 9c Qs 8d 5s Kd 
 
 
 
@@ -7385,8 +7385,8 @@ DECK 527
                Ac 4h 
                   Qd 
 
-2d Kd 5c 2c 0h 5h 8d Qs    2d Kd 5c 
-2c 0h 5h 8d Qs    2d Kd 5c 2c 0h 5h 
+3d 7d 2d 3c As Kd 0d 7h 5c 6s Jd 2c 
+Qc 9d 0h Ks 4d 5h 9s 6h 8d 8s 4c Qs 
 
 
 
@@ -7399,8 +7399,8 @@ DECK 528
                8h 5h 
                   Ah 
 
-2h 0d 6d 9h 7c 9c 3s Jh    2h 0d 6d 
-9h 7c 9c 3s Jh    2h 0d 6d 9h 7c 9c 
+Js Ad 2h 8s Kc 0d 4d 5d 6d 7d Qs 9h 
+4h 9s 7c 6h Qc 9c Kh As 3s 5s Ac Jh 
 
 
 
@@ -7413,8 +7413,8 @@ DECK 529
                5c Ks 
                   6d 
 
-Jh Kd 2c 9h Jc 4h Qs 6c    Jh Kd 2c 
-9h Jc 4h Qs 6c    Jh Kd 2c 9h Jc 4h 
+6h 3h Jh 2h Ah Kd Kh 8s 2c Js 3s 9h 
+7s 4c Jc 4s 8d 4h Qh 9d Qs 2d 7c 6c 
 
 
 
@@ -7427,8 +7427,8 @@ DECK 530
                Ad Ah 
                   Kc 
 
-6h 7d 5d Qd 9d 8c 6d 5c    6h 7d 5d 
-Qd 9d 8c 6d 5c    6h 7d 5d Qd 9d 8c 
+9c 0s 6h 7h 2c 7d 2h 5h 5d 0d 3d Qd 
+Js Ac 9d 8h 4s 8c 2s 3c 6d 7s 9s 5c 
 
 
 
@@ -7441,8 +7441,8 @@ Ad 0h 2h 7s 5h 4d 0s
                Qc 5s 
                   9s 
 
-Qs 3c 0d 5c 6s 3s Kc 4c    Qs 3c 0d 
-5c 6s 3s Kc 4c    Qs 3c 0d 5c 6s 3s 
+2s 4h Qs Ks 8s 3c 2d 3d 0d Kh Ac 5c 
+Ah 7h 6s 8h 6c 3s Jd Jc Kc 7c 9d 4c 
 
 
 
@@ -7455,8 +7455,8 @@ Qh 6h 8s 4c 7h Qs Kc
                0d Kd 
                   8d 
 
-9s 0c 0h Js 8h 0s 9d 3c    9s 0c 0h 
-Js 8h 0s 9d 3c    9s 0c 0h Js 8h 0s 
+Ah 4s 9s 3s 2c 0c Jc 4d 0h Ac 5c Js 
+5h 2s 8h 4h 3h 0s Qd 7d 9d 6d 7s 3c 
 
 
 
@@ -7469,8 +7469,8 @@ DECK 533
                3h 0h 
                   5c 
 
-Kd 9s 5h 4c Ad 8d 8h 2c    Kd 9s 5h 
-4c Ad 8d 8h 2c    Kd 9s 5h 4c Ad 8d 
+Qc 7d Kd 3s 6s 9s Qs 2h 5h 9h Qh 4c 
+7c 0c Ad 4d 3c 8d 5d 2d 8h Jc 9d 2c 
 
 
 
@@ -7483,8 +7483,8 @@ As 9s 7c 4c 5d 0c Qs
                4d Jh 
                   8h 
 
-2d Qc 7d 2h 0s Jd Ac Ad    2d Qc 7d 
-2h 0s Jd Ac Ad    2d Qc 7d 2h 0s Jd 
+0h 4h 2d 5h Ks Qc Qd Kd 7d 8d 9d 2h 
+Qh 6h 0s 3d 6d Jd 3h 9c Ac 9h 8s Ad 
 
 
 
@@ -7497,8 +7497,8 @@ DECK 535
                Qc 3d 
                   7h 
 
-3c 8c 9d Qd 9s 5h 0h Kd    3c 8c 9d 
-Qd 9s 5h 0h Kd    3c 8c 9d Qd 9s 5h 
+As 2d 3c Kc 8h 8c 9c 0c 9d Js 8s Qd 
+2c 9h 9s 3h Ac 5h 4d Jh 0h 5c 5s Kd 
 
 
 
@@ -7511,8 +7511,8 @@ DECK 536
                5s 6h 
                   Kc 
 
-9d 9h 7d 5h Ks 4d 6d 8d    9d 9h 7d 
-5h Ks 4d 6d 8d    9d 9h 7d 5h Ks 4d 
+Kh 4s 9d As 6s 9h 8s 0h 7d 3s 0s 5h 
+9c Ah Ks Qs 2d 4d 6c Jh 6d Ad Jd 8d 
 
 
 
@@ -7525,8 +7525,8 @@ DECK 537
                0h 7c 
                   0d 
 
-5s Ks Ac As 8d Qc Jh 7d    5s Ks Ac 
-As 8d Qc Jh 7d    5s Ks Ac As 8d Qc 
+8h 5c 5s 9c 8s Ks 2s 6d Ac Jd 6h As 
+9d Ah 8d 9s 5h Qc 9h 4s Jh Kc Qs 7d 
 
 
 
@@ -7539,8 +7539,8 @@ DECK 538
                2s 8h 
                   Ac 
 
-Qd As 6h 6s 4h 9d Jh 6d    Qd As 6h 
-6s 4h 9d Jh 6d    Qd As 6h 6s 4h 9d 
+7c 2c Qd Qh 0c As 4d Jd 6h 7d Jc 6s 
+Qs Js 4h Ks 5d 9d Qc Kd Jh Kc 7h 6d 
 
 
 
@@ -7553,8 +7553,8 @@ DECK 539
                0d Qd 
                   9d 
 
-8s 0c 6h 9s 4h 8d 4c 5d    8s 0c 6h 
-9s 4h 8d 4c 5d    8s 0c 6h 9s 4h 8d 
+Qs 4s 8s 3s Qh 0c Jc 6d 6h 0h Ac 9s 
+Ah 2s 4h 2c Kd 8d 9c 8c 4c Jh Kc 5d 
 
 
 
@@ -7567,8 +7567,8 @@ DECK 540
                9d 4c 
                   7h 
 
-8d 7c Js 5s 6c 7d 7s 4s    8d 7c Js 
-5s 6c 7d 7s 4s    8d 7c Js 5s 6c 7d 
+0c Ad 8d 2d Qs 7c 9c As Js 5h 6s 5s 
+3s Ac 6c Qh 4h 7d 0d Kd 7s Qc Kc 4s 
 
 
 
@@ -7581,8 +7581,8 @@ Kc 2s Ad Jh 8d 9d 8h
                7s 5h 
                   4d 
 
-7c Qh 2d 6h Ah 0s 6c 3h    7c Qh 2d 
-6h Ah 0s 6c 3h    7c Qh 2d 6h Ah 0s 
+5c 4s 7c Ac 0c Qh 9h Qs 2d 2h 9c 6h 
+Ks 3c Ah Jc 3d 0s Qd Kh 6c Kd Js 3h 
 
 
 
@@ -7595,8 +7595,8 @@ DECK 542
                7c Qd 
                   Kc 
 
-8s 2s 6c 9s 4d 2h 0d Js    8s 2s 6c 
-9s 4d 2h 0d Js    8s 2s 6c 9s 4d 2h 
+2d Qc 8s 9d Qs 2s 6h Jd 6c 0c Jc 9s 
+9c 4h 4d Jh 5c 2h 3c Ac 0d 4c 7d Js 
 
 
 
@@ -7609,8 +7609,8 @@ DECK 543
                6h Kd 
                   Jh 
 
-2h Ad 3c 6c Ks 2d 5d 0s    2h Ad 3c 
-6c Ks 2d 5d 0s    2h Ad 3c 6c Ks 2d 
+9c 9d 2h 6d Kc Ad Qd 5h 3c 8c As 6c 
+4h 9h Ks 0d Ah 2d 3d 5s 5d 6s 8s 0s 
 
 
 
@@ -7623,8 +7623,8 @@ DECK 544
                7h 0s 
                   3c 
 
-6c Qh 8s Kd 0h Ac 5c 9s    6c Qh 8s 
-Kd 0h Ac 5c 9s    6c Qh 8s Kd 0h Ac 
+7c 0c 6c As Kh Qh 8d 3s 8s Jd Qd Kd 
+9h 4c 0h 2h Jc Ac 3d Kc 5c 5s 7s 9s 
 
 
 
@@ -7637,8 +7637,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd Ah Jh 7c 3d Qd 5s 8s    Kd Ah Jh 
-7c 3d Qd 5s 8s    Kd Ah Jh 7c 3d Qd 
+Ad 7d Kd 7s Js Ah 4h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7h 6s 8s 
 
 
 
@@ -7651,8 +7651,8 @@ DECK 546
                Kd 9c 
                   Ac 
 
-Ah 8s 6d 4h Jh Qs 3d 7h    Ah 8s 6d 
-4h Jh Qs 3d 7h    Ah 8s 6d 4h Jh Qs 
+2s 0s Ah 0h Jc 8s Js 2d 6d Ad 5s 4h 
+Qc 7c Jh Ks 5h Qs 2c 4c 3d 5d 5c 7h 
 
 
 
@@ -7665,8 +7665,8 @@ DECK 547
                4c 0s 
                   5d 
 
-7s 5c 8c 2d Ah 3d 4s 6c    7s 5c 8c 
-2d Ah 3d 4s 6c    7s 5c 8c 2d Ah 3d 
+Jc Js 7s 6h As 5c 2c 0h 8c 2s 0c 2d 
+5s Kd Ah 7h 5h 3d Kc 3c 4s 6s Ac 6c 
 
 
 
@@ -7679,8 +7679,8 @@ DECK 548
                3d 6h 
                   9h 
 
-9s Ad 7h Jc 5c 7d 2c 5d    9s Ad 7h 
-Jc 5c 7d 2c 5d    9s Ad 7h Jc 5c 7d 
+8d 0c 9s Qc 4c Ad 3c Jh 7h 0d 3h Jc 
+8h 5h 5c 4h Kc 7d Ah 2s 2c 7c 4d 5d 
 
 
 
@@ -7693,8 +7693,8 @@ DECK 549
                4h 5s 
                   Qc 
 
-9d Ah 4s 8s 4c 5h 7d Kc    9d Ah 4s 
-8s 4c 5h 7d Kc    9d Ah 4s 8s 4c 5h 
+Qh 3d 9d 3s 0d Ah Jc 5d 4s Qs 9h 8s 
+7s 6s 4c 0c Kh 5h 2d 6c 7d 4d 8c Kc 
 
 
 
@@ -7707,8 +7707,8 @@ DECK 550
                3c 4h 
                   Kd 
 
-3h Jh Jd 5d 0h 2c 4s Qc    3h Jh Jd 
-5d 0h 2c 4s Qc    3h Jh Jd 5d 0h 2c 
+2h 8h 3h Kh 5c Jh 5h 2d Jd Qd 5s 5d 
+8c Jc 0h 6c Ks 2c Kc 0s 4s 3d 9d Qc 
 
 
 
@@ -7721,8 +7721,8 @@ DECK 551
                6h 3h 
                   Qs 
 
-Ad Qh As 0c 5d 0d 3c Jc    Ad Qh As 
-0c 5d 0d 3c Jc    Ad Qh As 0c 5d 0d 
+Ah 7s Ad 8s 6s Qh 5s 6d As 3d 5c 0c 
+Ks Jh 5d Ac 7d 0d 2d 9s 3c 8c Jd Jc 
 
 
 
@@ -7735,8 +7735,8 @@ Jh 7d 8h Jc 4h 2h 5s
                Qh 6c 
                   6s 
 
-2c 9d 6d 3d 4s 5h 9c 0c    2c 9d 6d 
-3d 4s 5h 9c 0c    2c 9d 6d 3d 4s 5h 
+0h Jd 2c 3s 7s 9d Qc 6h 6d Ah 0d 3d 
+0s 4d 4s Ks 7c 5h 2s 7h 9c Kd 5d 0c 
 
 
 
@@ -7749,8 +7749,8 @@ DECK 553
                2d Jd 
                   5c 
 
-3d 9c 2c 8h Ad 5d 6h 9d    3d 9c 2c 
-8h Ad 5d 6h 9d    3d 9c 2c 8h Ad 5d 
+Kh Qd 3d 3h 7d 9c 6d 7c 2c Ac 3s 8h 
+Qc Jh Ad 4d 8d 5d 2s 8c 6h 4s 6s 9d 
 
 
 
@@ -7763,8 +7763,8 @@ DECK 554
                7c Kc 
                   4d 
 
-6h 0s 8c 0h 2c 3h 2d 8s    6h 0s 8c 
-0h 2c 3h 2d 8s    6h 0s 8c 0h 2c 3h 
+8d 3d 6h 4c 8h 0s Ah 0c 8c 9c 6c 0h 
+7h 2s 2c Qs 9s 3h 7d Qd 2d 4s 6d 8s 
 
 
 
@@ -7777,8 +7777,8 @@ DECK 555
                6h Kd 
                   Ac 
 
-0c 9h 7d 8c 7s 4d 2h 3s    0c 9h 7d 
-8c 7s 4d 2h 3s    0c 9h 7d 8c 7s 4d 
+Jc 0d 0c Js Kc 9h Ks 4c 7d 2c 0s 8c 
+Ah 4h 7s 3h 8h 4d 9c 2s 2h 8s 3c 3s 
 
 
 
@@ -7791,8 +7791,8 @@ DECK 556
                Qc 5c 
                   5s 
 
-6d 0c 3s 2c 0d 3c 8s 2s    6d 0c 3s 
-2c 0d 3c 8s 2s    6d 0c 3s 2c 0d 3c 
+2d Kc 6d 4s 9s 0c Jh 9h 3s 4c 7d 2c 
+5d 6c 0d Kd 7h 3c Qd 6h 8s 4d 9c 2s 
 
 
 
@@ -7805,8 +7805,8 @@ DECK 557
                Ah Qh 
                   8c 
 
-9h 9s Js 4d Ad 5c Kh As    9h 9s Js 
-4d Ad 5c Kh As    9h 9s Js 4d Ad 5c 
+6h 6d 9h 7c 4h 9s 0d 3c Js 8s 4c 4d 
+5h 2h Ad 7d Qs 5c 7h Jd Kh 8h Ac As 
 
 
 
@@ -7819,8 +7819,8 @@ DECK 558
                6h Qh 
                   5c 
 
-Qd Qs 8h 4c Kc Jd 0d Kd    Qd Qs 8h 
-4c Kc Jd 0d Kd    Qd Qs 8h 4c Kc Jd 
+Jc 4d Qd 5s 8s Qs 2h 5h 8h Jh Ac 4c 
+7c 0c Kc 3d 7d Jd As Js 0d 4s 5d Kd 
 
 
 
@@ -7833,8 +7833,8 @@ DECK 559
                8h 5h 
                   Kd 
 
-3d 6c 2d 8c 8d 9h 2h Qs    3d 6c 2d 
-8c 8d 9h 2h Qs    3d 6c 2d 8c 8d 9h 
+9d 4h 3d Qc 0h 6c As 6s 2d 7d 3c 8c 
+0d Ah 8d 4d 9s 9h 5d 5c 2h 7h 4c Qs 
 
 
 
@@ -7847,8 +7847,8 @@ Qc 8h 8s 3s Ah Ad 5s
                Jc 4h 
                   8c 
 
-4c 9s 9c 7c 0c Qs Qh Jh    4c 9s 9c 
-7c 0c Qs Qh Jh    4c 9s 9c 7c 0c Qs 
+Ac Ks 4c 3d Kc 9s 6h Jd 9c 5h 5c 7c 
+2h 4s 0c 0s Qd Qs 2d Kd Qh 6s 5d Jh 
 
 
 
@@ -7861,8 +7861,8 @@ DECK 561
                4d 2s 
                   Qs 
 
-9s Kc 9h 5d 6h 7h Ad 6c    9s Kc 9h 
-5d 6h 7h Ad 6c    9s Kc 9h 5d 6h 7h 
+4c 8s 9s 0s Ah Kc 6d 0c 9h Qh 5c 5d 
+Ks 5s 6h Ac 2h 7h Jd 4h Ad As 8d 6c 
 
 
 
@@ -7875,8 +7875,8 @@ DECK 562
                Ad Ah 
                   Kc 
 
-6h 7d 5d Qd 9d 8c 6d 5c    6h 7d 5d 
-Qd 9d 8c 6d 5c    6h 7d 5d Qd 9d 8c 
+9c 0s 6h 7h 2c 7d 2h 5h 5d 0d 3d Qd 
+Js Ac 9d 8h 4s 8c 2s 3c 6d 7s 9s 5c 
 
 
 
@@ -7889,8 +7889,8 @@ As Js 9c 6c 5d Jc Ah
                4d Kh 
                   Jh 
 
-2d Kc 7d 5h Qs Jd 4h 4c    2d Kc 7d 
-5h Qs Jd 4h 4c    2d Kc 7d 5h Qs Jd 
+Qh 7h 2d 8h 2h Kc Qd Kd 7d 8d 9d 5h 
+Ac 9h Qs 3d 6d Jd 6h 4s 4h 5s 8s 4c 
 
 
 
@@ -7903,8 +7903,8 @@ Ac 8h Ks 9c 9h 3h 6d
                4s 7c 
                   0h 
 
-Ad 5h 4h Ah 8s 2d 2s 3c    Ad 5h 4h 
-Ah 8s 2d 2s 3c    Ad 5h 4h Ah 8s 2d 
+6s Jh Ad Qc 7s 5h 0d 5c 4h 6c 4c Ah 
+As 0c 8s 9d Js 2d 0s 2c 2s 2h 5s 3c 
 
 
 
@@ -7917,8 +7917,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -7931,8 +7931,8 @@ DECK 566
                3d 5h 
                   8h 
 
-0s Jc 6h 8c Kc Kd 2s Ad    0s Jc 6h 
-8c Kc Kd 2s Ad    0s Jc 6h 8c Kc Kd 
+7d 7c 0s 9c 2c Jc Ac 0h 6h 9d 4h 8c 
+7h 0c Kc 5d 2d Kd 4c 3h 2s 4s 6d Ad 
 
 
 
@@ -7945,8 +7945,8 @@ DECK 567
                0s 4c 
                   5h 
 
-8d 3s 9d 5c Js 6c 2s Kd    8d 3s 9d 
-5c Js 6c 2s Kd    8d 3s 9d 5c Js 6c 
+7d Jc 8d As 3h 3s 7h 3d 9d 9s 4h 5c 
+Ks Qs Js Qc 2d 6c 0h Qd 2s 8s 3c Kd 
 
 
 
@@ -7959,8 +7959,8 @@ DECK 568
                4h 7s 
                   Ac 
 
-4c Jh 6s Kd 9h 6d 7h 8d    4c Jh 6s 
-Kd 9h 6d 7h 8d    4c Jh 6s Kd 9h 6d 
+5c 8c 4c As Qh Jh 4d 3s 6s 0d Qd Kd 
+6h 3c 9h Qs 3d 6d 7d 8h 7h 2c Jd 8d 
 
 
 
@@ -7973,8 +7973,8 @@ DECK 569
                Ks 0h 
                   3c 
 
-4h 9s 7c Kc 0s 9c 9d 7d    4h 9s 7c 
-Kc 0s 9c 9d 7d    4h 9s 7c Kc 0s 9c 
+3h 5d 4h Ac 2h 9s 0d Qh 7c Qd 0c Kc 
+7h 5s 0s Jc 2c 9c 6h 2s 9d 8h Qc 7d 
 
 
 
@@ -7987,8 +7987,8 @@ DECK 570
                2h 4c 
                   3s 
 
-5d 0d Qc Ah 7s 7d 8s 6d    5d 0d Qc 
-Ah 7s 7d 8s 6d    5d 0d Qc Ah 7s 7d 
+Qs Jd 5d Qd Kd 0d Js Jc Qc 2c Kc Ah 
+5h 9s 7s 0c 3h 7d 6h Kh 8s 2d 7h 6d 
 
 
 
@@ -8001,8 +8001,8 @@ Ah 2h 8c 2d 5c Ac 6c
                4s 0c 
                   0d 
 
-9d 0s 9s 4c Ad 2c 7c 5d    9d 0s 9s 
-4c Ad 2c 7c 5d    9d 0s 9s 4c Ad 2c 
+0h 8h 9d 3s Jc 0s As 6h 9s 2s 4d 4c 
+3c 5h Ad Kh 4h 2c 6d Jd 7c Qh Kd 5d 
 
 
 
@@ -8015,8 +8015,8 @@ DECK 572
                4h 6h 
                   9s 
 
-Kh Kc 2c 7s Qc 3d Ad 4s    Kh Kc 2c 
-7s Qc 3d Ad 4s    Kh Kc 2c 7s Qc 3d 
+8c Ah Kh Jc 5c Kc 2s 9c 2c Qd 8s 7s 
+Qs 3s Qc 4d 4c 3d 5h 7c Ad Kd 0d 4s 
 
 
 
@@ -8029,8 +8029,8 @@ As 9h Kh Ad Kc 3d 4s
                Ks 7h 
                   3c 
 
-9d 7s 5h 5c 2d 0c 6s 3h    9d 7s 5h 
-5c 2d 0c 6s 3h    9d 7s 5h 5c 2d 0c 
+Jc 4d 9d Kd 3s 7s Js Ah 5h 8h Ac 5c 
+8c Qc 2d 5d 8s 0c 0h 4c 6s Qh Jh 3h 
 
 
 
@@ -8043,8 +8043,8 @@ Qh 2s Jd 8d 0s 0h Jc
                9h 2c 
                   8c 
 
-Kd 2h Jh 7c 3d Qd 5s Js    Kd 2h Jh 
-7c 3d Qd 5s Js    Kd 2h Jh 7c 3d Qd 
+Ad 7d Kd 6s Qs 2h 5h 8h Jh Ac 4c 7c 
+0c Kc 3d 6d 9d Qd As 3s 5s 7s 9s Js 
 
 
 
@@ -8057,8 +8057,8 @@ Ac Qs 0h 9c 8h 9d 2c
                7c 0c 
                   Qd 
 
-0d 6h Ad 5s 6s Qh Kc 0s    0d 6h Ad 
-5s 6s Qh Kc 0s    0d 6h Ad 5s 6s Qh 
+6d 5d 0d 2h Js 6h 4d 3h Ad 8c 7h 5s 
+2s Ah 6s As 6c Qh Kh 8d Kc Jd 5c 0s 
 
 
 
@@ -8071,8 +8071,8 @@ DECK 576
                Ac 8h 
                   Jd 
 
-7h Qs Qc 9c 8s Kh 0c 9s    7h Qs Qc 
-9c 8s Kh 0c 9s    7h Qs Qc 9c 8s Kh 
+6s 0s 7h 3c 5s Qs Jc Kc Qc 2s 3h 9c 
+2c 9h 8s 4h Js Kh 6c 5c 0c 6d 7s 9s 
 
 
 
@@ -8085,8 +8085,8 @@ DECK 577
                2d Ks 
                   Ad 
 
-5h 8d 7d Js 0c 0h 3s 8s    5h 8d 7d 
-Js 0c 0h 3s 8s    5h 8d 7d Js 0c 0h 
+8c 7s 5h 6h 4c 8d Ah 4h 7d 0d 5d Js 
+9h 3d 0c 2c 7h 0h Kc 9s 3s Kd 3c 8s 
 
 
 
@@ -8099,8 +8099,8 @@ DECK 578
                9h 6h 
                   Kh 
 
-Ah 2h 2d Ad 5s 3h 6s 7h    Ah 2h 2d 
-Ad 5s 3h 6s 7h    Ah 2h 2d Ad 5s 3h 
+As 6c Ah 2s 9s 2h 3c Qd 2d 3d Js Ad 
+7c 3s 5s Jd 4c 3h Jc 8s 6s 4s 4d 7h 
 
 
 
@@ -8113,8 +8113,8 @@ DECK 579
                Qd 4c 
                   0h 
 
-7s 8h Jd Kd 4h 9c 4s 6c    7s 8h Jd 
-Kd 4h 9c 4s 6c    7s 8h Jd Kd 4h 9c 
+As 0d 7s 6d 9h 8h 5h Ac Jd 5c 8c Kd 
+9d Js 4h Ks Kc 9c Kh 2s 4s Jh Ad 6c 
 
 
 
@@ -8127,8 +8127,8 @@ Kh Ks Ad 7s 2s 4h 8c
                6s 9d 
                   Jd 
 
-0d 5c Kc 2h Qc Kd 4s 5d    0d 5c Kc 
-2h Qc Kd 4s 5d    0d 5c Kc 2h Qc Kd 
+2c 9s 0d 4c 3d 5c 0c Jc Kc 5s 5h 2h 
+3s 9c Qc 4d Js Kd 8s Qd 4s Qh Ah 5d 
 
 
 
@@ -8141,8 +8141,8 @@ DECK 581
                5s 6h 
                   Ad 
 
-9d 9h 8d 5h Ks 5d 7d Kc    9d 9h 8d 
-5h Ks 5d 7d Kc    9d 9h 8d 5h Ks 5d 
+Kh 4s 9d As 6s 9h 8s 0h 8d 3s 0s 5h 
+9c Ah Ks Qs 2d 5d 6c Jh 7d 4d 0d Kc 
 
 
 
@@ -8155,8 +8155,8 @@ DECK 582
                4d As 
                   Js 
 
-8s Ad 9h 5d 5h 6h Qd Qc    8s Ad 9h 
-5d 5h 6h Qd Qc    8s Ad 9h 5d 5h 6h 
+5c 7s 8s 9s Ks Ad 6d 0c 9h Qh 6c 5d 
+Qs 4s 5h Ac Ah 6h 0d 3h Qd 2c 8h Qc 
 
 
 
@@ -8169,8 +8169,8 @@ DECK 583
                8s Kh 
                   Ks 
 
-9d Ad 5d 9h 4h 7d 4c Jc    9d Ad 5d 
-9h 4h 7d 4c Jc    9d Ad 5d 9h 4h 7d 
+8d 9c 9d 3s Qs Ad 2c 5c 5d 0h Jh 9h 
+0s 2s 4h 3c Jd 7d 0d 0c 4c As 6d Jc 
 
 
 
@@ -8183,8 +8183,8 @@ As Js 9c 5c 7d Kc Ah
                6d Qh 
                   9h 
 
-5d 3d 8d 4h Qs Ad 3s 0c    5d 3d 8d 
-4h Qs Ad 3s 0c    5d 3d 8d 4h Qs Ad 
+Jh 5h 5d 6h 2h 3d Qd Kd 8d 9d 0d 4h 
+Kh 7h Qs 8c 0h Ad Jc 2c 3s 5s 7s 0c 
 
 
 
@@ -8197,8 +8197,8 @@ DECK 585
                8h 5h 
                   Ah 
 
-2h 0d 5d 9h 5c 8c 3s 9d    2h 0d 5d 
-9h 5c 8c 3s 9d    2h 0d 5d 9h 5c 8c 
+Js Kc 2h 8s Qc 0d 3d 4d 5d 6d Qs 9h 
+4h 9s 5c 6h Jc 8c Qh As 3s 5s 7c 9d 
 
 
 
@@ -8211,8 +8211,8 @@ DECK 586
                4c 3d 
                   7c 
 
-6s Kc 0s 3s 8h Ac 5s 8s    6s Kc 0s 
-3s 8h Ac 5s 8s    6s Kc 0s 3s 8h Ac 
+Qc 4d 6s Jd Ah Kc Kd 3h 0s 9s Jc 3s 
+9d 2h 8h 7h Qh Ac Qd As 5s Kh 5c 8s 
 
 
 
@@ -8225,8 +8225,8 @@ DECK 587
                Js Jc 
                   Jh 
 
-0h 6h Ks 0s 8c 0d Jd 3s    0h 6h Ks 
-0s 8c 0d Jd 3s    0h 6h Ks 0s 8c 0d 
+Kd Ac 0h 5c 8h 6h 6s 9c Ks 6c 3h 0s 
+Kh Qs 8c Kc 8s 0d 9h 3c Jd 9s 2d 3s 
 
 
 
@@ -8239,8 +8239,8 @@ DECK 588
                3c 0s 
                   9s 
 
-As 7h Jh 2d Ah 2h Ks 2s    As 7h Jh 
-2d Ah 2h Ks 2s    As 7h Jh 2d Ah 2h 
+4d Qd As 6s 8c 7h 8s 4c Jh 0d 3s 2d 
+2c 6h Ah 6d 9d 2h 5c Js Ks Qh 9c 2s 
 
 
 
@@ -8253,8 +8253,8 @@ Qd 4d Kd Kc 4h 5h 8s
                0d 2c 
                   9h 
 
-Ac 9c 7c 7h 6c Ks Kh As    Ac 9c 7c 
-7h 6c Ks Kh As    Ac 9c 7c 7h 6c Ks 
+Js 6h Ac 5s Jh 9c Qh Ah 7c Qs 0c 7h 
+Jc 7d 6c 9d 5d Ks 0h 6d Kh 2s 2d As 
 
 
 
@@ -8267,8 +8267,8 @@ As 8h 0h 7c 6c Jc 6s
                Ah 7h 
                   Kh 
 
-4d 8s Qh 2s Jd 9c Kc Kd    4d 8s Qh 
-2s Jd 9c Kc Kd    4d 8s Qh 2s Jd 9c 
+4c Qc 4d Qd 5s 8s Qs 2h Qh 0c 7d 2s 
+4h 0d Jd 5c 8c 9c 3s 9h Kc 9s 5d Kd 
 
 
 
@@ -8281,8 +8281,8 @@ DECK 591
                5s Ad 
                   Ks 
 
-9s 5h 7s 4s As 0h Kc Qs    9s 5h 7s 
-4s As 0h Kc Qs    9s 5h 7s 4s As 0h 
+Js 8h 9s 0s 5d 5h 3s Qh 7s Qd 7h 4s 
+2c 9c As 6d Ah 0h 7d 8s Kc 5c 4c Qs 
 
 
 
@@ -8295,8 +8295,8 @@ DECK 592
                6h 7h 
                   6s 
 
-5h 2d 7d Ah 9c 2h 4h Jh    5h 2d 7d 
-Ah 9c 2h 4h Jh    5h 2d 7d Ah 9c 2h 
+Qc Js 5h 9s 3s 2d 3h 2c 7d 3c 6c Ah 
+Jd 5s 9c Qh 5c 2h Kd 6d 4h 8c 5d Jh 
 
 
 
@@ -8309,8 +8309,8 @@ Jc 6h 9c 5h 0h 7h 9s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 6c    0d Qh 9d 
-8h 3h 7d 2s 6c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 8s Qh 0s Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s Qs 6c 
 
 
 
@@ -8323,8 +8323,8 @@ As 8s 0c 3c 6d Kc Js
                5d 8h 
                   6h 
 
-4d 2d 7d Ah 9s 0h Kh 5c    4d 2d 7d 
-Ah 9s 0h Kh 5c    4d 2d 7d Ah 9s 0h 
+7h 2h 4d 3h Qs 2d Qd Kd 7d 8d 9d Ah 
+9h 4h 9s 9c 4c 0h Jh Qc Kh Jd 6c 5c 
 
 
 
@@ -8337,8 +8337,8 @@ Jc 6h 9c 5h 0h 7h 0s
                7s 9h 
                   4d 
 
-0d Qh 9d 8h 3h 7d 2s 4c    0d Qh 9d 
-8h 3h 7d 2s 4c    0d Qh 9d 8h 3h 7d 
+3c 6s 0d As 9s Qh Js Kh 9d 5s Ks 8h 
+Kc 4h 3h 2h 5d 7d 0c Ac 2s 4s 8s 4c 
 
 
 
@@ -8351,8 +8351,8 @@ DECK 596
                0s 5c 
                   5h 
 
-9d 3s 0d 6c Js 7c 2s 3c    9d 3s 0d 
-6c Js 7c 2s 3c    9d 3s 0d 6c Js 7c 
+8d Qc 9d As 3h 3s 7h 4d 0d 9s 4h 6c 
+Ks Qs Js Kc 3d 7c 0h Kd 2s 8s 4c 3c 
 
 
 
@@ -8365,8 +8365,8 @@ As 9h 0h 0c 9c Qc 7s
                Ah 7h 
                   Kh 
 
-6d 9s 5h Ac Jc 7d 2s 2c    6d 9s 5h 
-Ac Jc 7d 2s 2c    6d 9s 5h Ac Jc 7d 
+7c Kc 6d Qd 5s 9s Qs 2h 5h 8h Jh Ac 
+5c 8c Jc Ad 4d 7d 0d Kd 2s 4s 6s 2c 
 
 
 
@@ -8379,8 +8379,8 @@ DECK 598
                3d 5h 
                   8h 
 
-0s Jc 6h 8c Kc Kd 2s Ad    0s Jc 6h 
-8c Kc Kd 2s Ad    0s Jc 6h 8c Kc Kd 
+7d 7c 0s 9c 2c Jc Ac 0h 6h 9d 4h 8c 
+7h 0c Kc 5d 2d Kd 4c 3h 2s 4s 6d Ad 
 
 
 
@@ -8393,8 +8393,8 @@ As 6c 7d 8d 9c 0d 3s
                6h 4h 
                   Js 
 
-Qs 9d 4d 8h Qc 2h 6d Kd    Qs 9d 4d 
-8h Qc 2h 6d Kd    Qs 9d 4d 8h Qc 2h 
+8s 8c Qs 5s 7c 9d Kc Ad 4d 5d 9s 8h 
+3h 6s Qc 2d Jc 2h Ah 7h 6d 3d 3c Kd 
 
 
 
@@ -8407,8 +8407,8 @@ DECK 600
                8c 0c 
                   Qc 
 
-Qh 8s 4c Ah 6s 2d Kd 8d    Qh 8s 4c 
-Ah 6s 2d Kd 8d    Qh 8s 4c Ah 6s 2d 
+7c Js Qh Ks 4s 8s Ac 3c 4c Kh 5h Ah 
+0d Jh 6s 3s 9s 2d 4h 9h Kd Qd 9d 8d 
 
 
 
