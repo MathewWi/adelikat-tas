@@ -4,7 +4,7 @@
 
 local selectk, donek, hidek, morek, nextk = "S","D","H","M", "N";
    	
-BattleCheck =30;
+BattleCheck = 500;
 
 RNGA1 = 0x001C;
 RNGA2 = 0x00A4;
