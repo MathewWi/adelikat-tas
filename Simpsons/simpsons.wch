@@ -1,3 +1,4 @@
 
-1
-00000	000050BB	b	s	0	Enemy HP
+2
+00000	00004FFB	b	s	0	EnemyHP
+00001	000050BB	b	s	0	Enemy HP
