@@ -1,7 +1,9 @@
 1
-5
+7
 00000	00FFF2B5	b	s	0	First EnemyHP
-00001	00FFF282	w	u	0	X-pos
-00002	00FFFB7F	b	s	0	X-Speed
-00003	00FFF285	b	u	0	Y-something
+00001	00FFF489	b	s	0	Another Enemy HP
+00002	00FFF31D	b	u	0	Gatling Gunner's HP?
+00003	00FFF282	w	u	0	X-pos
 00004	00FFF2AA	b	u	0	Y-something2
+00005	00FFFB7F	b	s	0	X-Speed
+00006	00FFFE1D	b	s	0	Kyle Reese HP
