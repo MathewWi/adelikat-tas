@@ -1,0 +1,22 @@
+* Emulator used: Gens 11a
+* Aims for fastest time
+* Takes damage to save time
+* Plays on the hardest difficulty
+* Abuses programming errors
+
+We present to you, a TAS of the only non-crappy Terminator-game there is! In this game, you get to play as Kyle Reese, the first levels are the prequel to the movie The Terminator, as it is taking place in the future. After battling out with the Terminator in a future lab, both the Terminator and Kyle go back in time to find Sarah Connor. The game then kinda sorta follows the movie.
+
+We TASed this game on the hardest difficulty, Super!, and have no illusions, it is hard. It really makes you feel like Kyle must have felt in a hopeless future where everything can kill within a few seconds.
+
+
+
+
+
+
+
+
+Cardboard's comments:
+
+Despite being raped at least 117 times by this cruel game, I enjoyed TASing it. Once you got into it, you just wanted to push on, more and more. I also salute my partner in this run, as he finished up whenever I was breaking down from the game being absolutely evil :) 
+
+Enjoy!
