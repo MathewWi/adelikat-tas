@@ -1,3 +1,7 @@
+[embedded stream goes here]
+%%%%
+----
+
 * Emulator used: Gens 11a
 * Aims for fastest time
 * Takes damage to save time
@@ -8,8 +12,21 @@ We present to you, a TAS of the only non-crappy Terminator-game there is! In thi
 
 We TASed this game on the hardest difficulty, Super!, and have no illusions, it is hard. It really makes you feel like Kyle must have felt in a hopeless future where everything can kill within a few seconds.
 
+!!! Glitches
 
-!!!Game Mechanics
+What's a good TAS without some glitches!
+
+* Enemy spawn abuse
+** There are too many enemies for the game to handle.  Thus, sometimes enemies don't spawn in time or not at all.  This is used to avoid inconvenient enemies such as terminator tanks or to manipulate terminators to not appear until Kyle has passed by them.
+
+* Elevator abuse
+** You can duck down on the edge of a downward moving elevator and make it descend but Kyle is still on the floor next to it.  This allows him to fall through the floor and avoid the slow descent of the elevator
+
+* Grenade/Dynamite abuse
+** If you get hit while in grenade throwing animation you take no damage.  Given how little health Kyle has and the ridiculous number of enemies, this is an extremely useful trick done throughout the movie.  
+
+
+!!! Game Mechanics
 
 Kyle moves at 3 px per frame while running on the flat ground, or while jumping. While walking on stairways, his movement speed is decreased to 2 px per frame which is the reason why we jump up most stairways. Sometimes, you have no choice but to walk them though.
 
@@ -19,27 +36,33 @@ As for the enemies, did the game designers get carried away with this or what? K
 
 The score tally after each level is quite interesting. Kyle is being awarded points depending on how many enemies he kills, and how much HP he has left, and then a pre-set Stage Complete-bonus. It goes like this for the enemy bonus: Avoiding an enemy without using the Grenade Glitch is always the fastest, but not always possible, so the second fastest is to kill the enemy without any delay. Third is using the grenade glitch if possible (Some enemies are too tall to get above with a jump), and the slowest action is to battle the enemy out. This is of course the general concept, sometimes battling an enemy out is faster than grenade glitching him and sofort. 
 
-!!!Level walkthrough
+!!! Level walkthrough
 
-!!!!Level 1: Future Battlefield
+!! Level 1: Future Battlefield
 
 So the game starts off in the future, where the player has to guide Kyle through a war-torn town in an attempt to destroy the Terminator before it goes back in time. This level, like all of the others in this game, is a maze. Trying to figure out where to go is close to hopeless, and as you can see, even the first level is close to impossible to complete. Thanks to us being so great/tool-assisted, we make it trough. There are the bulldozer look-a-likes (T-1 Battlefield Robot) in this level which kills Kyle with one hit, so everytime we challenge one of them, we have to kill it. 
 
-!!!!Level 2: Future Battlefield pt. II
+!! Level 2: Future Battlefield pt. II
 
 Ok how awesome is not the beginning of this level? The skulls in the foreground are just epic. Unfortunately, we begin this level with 0 grenades, so we take some cheap damage in the beginning of the level. Also, while pulling off one of the early high jumps across a cliff, the game decides to make us their bitch by spawning an enemy right before us. Damned be this game! The later half of this level is quite horrible as you see, and Kyle is glitching his way through the level to survive as much as he possibly can. The boss is quite amusing. His weak spot is his chest, you can destroy his tracks, but it only stops him. Kill him, and then move on. Easy as that. 
 
-!!!!Level 3: Future Lab
+!! Level 3: Future Lab
 
 First of all, this level has the most awesome soundtrack ever. Seriously. 
 
 
 
 
-
-
-Cardboard's comments:
+! Cardboard's comments:
 
 Despite being raped at least 117 times by this cruel game, I enjoyed TASing it. Once you got into it, you just wanted to push on, more and more. I also salute my partner in this run, as he finished up whenever I was breaking down from the game being absolutely evil :) 
 
 Enjoy!
+
+! [user:adelikat]'s comments:
+
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]%%%
+%%%
+
+This difficulty settings was not meant to be beat, simply put.  There are more terminators on screen than the game can handle wish often leads to freezing, enemies not spawning, or enemies spawning well after they should have.  But this setting is cruel, seriously.  Most rerecords were not for optimized but for avoiding _dying_.  It was actually depressing because 90% of all loadstates were after Kyle got killed by something.  Thousands of deaths by your hero takes a toll on one's mood.  Overall though, it was fun to TAS.  I wish there were more decent terminator games out there.  (Also, yay for being one close to my all platforms challenge)
