@@ -1,6 +1,6 @@
 version 1
 emuVersion 90600
-rerecordCount 16747
+rerecordCount 16795
 romFilename Spider2.nds
 romChecksum 3B275B19
 romSerial NTR-AS2E-USA
@@ -36763,3 +36763,9 @@ comment author adelikat
 |0|R....S.......000 000 0|
 |0|R....S.......000 000 0|
 |0|R....S.......000 000 0|
+|0|R............000 000 0|
+|0|R............000 000 0|
+|0|R............000 000 0|
+|0|R............000 000 0|
+|0|R............000 000 0|
+|0|R............000 000 0|
