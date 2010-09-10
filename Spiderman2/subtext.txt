@@ -1,1 +1,42 @@
-TODO
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]%%%
+[user:adelikat]%%%
+%%%
+
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+It includes the movie file, RAM Watch files, submission text, and level savestates.
+
+Note: To watch the movie file, you must use Desmume 9.6 with advanced bus timing turned __OFF__
+
+
+!! Introduction
+
+Spider-man 2 is a __very__ fast paced 3Dish-2D platformer for Nintendo DS.  I picked this game to TAS because it was fast, had a large variety of movies, and a ton of amazing abilities that can be exploited with the variety of web slinging Spiderman can do.
+
+!! Tricks & Glitches & Noteables
+
+! Chapter 6 - Mysterio
+
+There is a bug when coming out of the mini-game.  During the mini-game you will eventually tap the real mysterio.  When this happens, rapidly tap the Y button.  If the timing is correct, he will not reappear in the fight.  He will be frozen and invisible for the rest of the fight.  This allows for Spiderman to laydown a brutal (and unfair!) beating on his frozen, invisible self.  I found this trick in a FAQ on GameFAQs.
+
+! Faster beginning of web slinging
+
+When standing still and using a web sling, it is slightly faster to jump for one frame and then sling in order to avoid the slinging animation.  This was discovered by SonikKustar
+
+! High Speed Corner Bounce
+
+Meh, I need a better name for this.  If you do a diagonal websling into a precise part of a corner of a ceiling, spiderman will hit his head but then counter to accelerate up after the corner.  This is used to avoid grabbing some platforms and jumping on to them.
+
+! Final Octavius Fight
+
+If you stay too close to him when he turns around, the game will go into the mini-game (thus costing a whole lot of time).  This is why I sling far away from him and then return.
+
+!! Thanks
+
+SonikKustar, for helping me find tricks, watching WIPs, and even TASing a few portions of Level 1 & 2.
+
+
+Enjoy
+
+
+[module:dailymotion|v=xerqfc_ds-spider-man-2-in-14-20-21-by-adel_videogames4|w=512|h=192]
