@@ -7,7 +7,7 @@ local EHP= 0x0398  -- Enemy HP address
 local HRT= 0x0325  -- Mac's Heart's been dropped indicator
 local TMR= 75      -- Frames in advance for your punches.
 
-local UPP= 24      -- Frames prior to the golden zone to display.
+local UPP= 19      -- Frames prior to the golden zone to display.
 local BND= -8      -- KEEP NEGATIVE!! Frames after the golden zone.
 local threshold= 22-- How many frames before the target timing does it allow?
 local deadzone= 18 -- Frames to ignore a block following a failed punch.
