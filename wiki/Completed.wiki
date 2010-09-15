@@ -1,6 +1,16 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==SegaCD The Terminator==
+[http://dl.dropbox.com/u/75355/HostedImages/terminator.png]
+
+Co-authored with Cardboard and [http://tasvideos.org/1614M.html submitted]
+
+==Arcade The Simpsons==
+[http://dl.dropbox.com/u/75355/HostedImages/simpsons-08-17-031811.png]
+
+Co-authored with Darkkobold and [http://tasvideos.org/1613M.html published]
+
 ==NES Teenage Mutant Ninja Turtles==
 [http://dl.dropbox.com/u/75355/HostedImages/tmnt_2785.png]
 
