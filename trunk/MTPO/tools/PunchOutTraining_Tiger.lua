@@ -2,7 +2,11 @@
 -- Intended to help time hits in real time.
 --FatRatKnight
 
+local AutoCheat= true
 
+local CLOCK= 0x0306 --Game clock
+local HEART= 0x0324 --Mac's low digit for his heart counter.
+local OPPTMR = 0x0039 -- Enemy Timer (for enemy actions)
 local EHP= 0x0398  -- Enemy HP address
 local HRT= 0x0325  -- Mac's Heart's been dropped indicator
 local TMR= 75      -- Frames in advance for your punches.
@@ -17,10 +21,13 @@ local DISPy= 180
 local DISPx2= DISPx+11 -- Right side of box. Adjust that plus to your need
 local Dsp= {line= true, bar= true, stealth= 0, stick= 30}
 
+local deviation= 0
 local accuracy= 0
 local perfect= 0
 local earlies= 0
 local lates= 0
+local accearly= 0
+local acclate= 0
 
 local LastHit
 local HitTiming
@@ -92,12 +99,15 @@ local function ScanHit()
     emu.registerafter(IdleStuffs)
     LastHit= HitTiming
 
+    deviation= deviation + HitTiming
     if HitTiming < 0 then
         accuracy= accuracy - HitTiming
         lates= lates+1
+        acclate= acclate - HitTiming
     elseif HitTiming > 0 then
         accuracy= accuracy + HitTiming
         earlies= earlies+1
+        accearly= accearly + HitTiming
     else
         perfect= perfect+1
     end
@@ -136,13 +146,18 @@ end
 emu.registerbefore(MainLoop)
 
 
+
+
 --*****************************************************************************
 function ResetStats()
 --*****************************************************************************
+    deviation= 0
     accuracy= 0
     perfect= 0
     earlies= 0
     lates= 0
+    accearly= 0
+    acclate= 0
 end
 
 local SparklyJoy= 0
@@ -159,7 +174,8 @@ local function DisplayStuffs()
     if Press("end")      then Dsp.stealth= math.max(Dsp.stealth-1,0) end
     if Press("pageup")   then Dsp.stick= Dsp.stick+1 end
     if Press("pagedown") then Dsp.stick= math.max(Dsp.stick-1,0) end
-    if Press("P")  then ResetStats() end
+    if Press("numpad5")  then ResetStats() end
+    if Press("numpad0")  then AutoCheat= not AutoCheat end
     if keys.leftclick and lastkeys.leftclick then
         DISPx=  DISPx  + keys.xmouse - lastkeys.xmouse
         DISPx2= DISPx2 + keys.xmouse - lastkeys.xmouse
@@ -211,14 +227,47 @@ local function DisplayStuffs()
         end
     end
 
-    gui.text(1,120,"Timing error: " .. accuracy)
-    gui.text(1,140,"Perfect hits: " .. perfect)
-    gui.text(1,160,"Early: " .. earlies)
-    gui.text(1,170,"Late: " .. lates)
+    gui.text(  1,110,"Timing error: " .. accuracy)
+    gui.text(  1,120,"Deviation: " .. deviation)
 
+    gui.text(  1,140,"Perfect hits: " .. perfect)
+    gui.text(  1,160,"Early: " .. earlies .. " : " .. accearly)
+    gui.text(  1,170,"Late: " .. lates .. " : " .. acclate)
 
-    gui.text(1,1,DEBUG_Status)
-    gui.text(200,1,Dsp.stick)
+    local Tot=(perfect + earlies + lates)
+    if Tot ~= 0 then
+        local temp= perfect / Tot
+        temp= math.floor(temp*1000)/10
+        gui.text(  1,185,"Accuracy: " .. temp .. "%")
+
+        temp= deviation / Tot
+        temp= math.floor(temp*100)/100
+        gui.text(1,195,"Dev.Rate: " .. temp)
+    else
+        gui.text(  1,185,"Accuracy: --.-%")
+        gui.text(1,195,"Dev.Rate: -.--")
+    end
+
+    gui.text(145, 14,memory.readbyte(EHP))
+    gui.text(  1,  1,DEBUG_Status)
+    gui.text(230,  1,Dsp.stick)
+
+    if AutoCheat then   gui.text(88,1,"Eternal Cheat Acitve!")  end
 end
 
 gui.register(DisplayStuffs)
+
+
+--*****************************************************************************
+function CheatEternalBattle()
+--*****************************************************************************
+    memory.writebyte(CLOCK, 0)
+    memory.writebyte(EHP,  96)
+    memory.writebyte(HEART, 7)
+    memory.writebyte(OPPTMR,33)
+end
+
+while true do
+    if AutoCheat then CheatEternalBattle() end
+    emu.frameadvance()
+end
