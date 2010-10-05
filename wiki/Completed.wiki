@@ -1,10 +1,13 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==GG Ninja Gaiden==
+[http://tasvideos.org/1635M.html Published]
+
 ==SegaCD The Terminator==
 [http://dl.dropbox.com/u/75355/HostedImages/terminator.png]
 
-Co-authored with Cardboard and [http://tasvideos.org/1614M.html submitted]
+Co-authored with Cardboard and [http://tasvideos.org/1614M.html published]
 
 ==Arcade The Simpsons==
 [http://dl.dropbox.com/u/75355/HostedImages/simpsons-08-17-031811.png]
