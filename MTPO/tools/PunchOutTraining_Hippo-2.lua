@@ -1,4 +1,4 @@
--- For Mike Tyson's Punch Out!! when fighting King Hippo.
+-- For Mike Tyson's Punch Out!! when fighting King Hippo
 -- Intended to help time hits in real time.
 --FatRatKnight
 
@@ -43,6 +43,18 @@ function Press(btn)  return (keys[btn] and not lastkeys[btn])  end
 function NULLFn() end
 --*****************************************************************************
 
+--*****************************************************************************
+local function ForceRNToBehave(addr)
+--*****************************************************************************
+    if memory.readbyte(addr) ~= 9 then
+        memory.writebyte(addr,9)
+    end
+end
+
+if AutoCheat then
+    memory.registerwrite(RN,ForceRNToBehave)
+end
+
 local Pad, LastPad= {}, {}
 --*****************************************************************************
 local function AB()
@@ -62,6 +74,7 @@ local function IdleStuffs()
         LastHit= nil
         emu.registerafter(NULLFn)
     end
+    memory.writebyte(RN,    9)
 end
 
 local MainLoop  -- There exists a MainLoop. Needed for a few function.
@@ -185,11 +198,19 @@ local function DisplayStuffs()
     if Press("pageup")   then Dsp.stick= Dsp.stick+1 end
     if Press("pagedown") then Dsp.stick= math.max(Dsp.stick-1,0) end
     if Press("numpad5")  then ResetStats() end
-    if Press("numpad0")  then AutoCheat= not AutoCheat end
     if keys.leftclick and lastkeys.leftclick then
         DISPx=  DISPx  + keys.xmouse - lastkeys.xmouse
         DISPx2= DISPx2 + keys.xmouse - lastkeys.xmouse
         DISPy=  DISPy  + keys.ymouse - lastkeys.ymouse
+    end
+
+    if Press("numpad0")  then
+        AutoCheat= not AutoCheat
+        if AutoCheat then
+            memory.registerwrite(RN,ForceRNToBehave)
+        else
+            memory.registerwrite(RN,nil)
+        end
     end
 
 -- Okay, enough options handling. On we go!
@@ -275,7 +296,6 @@ function CheatEternalBattle()
 --    memory.writebyte(CLOCK, 0)
 --    memory.writebyte(EHP,  96)
 --    memory.writebyte(HEART, 7)
-    memory.writebyte(RN,    9)
 end
 
 while true do
