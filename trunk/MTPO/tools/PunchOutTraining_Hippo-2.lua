@@ -13,7 +13,7 @@ local RN=    0x0018 -- Some sort of random number stuff?
 local ACT=   0x0090 -- Something to do with Hippo's thoughts.
 
 local TMR=120      -- For the silly line.
-local UPP= 25      -- Frames prior to the golden zone to display.
+local UPP= 30      -- Frames prior to the golden zone to display.
 local BND= -8      -- KEEP NEGATIVE!! Frames after the golden zone.
 local OFFSET= 13   -- Timing frames after Hippo decides his punch.
 
