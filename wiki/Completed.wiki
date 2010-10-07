@@ -1,6 +1,9 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==SGB Crayon Shin-Chan 4==
+[http://tasvideos.org/2845S.html Rejected for game choice]
+
 ==GG Ninja Gaiden==
 [http://tasvideos.org/1635M.html Published]
 
