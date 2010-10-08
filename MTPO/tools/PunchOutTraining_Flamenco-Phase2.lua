@@ -9,7 +9,7 @@ local HEART= 0x0324 --Mac's low digit for his heart counter.
 local OPPTMR = 0x0039 -- Enemy Timer (for enemy actions)
 local EHP= 0x0398  -- Enemy HP address
 local HRT= 0x0325  -- Mac's Heart's been dropped indicator
-local TMR= 51     -- Frames in advance for your punches.
+local TMR= 50     -- Frames in advance for your punches.
 
 local UPP= 20      -- Frames prior to the golden zone to display.
 local BND= -8      -- KEEP NEGATIVE!! Frames after the golden zone.
