@@ -1,0 +1,119 @@
+[module:ActiveTab|tab=b8]
+[http://tasvideos.org/images/bombcrag.png|left]%%%
+[user:adelikat]%%%
+%%%
+[module:flowplayer|v=|w=320|h=288]
+
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
+It includes the movie file, submission text, and and a lua script.  I highly recommend watching with the lua script, it displays a lot of stats such as damage amounts and the timer governing the opponents moves.  The strategies will make a lot more sense with this information.
+
+! Sumamry
+
+*Emulator Used: FCEUX 2.1.4a
+*Needs Phred's Cool Punch-out! 2 Turbo IPS Patch available on [http://www.angelfire.com/mp/masterphred/nesdown.html|Master Phred's Site]
+
+! Introduction
+
+Phred's Cool Punch-Out 2 is a hack of Punch-out!! made by "Master Phred".  It is noteworthy because it is the first Punch-out hack that changed more than just graphics.  Opponents behavior are changed as well leading to all new challenges.  The overall quality of this hack is quite good.  The graphics & character names are sophisticated and the opponents behavior are changed to make fun interesting gameplay as opposed to the often over done "zOMG impossible to beat" style play that many hacks are guilty of.  Some opponents are easier, some are harder.  The last few opponents are very difficult but still fun and enjoyable.
+
+%%TAB Details%%
+
+I put the times & comments in tabs as they contain the opponent's names & other potential spoilers for anyone who wants to watch before reading :)  Also, the strategies get significantly more interesting after the first 2-3 fights.
+
+%%TAB Times%%
+
+Valor Circuit
+
+Ken Barryhill 07.25
+Lisa Hick 17.61
+Jeko Knight 33.25
+
+Vigor Circuit
+
+Disco Kid 1:00.99
+Doc Louis 0:57.82
+Zelda  1:42.82
+Rick B. 1:01.00
+
+Viper Circuit
+Jeko Knight 2 0:58.82
+SW7 Destroyer 0:53.82
+Rick B. 2 1:07.00
+Ken Barryhill 2 0:55.82
+Nick B. 1:05.61
+SW7 Destroyer 2 0:38.48
+F.A.S	1:37.xx
+
+%%TAB Comments
+
+__Ken BarryHill__
+
+You start all fights wtih 2 stars, a star knocks him down instantly, 2 knockdowns will KO him.  So there isn't much strategy here!
+
+_Lisa Hick__
+
+The strategy here is to get 3 stars, and and stun so that you can get an instant knockdown uppercut.  Phase 3 utilizes an important concept in Punch-out strategies.  Uppercuts stop the clock for a bit.  So uppercut then jab is faster than jab then uppercut when knocking down an opponent.  The difference is about 1 clock second.
+
+__Jeko Knight__
+
+The opening jabs for stars are random punches.  Each one has about a 1/8-1/16 chance of successfully landing.  Just like the last fight, it is important to knock him down with jabs rather than uppercuts to save clock time.
+
+__Disco Kid__
+
+He is hacked from Glass Joe.  This is an interesting fight because after only 1 uppercut has landed, he will dodge unstunned uppercuts.  And he won't attempt to attack for the first 40 seconds, and even then he is very slow to do so.  So the strategy is to just jab and jab!  I manipulated luck so that I DIDN'T get stars since I don't need them and they simply cost time.
+
+__Doc Lious_
+
+Pretty Straightfoward strategy.  Compared to a King Hippo strat, I have 2 stars to use, they do 15 damage in stead of 7 if they interecept his open mouth attack at the right time.  Stunned punches do less damage, so the fight lasts longer than a Hippo fight.
+
+__Zelda__
+
+Yeah, you get to pound Zelda in this game!  The strategy here looks terrible but unfortunately it is the fastest attack.  Because she will do the Magic Tiger attack immediately after getting up every time then get dizzy.  Punching is an instant knockdown.  So you need 11 hearts before knocking her down for the first time.  In order to withstand both attack and still be able to counter.  Because of this, I have to wait about 20 seconds of game clock time for her to finally start attacking without me using hearts.  Its ugly but it works.
+
+__Rick B__
+
+Nothing too noteworthy here.  Two times I do back to back gutters that are suspiciously far apart but that's as fast as they can be done.  His guard is a different timing that Bald Bull's.
+
+__Jeko Knight 2__
+
+Jeko's Guard is on a slightly different timing than Piston Honda 2, thus the usual gut/face combo doesn't work.  However, you can get double gutters on him, so that's nice compensation.  Phase 3 is sucky looking.  Unfortunately I could not find a way to land that uppercut unstunned without waiting to intercept his jabs.  Unlike Piston 2, having your stars maxed out doesn't guarantee a KO
+
+__SW7 Destroyer__
+
+You can get gutters on him like you can on Soda using the "misdirection" trick.  Landing an uppercut that intercepts his "dance" move does 27 damage instead of 20 which is why you see me delay an uppercut several times.  It is kind of nice that uppercuts aren't part of his pattern like they are for Soda.  So instead of doing instant star knockdowns, you actually have to devise a strategy for knocking him down quickly.  You can get him to do uppercuts by using up all your hearts, but I tested an this was (fortunately) a slower tactic.
+
+__Rick B 2__
+
+This rematch like Bald Bull 2 requires you to knock him down with stars.  All the jabs I land for stars are very random punches.  Like Bald Bull 2, each one has about a 5% chance of success.  This is a very random strategy!
+
+__Ken BarryHill 2__
+
+Rude.  White is the main color of the background which blocks out the time, that's annoying for speedrunning!  Fortunately I had ram addresses for the clock to watch so I wasn't TASing blind.  Most of the punches that land for stars are extremely rare stars.  99% of the time those punches don't yield a star unfortunately.  Also, he gets up on 8 because that is necessary for some very rare energy refills.  He only gets up with 64 on Phase 2 and 40 on phase 3.  I used the select trick at the beginnig in order for the 40 refill of phase 3 to be possible.  You must not be at full health for it to happen.  The refill logic is identical to Don Flamenco 2
+
+__Nick Bruiser__
+
+Man, if only stars could be obtained on Sandman! It would probably look a lot more like this.  This is a very difficult fight in real time, and the TAS strategy is complicated too.  There's a lot of possible strats here, but this is the fastest one I found.
+
+__SW7 Destroyer 2__
+
+While the strat is entirely different, much of the logic is the same as Macho Man so there isn't much to comment on.
+
+__FAS__
+
+This is a hard son of a bitch to beat in real time!  For a TAS strat it is annoying that he dodges any unstunned uppercut, and you have very few opportunities to stun him!  I obtained a lot more stars than I used.  The reason is that the late punches that yield stars also do 5 damage instead of a measly 1.  So many of those punches I am doing for the extra damage, not the star I get.
+
+%%TAB_END%%
+
+
+Rick B. 1:01.00
+
+Viper Circuit
+Jeko Knight 2 0:58.82
+SW7 Destroyer 0:53.82
+Rick B. 2 1:07.00
+Ken Barryhill 2 0:55.82
+Nick B. 1:05.61
+SW7 Destroyer 2 0:38.48
+F.A.S	1:37.xx
+
+! Comments on each opponent
