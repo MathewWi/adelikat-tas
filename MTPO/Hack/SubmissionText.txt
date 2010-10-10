@@ -2,7 +2,7 @@
 [http://tasvideos.org/images/bombcrag.png|left]%%%
 [user:adelikat]%%%
 %%%
-[module:flowplayer|v=|w=320|h=288]
+[module:youtube|v=gxiJj9lQbjc|w=320|h=288]
 
 As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my my googlecode project.
 It includes the movie file, submission text, and and a lua script.  I highly recommend watching with the lua script, it displays a lot of stats such as damage amounts and the timer governing the opponents moves.  The strategies will make a lot more sense with this information.
@@ -105,15 +105,7 @@ This is a hard son of a bitch to beat in real time!  For a TAS strat it is annoy
 %%TAB_END%%
 
 
-Rick B. 1:01.00
+! Thanks
 
-Viper Circuit
-Jeko Knight 2 0:58.82
-SW7 Destroyer 0:53.82
-Rick B. 2 1:07.00
-Ken Barryhill 2 0:55.82
-Nick B. 1:05.61
-SW7 Destroyer 2 0:38.48
-F.A.S	1:37.xx
+To Master Phred of course.  For 20 years I've wanted to play some new Punch-out characters or at least the same ones with different patterns.  Phred finally delivered on my childhood fantasy and did so with style.  Thanks!
 
-! Comments on each opponent
