@@ -1,6 +1,11 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==DS Spiderman 2==
+[http://dl.dropbox.com/u/75355/HostedImages/Spider2.png]
+
+Completed and [http://tasvideos.org/2832S.html published]
+
 ==NES Phred's Cool Punch Out 2==
 [http://tasvideos.org/2864S.html Canceled due to improvements found]
 
