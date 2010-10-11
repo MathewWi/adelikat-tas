@@ -1,6 +1,9 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==NES Phred's Cool Punch Out 2==
+[http://tasvideos.org/2864S.html Canceled due to improvements found]
+
 ==SGB Crayon Shin-Chan 4==
 [http://tasvideos.org/2845S.html Rejected for game choice]
 
