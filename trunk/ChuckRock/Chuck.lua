@@ -15,7 +15,7 @@ XCamLast = XCam
 XCam = memory.readword(XCamAddr)
 
 if (XCam > 0) then
-	if (XCam - XCamLast < 2) then
+	if (XCam - XCamLast < 2 and XCam - XCamLast > 0) then
 		count = count + (2 - (XCam - XCamLast))
 	end
 end
@@ -37,7 +37,9 @@ end
 
 if (x.P) then
 	count = 0;
+	XCam = 0;
+	XCamLast = 0;
 end
 
-emu.frameadvance()
+gens.frameadvance()
 end
