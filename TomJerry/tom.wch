@@ -1,0 +1,7 @@
+
+5
+00000	0000CC06	w	u	0	X Level
+00001	0000CC05	b	u	0	X Subs
+00002	0000CC09	b	s	0	Y Screen
+00003	0000C101	b	u	0	Screen X
+00004	0000CC0C	b	u	0	Lag FLag
