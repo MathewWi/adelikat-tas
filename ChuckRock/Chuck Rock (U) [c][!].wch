@@ -1,8 +1,9 @@
 0
-6
+7
 00000	00FF063C	b	s	0	WhichButtonIsPressed
 00001	00FF065D	b	s	0	X-speed
 00002	00FF0600	w	u	0	X Camera
 00003	00FF06D5	b	s	0	Player HP
 00004	00FF1ECB	b	s	0	Boss 1 HP
 00005	00FF1EC5	b	s	0	Boss 2 HP
+00006	00FF1EDB	b	s	0	Boss 3 HP
