@@ -15,7 +15,7 @@ XCamLast = XCam
 XCam = memory.readword(XCamAddr)
 
 if (XCam > 0) then
-	if (XCam - XCamLast < 2 and XCam - XCamLast > 0) then
+	if (XCam - XCamLast < 2 and XCam - XCamLast >= 0) then
 		count = count + (2 - (XCam - XCamLast))
 	end
 end
@@ -35,10 +35,10 @@ if (x.L) then
 	end
 end
 
-if (x.P) then
-	count = 0;
-	XCam = 0;
-	XCamLast = 0;
+if (x.P or XCamLast > XCam) then
+	count = 0
+	XCam = memory.readword(XCamAddr)
+	XCamLast = XCam
 end
 
 gens.frameadvance()
