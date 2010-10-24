@@ -9,9 +9,20 @@ end
 
 
 local function ShowStuff()
-	gui.text(1,-16,ReadFixed20_12(Speed))
-	gui.text(1,-8,ReadFixed20_12(Position))
-	gui.text(1,1,"BOOO")
+	speedDisp = string.format("%.3f", ReadFixed20_12(Speed))
+	
+	--Make the display format nice but not display garbage values between levels
+	pos = ReadFixed20_12(Position)
+	if (pos >= 0) then
+		positionDisp = string.format("%.3f", ReadFixed20_12(Position))
+	else
+		positionDisp = "0.000"
+	end
+	
+	gui.text(1,-16,speedDisp)
+	gui.text(56,-16, "Speed")
+	gui.text(1,-8,positionDisp)
+	gui.text(56,-8, "Pos")
 end
 
 gui.register(ShowStuff)
