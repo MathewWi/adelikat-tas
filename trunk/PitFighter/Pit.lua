@@ -2,8 +2,14 @@
 --Written by adelikat
 --Creates a hotkey for A + R, and A + L autofire combinations
 
+local HPaddr = 0x00FF2D1A
+local HP = 0
+
 while true do
 gui.text(290,1,"Script armed")
+
+HP = memory.readword(HPaddr)
+gui.text(40,34,HP)
 
 x = input.get()
 
