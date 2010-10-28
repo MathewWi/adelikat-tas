@@ -35,5 +35,19 @@ else
 	end
 end
 
+
+if (x.F) then
+
+
+		if (gens.framecount() % 6 < 3) then
+			gui.text(290,10,"A")
+			joypad.set(1,{A=true})
+		else
+			gui.text(290,10,"B")
+			joypad.set(1,{B=true})
+		end
+
+end
+
 gens.frameadvance()
 end
