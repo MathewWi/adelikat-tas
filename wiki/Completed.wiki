@@ -1,6 +1,11 @@
 =Completed projects=
 TAS projects completed since the creation of this SVN.
 
+==Chuck Rock==
+[http://dl.dropbox.com/u/75355/chuck2.png]
+
+Completed and [http://tasvideos.org/1660M.html submitted]
+
 ==DS Spiderman 2==
 [http://dl.dropbox.com/u/75355/HostedImages/Spider2.png]
 
