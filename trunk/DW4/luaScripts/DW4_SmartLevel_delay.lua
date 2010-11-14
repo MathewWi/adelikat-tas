@@ -1,7 +1,7 @@
 --User settings
 Stat = 0x60BA; -- Characters Level, used for offset. 
-Tests = 5; -- How many Tests to run
-FB = 4; -- maximum number of frames allowed to burn.
+Tests = 10	; -- How many Tests to run
+FB = 10; -- maximum number of frames allowed to burn.
 MPgain = false; --Whether or not the character gains MP.
 
 
@@ -34,7 +34,7 @@ local buttonmap = {[1]='up',[2]='down',[4]='left',[8]='right',[16]='A',[32]='B',
 
 function RandFrame(frames,s) -- s is 0 for no required input, 1 for required input. 
 	for i = 1,frames,1 do
-		control = math.random(s,255);
+		control = math.random(0,15) + 16*math.random(s,3);
 		for bit,button in pairs(buttonmap) do
     		if AND(control,bit) ~= 0 then
       			key1[button]=true;
@@ -46,6 +46,23 @@ function RandFrame(frames,s) -- s is 0 for no required input, 1 for required inp
   		FCEU.frameadvance(); 
   	end;
 end;
+
+
+function RandFrame2(frames,s) -- s is 0 for no required input, 1 for required input. 
+	for i = 1,frames,1 do
+		control = math.random(s,15) + 64*math.random(0,3);
+		for bit,button in pairs(buttonmap) do
+    		if AND(control,bit) ~= 0 then
+      			key1[button]=true;
+      		else
+      			key1[button]=false;
+	    	end    
+  		end  		
+  		joypad.set(1,key1) 
+  		FCEU.frameadvance(); 
+  	end;
+end;
+
 
 function SkipToText()
 			lastskip = 0;
@@ -83,7 +100,7 @@ for z = 1,Tests,1 do
 		gui.text(1,1,string.format('Test #%d',z));
 		while(memory.readbyte(Stat+7) == ST[6]) or memory.readbyte(Stat) == StartLevel+2 do
 			N = math.random(1,10);
-  			RandFrame(N,1);
+  			RandFrame2(N,1);
   			FCEU.frameadvance();  			  			
   			RandFrame(1,1);
   			FCEU.frameadvance();  	
@@ -175,7 +192,7 @@ while not done do
 		gui.text(181,14 + i*10, '-', 'white','black');
 		gui.text(190,14 + i*10, LS[i], 'white','black');
 	end;	
-	RandFrame(N,1);
+	RandFrame2(N,1);
 	FCEU.frameadvance();
 	RandFrame(1,1);  			
   	FCEU.frameadvance();  
