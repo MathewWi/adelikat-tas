@@ -1,6 +1,6 @@
 --User settings
 Stat = 0x60BA; -- Characters Level, used for offset. 
-Tests = 5; -- How many Tests to run
+Tests = 100; -- How many Tests to run
 FB = 5; -- maximum number of frames allowed to burn.
 MPgain = false; --Whether or not the character gains MP.
 
@@ -20,6 +20,7 @@ START = savestate.create(); -- Start Frame
 CURR = savestate.create();
 FCEU.speedmode('turbo'); 
 Eq = {}; --Equality
+StartLevel = memory.readbyte(Stat);
 StatMin, StatMax = {}, {};
 ST, Des, LS = {},{}, {}; -- Starting, desired, and last
 for i = 1,SM,1 do --get starting stat table
@@ -80,7 +81,7 @@ FCEU.speedmode('turbo');
 for z = 1,Tests,1 do
 		savestate.load(START);	
 		gui.text(1,1,string.format('Test #%d',z));
-		while(memory.readbyte(Stat+7) == ST[5]) do
+		while(memory.readbyte(Stat+7) == ST[5]) or memory.readbyte(Stat) == StartLevel+2 do
 			N = math.random(1,10);
   			RandFrame(N,1);
   			FCEU.frameadvance();  			  			
