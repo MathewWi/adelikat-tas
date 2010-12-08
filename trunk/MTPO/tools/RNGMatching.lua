@@ -1,7 +1,7 @@
 --Global settings-----------------------------------------------------
-local frames = 100; 	--Number of frames until the target RNG value
+local frames = 101; 	--Number of frames until the target RNG value
 local RNGaddr = 0x0018; -- RNG address
-local target = 200; 	--Desired value for the RNG to be after frames
+local target = 87; 	--Desired value for the RNG to be after frames
 -------------------------------------------------------------------------
 
 
@@ -35,11 +35,10 @@ local RNG = 0;			--store memory.readbyte(RNGaddr) here
 for x = 0, frames, 1 do
 	gui.text(1,1,x)
 	RandFrame(1,0)
-	emu.frameadvance()
 end
 
 RNG = memory.readbyte(RNGaddr);
-if (RNG > target) then
+if (RNG == target) then
 	emu.pause();
 else
 	savestate.load(state);
