@@ -1,4 +1,5 @@
 local Position = 0xFF81
+local BossHP = 0xC27E
 
 local function ReadFixed12_4(addr)
 	temp = memory.readbyte(addr) * 256
@@ -24,6 +25,8 @@ local function ShowStuff()
 	--gui.text(56,-16, "Speed")
 	gui.text(1,1,positionDisp)
 	gui.text(28,1, "Pos")
+	
+	gui.text(100, 1, memory.readbyte(BossHP))
 end
 
 gui.register(ShowStuff)
