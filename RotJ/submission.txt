@@ -1,0 +1,5 @@
+Level 1 Boss
+I had to lose 17 frames here 
+the boss jumps higher in the air so I have to wait more to hit him
+then when I hit him I can get the hoppless bounce off the punch that is needed to do a good combo on him
+I've tried more lag & less lag, delaying frames, changing small things in the level, and having different # of batarangs, and nothing makes him do the lower jump
