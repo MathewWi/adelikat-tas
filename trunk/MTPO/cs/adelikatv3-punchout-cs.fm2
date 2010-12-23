@@ -1,8 +1,8 @@
 version 3
-emuVersion 9812
+emuVersion 2014
 rerecordCount 86128
 palFlag 0
-romFilename Mike_tyson's_punch_out
+romFilename Mike_Tyson's_Punch_Out!! (U) (PRG1) [!]
 romChecksum base64:W8f6wG5Y/aFf2YH9A1csNA==
 guid 0E8F3CF5-815D-E48F-D299-D0C9355961DC
 fourscore 0
@@ -13,6 +13,7 @@ port2 0
 FDS 0
 NewPPU 0
 comment author  adelikat
+comment category clock stopping glitch
 |2|........|||
 |0|........|||
 |0|........|||
