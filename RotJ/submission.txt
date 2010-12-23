@@ -1,5 +1,32 @@
-Level 1 Boss
-I had to lose 17 frames here 
-the boss jumps higher in the air so I have to wait more to hit him
-then when I hit him I can get the hoppless bounce off the punch that is needed to do a good combo on him
-I've tried more lag & less lag, delaying frames, changing small things in the level, and having different # of batarangs, and nothing makes him do the lower jump
+[http://tasvideos.org/images/bombcrag.png|left]
+[module:ActiveTab|tab=b8]
+[user:adelikat]%%%
+%%%
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my googlecode project.  It includes the movie file, spreadsheet, and Ram Watch file.
+%%%
+[module:youtube|v=_O8VH-SuGe0|w=320|h=288]
+----
+I had wanted to do a TAS of this game ever since it was featured in a AVGN review.  It looked like it could make for an interesting TAS.  The previous publications showed that it could be a very entertaining TAS and a very challenging game to TAS.  I like a good challenge so I wanted to see what I could contribute to TASing this game.  I was pleased to be able to improve the [1455M|published movie] by 711 frames (~11.18 seconds).  The improvements come from new strategies, and overall better precision.
+
+!! Level by Level Notes
+
+! Level 1
+
+I improved the level by 147 frames.  One noteable improvement was at the beginning.  I was able to time a jump that would make it over the first barrier, instead of having to wall jump past it.  Lots of other situations were improved as well.  I had to lose 17 frames to the boss, due to him jumping much higher than in ventuz's movie.  I tried everything I could to manipulate a different patter, different frames, different lag, changing parts of the level, having more/less batarangs but he wouldn't budge.  My total improvement for this level was 130 frames.  While this is a 3:50 long movie it represents a LOT of work.  This is a game that has a combo of difficult to optimize mechanics, and complex level design.  It is a grappling game which is always complicated, it has lots of lag prone areas, and worst yet, speed is retains through screens.  Also, the boss fights are very difficult to TAS.  There are very large complicated areas that have few clear checkpoints for comparison.  Not having solid places to compare make it very difficult to test small improvements.
+
+! Level 2
+
+The total improvements to this level were 186 frames.  There was no single large improvement here, just lots of small 1-15 frame optimizations throughout.  The boss was improved by 4 frames (ventuz's boss fights were very impressively optimized).
+
+! Level 3
+
+The first half of this level is a simple "Run to the right for justice" levels which was a breath of fresh air after two miserable levels & boss fights.  Then 2nd half required the usual tediousness.  I was able to save 244 frames in this section.  A lot came from always taking damage against the enemies in order to get past them quicker.  A big chunk was saved at the wall jump at the end.  I turned left, and grappled, then released in order to stop momentum immediately.  This allowed me to jump left and wall jump must faster.  I saved 1 frame on the boss but then the white screen happened frame ruled it away.  Doh.
+
+! Level 4
+
+Ugh, this one sucks the most.  I was able to improve the level portion by 180 frames.  There were numerous small improvements as usual.  The joker fight really really really sucks to TAS.  Seriously.  I unfortunately had to lose 29 frames compared to the published movie.  The reason is twofold.  One is I had less HP due to taking more damage in the level to save time.  (I am confident I saved more time in the level than I would on the boss).  The 2nd is bad randomness that kept me from getting a good combo at the beginning of the fight.  I sank about 10 hours into TASing this fight, as I didn't want to accept a 29 frame loss.  But alas, it must be.  Oh well, my total improvement at the movie stop is 711 frames.
+
+!! Thanks
+* Sonikkustar for encouragement, ideas, and WIPs
+* Randil and andymac for their WIPs
+* Ventuz for his previous moviesames, changing small things in the level, and having different # of batarangs, and nothing makes him do the lower jump
