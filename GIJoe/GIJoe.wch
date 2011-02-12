@@ -1,0 +1,7 @@
+
+5
+00000	003D	b	u	0	Level X 2nd Byte
+00001	07A1	b	u	0	Level X
+00002	00D8	b	u	0	Screen X
+00003	04DF	b	u	0	Camera Sub Pixel?
+00004	0641	b	u	0	Y position?
