@@ -1,0 +1,11 @@
+
+9
+00000	0000DE9E	b	u	0	mega man hp*8
+00001	0000D73A	b	u	0	megaman invincibility
+00002	0000D75C	b	u	0	buster charge
+00003	0000DD01	b	u	0	boss hp*8
+00004	0000C661	b	u	0	boss invincibility
+00005	0000C6A1	b	s	0	boss invinc 2
+00006	0000DF3D	b	u	0	p-units
+00007	0000D70D	w	s	0	x
+00008	0000D721	b	u	0	x sub
