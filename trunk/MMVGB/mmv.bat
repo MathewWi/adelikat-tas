@@ -1,3 +1,3 @@
-start vba.exe RW5.gb
+start vba.exe MMV.gb
 cd .\Compare
-start vba.exe RW5.gb
+start vba.exe MMV.gb
