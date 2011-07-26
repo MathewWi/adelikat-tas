@@ -1,0 +1,228 @@
+New Super Mario Bros. "any%" TAS 
+
+
+* Emulator used: DeSmuME v0.9.7
+* Goal: any%
+
+
+
+This is an improvement of 1884 frames (31.4 seconds) over the previous submission.
+
+
+	(Opening comments)
+
+
+
+
+
+	
+	
+	
+
+	Addresses
+
+nitsuja's Lua script was very helpful with watching X and Y values. You can find it here: (link)
+
+X Speed:    021B6A5C - Fixed Point, 4 bytes
+X Position: 0208B70C - Fixed Point, 4 bytes
+X Camera:   020CA2EC - Unsigned, 2 bytes
+Y Speed:    021B6A61 - Signed, 1 byte
+RNG 1:      02088A68 - Unsigned, 2 bytes
+RNG 2:      02088A6A - Unsigned, 2 bytes
+
+
+Note: This submission will refer to speed by nitsuja's Lua script, since that's what was used most of the time.
+
+
+
+
+
+
+
+
+
+
+
+
+	Luck Manipulation
+
+The starting RNG depends on the date and time you start the movie. By simply changing numbers, we can change the manipulation easily.
+
+The RNG changes whenever certain sound effects are played, whether by Mario or the background music itself (though this depends on the level).
+Luck can always be manipulated by either double jumping, throwing something, or wall jumping.
+We sadly do not know exactly what the numbers in the address mean yet, so luck was usually manipulated by changing the amount of double jumps and wall jumps.
+
+We currently know that the RNG affects:
+- The world map red ? block and Hammer Bros. movement (as known before)
+- The movement of the Scuttlebugs
+- The volcano rocks in World 8-8
+- When the final cutscene in World 8-Castle 2 (Bowser Jr. throwing Dry Bowser into the pot) activates
+
+
+
+
+
+
+
+
+
+
+
+
+	Glitches, Tricks, and Notes
+
+Outside of manipulation, this game is very edit-friendly. We've often rearranged parts of the movie file to compare attempts and such.
+
+While in the Blue Shell, as long as you don't hold left or right and keep jumping, you won't lose speed.
+
+Luigi does not affect luck at all. (You can watch this TAS with him by simply adding L and R to frame 298.)
+
+With the Blue Shell, and at full speed while out of the shell, running down a hill for 2 frames and going into the shell while jumping will keep your speed slightly above maximum running speed (-----, compared to 3072) for as long as you stay in the shell.
+
+For luck manipulation: To lose the least amount of speed when doing repeated double jumps, cancel a triple jump by landing on a double jump with no input for 1 frame.
+
+You can super corner boost with the Blue Shell by coming out of it, just like "un-ducking" with big Mario.
+
+Ducking before falling down a cliff will make you fall quicker.
+
+You can start duck jumping/get into the Blue Shell without losing speed by running off a cliff and then starting the action.
+- With the Blue Shell, try to jump and land on the very edge of the cliff.
+-- After doing so, if you get out of your shell early, you can perform a midair jump.
+- If you "un-duck"/get out of the shell early, you can perform a silent double or triple jump. (The silent double jump will, of course, not change the RNG.)
+
+When wall jumping, you can save a frame by performing the wall jump a little away from the wall.
+- If you push against a wall until you're able to wall jump and let go or move away from the wall, you can "store" a wall jump for about half a second.
+
+Being able to "catch" a wall for a vertical wall jump with mini Mario seems to depend on the frame you reach it.
+
+There is odd behavior with trying to enter pipes - sometimes, you will be stalled before being able to enter. This stall can usually be reduced by holding forward in input longer, or running along the ground into the pipe.
+
+When hitting a button to raise the water level, as mini Mario, swim above the water and fall back into it. You will suddenly jump back up to the surface and will be able to walk on it.
+
+Ground pounding off of a Broozer as mini Mario will bounce you very high.
+
+While in water currents, your speed cycles. You can use this cycle to your advantage.
+- Here's two pattern examples. Make sure to focus on the "xvel" value instead of the "speed" value in nitsuja's script. (> = hold forward (or backward - it doesn't matter in a current), (nothing) = no input; quotes mean repeat what's in the quotes)
+-- For normal forms of Mario, follow this pattern:
+--- (UNFINISHED) 2140 2136 2132 2128 2124 > 2108 > 2092 > 2076 > 2060 > (repeat)
+-- For shell Mario, follow this pattern:
+--- 1728 (start)
+--- > 1824 1904 1984 2064 2048
+--- "2128 2112 2096 >" (repeat 6 more times)
+--- "> 2032 2080 2064 2048 2032" (repeat 2 more times)
+--- 2048 2032 2048 2032 2016...
+- Remember that these will depend on how you get to the currents, however. What patterns you mainly want to focus on getting the most are -----
+
+Use screen scrolling to your advantage. Time activating moving platforms so you can run across them in the direction you want to.
+
+In World 8-6, there are some areas where a spring pad is next to a wall. If you jump between that space and the pad and push against the wall, you'll get a vertical boost.
+
+You can "freeze" your animation by rapidfiring in the opposite direction you're facing. (This looks very silly when doing it after a triple jump with Mario's head toward the ground.)
+
+The hanging metal platforms in World 8-5 have odd behavior. Running while they're tilted against you will sometimes make you run faster.
+- The unstable rocks act normally, however. Try to land on approximately the middle to make them tilt in favor of your running.
+
+You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed. (You can even keep jumping after landing on solid ground again and stay facing forward for as long as you don't stop.)
+
+
+
+
+
+
+
+
+
+
+	Level-By-Level Notes
+
+Intro:
+
+17 frames saved because of frames mysteriously being added to the previous movie's beginning.
+13 frames mysteriously saved; likely from using a different emulator.
+- 30 frames ahead.
+
+World 1-1:
+
+1 frame saved from more corner boosts.
+21 frames saved from using the Starman to run faster.
+- 52 frames ahead.
+
+1-1 to 1-2:
+
+1 frame lost to lag.
+- 51 frames ahead.
+
+World 1-2:
+
+8 frames saved from catching the ledge.
+16 frames saved from super corner boosting with the Blue Shell and better speed management in the narrow passage.
+8 frames saved from triple jumping off of the teeter-totter.
+3 frames saved from jumping to turn around after coming out of the pipe.
+11 frames saved from an earlier wall jump.
+- 97 frames ahead.
+
+1-2 to 1-Tower:
+
+7 frames saved from better map manipulation.
+- 104 frames ahead.
+
+World 1-Tower:
+
+12 frames saved from getting through another passage earlier.
+- 116 frames ahead.
+
+1-Tower to 1-Cannon:
+17 frames saved from better map manipulation.
+- 133 frames ahead.
+
+World 1-Cannon:
+No frames were saved.
+- 133 frames ahead.
+
+1-Cannon to 5-1:
+1 frame saved from choosing "No" by pressing right and A on the same frame.
+- 134 frames ahead.
+
+World 5-1:
+17 frames saved from not having to wait to manipulate luck.
+- 151 frames ahead.
+
+5-1 to 5-2:
+5 frames lost to manipulate the red ? block to move to World 5-B.
+- 146 frames ahead.
+
+World 5-2:
+18 frames saved from super corner boosts.
+1 frame saved around the multiple pipes.
+3 frames saved upon the pipe entry.
+8 frames saved at the flagpole by making a full turn.
+- 176 frames ahead.
+
+5-2 to 5-3:
+33 frames saved from better map manipulation.
+- 209 frames ahead.
+
+World 5-3:
+10 frames saved from super corner boosting.
+1 frame saved from keeping speed in the narrow passage by repeatedly jumping.
+- 220 frames ahead.
+
+
+
+
+
+
+
+	Known Improvements
+
+In World 5-3, 2 frames can be saved by using the Blue Shell trick for the first half of the level to stay higher than maximum running speed. This was found too late, however, and we were unable to edit the improvement in without being able to fix the manipulation.
+
+In World 5-Ghost House, we found other routes through the first room that were always ruined by the movement of the Broozers. They seem to be affected by how close you are to them. It is likely that we're missing certain paths through them to make them move in the desired way.
+
+In World 8-Castle 1 and on, we are not sure if map manipulation is the fastest. We often counted how long timing takes by how many "flap" sounds the red ? block makes. However, when off-screen, no sounds are made. We thought this meant perfect manipulation, but we came across a few occurrences where we somehow saved more frames (even though there was no sound difference) that doubts this. The transition in World 8-Tower 2 (after dying), however, is more obviously a place we can likely save time, since there's a flap sound that plays there.
+
+
+
+
+
+	(Closing comments)
