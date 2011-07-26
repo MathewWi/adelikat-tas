@@ -77,7 +77,7 @@ While in the Blue Shell, as long as you don't hold left or right and keep jumpin
 
 Luigi does not affect luck at all. (You can watch this TAS with him by simply adding L and R to frame 298.)
 
-With the Blue Shell, and at full speed while out of the shell, running down a hill for 2 frames and going into the shell while jumping will keep your speed slightly above maximum running speed (-----, compared to 3072) for as long as you stay in the shell.
+With the Blue Shell, and at full speed while out of the shell, running down a hill for 2 frames and going into the shell while jumping will keep your speed slightly above maximum running speed (3087, compared to 3072) for as long as you stay in the shell.
 
 For luck manipulation: To lose the least amount of speed when doing repeated double jumps, cancel a triple jump by landing on a double jump with no input for 1 frame.
 
@@ -88,7 +88,7 @@ Ducking before falling down a cliff will make you fall quicker.
 You can start duck jumping/get into the Blue Shell without losing speed by running off a cliff and then starting the action.
 - With the Blue Shell, try to jump and land on the very edge of the cliff.
 -- After doing so, if you get out of your shell early, you can perform a midair jump.
-- If you "un-duck"/get out of the shell early, you can perform a silent double or triple jump. (The silent double jump will, of course, not change the RNG.)
+- If you "un-duck"/get out of the shell early, you can perform a silent jump. (A silent double jump will not change the RNG.)
 
 When wall jumping, you can save a frame by performing the wall jump a little away from the wall.
 - If you push against a wall until you're able to wall jump and let go or move away from the wall, you can "store" a wall jump for about half a second.
@@ -97,11 +97,14 @@ Being able to "catch" a wall for a vertical wall jump with mini Mario seems to d
 
 There is odd behavior with trying to enter pipes - sometimes, you will be stalled before being able to enter. This stall can usually be reduced by holding forward in input longer, or running along the ground into the pipe.
 
+Try to run down hills as much as possible. Right before reaching the end of the hill, start sliding to keep your speed.
+- If there is a reason you have to start sliding earlier, hold left or right while sliding (keeping down held, too). Holding left (or right) will help you gain more speed.
+
 When hitting a button to raise the water level, as mini Mario, swim above the water and fall back into it. You will suddenly jump back up to the surface and will be able to walk on it.
 
 Ground pounding off of a Broozer as mini Mario will bounce you very high.
 
-While in water currents, your speed cycles. You can use this cycle to your advantage.
+While in water currents (currents from underwater pipes, like at World 8-3), your speed cycles. You can use this cycle to your advantage.
 - Here's two pattern examples. Make sure to focus on the "xvel" value instead of the "speed" value in nitsuja's script. (> = hold forward (or backward - it doesn't matter in a current), (nothing) = no input; quotes mean repeat what's in the quotes)
 -- For normal forms of Mario, follow this pattern:
 --- (UNFINISHED) 2140 2136 2132 2128 2124 > 2108 > 2092 > 2076 > 2060 > (repeat)
@@ -135,77 +138,275 @@ You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed
 
 	Level-By-Level Notes
 
-Intro:
+  Intro:
 
 17 frames saved because of frames mysteriously being added to the previous movie's beginning.
 13 frames mysteriously saved; likely from using a different emulator.
 - 30 frames ahead.
 
-World 1-1:
+
+  World 1-1:
 
 1 frame saved from more corner boosts.
 21 frames saved from using the Starman to run faster.
 - 52 frames ahead.
 
-1-1 to 1-2:
 
-1 frame lost to lag.
+  1-1 to 1-2:
+
+1 frame lost to lag upon entering World 1-2.
 - 51 frames ahead.
 
-World 1-2:
 
+  World 1-2:
+
+(Room 1)
 8 frames saved from catching the ledge.
 16 frames saved from super corner boosting with the Blue Shell and better speed management in the narrow passage.
 8 frames saved from triple jumping off of the teeter-totter.
+
+(Room 2)
 3 frames saved from jumping to turn around after coming out of the pipe.
 11 frames saved from an earlier wall jump.
 - 97 frames ahead.
 
-1-2 to 1-Tower:
+
+  1-2 to 1-Tower:
 
 7 frames saved from better map manipulation.
 - 104 frames ahead.
 
-World 1-Tower:
+
+  World 1-Tower:
 
 12 frames saved from getting through another passage earlier.
 - 116 frames ahead.
 
-1-Tower to 1-Cannon:
+
+  1-Tower to 1-Cannon:
+  
 17 frames saved from better map manipulation.
 - 133 frames ahead.
 
-World 1-Cannon:
+
+  World 1-Cannon:
+  
 No frames were saved.
 - 133 frames ahead.
 
-1-Cannon to 5-1:
-1 frame saved from choosing "No" by pressing right and A on the same frame.
+
+  1-Cannon to 5-1:
+  
+1 frame saved from choosing "No" when asked to save by pressing right and A on the same frame.
 - 134 frames ahead.
 
-World 5-1:
+
+  World 5-1:
+  
 17 frames saved from not having to wait to manipulate luck.
 - 151 frames ahead.
 
-5-1 to 5-2:
+
+  5-1 to 5-2:
+  
 5 frames lost to manipulate the red ? block to move to World 5-B.
 - 146 frames ahead.
 
-World 5-2:
+
+  World 5-2:
+
+(Room 2)
 18 frames saved from super corner boosts.
 1 frame saved around the multiple pipes.
 3 frames saved upon the pipe entry.
+
+(Room 3)
 8 frames saved at the flagpole by making a full turn.
 - 176 frames ahead.
 
-5-2 to 5-3:
+
+  5-2 to 5-3:
+
 33 frames saved from better map manipulation.
 - 209 frames ahead.
 
-World 5-3:
-10 frames saved from super corner boosting.
+
+  World 5-3:
+
+11 frames saved from super corner boosting.
 1 frame saved from keeping speed in the narrow passage by repeatedly jumping.
-- 220 frames ahead.
+- 221 frames ahead.
+
+
+  5-3 to 5-Ghost House:
+
+38 frames saved from not having to watch the red ? block move.
+- 259 frames ahead.
+
+
+  World 5-Ghost House:
+
+(Room 1)
+1 frame saved from an earlier wall jump.
+1 frame saved from better speed management at the Hammer Bro.
+54 frames saved from ground pounding off of the Broozer and wall jumping to the next Broozer.
+(133 frames saved total.) About 14 frames saved from better turning at the staircases. About 119 frames saved from ground pounding the Broozers and "activating" the Broozer next to the secret door earlier.
+
+(Room 2)
+45 frames saved in the elevator room from better usage of the vertical wall jump and taking a straight route upward.
+- 493 frames ahead.
+
+
+  5-Ghost House to 5-Cannon:
+
+12 frames saved from better map manipulation.
+- 505 frames ahead.
+
+
+  World 5-Cannon:
+
+No frames were saved.
+- 505 frames ahead.
+
+
+  5-Cannon to 8-1:
+
+1 frame saved from choosing "No" in 1 frame.
+1 frame lost to lag upon entering World 8-1.
+- 505 frames ahead.
+
+
+  World 8-1:
+
+3 frames saved from corner boosting.
+- 508 frames ahead.
+
+
+  8-1 to 8-2:
+
+No frames were saved. (There was 1 frame of extra lag upon entering World 8-2, but it didn't seem to change anything...)
+- 508 frames ahead.
+
+
+  World 8-2:
+
+(Room 2)
+8 frames saved from optimizing the water current.
+25 frames saved from going above the rising water to jump and enter the pipe earlier.
+
+(Room 3)
+1 frame saved from a better wall jump. (2 frames saved from it, but 1 lost to positioning before entering the pipe at the end due to the wall jump.)
+
+(Room 4)
+11 frames saved from wall jumping.
+
+(Room 5)
+6 frames saved from avoiding pipe entry delay.
+
+(Room 6)
+2 frames saved from alternating A and B to swim up faster.
+11 frames saved from avoiding pipe entry delay.
+
+(Room 7)
+24 frames saved from wall jumping up instead of using the rising water.
+
+(Room 8)
+2 frames lost to avoid a time of 255.
+- 594 frames ahead.
+
+
+  8-2 to 8-Tower 1:
+
+No frames were saved.
+- 594 frames ahead.
+
+
+  World 8-Tower 1:
+
+(Room 1)
+82 frames saved from activating two blocks to move more in cooperation.
+
+(Boss)
+4 frames saved from a better fighting strategy.
+4 frames saved from turning toward the front before the cutscene activates.
+1 frame lost from having to wait for the timer to tally for another frame.
+- 683 frames ahead.
+
+
+  8-Tower 1 to 8-3:
+
+33 frames saved from better map manipulation.
+1 frame saved from choosing "No" in 1 frame.
+- 717 frames ahead.
+
+
+  World 8-3:
+
+(Room 1)
+6 frames saved from not being stopped by the ledge.
+10 frames saved from avoiding pipe entry delay.
+
+(Room 2)
+27 frames saved from better cutting of corners.
+42 frames saved from a combination of corner boosts and optimizing water currents.
+2 frames saved from entering the pipe at a specific X position.
+
+(Room 3)
+1 frame saved from starting the wall jump a bit farther from the wall.
+- 805 frames ahead.
+
+
+  8-3 to 8-4:
+
+33 frames saved from better map manipulation.
+- 838 frames ahead.
+
+  World 8-4:
+
+2 frames saved from a super corner boost.
+28 frames lost to pick up a Koopa shell.
+1 frame lost from being unable to super corner boost.
+28 frames lost to get the Starman.
+77 frames saved from a combination of using the Starman to run faster and scrolling the screen to have the platforms move in favor.
+- 860 frames ahead.
+
+  8-4 to 8-Castle 1:
+
+No frames were saved.
+- 860 frames ahead.
+
+  World 8-Castle 1:
+
+(Room 1)
+1 frame saved from getting on a moving platform earlier.
+2 frames saved from running on the platform longer.
+1 frame saved from a better super corner boost.
+
+(Room 2)
+2 frames saved from a super corner boost.
+5 frames saved from landing at a specific position on the button to activate Mario's "victory" cutscene earlier.
+- 871 frames ahead.
+
+
+  8-Castle 1 to 8-5:
+
+1 frame saved from choosing "No" in 1 frame.
+- 872 frames ahead.
+
+
+  World 8-5:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -221,6 +422,7 @@ In World 5-Ghost House, we found other routes through the first room that were a
 
 In World 8-Castle 1 and on, we are not sure if map manipulation is the fastest. We often counted how long timing takes by how many "flap" sounds the red ? block makes. However, when off-screen, no sounds are made. We thought this meant perfect manipulation, but we came across a few occurrences where we somehow saved more frames (even though there was no sound difference) that doubts this. The transition in World 8-Tower 2 (after dying), however, is more obviously a place we can likely save time, since there's a flap sound that plays there.
 
+There are a few extra lag frames throughout the run. We have no idea how to prevent this without losing time. From testing, gaining them seems to depend on the frame you enter levels. For example, in World 1-2, if we entered a frame later, we wouldn't get that extra lag frame. Changing luck would not eliminate it. So, if we were to save another frame earlier in the run, we may be able to avoid this lag frame.
 
 
 
