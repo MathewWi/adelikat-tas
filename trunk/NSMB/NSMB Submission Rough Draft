@@ -1,13 +1,9 @@
-New Super Mario Bros. "any%" TAS 
-
+New Super Mario Bros. "any%" TAS
 
 * Emulator used: DeSmuME v0.9.7
 * Goal: any%
 
-
-
 This is an improvement of 1884 frames (31.4 seconds) over the previous submission.
-
 
 	(Opening comments)
 
@@ -15,9 +11,10 @@ This is an improvement of 1884 frames (31.4 seconds) over the previous submissio
 
 
 
-	
-	
-	
+
+
+
+
 
 	Addresses
 
@@ -42,8 +39,6 @@ Note: This submission will refer to speed by nitsuja's Lua script, since that's 
 
 
 
-
-
 	Luck Manipulation
 
 The starting RNG depends on the date and time you start the movie. By simply changing numbers, we can change the manipulation easily.
@@ -53,12 +48,10 @@ Luck can always be manipulated by either double jumping, throwing something, or 
 We sadly do not know exactly what the numbers in the address mean yet, so luck was usually manipulated by changing the amount of double jumps and wall jumps.
 
 We currently know that the RNG affects:
-- The world map red ? block and Hammer Bros. movement (as known before)
+- The world map object movements (red ? block and Hammer Bros.)
 - The movement of the Scuttlebugs
 - The volcano rocks in World 8-8
 - When the final cutscene in World 8-Castle 2 (Bowser Jr. throwing Dry Bowser into the pot) activates
-
-
 
 
 
@@ -99,22 +92,11 @@ There is odd behavior with trying to enter pipes - sometimes, you will be stalle
 
 Try to run down hills as much as possible. Right before reaching the end of the hill, start sliding to keep your speed.
 - If there is a reason you have to start sliding earlier, hold left or right while sliding (keeping down held, too). Holding left (or right) will help you gain more speed.
+- When you slide off a hill and start falling, keep holding forward to keep your speed slightly higher than usual (3096, compared to 3072) until you land.
 
 When hitting a button to raise the water level, as mini Mario, swim above the water and fall back into it. You will suddenly jump back up to the surface and will be able to walk on it.
 
 Ground pounding off of a Broozer as mini Mario will bounce you very high.
-
-While in water currents (currents from underwater pipes, like at World 8-3), your speed cycles. You can use this cycle to your advantage.
-- Here's two pattern examples. Make sure to focus on the "xvel" value instead of the "speed" value in nitsuja's script. (> = hold forward (or backward - it doesn't matter in a current), (nothing) = no input; quotes mean repeat what's in the quotes)
--- For normal forms of Mario, follow this pattern:
---- (UNFINISHED) 2140 2136 2132 2128 2124 > 2108 > 2092 > 2076 > 2060 > (repeat)
--- For shell Mario, follow this pattern:
---- 1728 (start)
---- > 1824 1904 1984 2064 2048
---- "2128 2112 2096 >" (repeat 6 more times)
---- "> 2032 2080 2064 2048 2032" (repeat 2 more times)
---- 2048 2032 2048 2032 2016...
-- Remember that these will depend on how you get to the currents, however. What patterns you mainly want to focus on getting the most are -----
 
 Use screen scrolling to your advantage. Time activating moving platforms so you can run across them in the direction you want to.
 
@@ -125,7 +107,43 @@ You can "freeze" your animation by rapidfiring in the opposite direction you're 
 The hanging metal platforms in World 8-5 have odd behavior. Running while they're tilted against you will sometimes make you run faster.
 - The unstable rocks act normally, however. Try to land on approximately the middle to make them tilt in favor of your running.
 
-You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed. (You can even keep jumping after landing on solid ground again and stay facing forward for as long as you don't stop.)
+You can repeatedly jump off of cliffs (like in World 8-7) to keep your speed. (You can even keep jumping after landing on solid ground again to stay facing forward as long as you don't stop.)
+
+While in water currents (currents from underwater pipes, like in World 8-3), your speed cycles. You can use this cycle to your advantage.
+- Here's two pattern examples. Make sure to focus on the "xvel" value instead of the "speed" value in nitsuja's script.
+- (> = hold forward (or backward - it doesn't matter in a current), (nothing) = no input; quotes mean repeat what's in the quotes)
+
+-- For all forms except shell Mario:
+--- 1152 (Start)
+--- > 1244 1336 1428 1520 1612 1704 1796 1888 1980 > 2060 > 2044
+--- 2136 2132 2128
+--- 2124 > 2108 > 2092 > 2076 > 2060 > 2044 >
+--- 2124 > 2108 > 2092 > 2076 > 2060 > 2044
+--- 2136 2132 2128
+--- 2124 > 2108 > 2092 > 2076 > 2060 > 2044 >
+--- "2092 > 2076 > 2060 > 2044 >" (2 times)
+--- (Release the rest of the time until back to 1152.)
+
+-- For shell Mario:
+--- 1728 (Start)
+--- > 1808 1888 1968 2048
+--- "2032 2112 2096 >" (7 times)
+--- "2032 2080 2064 2048 2032 >" (2 times)
+--- 2080 2064 2048 2032 2048
+--- (Release the rest of the time until back to 1728.)
+
+- What patterns you mainly want to aim for repeating the most are:
+
+-- All forms except shell Mario:
+--- Major: 2124, 2108, 2092, 2076, 2060, 2044
+--- Minor: 2092, 2076, 2060, 2044
+
+-- Shell Mario: 
+--- Major: 2112, 2096, 2032
+--- Minor: 2080, 2064, 2048, 2032, 2032
+
+- Of course, this will still depend on your X position when you reach the current. Sometimes, messing up the "major" patterns can save time overall.
+- What is important is that you repeat the minor cycle on the very last frame you're still in the current. (You can tell when it is by failing to reset the loop a frame later.)
 
 
 
@@ -145,6 +163,7 @@ You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed
 - 30 frames ahead.
 
 
+
   World 1-1:
 
 1 frame saved from more corner boosts.
@@ -152,16 +171,18 @@ You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed
 - 52 frames ahead.
 
 
+
   1-1 to 1-2:
 
-1 frame lost to lag upon entering World 1-2.
-- 51 frames ahead.
+No frames saved.
+- 52 frames ahead.
+
 
 
   World 1-2:
 
 (Room 1)
-8 frames saved from catching the ledge.
+7 frames saved from catching the ledge.
 16 frames saved from super corner boosting with the Blue Shell and better speed management in the narrow passage.
 8 frames saved from triple jumping off of the teeter-totter.
 
@@ -171,10 +192,12 @@ You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed
 - 97 frames ahead.
 
 
+
   1-2 to 1-Tower:
 
 7 frames saved from better map manipulation.
 - 104 frames ahead.
+
 
 
   World 1-Tower:
@@ -183,10 +206,12 @@ You can repeatedly jump off of the cliffs (like in World 8-7) to keep your speed
 - 116 frames ahead.
 
 
+
   1-Tower to 1-Cannon:
   
 17 frames saved from better map manipulation.
 - 133 frames ahead.
+
 
 
   World 1-Cannon:
@@ -195,10 +220,12 @@ No frames were saved.
 - 133 frames ahead.
 
 
+
   1-Cannon to 5-1:
   
 1 frame saved from choosing "No" when asked to save by pressing right and A on the same frame.
 - 134 frames ahead.
+
 
 
   World 5-1:
@@ -207,10 +234,12 @@ No frames were saved.
 - 151 frames ahead.
 
 
+
   5-1 to 5-2:
   
 5 frames lost to manipulate the red ? block to move to World 5-B.
 - 146 frames ahead.
+
 
 
   World 5-2:
@@ -225,10 +254,12 @@ No frames were saved.
 - 176 frames ahead.
 
 
+
   5-2 to 5-3:
 
 33 frames saved from better map manipulation.
 - 209 frames ahead.
+
 
 
   World 5-3:
@@ -238,10 +269,12 @@ No frames were saved.
 - 221 frames ahead.
 
 
+
   5-3 to 5-Ghost House:
 
 38 frames saved from not having to watch the red ? block move.
 - 259 frames ahead.
+
 
 
   World 5-Ghost House:
@@ -257,10 +290,12 @@ No frames were saved.
 - 493 frames ahead.
 
 
+
   5-Ghost House to 5-Cannon:
 
 12 frames saved from better map manipulation.
 - 505 frames ahead.
+
 
 
   World 5-Cannon:
@@ -269,23 +304,26 @@ No frames were saved.
 - 505 frames ahead.
 
 
+
   5-Cannon to 8-1:
 
 1 frame saved from choosing "No" in 1 frame.
-1 frame lost to lag upon entering World 8-1.
-- 505 frames ahead.
+- 506 frames ahead.
+
 
 
   World 8-1:
 
-3 frames saved from corner boosting.
+2 frames saved from corner boosting.
 - 508 frames ahead.
+
 
 
   8-1 to 8-2:
 
-No frames were saved. (There was 1 frame of extra lag upon entering World 8-2, but it didn't seem to change anything...)
+No frames were saved.
 - 508 frames ahead.
+
 
 
   World 8-2:
@@ -315,10 +353,12 @@ No frames were saved. (There was 1 frame of extra lag upon entering World 8-2, b
 - 594 frames ahead.
 
 
+
   8-2 to 8-Tower 1:
 
 No frames were saved.
 - 594 frames ahead.
+
 
 
   World 8-Tower 1:
@@ -333,11 +373,13 @@ No frames were saved.
 - 683 frames ahead.
 
 
+
   8-Tower 1 to 8-3:
 
 33 frames saved from better map manipulation.
 1 frame saved from choosing "No" in 1 frame.
 - 717 frames ahead.
+
 
 
   World 8-3:
@@ -356,10 +398,13 @@ No frames were saved.
 - 805 frames ahead.
 
 
+
   8-3 to 8-4:
 
 33 frames saved from better map manipulation.
 - 838 frames ahead.
+
+
 
   World 8-4:
 
@@ -370,10 +415,14 @@ No frames were saved.
 77 frames saved from a combination of using the Starman to run faster and scrolling the screen to have the platforms move in favor.
 - 860 frames ahead.
 
+
+
   8-4 to 8-Castle 1:
 
 No frames were saved.
 - 860 frames ahead.
+
+
 
   World 8-Castle 1:
 
@@ -388,22 +437,137 @@ No frames were saved.
 - 871 frames ahead.
 
 
+
   8-Castle 1 to 8-5:
 
 1 frame saved from choosing "No" in 1 frame.
 - 872 frames ahead.
 
 
+
   World 8-5:
 
+(Room 1)
+4 frames saved from super corner boosting.
+4 frames saved from slope optimization of platforms.
+2 frames saved from entering the pipe at a specific X position.
+
+(Room 2)
+1 frame saved from an earlier wall jump.
+- 883 frames ahead.
 
 
 
+  8-5 to 8-6:
+
+6 frames saved from better map manipulation.
+- 889 frames ahead.
 
 
 
+  World 8-6:
+
+1 frame saved from an earlier wall jump.
+3 frames saved from a better jump to the platform.
+19 frames saved from wall jumping to gain speed faster.
+8 frames saved from better cutting of corners.
+17 frames saved from stepping on the flying Koopa earlier.
+36 frames saved from a different route up the Spiny area.
+- 973 frames ahead.
 
 
+
+  8-6 to 8-7:
+
+No frames were saved.
+- 973 frames ahead.
+
+
+
+  World 8-7:
+
+72 frames saved from a super corner boost, and repeatedly jumping on the cliffs to keep speed.
+19 frames saved from turning at the Starman earlier.
+12 frames saved from running on floors and platforms more (using screen scrolling to manipulate platform timing).
+6 frames saved from ducking to land on the ground near the pipe earlier.
+- 1082 frames ahead.
+
+
+
+  8-7 to 8-8:
+
+2 frames saved from better map manipulation.
+- 1084 frames ahead.
+
+
+
+  World 8-8:
+
+30 frames saved from turning at the invisible block earlier and wall jumping off of the block.
+3 frames saved from ducking to land earlier.
+- 1117 frames ahead.
+
+
+
+  8-8 to 8-Tower 2:
+
+1 frame lost from bad luck.
+- 1116 frames ahead.
+
+
+
+  World 8-Tower 2:
+
+(Room 1)
+683 frames saved from a new strategy by dying after activating the midpoint (approximate - this is impossible to compare directly due to map manipulation).
+42 frames lost from getting a Mushroom.
+42 frames lost from getting a Fire Flower.
+3 frames saved from jumping to the final platform near the boss door earlier.
+
+(Room 2)
+2 frames saved from a better fighting strategy.
+4 frames saved from turning toward the front before the cutscene activates.
+20 frames lost from having to wait for the timer to tally longer.
+- 1704 frames ahead.
+
+
+
+  8-Tower 2 to 8-Castle 2:
+
+4 frames saved from better map manipulation.
+1 frame saved from choosing "No" in 1 frame.
+- 1709 frames ahead.
+
+
+
+  World 8-Castle 2:
+
+(Room 2)
+18 frames saved by wall jumping to gain speed faster.
+
+(Room 3)
+7 frames saved from minimal slowing down at the horizontal fire shooter.
+1 frame saved from super corner boosting.
+
+(Room 4)
+29 frames saved from a different strategy.
+
+(Room 5)
+8 frames saved from wall jumping to gain speed faster.
+
+(Room 6)
+
+43 frames lost from getting hit.
+134 frames saved from a different strategy.
+27 frames saved from wall jumping to gain speed faster.
+
+(Room 9)
+3 frames saved from corner boosting off of more places.
+
+(Boss)
+1 frame saved from corner boosting.
+10 frames lost to aim for the goal of ending the game earlier rather than the input (4 frames faster in hitting the button).
+- 1884 frames in total.
 
 
 
@@ -420,9 +584,16 @@ In World 5-3, 2 frames can be saved by using the Blue Shell trick for the first 
 
 In World 5-Ghost House, we found other routes through the first room that were always ruined by the movement of the Broozers. They seem to be affected by how close you are to them. It is likely that we're missing certain paths through them to make them move in the desired way.
 
-In World 8-Castle 1 and on, we are not sure if map manipulation is the fastest. We often counted how long timing takes by how many "flap" sounds the red ? block makes. However, when off-screen, no sounds are made. We thought this meant perfect manipulation, but we came across a few occurrences where we somehow saved more frames (even though there was no sound difference) that doubts this. The transition in World 8-Tower 2 (after dying), however, is more obviously a place we can likely save time, since there's a flap sound that plays there.
+In World 8-Castle 1 and on, we are not sure if map manipulation is the fastest. We often counted how long timing takes by how many "flap" sounds the red ? block makes. However, when off-screen, no sounds are made. We thought this meant perfect manipulation, but we came across a few occurrences where we somehow saved more frames (even though there was no sound difference) that doubts this. (The transition in World 8-Tower 2 (after dying), however, is more likely a place we can save time, since there's a flap sound that plays there.)
 
-There are a few extra lag frames throughout the run. We have no idea how to prevent this without losing time. From testing, gaining them seems to depend on the frame you enter levels. For example, in World 1-2, if we entered a frame later, we wouldn't get that extra lag frame. Changing luck would not eliminate it. So, if we were to save another frame earlier in the run, we may be able to avoid this lag frame.
+(?) There are a few extra lag frames throughout the run. We have no idea how to prevent these without simply waiting. From testing, gaining them seems to depend on the frame you enter levels. For example, in World 1-2, if we entered a frame later, we wouldn't get that extra lag frame. Changing luck would not eliminate it. So, if we were to save another frame earlier in the run, we may be able to avoid this lag frame.
+None of them actually lost any frames, so it's unlikely that this matters.
+
+
+
+
+
+
 
 
 
