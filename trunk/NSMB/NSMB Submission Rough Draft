@@ -5,7 +5,8 @@ New Super Mario Bros. "any%" TAS
 
 This is an improvement of 1884 frames (31.4 seconds) over the previous submission.
 
-	(Opening comments)
+"New Super Mario Bros. was released in 2006 for the Nintendo DS. The story has been the same every time for the past 25 years: rescue some princess who can't defend for herself. So you're playing as this fat plumber, right? Because everybody else is too lazy to save her, it's up to this guy. Once again, he's gotta move through eight themed worlds to fight the evil king Bowser and save the princess. He really doesn't care about her, though - he's only in it for some cake afterward. (No point in doing it for fame anymore, anyway.)
+So he effortlessly skips almost every world and gets there without the need of some huge fungi, apparently exclusive to this story. Rushing through micro-sized, beating up some Bowser minions without a thought or care, and boosting around with a cool shell he found lying around, he does so without fail... well, almost."
 
 
 
@@ -86,7 +87,7 @@ You can start duck jumping/get into the Blue Shell without losing speed by runni
 When wall jumping, you can save a frame by performing the wall jump a little away from the wall.
 - If you push against a wall until you're able to wall jump and let go or move away from the wall, you can "store" a wall jump for about half a second.
 
-Being able to "catch" a wall for a vertical wall jump with mini Mario seems to depend on the frame you reach it.
+Being able to "catch" a wall for a vertical wall jump with mini Mario seems to depend on the speed you approach it.
 
 There is odd behavior with trying to enter pipes - sometimes, you will be stalled before being able to enter. This stall can usually be reduced by holding forward in input longer, or running along the ground into the pipe.
 
@@ -143,7 +144,7 @@ While in water currents (currents from underwater pipes, like in World 8-3), you
 --- Minor: 2080, 2064, 2048, 2032, 2032
 
 - Of course, this will still depend on your X position when you reach the current. Sometimes, messing up the "major" patterns can save time overall.
-- What is important is that you repeat the minor cycle on the very last frame you're still in the current. (You can tell when it is by failing to reset the loop a frame later.)
+- What is important is that you repeat the minor cycle on the very last frame you're still in the current. (You can tell when that is by failing to reset the loop a frame later.)
 
 
 
@@ -580,7 +581,9 @@ No frames were saved.
 
 	Known Improvements
 
-In World 5-3, 2 frames can be saved by using the Blue Shell trick for the first half of the level to stay higher than maximum running speed. This was found too late, however, and we were unable to edit the improvement in without being able to fix the manipulation.
+In World 1-2, if we had more knowledge on catching walls and vertical wall jumping, a frame could probably be saved at the corner catch near the beginning by not holding back as much.
+
+In World 5-3, 2 frames can be saved by using the Blue Shell trick for the first half of the level to stay higher than maximum running speed. This was found too late, however, and we were unable to edit the improvement in without also fixing the manipulation.
 
 In World 5-Ghost House, we found other routes through the first room that were always ruined by the movement of the Broozers. They seem to be affected by how close you are to them. It is likely that we're missing certain paths through them to make them move in the desired way.
 
