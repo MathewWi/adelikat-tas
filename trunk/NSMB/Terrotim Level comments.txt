@@ -2,36 +2,36 @@
 
 1-2  I really like the triple jump off the second teeter totter into the secret route.  The blue shell corner boosts are shown to add extra height to jumps, which could be useful in the 100% run.
 
-1-T  We actually saved enough time that we had to stall a little to avoid fireworks.
+1-T  We actually saved enough time that we had to stall a little to avoid fireworks.  Quite a few later levels needed tiny bits of stalling
 
-5-1  Syncing actions to the music is always amusing to me.
+5-1  Syncing actions to the music is always amusing to me.  And Y05H1 did well in that.
 
-5-2  Having Mario invincible while in a shell proves to be most useful in this level.
+5-2  Having Mario invincible while in a shell proves to be most useful in this level for getting certain boosts and avoiding certain enemies.
 
-5-3  Enemy positions start becoming a problem from here on out.  In this case, it wasn't too big, but altering the camera put the enemies in spots where they can slow Mario down the least.
+5-3  Enemy positions start becoming a problem from here on out.  In this case, it wasn't too big, but the camera needed to be altered a bit to put the enemies in spots where they can slow Mario down the least.
 
-5-G  I spent so much time on this level.  So many possible approaches to this level because of the uncooperative Broozers roaming the level.  Manipulating Broozer actions and positions became troublesome.  But I really like how this turned out.  Plenty of frames saved in this level.  Also, the time saver in the elevator is a pleasant surprise.
+5-G  I spent so much time on this level.  So many possible approaches to this level because of the uncooperative Broozers roaming the level.  Manipulating Broozer actions and positions became troublesome.  But I really like how this turned out.  Plenty of frames saved in this level.  Also, the time saver in the elevator Y05H1 discovered is a pleasant surprise.
 
 8-1  Using a crowber to corner boost was pretty nice.  Other than that, not much else was done to improve the level.
 
-8-2  Two more tricks here that surprised me when the level was completed.  I must commend Y05H1 for finding these tricks and making the run of this level so fast that he actually needed to slow down a little.
+8-2  Two more tricks here that surprised me when the level was completed.  I must commend Y05H1 for finding these tricks and making the run of this level so fast that he actually needed to slow down a little in the end.
 
 8-T1  Making the stone blocks cooperate with Mario was key to saving frames here.
 
 8-3  The part before the swimming section is another part of this run I enjoy; so much is strung together smoothly in those couple of seconds.  Interesting to note that the currents from the pipes underwater are higher than you think (making it faster to approach the pipes from the top).
 
-8-4  Camera manipulation again is important in this level.  Getting the enemies and platforms in just the right place took a bit of time.
+8-4  Camera manipulation again is important in this level.  Getting the enemies and platforms in just the right place took a bit of time.  To be honest, duck jumping under a moving stone block was just a random idea that happened to worked.
 
 8-C1  A few frames saved here.  Not much else different here.
 
 8-5  Who knew running up would make Mario run faster?  I certainly didn't.  But nevertheless, some frames were saved as a result.  There is quite a bit of syncing to music here as well.
 
-8-6  Another level I personally spent a lot of time on.  There are not as much possibilities here as in 5-G, but there was still so many approaches here, being a vertical level.  There is also an interesting vertical boost that lets Mario reach springboards quicker.
+8-6  Another level I personally spent a lot of time on.  There are not as much possibilities here as in 5-G, but there was still so many different approaches here, being a vertical level.  There is also an interesting vertical boost that lets Mario reach springboards quicker.
 
-8-7  Having Mario facing sideways while moving forward is a very nice touch to this level's run.  A ton of tricks came from not pressing any directions and this was one of the more memorable ones.
+8-7  Having Mario facing sideways while moving forward is a very nice touch to this level's run.  There are a lot of tricks that can be done from not pressing any directions and this was one of the more memorable ones.
 
 8-8  Making the most out of the star power's speed boost was key to this level's optimization.  Wall jumping off the block with the star power is used again here.
 
-8-T2  First, we find out that dying is faster.  Then it became a matter of "get to the midway point as fast as possible and die".  After that, its pretty much a freerun up until near the end.
+8-T2  First, we find out that dying is indeed faster.  Then it became a matter of "get to the midway point as fast as possible and die".  After that, its pretty much a freerun up until near the end.
 
 8-C2  One of my favorite levels to TAS.  The level has Mario move in every direction.  Saving frames in this level was actually very enjoyable and rather simple to do because each section is divided by many doors.
