@@ -1,14 +1,14 @@
 
 13
 00000	035B	b	u	0	Enemy 1 HP
-00001	03C9	d	u	0	Enemy 1 Recovery
-00002	03E5	d	u	0	Enemy 1 X
-00003	0378	d	u	0	Enemy 1 Y
+00001	03C9	b	u	0	Enemy 1 Recovery
+00002	03E5	b	u	0	Enemy 1 X
+00003	0378	b	u	0	Enemy 1 Y
 00004	0000	S	S	0	----------------------------
 00005	003B	b	u	0	Enemy 2 HP
-00006	03CA	d	u	0	Enemy 2 Recovery
-00007	03E6	d	u	0	Enemy 2 X
-00008	037A	d	u	0	Enemy 2 Y
+00006	03CA	b	u	0	Enemy 2 Recovery
+00007	03E6	b	u	0	Enemy 2 X
+00008	037A	b	u	0	Enemy 2 Y
 00009	0000	S	S	0	----------------------------
 0000A	0044	w	u	0	Points?
 0000B	005A	b	u	0	Bimmy X
