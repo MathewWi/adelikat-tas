@@ -1,7 +1,11 @@
 [http://tasvideos.org/images/bombcrag.png|right]
 [module:ActiveTab|tab=b8]
-
+%%%
+As always, I have provided a [http://code.google.com/p/adelikat-tas/downloads/list|release package] on my googlecode project.  It includes the movie file, spreadsheet, and Ram Watch file.
+%%%
 Dragon Egg is a Japanese game about a little girl who has a Dragon egg (go figure).  She uses this egg to bash skeletons in the head to collect power-ups to make the dragon grow.  When it grows up, she can fly around on it.  You know, the typical plot.
+
+[module:youtube|v=trgSbg8sOC8]
 
 ! Improvements
 
@@ -10,6 +14,8 @@ This is a 1477 frame improvement over my [1281M|previous TAS].
 The biggest single improvement of this TAS is a discovery I made in level 4.  This is the level where you must patiently ride a raft to the end of the screen.  Flying overhead is not possible since there are trees in your way forcing you to descend low where the enemies are (and certain death).  However, I discovered that at the end of the screen at the bottom part of the ledge there is a small ledge that your character can stand on (as shown in the screenshot).  This ledge allowed me to drop down into the water and fly _under_ the enemies.  I can land on the ledge and then jump up.  This not only saves over 10 seconds, but it completely removes an auto-scroller level from the TAS.
 
 Other improvements come from general better precision, and the use of better tools such as ram watch that I didn't have back when I did the first TAS using mednafen-rr.
+
+[http://dl.dropbox.com/u/75355/HostedImages/degg_ledge.png]
 
 ! Info
 * Emulator: BizHawk 1.0.3
