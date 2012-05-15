@@ -1,0 +1,15 @@
+Domain RAM
+03B5	b	u	0	Enemy 1 HP
+03C9	b	u	0	Enemy 1 Recovery
+03E5	b	u	0	Enemy 1 X
+0378	b	h	0	Enemy 1 Y
+0000	S	u	1	
+03B6	b	u	0	Enemy 2 HP
+03CA	b	u	0	Enemy 2 Recovery
+03E6	b	u	0	Enemy 2 X
+037A	b	u	0	Enemy 2 Y
+0000	S	u	1	
+0044	w	u	0	Points?
+005A	b	u	0	Bimmy X
+0017	b	u	0	Bimmy Y
+

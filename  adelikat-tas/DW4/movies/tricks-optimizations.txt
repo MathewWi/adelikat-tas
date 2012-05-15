@@ -1,0 +1,6 @@
+Some screen transitions are variable because of lag
+In some cases scrolling text using the first frame is 2 frames slower than waiting for the arrow (lag), this is for text during/after screen transitions and level ups, I think
+When doing a visibility transition (where the black part of a screen changes, like in caves) the transition is variable.  Entering on different squares can have a different effect.  My guess is random buttons will too.
+When ending text and moving, use the button you will use to move, it can save 2 frames.  For instance, end a convo with someone and have to move down.  Press down on the last text scroll, and hold it.
+Going into battles has variable lag.  As well as each person's turn.
+Towns can be laggy!  Different paths into the town can avoid lag frames due to scrolling while people are moving.
