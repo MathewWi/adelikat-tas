@@ -1,8 +1,0 @@
-
-6
-00000	727E	w	s	0	Enemy HP
-00001	728C	w	s	0	Enemy HP
-00002	0012	b	u	0	RNG 1
-00003	0013	b	u	0	RNG 2
-00004	01FA	w	u	0	Mode
-00005	0076	b	u	0	Next Level up stat

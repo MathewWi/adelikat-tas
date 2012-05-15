@@ -1,8 +1,0 @@
-
-6
-00000	0030	b	u	0	Screen X
-00001	0021	b	u	0	Camera X
-00002	0086	b	u	0	Enemy HP
-00003	0394	b	u	0	Enemy HP
-00004	006A	b	u	0	Boss HP
-00005	0084	b	u	0	Timer
