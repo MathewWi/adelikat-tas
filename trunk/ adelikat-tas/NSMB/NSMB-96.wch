@@ -1,0 +1,18 @@
+
+15
+00000	021B6A5D	b	s	0	Speed 1 byte
+00001	021B6A5C	d	h	0	Speed FixedPt
+00002	0208B70C	d	h	0	X Level
+00003	020CA2EC	w	u	0	X Camera
+00004	021B6A61	b	s	0	Y speed 1 byte
+00005	021B6A60	w	s	0	Y speed 2 byte
+00006	020CC0EE	d	s	0	Rail position
+00007	0208B384	d	u	0	Score
+00008	0208B37C	b	u	0	# Coins
+00009	00000000	S	S	0	----------------------------
+0000A	02085AA0	w	u	0	Time remaining prev. level
+0000B	00000000	S	S	0	----------------------------
+0000C	02088A68	w	u	0	RNG 1
+0000D	02088A6A	w	u	0	RNG 2
+0000E	02088A68	d	u	0	RNG 4 byte
+8	d	u	0	RNG 4 byte

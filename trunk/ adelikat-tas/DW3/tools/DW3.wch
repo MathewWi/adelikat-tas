@@ -1,0 +1,17 @@
+
+15
+00000	001C	b	u	0	RNG
+00001	004D	b	u	0	RNG
+00002	00A4	b	u	0	RNG
+00003	07BC	b	u	0	Gold
+00004	07BD	b	u	0	Gold byte2
+00005	071C	w	u	0	1st Party Mem Curr HP
+00006	071E	w	u	0	2nd Party Mem Curr HP
+00007	0720	w	u	0	3rd Party Mem Curr HP
+00008	0722	w	s	0	4th Party Mem Curr HP
+00009	077C	b	u	0	1st Party Mem Item 1
+0000A	0500	w	u	0	Enemy 1 HP
+0000B	0502	w	u	0	Enemy 2 HP
+0000C	0504	w	u	0	Enemy 3 HP
+0000D	0506	w	u	0	Enemy 4 HP
+0000E	0508	w	u	0	ENemy 5 HP

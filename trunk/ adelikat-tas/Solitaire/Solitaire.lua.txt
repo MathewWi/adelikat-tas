@@ -1,0 +1,62 @@
+local NextCard
+
+---------------------
+--Receives a card ID and returns a string output in the form of 2s (2 of Spades)
+function GetCardStr(card)
+
+num = (card % 13) + 1
+
+if (num == 1) then
+numstr = "A"
+elseif (num < 11) then
+numstr = "" .. num
+elseif (num == 11) then
+numstr = "J"
+elseif (num == 12) then
+numstr = "Q"
+elseif (num == 13) then
+numstr = "K"
+end
+
+suit = ""
+
+if (card <= 12) then
+suit = "s"
+elseif(card <= 25) then
+suit = "h"
+elseif(card <= 38) then
+suit = "c"
+elseif(card <= 51) then 
+suit = "d"
+else
+return "  "
+end
+
+return numstr..suit
+
+end
+---------------------
+
+while true do
+NextCard = memory.readbyte(0x039C)
+gui.text(25,15,GetCardStr(NextCard))
+
+
+
+----------------------------
+str1 = ""
+for x = 0x03dd,0x03ec,1 do
+str1 = str1 .. GetCardStr(memory.readbyte(x)) .. ""
+end
+gui.text(1,150,str1)
+
+str2 = ""
+for x = 0x03ed,0x03fc,1 do
+str2 = str2 .. GetCardStr(memory.readbyte(x)) .. ""
+end
+gui.text(1,158,str2)
+
+
+----------------------------
+emu.frameadvance()
+end

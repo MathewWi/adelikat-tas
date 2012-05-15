@@ -1,0 +1,9 @@
+192 149
+130 212	Default, tried much
+101 164
+191 149 Over 2000 attempts
+
+New encounter
+147 224
+225 214
+192 198

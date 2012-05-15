@@ -1,0 +1,14 @@
+Domain RAM
+05CB	b	s	0	X Speed
+059B	b	u	0	X Subpixels
+05F4	b	u	0	Camera X
+0619	b	u	0	Camera X sub flag
+0493	b	u	0	Screen X
+065A	w	u	0	RNG?
+03D6	b	u	1	Boss 1 HP
+0500	b	u	1	Enemy HP
+0502	b	u	1	Enemy 2 HP
+0504	b	u	1	Enemy 3 HP
+0506	b	u	1	Enemy 4 HP
+0508	b	u	1	Enemy 5 HP
+
