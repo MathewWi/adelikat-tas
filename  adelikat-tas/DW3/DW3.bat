@@ -1,1 +1,0 @@
-start fceux.exe DW3.nes
