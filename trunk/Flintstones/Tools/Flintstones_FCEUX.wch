@@ -1,5 +1,5 @@
 
-7
+8
 00000	05CB	b	u	0	X Speed
 00001	059B	b	u	0	X Subpixels
 00002	05F4	b	u	0	Camera X
@@ -7,3 +7,4 @@
 00004	0493	b	u	0	Screen X
 00005	0508	b	u	0	Enemy 5 HP
 00006	03D8	b	u	0	Enemy 6 HP
+00007	0500	b	u	0	Enemey HP
