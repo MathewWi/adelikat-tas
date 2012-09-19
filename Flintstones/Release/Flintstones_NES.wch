@@ -1,0 +1,18 @@
+Domain RAM
+SystemID NES
+05CB	b	s	0	RAM	X Speed
+059B	b	u	0	RAM	X Subpixels
+05F4	b	u	0	RAM	Camera X
+0619	b	u	0	RAM	Camera X sub flag
+0493	b	u	0	RAM	Screen X
+065A	w	u	0	RAM	RNG?
+03D6	b	u	1	RAM	Boss 1 HP
+0500	b	u	1	RAM	Enemy HP
+0502	b	u	1	RAM	Enemy HP
+0504	b	u	1	RAM	Enemy HP
+0506	b	u	1	RAM	Enemy HP
+0508	b	u	1	RAM	Enemy HP
+03D8	b	u	0	RAM	Enemy HP
+03D7	b	u	0	RAM	Final Boss HP
+03D6	b	u	0	RAM	Final Final Boss HP
+
