@@ -1,6 +1,7 @@
 Domain WRAM
 SystemID NULL
-098F	b	u	0	WRAM	Opponent Health
+099F	b	u	0	WRAM	Opp HP Health
 09DF	b	u	0	WRAM	What opp will get up with
 092B	b	u	0	WRAM	Dizzy Meter
+
 
