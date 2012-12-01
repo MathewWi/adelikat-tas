@@ -1,4 +1,4 @@
-emuVersion Version 1.2.0
+emuVersion Version 1.3.0
 MovieVersion BizHawk v0.0.1
 Platform Coleco
 GameName Jumpman Junior (1984) (Epyx).col
@@ -6,7 +6,7 @@ Author adelikat
 rerecordCount 5255
 GUID fc7fb32a-7df0-4643-a566-4c1610786644
 SHA1 B79D4312E2D5FC30E37EE46916DC31908C84590E
-Skip_Bios False
+Skip_Bios True
 |..................|..................|
 |.................#|..................|
 |.................#|..................|
