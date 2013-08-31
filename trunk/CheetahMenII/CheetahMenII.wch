@@ -1,0 +1,7 @@
+Domain RAM
+SystemID NES
+0315	b	u	0	RAM	Screen X
+0317	b	u	0	RAM	Camera X
+0666	b	u	0	RAM	Camera X 2nd Byte
+0316	b	u	0	RAM	Y Position
+
