@@ -1,5 +1,5 @@
 Domain RAM
-SystemID NULL
+SystemID NES
 0306	b	u	0	RAM	Sub seconds
 0307	b	u	0	RAM	Sub seconds
 0301	b	u	0	RAM	Clock init
@@ -12,4 +12,5 @@ SystemID NULL
 04FD	b	u	1	RAM	
 04FE	b	u	1	RAM	
 04FF	b	u	1	RAM	
+0000	b	u	1	RAM	Lower Guard Timer
 
