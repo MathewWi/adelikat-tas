@@ -4,4 +4,7 @@ SystemID NES
 0317	b	u	0	RAM	Camera X
 0666	b	u	0	RAM	Camera X 2nd Byte
 0316	b	u	0	RAM	Y Position
+0670	b	u	0	RAM	Player Health
+06C5	b	u	1	RAM	Boss Health
+0334	b	u	0	RAM	Player Health
 
