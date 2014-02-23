@@ -1,0 +1,35 @@
+Domain RAM
+SystemID NES
+077C	b	h	0	RAM	P1 Slot 1
+077D	b	h	0	RAM	P1 Slot 2
+077E	b	h	0	RAM	P1 Slot 3
+077F	b	h	0	RAM	P1 Slot 4
+0780	b	h	0	RAM	P1 Slot 5
+0781	b	h	0	RAM	P1 Slot 6
+0782	b	h	0	RAM	P1 Slot 7
+0783	b	h	0	RAM	P1 Slot 8
+0784	b	h	0	RAM	P2 Slot 1
+0785	b	h	0	RAM	P2 Slot 2
+0786	b	h	0	RAM	P2 Slot 3
+0787	b	h	0	RAM	P2 Slot 4
+0788	b	h	0	RAM	P2 Slot 5
+0789	b	h	0	RAM	P2 Slot 6
+078A	b	h	0	RAM	P2 Slot 7
+078B	b	h	0	RAM	P2 Slot 8
+078C	b	h	0	RAM	P3 Slot 1
+078D	b	h	0	RAM	P3 Slot 2
+078E	b	h	0	RAM	P3 Slot 3
+078F	b	h	0	RAM	P3 Slot 4
+0790	b	h	0	RAM	P3 Slot 5
+0791	b	h	0	RAM	P3 Slot 6
+0792	b	h	0	RAM	P3 Slot 7
+0793	b	h	0	RAM	P3 Slot 8
+0794	b	h	0	RAM	P4 Slot 1
+0795	b	h	0	RAM	P4 Slot 2
+0796	b	h	0	RAM	P4 Slot 3
+0797	b	h	0	RAM	P4 Slot 4
+0798	b	h	0	RAM	P4 Slot 5
+0799	b	h	0	RAM	P4 Slot 6
+079A	b	h	0	RAM	P4 Slot 7
+079B	b	h	0	RAM	P4 Slot 8
+
