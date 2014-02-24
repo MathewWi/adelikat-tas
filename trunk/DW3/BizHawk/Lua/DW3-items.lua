@@ -1,7 +1,7 @@
 local lookup = { }
 
 function Setup()
-	lookup[0x0] = "Cypress Stick";
+	lookup[0x0]  = "Cypress Stick";
 	lookup[0x01] = "Club";
 	lookup[0x02] = "Copper Sword";
 	lookup[0x03] = "Magic Knife";
@@ -200,7 +200,7 @@ function Setup()
 	lookup[0xC4] = "eNoh Mask";
 	lookup[0xC5] = "eLeather Helmet";
 	lookup[0xC6] = "eIron Mask";
-	lookup[0xC5] = "eSacred Amulet";
+	lookup[0xC7] = "eSacred Amulet";
 	lookup[0xC8] = "eRing of Life";
 	lookup[0xC9] = "eShoes of Happiness";
 	lookup[0xCA] = "eGolden Claw";
@@ -262,32 +262,32 @@ end
 Setup();
 
 while true do
-	gui.text(0,155, "1 " .. lookup[mainmemory.readbyte(0x077C)] .. "    ", null, null, "bottomleft")
-	gui.text(0,150, "2 " .. lookup[mainmemory.readbyte(0x077D)] .. "    ", null, null, "bottomleft")
-	gui.text(0,145, "3 " .. lookup[mainmemory.readbyte(0x077E)] .. "    ", null, null, "bottomleft")
-	gui.text(0,140, "4 " .. lookup[mainmemory.readbyte(0x077F)] .. "    ", null, null, "bottomleft")
-	gui.text(0,135, "5 " .. lookup[mainmemory.readbyte(0x0780)] .. "    ", null, null, "bottomleft")
-	gui.text(0,130, "6 " .. lookup[mainmemory.readbyte(0x0781)] .. "    ", null, null, "bottomleft")
-	gui.text(0,125, "7 " .. lookup[mainmemory.readbyte(0x0782)] .. "    ", null, null, "bottomleft")
-	gui.text(0,120, "8 " .. lookup[mainmemory.readbyte(0x0783)] .. "    ", null, null, "bottomleft")
+	gui.text(0,165, "1 " .. lookup[mainmemory.readbyte(0x077C)] .. "    ", null, null, "bottomleft")
+	gui.text(0,160, "2 " .. lookup[mainmemory.readbyte(0x077D)] .. "    ", null, null, "bottomleft")
+	gui.text(0,155, "3 " .. lookup[mainmemory.readbyte(0x077E)] .. "    ", null, null, "bottomleft")
+	gui.text(0,150, "4 " .. lookup[mainmemory.readbyte(0x077F)] .. "    ", null, null, "bottomleft")
+	gui.text(0,145, "5 " .. lookup[mainmemory.readbyte(0x0780)] .. "    ", null, null, "bottomleft")
+	gui.text(0,140, "6 " .. lookup[mainmemory.readbyte(0x0781)] .. "    ", null, null, "bottomleft")
+	gui.text(0,135, "7 " .. lookup[mainmemory.readbyte(0x0782)] .. "    ", null, null, "bottomleft")
+	gui.text(0,130, "8 " .. lookup[mainmemory.readbyte(0x0783)] .. "    ", null, null, "bottomleft")
 
-	gui.text(0,115, "1 " .. lookup[mainmemory.readbyte(0x0784)] .. "    ", null, null, "bottomleft")
-	gui.text(0,110, "2 " .. lookup[mainmemory.readbyte(0x0785)] .. "    ", null, null, "bottomleft")
-	gui.text(0,105, "3 " .. lookup[mainmemory.readbyte(0x0786)] .. "    ", null, null, "bottomleft")
-	gui.text(0,100, "4 " .. lookup[mainmemory.readbyte(0x0787)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 95, "5 " .. lookup[mainmemory.readbyte(0x0788)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 90, "6 " .. lookup[mainmemory.readbyte(0x0789)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 85, "7 " .. lookup[mainmemory.readbyte(0x078A)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 80, "8 " .. lookup[mainmemory.readbyte(0x078B)] .. "    ", null, null, "bottomleft")
+	gui.text(0,125, "1 " .. lookup[mainmemory.readbyte(0x0784)] .. "    ", null, null, "bottomleft")
+	gui.text(0,120, "2 " .. lookup[mainmemory.readbyte(0x0785)] .. "    ", null, null, "bottomleft")
+	gui.text(0,115, "3 " .. lookup[mainmemory.readbyte(0x0786)] .. "    ", null, null, "bottomleft")
+	gui.text(0,110, "4 " .. lookup[mainmemory.readbyte(0x0787)] .. "    ", null, null, "bottomleft")
+	gui.text(0,105, "5 " .. lookup[mainmemory.readbyte(0x0788)] .. "    ", null, null, "bottomleft")
+	gui.text(0,100, "6 " .. lookup[mainmemory.readbyte(0x0789)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 95, "7 " .. lookup[mainmemory.readbyte(0x078A)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 90, "8 " .. lookup[mainmemory.readbyte(0x078B)] .. "    ", null, null, "bottomleft")
 
-	gui.text(0, 75, "1 " .. lookup[mainmemory.readbyte(0x078C)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 70, "2 " .. lookup[mainmemory.readbyte(0x078D)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 65, "3 " .. lookup[mainmemory.readbyte(0x078E)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 60, "4 " .. lookup[mainmemory.readbyte(0x078F)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 55, "5 " .. lookup[mainmemory.readbyte(0x0790)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 50, "6 " .. lookup[mainmemory.readbyte(0x0791)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 45, "7 " .. lookup[mainmemory.readbyte(0x0792)] .. "    ", null, null, "bottomleft")
-	gui.text(0, 40, "8 " .. lookup[mainmemory.readbyte(0x0793)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 80, "1 " .. lookup[mainmemory.readbyte(0x078C)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 75, "2 " .. lookup[mainmemory.readbyte(0x078D)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 70, "3 " .. lookup[mainmemory.readbyte(0x078E)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 65, "4 " .. lookup[mainmemory.readbyte(0x078F)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 60, "5 " .. lookup[mainmemory.readbyte(0x0790)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 55, "6 " .. lookup[mainmemory.readbyte(0x0791)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 50, "7 " .. lookup[mainmemory.readbyte(0x0792)] .. "    ", null, null, "bottomleft")
+	gui.text(0, 45, "8 " .. lookup[mainmemory.readbyte(0x0793)] .. "    ", null, null, "bottomleft")
 
 	gui.text(0, 35, "1 " .. lookup[mainmemory.readbyte(0x0794)] .. "    ", null, null, "bottomleft")
 	gui.text(0, 30, "2 " .. lookup[mainmemory.readbyte(0x0795)] .. "    ", null, null, "bottomleft")
