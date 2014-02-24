@@ -1,0 +1,12 @@
+Domain RAM
+SystemID NES
+0700	b	u	0	RAM	P1 Level
+071C	w	u	0	RAM	P1 HP
+0724	w	u	0	RAM	P1 Max HP
+072C	w	u	0	RAM	P1 MP
+0734	w	u	0	RAM	P1 Max MP
+0704	b	u	0	RAM	P1 Strength
+0708	b	u	0	RAM	P1 Agility
+0718	b	u	1	RAM	P1 Class/Gender
+07BC	b	h	0	RAM	Gold
+
