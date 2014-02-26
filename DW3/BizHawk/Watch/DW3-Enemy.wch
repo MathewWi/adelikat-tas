@@ -1,0 +1,11 @@
+Domain RAM
+SystemID NES
+0518	b	h	0	RAM	Enemy 1 Type
+0519	b	h	0	RAM	Enemy 2 Type
+051A	b	h	0	RAM	Enemy 3 Type
+051B	b	h	0	RAM	Enemy 4 Type
+051C	b	h	0	RAM	Enemy 5 Type
+051D	b	h	0	RAM	Enemy 6 Type
+051E	b	h	0	RAM	Enemy 7 Type
+051F	b	h	0	RAM	Enemy 8 Type
+
