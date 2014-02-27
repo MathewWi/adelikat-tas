@@ -1,0 +1,5 @@
+00 = Slime
+01 = Black Raven
+02 = Horned Rabbit
+03 = Giant Anteater
+04 = Masked Moth
