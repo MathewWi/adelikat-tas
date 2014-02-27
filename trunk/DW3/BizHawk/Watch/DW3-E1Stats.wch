@@ -1,0 +1,12 @@
+Domain RAM
+SystemID NES
+0500	w	u	0	RAM	Enemy 1 HP
+0510	b	u	0	RAM	Enemy 1 MP
+0518	b	u	0	RAM	Enemy 1 Agility
+0520	w	u	0	RAM	Enemey 1 Defense
+0565	b	u	0	RAM	Bikill flag on Enemy 1 (if 1)
+056D	b	h	0	RAM	Enemy Group 1 Type
+056E	b	h	0	RAM	Enemy Group 2 Type
+056F	b	h	0	RAM	Enemy Group 3 Type
+0570	b	h	0	RAM	Enemy Group 4 Type
+
