@@ -9,4 +9,8 @@ SystemID NES
 056E	b	h	0	RAM	Enemy Group 2 Type
 056F	b	h	0	RAM	Enemy Group 3 Type
 0570	b	h	0	RAM	Enemy Group 4 Type
+0571	b	h	0	RAM	Group 1 Count
+0572	b	h	0	RAM	Group 2 Count
+0573	b	h	0	RAM	Group 3 Count
+0574	b	h	0	RAM	Group 4 Count
 
