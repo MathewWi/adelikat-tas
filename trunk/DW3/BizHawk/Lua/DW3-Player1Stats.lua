@@ -19,8 +19,8 @@ function Setup()
 	lookup[0x0E] = "Snowblast Sword";
 	lookup[0x0F] = "Demon Axe";
 	lookup[0x10] = "Staff of Rain";
-	lookup[0x11] = "Sword of Gaia";
-	lookup[0x12] = "Staff of Reflection";
+	lookup[0x11] = "Sword of Gaia"; 
+	lookup[0x12] = "Staff of Reflect ion";
 	lookup[0x13] = "Sword of Destruction";
 	lookup[0x14] = "Multi-Edge Sword";
 	lookup[0x15] = "Staff of Force";
@@ -58,7 +58,7 @@ function Setup()
 	lookup[0x35] = "Dragon Mail";
 	lookup[0x36] = "Swordedge Armor";
 	lookup[0x37] = "Angel's Robe";
-	lookup[0x38] = " Leather Shield";
+	lookup[0x38] = "Leather Shield";
 	lookup[0x39] = "Iron Shield";
 	lookup[0x3A] = "Shield of Strength";
 	lookup[0x3B] = "Shield of Heroes";
@@ -73,7 +73,7 @@ function Setup()
 	lookup[0x44] = "Noh Mask";
 	lookup[0x45] = "Leather Helmet";
 	lookup[0x46] = "Iron Mask";
-	lookup[0x45] = "Sacred Amulet";
+	lookup[0x47] = "Sacred Amulet";
 	lookup[0x48] = "Ring of Life";
 	lookup[0x49] = "Shoes of Happiness";
 	lookup[0x4A] = "Golden Claw";
