@@ -279,38 +279,75 @@ end
 
 Setup();
 
-p1Window = forms.newform(300, 600, "Character 1")
+p1Window = forms.newform(350, 600, "Character 1")
 
 forms.label(p1Window, "HP:",     10, 20,  30, 19);
-forms.label(p1Window, "MP:",     10, 40,  30, 19);
-forms.label(p1Window, "XP:",     10, 60,  30, 19);
-forms.label(p1Window, "Gold:",   10, 80,  33, 19);
-forms.label(p1Window, "Lv:",     10, 100, 30, 19);
+forms.label(p1Window, "MP:",    110, 20,  30, 19);
+forms.label(p1Window, "XP:",    110, 40,  30, 19);
+forms.label(p1Window, "Gold:",  210, 20,  33, 19);
+forms.label(p1Window, "Lv:",     10, 40,  30, 19);
 
-p1HPLabel    = forms.label(p1Window, "0", 41, 20,  150, 19)
-p1MPLabel    = forms.label(p1Window, "0", 41, 40,  150, 19)
-p1XPLabel    = forms.label(p1Window, "0", 41, 60,  150, 19)
-p1GoldLabel  = forms.label(p1Window, "0", 41, 80,  150, 19)
-p1LevelLabel = forms.label(p1Window, "0", 41, 100, 150, 19)
+p1HPLabel    = forms.label(p1Window, "0", 41,  20, 100, 19)
+p1MPLabel    = forms.label(p1Window, "0", 141, 20, 100, 19)
+p1XPLabel    = forms.label(p1Window, "0", 141, 40, 150, 19)
+p1GoldLabel  = forms.label(p1Window, "0", 241, 20, 150, 19)
+p1LevelLabel = forms.label(p1Window, "0", 41,  40, 150, 19)
 
-forms.label(p1Window, "Inventory", 10, 200, 100, 19)
-forms.label(p1Window, "Slot 1:", 20, 220, 50, 19)
-forms.label(p1Window, "Slot 2:", 20, 240, 50, 19)
-forms.label(p1Window, "Slot 3:", 20, 260, 50, 19)
-forms.label(p1Window, "Slot 4:", 20, 280, 50, 19)
-forms.label(p1Window, "Slot 5:", 20, 300, 50, 19)
-forms.label(p1Window, "Slot 6:", 20, 320, 50, 19)
-forms.label(p1Window, "Slot 7:", 20, 340, 50, 19)
-forms.label(p1Window, "Slot 8:", 20, 360, 50, 19)
+forms.label(p1Window, "Inventory", 10, 100, 100, 19)
+forms.label(p1Window, "Slot 1:", 20, 120, 50, 19)
+forms.label(p1Window, "Slot 2:", 20, 140, 50, 19)
+forms.label(p1Window, "Slot 3:", 20, 160, 50, 19)
+forms.label(p1Window, "Slot 4:", 20, 180, 50, 19)
+forms.label(p1Window, "Slot 5:", 180, 120, 50, 19)
+forms.label(p1Window, "Slot 6:", 180, 140, 50, 19)
+forms.label(p1Window, "Slot 7:", 180, 160, 50, 19)
+forms.label(p1Window, "Slot 8:", 180, 180, 50, 19)
 
-p1Slot1Label = forms.label(p1Window, "xxx", 70, 220, 150, 19)
-p1Slot2Label = forms.label(p1Window, "xxx", 70, 240, 150, 19)
-p1Slot3Label = forms.label(p1Window, "xxx", 70, 260, 150, 19)
-p1Slot4Label = forms.label(p1Window, "xxx", 70, 280, 150, 19)
-p1Slot5Label = forms.label(p1Window, "xxx", 70, 300, 150, 19)
-p1Slot6Label = forms.label(p1Window, "xxx", 70, 320, 150, 19)
-p1Slot7Label = forms.label(p1Window, "xxx", 70, 340, 150, 19)
-p1Slot8Label = forms.label(p1Window, "xxx", 70, 360, 150, 19)
+p1Slot1Label = forms.label(p1Window, "xxx", 70, 120, 150, 19)
+p1Slot2Label = forms.label(p1Window, "xxx", 70, 140, 150, 19)
+p1Slot3Label = forms.label(p1Window, "xxx", 70, 160, 150, 19)
+p1Slot4Label = forms.label(p1Window, "xxx", 70, 180, 150, 19)
+p1Slot5Label = forms.label(p1Window, "xxx", 230, 120, 150, 19)
+p1Slot6Label = forms.label(p1Window, "xxx", 230, 140, 150, 19)
+p1Slot7Label = forms.label(p1Window, "xxx", 230, 160, 150, 19)
+p1Slot8Label = forms.label(p1Window, "xxx", 230, 180, 150, 19)
+
+forms.label(p1Window, "Return List", 10, 220, 100, 19);
+p1r01Label = forms.label(p1Window, "Aliahan",    10, 240, 70, 19);
+p1r02Label = forms.label(p1Window, "Reeve",      10, 260, 70, 19);
+p1r03Label = forms.label(p1Window, "Romaly",     10, 280, 70, 19);
+p1r04Label = forms.label(p1Window, "Kanave",     10, 300, 70, 19);
+p1r05Label = forms.label(p1Window, "Noaniels",   10, 320, 70, 19);
+
+p1r06Label = forms.label(p1Window, "Assaram",    80, 240, 70, 19);
+p1r07Label = forms.label(p1Window, "Isis",       80, 260, 70, 19);
+p1r08Label = forms.label(p1Window, "Portoga",    80, 280, 70, 19);
+p1r09Label = forms.label(p1Window, "Baharata",   80, 300, 70, 19);
+p1r10Label = forms.label(p1Window, "Dhama",      80, 320, 70, 19);
+
+p1r11Label = forms.label(p1Window, "Lancel",    150, 240, 70, 19);
+p1r12Label = forms.label(p1Window, "Jipang",    150, 260, 70, 19);
+p1r13Label = forms.label(p1Window, "Eginbear",  150, 280, 70, 19);
+p1r14Label = forms.label(p1Window, "Samanao",   150, 300, 70, 19);
+p1r15Label = forms.label(p1Window, "Soo",       150, 320, 70, 19);
+
+p1r16Label = forms.label(p1Window, "Tantegel",  230, 240, 70, 19);
+p1r17Label = forms.label(p1Window, "Hauksness", 230, 260, 70, 19);
+p1r18Label = forms.label(p1Window, "Cantlin",   230, 280, 70, 19);
+p1r19Label = forms.label(p1Window, "Kol",       230, 300, 70, 19);
+p1r20Label = forms.label(p1Window, "Rimuldar",  230, 320, 70, 19);
+
+forms.label(p1Window, "Spells", 10, 400, 100, 19);
+forms.label(p1Window, "Heal,Return,Outside,Repel,Healmore,Healall,Vivify,Healusall", 10, 420, 600, 19);
+forms.label(p1Window, "TODO", 10, 440, 600, 19);
+forms.label(p1Window, "TODO", 10, 460, 600, 19);
+forms.label(p1Window, "TODO", 10, 480, 600, 19);
+
+forms.label(p1Window, "TODO", 10, 500, 600, 19);
+forms.label(p1Window, "TODO", 10, 520, 600, 19);
+forms.label(p1Window, "TODO", 10, 540, 600, 19);
+forms.label(p1Window, "TODO", 10, 560, 600, 19);
+
 
 function UpdateVars()
 	p1Slot1 = lookup[mainmemory.readbyte(0x077C)]; 
@@ -332,6 +369,9 @@ function UpdateVars()
 	p1Level = mainmemory.readbyte(0x0700);
 
 	gold = mainmemory.read_u24_le(0x07BC);
+
+	p1returnbytes = mainmemory.read_u32_le(0x0750);
+	p1spellBytes = mainmemory.read_u32_le(0x079C); 
 end
 
 function UpdateForm()
@@ -352,8 +392,131 @@ function UpdateForm()
 	forms.settext(p1Slot8Label, p1Slot8);
 end
 
+function UpdateReturnList()
+	if (bit.check(p1returnbytes, 0)) then
+		forms.settext(p1r01Label, "Aliahan");
+	else
+		forms.settext(p1r01Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 1)) then
+		forms.settext(p1r02Label, "Reeve");
+	else
+		forms.settext(p1r02Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 2)) then
+		forms.settext(p1r03Label, "Romaly");
+	else
+		forms.settext(p1r03Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 3)) then
+		forms.settext(p1r04Label, "Kanave");
+	else
+		forms.settext(p1r04Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 4)) then
+		forms.settext(p1r05Label, "Noaniels");
+	else
+		forms.settext(p1r05Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 5)) then
+		forms.settext(p1r06Label, "Assaram");
+	else
+		forms.settext(p1r06Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 6)) then
+		forms.settext(p1r07Label, "Isis");
+	else
+		forms.settext(p1r07Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 7)) then
+		forms.settext(p1r08Label, "Portoga");
+	else
+		forms.settext(p1r08Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 8)) then
+		forms.settext(p1r09Label, "Baharata");
+	else
+		forms.settext(p1r09Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 9)) then
+		forms.settext(p1r10Label, "Dhama");
+	else
+		forms.settext(p1r10Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 10)) then
+		forms.settext(p1r11Label, "Lancel");
+	else
+		forms.settext(p1r11Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 11)) then
+		forms.settext(p1r12Label, "Jipang");
+	else
+		forms.settext(p1r12Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 12)) then
+		forms.settext(p1r13Label, "Eginbear");
+	else
+		forms.settext(p1r13Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 13)) then
+		forms.settext(p1r14Label, "Samanao");
+	else
+		forms.settext(p1r14Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 14)) then
+		forms.settext(p1r15Label, "Soo");
+	else
+		forms.settext(p1r15Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 15)) then
+		forms.settext(p1r16Label, "Tantegel");
+	else
+		forms.settext(p1r16Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 16)) then
+		forms.settext(p1r17Label, "Hauksness");
+	else
+		forms.settext(p1r17Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 17)) then
+		forms.settext(p1r18Label, "Cantlin");
+	else
+		forms.settext(p1r18Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 18)) then
+		forms.settext(p1r19Label, "Kol");
+	else
+		forms.settext(p1r19Label, "*");
+	end
+
+	if (bit.check(p1returnbytes, 19)) then
+		forms.settext(p1r20Label, "Rimuldar");
+	else
+		forms.settext(p1r20Label, "*");
+	end
+end
+
 while true do
 	UpdateVars();
 	UpdateForm();
+	UpdateReturnList()
 	emu.frameadvance();
 end
