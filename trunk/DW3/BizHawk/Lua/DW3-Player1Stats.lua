@@ -1,3 +1,31 @@
+local heroBattleSpells = { };
+heroBattleSpells[0] = "Blaze";
+heroBattleSpells[1] = "Heal";
+heroBattleSpells[2] = "Expel";
+heroBattleSpells[3] = "Ironize";
+heroBattleSpells[4] = "Firebal";
+heroBattleSpells[5] = "Return";
+heroBattleSpells[6] = "StopSpell";
+heroBattleSpells[7] = "Sleep";
+heroBattleSpells[8] = "Zap";
+heroBattleSpells[9] = "Healmore";
+heroBattleSpells[10] = "Firebane";
+heroBattleSpells[11] = "Healall";
+heroBattleSpells[12] = "Boom";
+heroBattleSpells[13] = "Vivify";
+heroBattleSpells[14] = "Lightning";
+heroBattleSpells[15] = "Healusall";
+
+local heroFieldSpells = { };
+heroFieldSpells[0] = "Heal";
+heroFieldSpells[1] = "Return";
+heroFieldSpells[2] = "Outside";
+heroFieldSpells[3] = "Repel";
+heroFieldSpells[4] = "Healmore";
+heroFieldSpells[5] = "Healall";
+heroFieldSpells[6] = "Vivify";
+heroFieldSpells[7] = "Healusall";
+
 local xpLookup = { }
 --Hero
 xpLookup[1] = 0;
@@ -1156,16 +1184,42 @@ p1r18Label = forms.label(p1Window, "Cantlin",   230, 280, 70, 19);
 p1r19Label = forms.label(p1Window, "Kol",       230, 300, 70, 19);
 p1r20Label = forms.label(p1Window, "Rimuldar",  230, 320, 70, 19);
 
-forms.label(p1Window, "Spells", 10, 400, 100, 19);
-forms.label(p1Window, "Heal,Return,Outside,Repel,Healmore,Healall,Vivify,Healusall", 10, 420, 600, 19);
-forms.label(p1Window, "TODO", 10, 440, 600, 19);
-forms.label(p1Window, "TODO", 10, 460, 600, 19);
-forms.label(p1Window, "TODO", 10, 480, 600, 19);
+forms.label(p1Window, "Spells", 10, 350, 100, 19);
+p1fieldSpell0  = forms.label(p1Window, "*",  10, 370, 70, 19);
+p1fieldSpell1  = forms.label(p1Window, "*",  10, 390, 70, 19);
+p1fieldSpell2  = forms.label(p1Window, "*",  10, 410, 70, 19);
+p1fieldSpell3  = forms.label(p1Window, "*",  10, 430, 70, 19);
+p1fieldSpell4  = forms.label(p1Window, "*",  10, 450, 70, 19);
+p1fieldSpell5  = forms.label(p1Window, "*",  10, 470, 70, 19);
+p1fieldSpell6  = forms.label(p1Window, "*",  10, 490, 70, 19);
+p1fieldSpell7  = forms.label(p1Window, "*",  10, 510, 70, 19);
 
-forms.label(p1Window, "TODO", 10, 500, 600, 19);
-forms.label(p1Window, "TODO", 10, 520, 600, 19);
-forms.label(p1Window, "TODO", 10, 540, 600, 19);
-forms.label(p1Window, "TODO", 10, 560, 600, 19);
+p1battleSpell0  = forms.label(p1Window, "*",  80, 370, 70, 19);
+p1battleSpell1  = forms.label(p1Window, "*",  80, 390, 70, 19);
+p1battleSpell2  = forms.label(p1Window, "*",  80, 410, 70, 19);
+p1battleSpell3  = forms.label(p1Window, "*",  80, 430, 70, 19);
+p1battleSpell4  = forms.label(p1Window, "*",  80, 450, 70, 19);
+p1battleSpell5  = forms.label(p1Window, "*",  80, 470, 70, 19);
+p1battleSpell6  = forms.label(p1Window, "*",  80, 490, 70, 19);
+p1battleSpell7  = forms.label(p1Window, "*",  80, 510, 70, 19);
+
+p1battleSpell8  = forms.label(p1Window, "*", 150, 370, 70, 19);
+p1battleSpell9  = forms.label(p1Window, "*", 150, 390, 70, 19);
+p1battleSpell10 = forms.label(p1Window, "*", 150, 410, 70, 19);
+p1battleSpell11 = forms.label(p1Window, "*", 150, 430, 70, 19);
+p1battleSpell12 = forms.label(p1Window, "*", 150, 450, 70, 19);
+p1battleSpell13 = forms.label(p1Window, "*", 150, 470, 70, 19);
+p1battleSpell14 = forms.label(p1Window, "*", 150, 490, 70, 19);
+p1battleSpell15 = forms.label(p1Window, "*", 150, 510, 70, 19);
+
+p1battleSpell16 = forms.label(p1Window, "*", 230, 370, 70, 19);
+p1battleSpell17 = forms.label(p1Window, "*", 230, 390, 70, 19);
+p1battleSpell18 = forms.label(p1Window, "*", 230, 410, 70, 19);
+p1battleSpell19 = forms.label(p1Window, "*", 230, 430, 70, 19);
+p1battleSpell20 = forms.label(p1Window, "*", 230, 450, 70, 19);
+p1battleSpell21 = forms.label(p1Window, "*", 230, 470, 70, 19);
+p1battleSpell22 = forms.label(p1Window, "*", 230, 490, 70, 19);
+p1battleSpell23 = forms.label(p1Window, "*", 230, 510, 70, 19);
 
 
 function UpdateVars()
@@ -1195,6 +1249,8 @@ function UpdateVars()
 
 	--TODO: support female classes
 	p1XpToGo = xpLookup[(p1Level + 1) + (p1ClassVal * 100)] - p1XP;
+
+	p1isHero = p1ClassVal == 0 or p1ClassVal == 8;
 end
 
 function UpdateForm()
@@ -1338,9 +1394,168 @@ function UpdateReturnList()
 	end
 end
 
+function UpdateSpellList()
+	if (p1isHero) then
+		if (bit.check(p1spellBytes, 24)) then
+			forms.settext(p1fieldSpell0, heroFieldSpells[0]);
+		else
+			forms.settext(p1fieldSpell0, "*");
+		end
+
+		if (bit.check(p1spellBytes, 25)) then
+			forms.settext(p1fieldSpell1, heroFieldSpells[1]);
+		else
+			forms.settext(p1fieldSpell1, "*");
+		end
+
+		if (bit.check(p1spellBytes, 26)) then
+			forms.settext(p1fieldSpell2, heroFieldSpells[2]);
+		else
+			forms.settext(p1fieldSpell2, "*");
+		end
+
+		if (bit.check(p1spellBytes, 27)) then
+			forms.settext(p1fieldSpell3, heroFieldSpells[3]);
+		else
+			forms.settext(p1fieldSpell3, "*");
+		end
+
+		if (bit.check(p1spellBytes, 28)) then
+			forms.settext(p1fieldSpell4, heroFieldSpells[4]);
+		else
+			forms.settext(p1fieldSpell4, "*");
+		end
+
+		if (bit.check(p1spellBytes, 29)) then
+			forms.settext(p1fieldSpell5, heroFieldSpells[5]);
+		else
+			forms.settext(p1fieldSpell5, "*");
+		end
+
+		if (bit.check(p1spellBytes, 30)) then
+			forms.settext(p1fieldSpell6, heroFieldSpells[6]);
+		else
+			forms.settext(p1fieldSpell6, "*");
+		end
+
+		if (bit.check(p1spellBytes, 31)) then
+			forms.settext(p1fieldSpell7, heroFieldSpells[7]);
+		else
+			forms.settext(p1fieldSpell7, "*");
+		end
+
+		if (bit.check(p1spellBytes, 0)) then
+			forms.settext(p1battleSpell0, heroBattleSpells[0]);
+		else
+			forms.settext(p1battleSpell0, "*");
+		end
+
+		if (bit.check(p1spellBytes, 1)) then
+			forms.settext(p1battleSpell1, heroBattleSpells[1]);
+		else
+			forms.settext(p1battleSpell1, "*");
+		end
+
+		if (bit.check(p1spellBytes, 2)) then
+			forms.settext(p1battleSpell2, heroBattleSpells[2]);
+		else
+			forms.settext(p1battleSpell2, "*");
+		end
+
+		if (bit.check(p1spellBytes, 3)) then
+			forms.settext(p1battleSpell3, heroBattleSpells[3]);
+		else
+			forms.settext(p1battleSpell3, "*");
+		end
+
+		if (bit.check(p1spellBytes, 4)) then
+			forms.settext(p1battleSpell4, heroBattleSpells[4]);
+		else
+			forms.settext(p1battleSpell4, "*");
+		end
+
+		if (bit.check(p1spellBytes, 5)) then
+			forms.settext(p1battleSpell5, heroBattleSpells[5]);
+		else
+			forms.settext(p1battleSpell5, "*");
+		end
+
+		if (bit.check(p1spellBytes, 6)) then
+			forms.settext(p1battleSpell6, heroBattleSpells[6]);
+		else
+			forms.settext(p1battleSpell6, "*");
+		end
+
+		if (bit.check(p1spellBytes, 7)) then
+			forms.settext(p1battleSpell7, heroBattleSpells[7]);
+		else
+			forms.settext(p1battleSpell7, "*");
+		end
+
+		if (bit.check(p1spellBytes, 8)) then
+			forms.settext(p1battleSpell8, heroBattleSpells[8]);
+		else
+			forms.settext(p1battleSpell8, "*");
+		end
+
+		if (bit.check(p1spellBytes, 9)) then
+			forms.settext(p1battleSpell9, heroBattleSpells[9]);
+		else
+			forms.settext(p1battleSpell9, "*");
+		end
+
+		if (bit.check(p1spellBytes, 10)) then
+			forms.settext(p1battleSpell10, heroBattleSpells[10]);
+		else
+			forms.settext(p1battleSpell10, "*");
+		end
+
+		if (bit.check(p1spellBytes, 11)) then
+			forms.settext(p1battleSpell11, heroBattleSpells[11]);
+		else
+			forms.settext(p1battleSpell11, "*");
+		end
+
+		if (bit.check(p1spellBytes, 12)) then
+			forms.settext(p1battleSpell12, heroBattleSpells[12]);
+		else
+			forms.settext(p1battleSpell12, "*");
+		end
+
+		if (bit.check(p1spellBytes, 13)) then
+			forms.settext(p1battleSpell13, heroBattleSpells[13]);
+		else
+			forms.settext(p1battleSpell13, "*");
+		end
+
+		if (bit.check(p1spellBytes, 14)) then
+			forms.settext(p1battleSpell14, heroBattleSpells[14]);
+		else
+			forms.settext(p1battleSpell14, "*");
+		end
+
+		if (bit.check(p1spellBytes, 15)) then
+			forms.settext(p1battleSpell15, heroBattleSpells[15]);
+		else
+			forms.settext(p1battleSpell15, "*");
+		end
+
+		forms.settext(p1battleSpell16, "");
+		forms.settext(p1battleSpell17, "");
+		forms.settext(p1battleSpell18, "");
+		forms.settext(p1battleSpell19, "");
+
+		forms.settext(p1battleSpell20, "");
+		forms.settext(p1battleSpell21, "");
+		forms.settext(p1battleSpell22, "");
+		forms.settext(p1battleSpell23, "");
+	end
+end
+
 while true do
 	UpdateVars();
 	UpdateForm();
-	UpdateReturnList()
+	UpdateReturnList();
+	UpdateSpellList();
 	emu.frameadvance();
 end
