@@ -1,0 +1,75 @@
+Domain RAM
+SystemID NES
+0500	b	u	0	RAM	Enemy 1 HP
+0501	b	u	0	RAM	Enemy 1 HP byte 2
+0502	b	u	0	RAM	Enemy 2 HP
+0503	b	u	0	RAM	Enemy 2 HP byte 2
+0504	b	u	0	RAM	Enemy 3 HP
+0505	b	u	0	RAM	Enemy 3 HP byte 2
+0506	b	u	0	RAM	Enemy 4 HP
+0507	b	u	0	RAM	Enemy 4 HP byte 2
+0508	b	u	0	RAM	Enemy 5 HP
+0509	b	u	0	RAM	Enemy 5 HP byte 2
+050A	b	u	0	RAM	Enemy 6 HP
+050B	b	u	0	RAM	Enemy 6 HP byte 2
+050C	b	u	0	RAM	Enemy 7 HP
+050D	b	u	0	RAM	Enemy 7 HP byte 2
+050E	b	u	0	RAM	Enemy 8 HP
+050F	b	u	0	RAM	Enemy 8 HP byte 2
+0510	b	u	0	RAM	Enemy 1 MP
+0511	b	u	0	RAM	Enemy 2 MP
+0512	b	u	0	RAM	Enemy 3 MP
+0513	b	u	0	RAM	Enemy 4 MP
+0514	b	u	0	RAM	Enemy 5 MP
+0515	b	u	0	RAM	Enemy 6 MP
+0516	b	u	0	RAM	Enemy 7 MP
+0517	b	u	0	RAM	Enemy 8 MP
+0518	b	h	0	RAM	Enemy 1 Agility
+0519	b	h	0	RAM	Enemy 2 Agility
+051A	b	h	0	RAM	Enemy 3 Agility
+051B	b	h	0	RAM	Enemy 4 Agility
+051C	b	h	0	RAM	Enemy 5 Agility
+051D	b	h	0	RAM	Enemy 6 Agility
+051E	b	h	0	RAM	Enemy 7 Agility
+051F	b	h	0	RAM	Enemy 8 Agility
+0520	b	u	0	RAM	Enemy 1 Defense
+0521	b	u	0	RAM	Enemy 1 Defense byte 2
+0522	b	u	0	RAM	Enemy 2 Defense
+0523	b	u	0	RAM	Enemy 2 Defense byte 2
+0524	b	u	0	RAM	Enemy 3 Defense
+0525	b	u	0	RAM	Enemy 3 Defense byte 2
+0526	b	u	0	RAM	Enemy 4 Defense
+0527	b	u	0	RAM	Enemy 4 Defense byte 2
+0528	b	u	0	RAM	Enemy 5 Defense
+0529	b	u	0	RAM	Enemy 5 Defense byte 2
+052A	b	u	0	RAM	Enemy 6 Defense
+052B	b	u	0	RAM	Enemy 6 Defense byte 2
+052C	b	u	0	RAM	Enemy 7 Defense
+052D	b	u	0	RAM	Enemy 7 Defense byte 2
+052E	b	u	0	RAM	Enemy 8 Defense
+052F	b	u	0	RAM	Enemy 8 Defense byte 2
+0530	b	b	0	RAM	Enemy 1 Status
+0531	b	b	0	RAM	Enemy 1 Status byte 2
+0532	b	b	0	RAM	Enemy 2 Status
+0533	b	b	0	RAM	Enemy 2 Status byte 2
+0534	b	b	0	RAM	Enemy 3 Status
+0535	b	b	0	RAM	Enemy 3 Status byte 2
+0536	b	b	0	RAM	Enemy 4 Status
+0537	b	b	0	RAM	Enemy 4 Status byte 2
+0538	b	b	0	RAM	Enemy 5 Status
+0539	b	b	0	RAM	Enemy 5 Status byte 2
+053A	b	b	0	RAM	Enemy 6 Status
+053B	b	b	0	RAM	Enemy 6 Status byte 2
+053C	b	b	0	RAM	Enemy 7 Status
+053D	b	b	0	RAM	Enemy 7 Status byte 2
+053E	b	b	0	RAM	Enemy 8 Status
+053F	b	b	0	RAM	Enemy 8 Status byte 2
+0565	b	u	0	RAM	Bikill flag on Enemy 1 (if 1)
+056D	b	h	0	RAM	Enemy Group 1 Type
+056E	b	h	0	RAM	Enemy Group 2 Type
+056F	b	h	0	RAM	Enemy Group 3 Type
+0570	b	h	0	RAM	Enemy Group 4 Type
+0571	b	h	0	RAM	Group 1 Count
+0572	b	h	0	RAM	Group 2 Count
+0573	b	h	0	RAM	Group 3 Count
+0574	b	h	0	RAM	Group 4 Count
