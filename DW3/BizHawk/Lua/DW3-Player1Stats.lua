@@ -1,3 +1,7 @@
+--TODO
+--Female characters
+--Non-hero spells
+
 local heroBattleSpells = { };
 heroBattleSpells[0] = "Blaze";
 heroBattleSpells[1] = "Heal";
@@ -25,6 +29,34 @@ heroFieldSpells[4] = "Healmore";
 heroFieldSpells[5] = "Healall";
 heroFieldSpells[6] = "Vivify";
 heroFieldSpells[7] = "Healusall";
+
+local heroBattleSpellsLv = { };
+heroBattleSpellsLv[0] = 2; --Blaze
+heroBattleSpellsLv[1] = 4; --Heal
+heroBattleSpellsLv[2] = 6; --Expel
+heroBattleSpellsLv[3] = 12; --Ironize
+heroBattleSpellsLv[4] = 10; --Firebal
+heroBattleSpellsLv[5] = 7; --Return
+heroBattleSpellsLv[6] = 18; --StopSpell
+heroBattleSpellsLv[7] = 16; --Sleep
+heroBattleSpellsLv[8] = 26; --Zap
+heroBattleSpellsLv[9] = 29; --Healmore
+heroBattleSpellsLv[10] = 23; --Firebane
+heroBattleSpellsLv[11] = 33; --Healall
+heroBattleSpellsLv[12] = 31; --Boom
+heroBattleSpellsLv[13] = 35; --Vivify
+heroBattleSpellsLv[14] = 41; --Lightning
+heroBattleSpellsLv[15] = 38; --Healusall
+
+local heroFieldSpellsLv = { };
+heroFieldSpellsLv[0] = 4; --Heal
+heroFieldSpellsLv[1] = 7; --Return
+heroFieldSpellsLv[2] = 15; --Outside
+heroFieldSpellsLv[3] = 16; --Repel
+heroFieldSpellsLv[4] = 29; --Healmore
+heroFieldSpellsLv[5] = 33; --Healall
+heroFieldSpellsLv[6] = 35; --Vivify
+heroFieldSpellsLv[7] = 38; --Healusall
 
 local xpLookup = { }
 --Hero
@@ -1399,145 +1431,145 @@ function UpdateSpellList()
 		if (bit.check(p1spellBytes, 24)) then
 			forms.settext(p1fieldSpell0, heroFieldSpells[0]);
 		else
-			forms.settext(p1fieldSpell0, "*");
+			forms.settext(p1fieldSpell0, "(" .. heroFieldSpellsLv[0] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 25)) then
 			forms.settext(p1fieldSpell1, heroFieldSpells[1]);
 		else
-			forms.settext(p1fieldSpell1, "*");
+			forms.settext(p1fieldSpell1, "(" .. heroFieldSpellsLv[1] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 26)) then
 			forms.settext(p1fieldSpell2, heroFieldSpells[2]);
 		else
-			forms.settext(p1fieldSpell2, "*");
+			forms.settext(p1fieldSpell2, "(" .. heroFieldSpellsLv[2] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 27)) then
 			forms.settext(p1fieldSpell3, heroFieldSpells[3]);
 		else
-			forms.settext(p1fieldSpell3, "*");
+			forms.settext(p1fieldSpell3, "(" .. heroFieldSpellsLv[3] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 28)) then
 			forms.settext(p1fieldSpell4, heroFieldSpells[4]);
 		else
-			forms.settext(p1fieldSpell4, "*");
+			forms.settext(p1fieldSpell4, "(" .. heroFieldSpellsLv[4] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 29)) then
 			forms.settext(p1fieldSpell5, heroFieldSpells[5]);
 		else
-			forms.settext(p1fieldSpell5, "*");
+			forms.settext(p1fieldSpell5, "(" .. heroFieldSpellsLv[5] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 30)) then
 			forms.settext(p1fieldSpell6, heroFieldSpells[6]);
 		else
-			forms.settext(p1fieldSpell6, "*");
+			forms.settext(p1fieldSpell6, "(" .. heroFieldSpellsLv[6] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 31)) then
 			forms.settext(p1fieldSpell7, heroFieldSpells[7]);
 		else
-			forms.settext(p1fieldSpell7, "*");
+			forms.settext(p1fieldSpell7, "(" .. heroFieldSpellsLv[7] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 0)) then
 			forms.settext(p1battleSpell0, heroBattleSpells[0]);
 		else
-			forms.settext(p1battleSpell0, "*");
+			forms.settext(p1battleSpell0, "(" .. heroBattleSpellsLv[0] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 1)) then
 			forms.settext(p1battleSpell1, heroBattleSpells[1]);
 		else
-			forms.settext(p1battleSpell1, "*");
+			forms.settext(p1battleSpell1, "(" .. heroBattleSpellsLv[1] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 2)) then
 			forms.settext(p1battleSpell2, heroBattleSpells[2]);
 		else
-			forms.settext(p1battleSpell2, "*");
+			forms.settext(p1battleSpell2, "(" .. heroBattleSpellsLv[2] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 3)) then
 			forms.settext(p1battleSpell3, heroBattleSpells[3]);
 		else
-			forms.settext(p1battleSpell3, "*");
+			forms.settext(p1battleSpell3, "(" .. heroBattleSpellsLv[3] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 4)) then
 			forms.settext(p1battleSpell4, heroBattleSpells[4]);
 		else
-			forms.settext(p1battleSpell4, "*");
+			forms.settext(p1battleSpell4, "(" .. heroBattleSpellsLv[4] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 5)) then
 			forms.settext(p1battleSpell5, heroBattleSpells[5]);
 		else
-			forms.settext(p1battleSpell5, "*");
+			forms.settext(p1battleSpell5, "(" .. heroBattleSpellsLv[5] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 6)) then
 			forms.settext(p1battleSpell6, heroBattleSpells[6]);
 		else
-			forms.settext(p1battleSpell6, "*");
+			forms.settext(p1battleSpell6, "(" .. heroBattleSpellsLv[6] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 7)) then
 			forms.settext(p1battleSpell7, heroBattleSpells[7]);
 		else
-			forms.settext(p1battleSpell7, "*");
+			forms.settext(p1battleSpell7, "(" .. heroBattleSpellsLv[7] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 8)) then
 			forms.settext(p1battleSpell8, heroBattleSpells[8]);
 		else
-			forms.settext(p1battleSpell8, "*");
+			forms.settext(p1battleSpell8, "(" .. heroBattleSpellsLv[8] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 9)) then
 			forms.settext(p1battleSpell9, heroBattleSpells[9]);
 		else
-			forms.settext(p1battleSpell9, "*");
+			forms.settext(p1battleSpell9, "(" .. heroBattleSpellsLv[9] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 10)) then
 			forms.settext(p1battleSpell10, heroBattleSpells[10]);
 		else
-			forms.settext(p1battleSpell10, "*");
+			forms.settext(p1battleSpell10, "(" .. heroBattleSpellsLv[10] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 11)) then
 			forms.settext(p1battleSpell11, heroBattleSpells[11]);
 		else
-			forms.settext(p1battleSpell11, "*");
+			forms.settext(p1battleSpell11, "(" .. heroBattleSpellsLv[11] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 12)) then
 			forms.settext(p1battleSpell12, heroBattleSpells[12]);
 		else
-			forms.settext(p1battleSpell12, "*");
+			forms.settext(p1battleSpell12, "(" .. heroBattleSpellsLv[12] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 13)) then
 			forms.settext(p1battleSpell13, heroBattleSpells[13]);
 		else
-			forms.settext(p1battleSpell13, "*");
+			forms.settext(p1battleSpell13, "(" .. heroBattleSpellsLv[13] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 14)) then
 			forms.settext(p1battleSpell14, heroBattleSpells[14]);
 		else
-			forms.settext(p1battleSpell14, "*");
+			forms.settext(p1battleSpell14, "(" .. heroBattleSpellsLv[14] .. ")");
 		end
 
 		if (bit.check(p1spellBytes, 15)) then
 			forms.settext(p1battleSpell15, heroBattleSpells[15]);
 		else
-			forms.settext(p1battleSpell15, "*");
+			forms.settext(p1battleSpell15, "(" .. heroBattleSpellsLv[15] .. ")");
 		end
 
 		forms.settext(p1battleSpell16, "");
