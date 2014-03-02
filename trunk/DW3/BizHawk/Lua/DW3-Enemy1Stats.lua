@@ -9,13 +9,21 @@ forms.label(e1Window, "Ag:",     10,  40, 30, 19);
 forms.label(e1Window, "Def:",    110, 40, 30, 19);
 forms.label(e1Window, "Attack:",  10, 60, 45, 19);
 forms.label(e1Window, "Drop:",   110, 60, 34, 19);
+forms.label(e1Window, "Lv:",     10,  80, 30, 19);
+forms.label(e1Window, "Offset:", 110, 80, 40, 19);
+forms.label(e1Window, "Xp:",     10, 100, 30, 19);
+forms.label(e1Window, "Gold:",    110, 100, 30, 19);
 
-e1HPLabel      = forms.label(e1Window, "0", 41,  20, 50,  19)
-e1MPLabel      = forms.label(e1Window, "0", 141, 20, 50,  19)
-e1AgilityLabel = forms.label(e1Window, "0", 41,  40, 50,  19)
-e1DefenseLabel = forms.label(e1Window, "0", 141, 40, 50,  19)
-e1AttackLabel  = forms.label(e1Window, "0", 56,  60, 50,  19)
-e1DropLabel  =   forms.label(e1Window, "0", 141, 60, 100, 19)
+e1HPLabel      = forms.label(e1Window, "0", 41,   20, 50,  19)
+e1MPLabel      = forms.label(e1Window, "0", 141,  20, 50,  19)
+e1AgilityLabel = forms.label(e1Window, "0", 41,   40, 50,  19)
+e1DefenseLabel = forms.label(e1Window, "0", 141,  40, 50,  19)
+e1AttackLabel  = forms.label(e1Window, "0", 56,   60, 50,  19)
+e1DropLabel    = forms.label(e1Window, "0", 141,  60, 100, 19)
+e1LvLabel      = forms.label(e1Window, "0", 41,   80, 50,  19)
+e1OffsetLabel  = forms.label(e1Window, "0", 150,  80, 50,  19)
+e1XPLabel      = forms.label(e1Window, "0", 41,  100, 50,  19)
+e1GoldLabel    = forms.label(e1Window, "0", 141, 100, 50,  19)
 
 function Setup()
 	lookup[0x0]  = "Cypress Stick";
@@ -420,7 +428,7 @@ end
 Setup();
 
 memory.usememorydomain("PRG ROM");
-enemyDataOff = 0x0032EA;
+enemyDataOff = 0x0032D3;
 function UpdateVars()
 	e1HP = mainmemory.read_u16_le(0x0500);
 	e1MP = mainmemory.readbyte(0x0510); 
@@ -433,20 +441,29 @@ function UpdateVars()
 		e1DropVal = e1DropVal - 0x80;
 	end
 
-	e1MaxHP =  memory.readbyte(enemyDataOff + 7 + ((e1TypeVal) * 23));
-	e1MaxMP =  memory.readbyte(enemyDataOff + 8 + ((e1TypeVal) * 23));
-	e1Attack = memory.readbyte(enemyDataOff + 5 + ((e1TypeVal) * 23));
+	e1DataOffset = enemyDataOff + (e1TypeVal * 23);
+	e1MaxHP      = memory.readbyte(e1DataOffset + 7);
+	e1MaxMP      = memory.readbyte(e1DataOffset + 8);
+	e1Attack     = memory.readbyte(e1DataOffset + 5);
+	e1Lv         = memory.readbyte(e1DataOffset + 0);
+	e1Xp         = memory.read_u16_le(e1DataOffset + 1);
+	e1Gold       = memory.readbyte(e1DataOffset + 4);
+
 	e1Drop = lookup[e1DropVal];
 end
 
 function UpdateForm()
-	forms.settext(e1Window, "E1: " .. e1Type)
+	forms.settext(e1Window, "E1: " .. e1Type .. "(" .. e1TypeVal .. ")")
 	forms.settext(e1HPLabel, e1HP .. "/" .. e1MaxHP);
 	forms.settext(e1MPLabel, e1MP .. "/" .. e1MaxMP);
 	forms.settext(e1AgilityLabel, e1Agility);
 	forms.settext(e1DefenseLabel, e1Defense);
 	forms.settext(e1AttackLabel, e1Attack);
+	forms.settext(e1LvLabel, e1Lv);
 	forms.settext(e1DropLabel, e1Drop);	
+	forms.settext(e1OffsetLabel, string.hex(e1DataOffset));	
+	forms.settext(e1XPLabel, e1Xp);	
+	forms.settext(e1GoldLabel, e1Gold);	
 end
 
 while true do
