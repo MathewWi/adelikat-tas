@@ -80,6 +80,18 @@ SystemID NES
 074D	b	u	0	RAM	P4 Experience
 074E	b	u	0	RAM	P4 Experience byte 2
 074F	b	u	0	RAM	P4 Experience byte 3
+0750	b	u	0	RAM	P1 Return List byte 1
+0751	b	u	0	RAM	P1 Return List byte 2
+0752	b	u	0	RAM	P1 Return List byte 3
+0753	b	u	0	RAM	P2 Return List byte 1
+0754	b	u	0	RAM	P2 Return List byte 2
+0755	b	u	0	RAM	P2 Return List byte 3
+0756	b	u	0	RAM	P3 Return List byte 1
+0757	b	u	0	RAM	P3 Return List byte 2
+0758	b	u	0	RAM	P3 Return List byte 3
+0759	b	u	0	RAM	P4 Return List byte 1
+075A	b	u	0	RAM	P4 Return List byte 2
+075B	b	u	0	RAM	P4 Return List byte 3
 075C	b	h	0	RAM	P1 Name L1
 075D	b	h	0	RAM	P1 Name L2
 075E	b	h	0	RAM	P1 Name L3
@@ -179,6 +191,8 @@ SystemID NES
 07BC	b	h	0	RAM	Gold Byte 1
 07BD	b	h	0	RAM	Gold Byte 2
 07BE	b	h	0	RAM	Gold Byte 3
+07BF	b	b	0	RAM	Num Characters Registered byte 1
+07C0	b	b	0	RAM	Num CHaracters Registered byte 2
 07C1	b	u	0	RAM	P1 Character in Storage num
 07C2	b	u	0	RAM	P2 Character in Storage num
 07C3	b	u	0	RAM	P3 Character in Storage num
