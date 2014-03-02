@@ -10,10 +10,13 @@ SystemID NES
 0718	b	u	1	RAM	P1 Class/Gender
 0744	w	u	0	RAM	P1 Experience
 07BC	b	h	0	RAM	Gold
-079C	b	u	0	RAM	Battle Magic Byte 1
-079D	b	u	0	RAM	Battle Magic Byte  2
-079E	b	u	0	RAM	Battle Magic Byte  3
-079F	b	u	0	RAM	Field Magic
+079C	b	u	0	RAM	P1 Battle Magic Byte 1
+079D	b	u	0	RAM	P1 Battle Magic Byte  2
+079E	b	u	0	RAM	P1 Battle Magic Byte  3
+079F	b	u	0	RAM	P1 Field Magic
+0750	b	u	0	RAM	P1 Return List byte 1
+0751	b	u	0	RAM	P1 Return List byte 2
+0752	b	u	0	RAM	P1 Return List byte 3
 070C	b	u	0	RAM	P1 Intelligence
 0710	b	u	0	RAM	P1 Luck
 0714	b	u	0	RAM	P1 Vitality

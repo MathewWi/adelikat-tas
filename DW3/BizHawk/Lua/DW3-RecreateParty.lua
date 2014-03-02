@@ -27,7 +27,7 @@ mainmemory.writebyte(0x077E, 0xBB); --Shield of Heroes
 mainmemory.writebyte(0x077F, 0xC6); --Iron Mask
 mainmemory.writebyte(0x0780, 0xC7); --Sacred Amulet
 mainmemory.writebyte(0x0781, 0x72); --Sphere of Light
-mainmemory.writebyte(0x0781, 0x76); --Sphere of Light
+mainmemory.writebyte(0x0782, 0x76); --Rainbow Drop
 
 
 --Turn Player 2 into Fighter Male with All Magic
@@ -54,7 +54,10 @@ mainmemory.writebyte(0x0784, 0x89); --Iron Claw
 mainmemory.writebyte(0x0785, 0xA7); --Cloak of Evasion
 mainmemory.writebyte(0x0786, 0xC8); --Ring of Life
 mainmemory.writebyte(0x0787, 0x50); --Sage's Stone
-
+mainmemory.writebyte(0x0788, 0x4F); --Black Pepper
+mainmemory.writebyte(0x0789, 0x77); --1 Silver Orb
+mainmemory.writebyte(0x078A, 0x78); --2 Red Orb
+mainmemory.writebyte(0x078B, 0x79); --3 Yellow Orb
 
 --Turn Player 3 into Fighter Male with All Magic
 mainmemory.writebyte(0x071A, 06); --Fighter Male
@@ -80,6 +83,9 @@ mainmemory.writebyte(0x078C, 0x89); --Iron Claw
 mainmemory.writebyte(0x078D, 0xA7); --Cloak of Evasion
 mainmemory.writebyte(0x078E, 0xC8); --Ring of Life
 mainmemory.writebyte(0x078F, 0x50); --Sage's Stone
+mainmemory.writebyte(0x0790, 0x7A); --4 Purple Orb
+mainmemory.writebyte(0x0791, 0x7B); --5 Blue Orb
+mainmemory.writebyte(0x0792, 0x7C); --6 Green Orb
 
 
 
