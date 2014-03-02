@@ -14,4 +14,24 @@ SystemID NES
 079D	b	u	0	RAM	Battle Magic Byte  2
 079E	b	u	0	RAM	Battle Magic Byte  3
 079F	b	u	0	RAM	Field Magic
-
+070C	b	u	0	RAM	P1 Intelligence
+0710	b	u	0	RAM	P1 Luck
+0714	b	u	0	RAM	P1 Vitality
+073C	w	b	0	RAM	P1 Status
+077C	b	h	0	RAM	P1 Slot 1
+077D	b	h	0	RAM	P1 Slot 2
+077E	b	h	0	RAM	P1 Slot 3
+077F	b	h	0	RAM	P1 Slot 4
+0780	b	h	0	RAM	P1 Slot 5
+0781	b	h	0	RAM	P1 Slot 6
+0782	b	h	0	RAM	P1 Slot 7
+0783	b	h	0	RAM	P1 Slot 8
+075C	b	h	0	RAM	P1 Name L1
+075D	b	h	0	RAM	P1 Name L2
+075E	b	h	0	RAM	P1 Name L3
+075F	b	h	0	RAM	P1 Name L4
+0760	b	h	0	RAM	P1 Name L5
+0761	b	h	0	RAM	P1 Name L6
+0762	b	h	0	RAM	P1 Name L7
+0763	b	h	0	RAM	P1 Name L8
+07C1	b	u	0	RAM	P1 Character in Storage num

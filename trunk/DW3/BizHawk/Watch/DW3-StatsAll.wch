@@ -1,0 +1,244 @@
+Domain RAM
+SystemID NES
+0700	b	u	0	RAM	P1 Level
+0701	b	u	0	RAM	P2 Level
+0702	b	u	0	RAM	P3 Level
+0703	b	u	0	RAM	P4 Level
+0704	b	u	0	RAM	P1 Strength
+0705	b	u	0	RAM	P2 Strength
+0706	b	u	0	RAM	P3 Strength
+0707	b	u	0	RAM	P4 Strength
+0708	b	u	0	RAM	P1 Agility
+0709	b	u	0	RAM	P2 Agility
+070A	b	u	0	RAM	P3 Agility
+070B	b	u	0	RAM	P4 Agility
+070C	b	u	0	RAM	P1 Intelligence
+070D	b	u	0	RAM	P2 Intelligence
+070E	b	u	0	RAM	P3 Intelligence
+070F	b	u	0	RAM	P4 Intelligence
+0710	b	u	0	RAM	P1 Luck
+0711	b	u	0	RAM	P2 Luck
+0712	b	u	0	RAM	P3 Luck
+0713	b	u	0	RAM	P4 Luck
+0714	b	u	0	RAM	P1 Vitality
+0715	b	u	0	RAM	P2 Vitality
+0716	b	u	0	RAM	P3 Vitality
+0717	b	u	0	RAM	P4 Vitality
+0718	b	u	1	RAM	P1 Class/Gender
+0719	b	u	1	RAM	P2 Class/Gender
+071A	b	u	1	RAM	P3 Class/Gender
+071B	b	u	1	RAM	P4 Class/Gender
+071C	b	u	0	RAM	P1 HP
+071D	b	u	0	RAM	P1 HP byte 2
+071E	b	u	0	RAM	P2 HP
+071F	b	u	0	RAM	P2 HP byte 2
+0720	b	u	0	RAM	P3 HP
+0721	b	u	0	RAM	P3 HP byte 2
+0722	b	u	0	RAM	P4 HP
+0723	b	u	0	RAM	P4 HP byte 2
+0724	b	u	0	RAM	P1 Max HP
+0725	b	u	0	RAM	P1 Max HP byte 2
+0726	b	u	0	RAM	P2 Max HP
+0727	b	u	0	RAM	P2 Max HP byte 2
+0728	b	u	0	RAM	P3 Max HP
+0729	b	u	0	RAM	P3 Max HP byte 2
+072A	b	u	0	RAM	P4 Max HP
+072B	b	u	0	RAM	P4 Max HP byte 2
+072C	b	u	0	RAM	P1 MP
+072D	b	u	0	RAM	P1 MP byte 2
+072E	b	u	0	RAM	P2 MP
+072F	b	u	0	RAM	P2 MP byte 2
+0730	b	u	0	RAM	P3 MP
+0731	b	u	0	RAM	P3 MP byte 2
+0732	b	u	0	RAM	P4 MP
+0733	b	u	0	RAM	P4 MP byte 2
+0734	b	u	0	RAM	P1 Max MP
+0735	b	u	0	RAM	P1 Max MP byte 2
+0736	b	u	0	RAM	P2 Max MP
+0737	b	u	0	RAM	P2 Max MP byte 2
+0738	b	u	0	RAM	P3 Max MP
+0739	b	u	0	RAM	P3 Max MP byte 2
+073A	b	u	0	RAM	P4 Max MP
+073B	b	u	0	RAM	P4 Max MP byte 2
+073C	b	u	0	RAM	P1 Status
+073D	b	u	0	RAM	P1 Status byte 2
+073E	b	u	0	RAM	P2 Status
+073F	b	u	0	RAM	P2 Status byte 2
+0740	b	u	0	RAM	P3 Status
+0741	b	u	0	RAM	P3 Status byte 2
+0742	b	u	0	RAM	P4 Status
+0743	b	u	0	RAM	P4 Status byte 2
+0744	b	u	0	RAM	P1 Experience
+0745	b	u	0	RAM	P1 Experience byte 2
+0746	b	u	0	RAM	P1 Experience byte 3
+0747	b	u	0	RAM	P2 Experience
+0748	b	u	0	RAM	P2 Experience byte 2
+0749	b	u	0	RAM	P2 Experience byte 3
+074A	b	u	0	RAM	P3 Experience
+074B	b	u	0	RAM	P3 Experience byte 2
+074C	b	u	0	RAM	P3 Experience byte 3
+074D	b	u	0	RAM	P4 Experience
+074E	b	u	0	RAM	P4 Experience byte 2
+074F	b	u	0	RAM	P4 Experience byte 3
+075C	b	h	0	RAM	P1 Name L1
+075D	b	h	0	RAM	P1 Name L2
+075E	b	h	0	RAM	P1 Name L3
+075F	b	h	0	RAM	P1 Name L4
+0760	b	h	0	RAM	P1 Name L5
+0761	b	h	0	RAM	P1 Name L6
+0762	b	h	0	RAM	P1 Name L7
+0763	b	h	0	RAM	P1 Name L8
+0764	b	h	0	RAM	P2 Name L1
+0765	b	h	0	RAM	P2 Name L2
+0766	b	h	0	RAM	P2 Name L3
+0767	b	h	0	RAM	P2 Name L4
+0768	b	h	0	RAM	P2 Name L5
+0769	b	h	0	RAM	P2 Name L6
+076A	b	h	0	RAM	P2 Name L7
+076B	b	h	0	RAM	P2 Name L8
+076C	b	h	0	RAM	P3 Name L1
+076D	b	h	0	RAM	P3 Name L2
+076E	b	h	0	RAM	P3 Name L3
+076F	b	h	0	RAM	P3 Name L4
+0770	b	h	0	RAM	P3 Name L5
+0771	b	h	0	RAM	P3 Name L6
+0772	b	h	0	RAM	P3 Name L7
+0773	b	h	0	RAM	P3 Name L8
+0774	b	h	0	RAM	P4 Name L1
+0775	b	h	0	RAM	P4 Name L2
+0776	b	h	0	RAM	P4 Name L3
+0777	b	h	0	RAM	P4 Name L4
+0778	b	h	0	RAM	P4 Name L5
+0779	b	h	0	RAM	P4 Name L6
+077A	b	h	0	RAM	P4 Name L7
+077B	b	h	0	RAM	P4 Name L8
+077C	b	u	0	RAM	P1 Slot 1
+077D	b	u	0	RAM	P1 Slot 2
+077E	b	u	0	RAM	P1 Slot 3
+077F	b	u	0	RAM	P1 Slot 4
+0780	b	u	0	RAM	P1 Slot 5
+0781	b	u	0	RAM	P1 Slot 6
+0782	b	u	0	RAM	P1 Slot 7
+0783	b	u	0	RAM	P1 Slot 8
+0784	b	u	0	RAM	P2 Slot 1
+0785	b	u	0	RAM	P2 Slot 2
+0786	b	u	0	RAM	P2 Slot 3
+0787	b	u	0	RAM	P2 Slot 4
+0788	b	u	0	RAM	P2 Slot 5
+0789	b	u	0	RAM	P2 Slot 6
+078A	b	u	0	RAM	P2 Slot 7
+078B	b	u	0	RAM	P2 Slot 8
+078C	b	u	0	RAM	P3 Slot 1
+078D	b	u	0	RAM	P3 Slot 2
+078E	b	u	0	RAM	P3 Slot 3
+078F	b	u	0	RAM	P3 Slot 4
+0790	b	u	0	RAM	P3 Slot 5
+0791	b	u	0	RAM	P3 Slot 6
+0792	b	u	0	RAM	P3 Slot 7
+0793	b	u	0	RAM	P3 Slot 8
+0794	b	u	0	RAM	P4 Slot 1
+0795	b	u	0	RAM	P4 Slot 2
+0796	b	u	0	RAM	P4 Slot 3
+0797	b	u	0	RAM	P4 Slot 4
+0798	b	u	0	RAM	P4 Slot 5
+0799	b	u	0	RAM	P4 Slot 6
+079A	b	u	0	RAM	P4 Slot 7
+079B	b	u	0	RAM	P4 Slot 8
+079C	b	u	0	RAM	P1 Wizard Battle Magic Byte 1
+079D	b	u	0	RAM	P1 Wizard Battle Magic Byte 2
+079E	b	u	0	RAM	P1 Wizard Battle Magic Byte 3
+079F	b	u	0	RAM	P1 Wizard Field Magic
+07A0	b	u	0	RAM	P1 Pilgram Battle Magic Byte 1
+07A1	b	u	0	RAM	P1 Pilgram Battle Magic Byte 2
+07A2	b	u	0	RAM	P1 Pilgram Battle Magic Byte 3
+07A3	b	u	0	RAM	P1 Pilgram Field Magic
+07A4	b	u	0	RAM	P2 Wizard Battle Magic Byte 1
+07A5	b	u	0	RAM	P2 Wizard Battle Magic Byte 2
+07A6	b	u	0	RAM	P2 Wizard Battle Magic Byte 3
+07A7	b	u	0	RAM	P2 Wizard Field Magic
+07A8	b	u	0	RAM	P2 Pilgram Battle Magic Byte 1
+07A9	b	u	0	RAM	P2 Pilgram Battle Magic Byte 2
+07AA	b	u	0	RAM	P2 Pilgram Battle Magic Byte 3
+07AB	b	u	0	RAM	P2 Pilgram Field Magic
+07AC	b	u	0	RAM	P3 Wizard Battle Magic Byte 1
+07AD	b	u	0	RAM	P3 Wizard Battle Magic Byte 2
+07AE	b	u	0	RAM	P3 Wizard Battle Magic Byte 3
+07AF	b	u	0	RAM	P3 Wizard Field Magic
+07B0	b	u	0	RAM	P3 Pilgram Battle Magic Byte 1
+07B1	b	u	0	RAM	P3 Pilgram Battle Magic Byte 2
+07B2	b	u	0	RAM	P3 Pilgram Battle Magic Byte 3
+07B3	b	u	0	RAM	P3 Pilgram Field Magic
+07B4	b	u	0	RAM	P4 Wizard Battle Magic Byte 1
+07B5	b	u	0	RAM	P4 Wizard Battle Magic Byte 2
+07B6	b	u	0	RAM	P4 Wizard Battle Magic Byte 3
+07B7	b	u	0	RAM	P4 Wizard Field Magic
+07B8	b	u	0	RAM	P4 Pilgram Battle Magic Byte 1
+07B9	b	u	0	RAM	P4 Pilgram Battle Magic Byte 2
+07BA	b	u	0	RAM	P4 Pilgram Battle Magic Byte 3
+07BB	b	u	0	RAM	P4 Pilgram Field Magic
+07BC	b	h	0	RAM	Gold Byte 1
+07BD	b	h	0	RAM	Gold Byte 2
+07BE	b	h	0	RAM	Gold Byte 3
+07C1	b	u	0	RAM	P1 Character in Storage num
+07C2	b	u	0	RAM	P2 Character in Storage num
+07C3	b	u	0	RAM	P3 Character in Storage num
+07C4	b	u	0	RAM	P4 Character in Storage num
+07C5	b	u	0	RAM	Unused
+07C6	b	u	0	RAM	Unused
+07C7	b	u	0	RAM	Unused
+07C8	b	u	0	RAM	Unused
+07C9	b	u	0	RAM	Unused
+07CA	b	u	0	RAM	Unused
+07CB	b	u	0	RAM	Unused
+07CC	b	u	0	RAM	Unused
+07CD	b	u	0	RAM	Unused
+07CE	b	u	0	RAM	Unused
+07CF	b	u	0	RAM	Unused
+07D0	b	u	0	RAM	Unused
+07D1	b	u	0	RAM	Unused
+07D2	b	u	0	RAM	Unused
+07D3	b	u	0	RAM	Unused
+07D4	b	u	0	RAM	Unused
+07D5	b	u	0	RAM	Unused
+07D6	b	u	0	RAM	Unused
+07D7	b	u	0	RAM	Unused
+07D8	b	u	0	RAM	Unused
+07D9	b	u	0	RAM	Unused
+07DA	b	u	0	RAM	Unused
+07DB	b	u	0	RAM	Unused
+07DC	b	u	0	RAM	Unused
+07DD	b	u	0	RAM	Unused
+07DE	b	u	0	RAM	Unused
+07DF	b	u	0	RAM	Unused
+07E0	b	u	0	RAM	Unused
+07E1	b	u	0	RAM	Unused
+07E2	b	u	0	RAM	Unused
+07E3	b	u	0	RAM	Unused
+07E4	b	u	0	RAM	Unused
+07E5	b	u	0	RAM	Unused
+07E6	b	u	0	RAM	Unused
+07E7	b	u	0	RAM	Unused
+07E8	b	u	0	RAM	Unused
+07E9	b	u	0	RAM	Unused
+07EA	b	u	0	RAM	Unused
+07EB	b	u	0	RAM	Unused
+07EC	b	u	0	RAM	Unused
+07ED	b	u	0	RAM	Unused
+07EE	b	u	0	RAM	Unused
+07EF	b	u	0	RAM	Unused
+07F0	b	u	0	RAM	Unused
+07F1	b	u	0	RAM	Unused
+07F2	b	u	0	RAM	Unused
+07F3	b	u	0	RAM	Unused
+07F4	b	u	0	RAM	Unused
+07F5	b	u	0	RAM	Unused
+07F6	b	u	0	RAM	Unused
+07F7	b	u	0	RAM	Unused
+07F8	b	u	0	RAM	Unused
+07F9	b	u	0	RAM	Unused
+07FA	b	u	0	RAM	Unused
+07FB	b	u	0	RAM	Unused
+07FC	b	u	0	RAM	Unused
+07FD	b	u	0	RAM	Unused
+07FE	b	u	0	RAM	Unused
+07FF	b	u	0	RAM	Unused
