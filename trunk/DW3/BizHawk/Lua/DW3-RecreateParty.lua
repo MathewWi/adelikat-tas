@@ -3,6 +3,10 @@
 --Gold
 mainmemory.write_u24_le(0x07BC, 99999)
 
+--Flags
+memory.usememorydomain("System Bus");
+memory.writebyte(0x60B8, 128)
+
 --Upgrade Hero
 mainmemory.write_u24_le(0x0744, 9999999); --XP
 mainmemory.writebyte(0x0700, 99); --Level
