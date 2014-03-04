@@ -3,6 +3,9 @@ SystemID NES
 001C	b	u	0	RAM	RNG
 004D	b	u	0	RAM	RNG
 00A4	b	u	0	RAM	RNG
+0051	b	u	0	RAM	Battles - Who's turn it is
+06DE	b	u	0	RAM	Time of day (sub bytes)
+06DF	b	u	0	RAM	Time of day
 07BC	b	u	0	RAM	Gold
 07BD	b	u	0	RAM	Gold byte2
 071C	w	u	0	RAM	1st Party Mem Curr HP

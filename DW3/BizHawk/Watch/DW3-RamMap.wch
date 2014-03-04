@@ -1,6 +1,266 @@
 Domain RAM
 SystemID NES
+001C	b	u	0	RAM	RNG
+004C	b	u	0	RAM	RNG
+0051	b	u	0	RAM	Battles - Who's turn it is
+00A4	b	u	0	RAM	RNG
 002C	b	u	0	RAM	Party Travel type (ground, ship, air)
+0200	b	u	0	RAM	On Screen Sprite data Player 1
+0201	b	u	0	RAM	On Screen Sprite data Player 1
+0202	b	u	0	RAM	On Screen Sprite data Player 1
+0203	b	u	0	RAM	On Screen Sprite data Player 1
+0204	b	u	0	RAM	On Screen Sprite data Player 1
+0205	b	u	0	RAM	On Screen Sprite data Player 1
+0206	b	u	0	RAM	On Screen Sprite data Player 1
+0207	b	u	0	RAM	On Screen Sprite data Player 1
+0208	b	u	0	RAM	On Screen Sprite data Player 1
+0209	b	u	0	RAM	On Screen Sprite data Player 1
+020A	b	u	0	RAM	On Screen Sprite data Player 1
+020B	b	u	0	RAM	On Screen Sprite data Player 1
+020C	b	u	0	RAM	On Screen Sprite data Player 1
+020D	b	u	0	RAM	On Screen Sprite data Player 1
+020E	b	u	0	RAM	On Screen Sprite data Player 1
+020F	b	u	0	RAM	On Screen Sprite data Player 1
+0210	b	u	0	RAM	On Screen Sprite data Player 2
+0211	b	u	0	RAM	On Screen Sprite data Player 2
+0212	b	u	0	RAM	On Screen Sprite data Player 2
+0213	b	u	0	RAM	On Screen Sprite data Player 2
+0214	b	u	0	RAM	On Screen Sprite data Player 2
+0215	b	u	0	RAM	On Screen Sprite data Player 2
+0216	b	u	0	RAM	On Screen Sprite data Player 2
+0217	b	u	0	RAM	On Screen Sprite data Player 2
+0218	b	u	0	RAM	On Screen Sprite data Player 2
+0219	b	u	0	RAM	On Screen Sprite data Player 2
+021A	b	u	0	RAM	On Screen Sprite data Player 2
+021B	b	u	0	RAM	On Screen Sprite data Player 2
+021C	b	u	0	RAM	On Screen Sprite data Player 2
+021D	b	u	0	RAM	On Screen Sprite data Player 2
+021E	b	u	0	RAM	On Screen Sprite data Player 2
+021F	b	u	0	RAM	On Screen Sprite data Player 2
+0220	b	u	0	RAM	On Screen Sprite data Player 3
+0221	b	u	0	RAM	On Screen Sprite data Player 3
+0222	b	u	0	RAM	On Screen Sprite data Player 3
+0223	b	u	0	RAM	On Screen Sprite data Player 3
+0224	b	u	0	RAM	On Screen Sprite data Player 3
+0225	b	u	0	RAM	On Screen Sprite data Player 3
+0226	b	u	0	RAM	On Screen Sprite data Player 3
+0227	b	u	0	RAM	On Screen Sprite data Player 3
+0228	b	u	0	RAM	On Screen Sprite data Player 3
+0229	b	u	0	RAM	On Screen Sprite data Player 3
+022A	b	u	0	RAM	On Screen Sprite data Player 3
+022B	b	u	0	RAM	On Screen Sprite data Player 3
+022C	b	u	0	RAM	On Screen Sprite data Player 3
+022D	b	u	0	RAM	On Screen Sprite data Player 3
+022E	b	u	0	RAM	On Screen Sprite data Player 3
+022F	b	u	0	RAM	On Screen Sprite data Player 3
+0230	b	u	0	RAM	On Screen Sprite data Player 4
+0231	b	u	0	RAM	On Screen Sprite data Player 4
+0232	b	u	0	RAM	On Screen Sprite data Player 4
+0233	b	u	0	RAM	On Screen Sprite data Player 4
+0234	b	u	0	RAM	On Screen Sprite data Player 4
+0235	b	u	0	RAM	On Screen Sprite data Player 4
+0236	b	u	0	RAM	On Screen Sprite data Player 4
+0237	b	u	0	RAM	On Screen Sprite data Player 4
+0238	b	u	0	RAM	On Screen Sprite data Player 4
+0239	b	u	0	RAM	On Screen Sprite data Player 4
+023A	b	u	0	RAM	On Screen Sprite data Player 4
+023B	b	u	0	RAM	On Screen Sprite data Player 4
+023C	b	u	0	RAM	On Screen Sprite data Player 4
+023D	b	u	0	RAM	On Screen Sprite data Player 4
+023E	b	u	0	RAM	On Screen Sprite data Player 4
+023F	b	u	0	RAM	On Screen Sprite data Player 4
+0240	b	u	0	RAM	On Screen Sprite data
+0241	b	u	0	RAM	On Screen Sprite data
+0242	b	u	0	RAM	On Screen Sprite data
+0243	b	u	0	RAM	On Screen Sprite data
+0244	b	u	0	RAM	On Screen Sprite data
+0245	b	u	0	RAM	On Screen Sprite data
+0246	b	u	0	RAM	On Screen Sprite data
+0247	b	u	0	RAM	On Screen Sprite data
+0248	b	u	0	RAM	On Screen Sprite data
+0249	b	u	0	RAM	On Screen Sprite data
+024A	b	u	0	RAM	On Screen Sprite data
+024B	b	u	0	RAM	On Screen Sprite data
+024C	b	u	0	RAM	On Screen Sprite data
+024D	b	u	0	RAM	On Screen Sprite data
+024E	b	u	0	RAM	On Screen Sprite data
+024F	b	u	0	RAM	On Screen Sprite data
+0250	b	u	0	RAM	On Screen Sprite data
+0251	b	u	0	RAM	On Screen Sprite data
+0252	b	u	0	RAM	On Screen Sprite data
+0253	b	u	0	RAM	On Screen Sprite data
+0254	b	u	0	RAM	On Screen Sprite data
+0255	b	u	0	RAM	On Screen Sprite data
+0256	b	u	0	RAM	On Screen Sprite data
+0257	b	u	0	RAM	On Screen Sprite data
+0258	b	u	0	RAM	On Screen Sprite data
+0259	b	u	0	RAM	On Screen Sprite data
+025A	b	u	0	RAM	On Screen Sprite data
+025B	b	u	0	RAM	On Screen Sprite data
+025C	b	u	0	RAM	On Screen Sprite data
+025D	b	u	0	RAM	On Screen Sprite data
+025E	b	u	0	RAM	On Screen Sprite data
+025F	b	u	0	RAM	On Screen Sprite data
+0260	b	u	0	RAM	On Screen Sprite data
+0261	b	u	0	RAM	On Screen Sprite data
+0262	b	u	0	RAM	On Screen Sprite data
+0263	b	u	0	RAM	On Screen Sprite data
+0264	b	u	0	RAM	On Screen Sprite data
+0265	b	u	0	RAM	On Screen Sprite data
+0266	b	u	0	RAM	On Screen Sprite data
+0267	b	u	0	RAM	On Screen Sprite data
+0268	b	u	0	RAM	On Screen Sprite data
+0269	b	u	0	RAM	On Screen Sprite data
+026A	b	u	0	RAM	On Screen Sprite data
+026B	b	u	0	RAM	On Screen Sprite data
+026C	b	u	0	RAM	On Screen Sprite data
+026D	b	u	0	RAM	On Screen Sprite data
+026E	b	u	0	RAM	On Screen Sprite data
+026F	b	u	0	RAM	On Screen Sprite data
+0270	b	u	0	RAM	On Screen Sprite data
+0271	b	u	0	RAM	On Screen Sprite data
+0272	b	u	0	RAM	On Screen Sprite data
+0273	b	u	0	RAM	On Screen Sprite data
+0274	b	u	0	RAM	On Screen Sprite data
+0275	b	u	0	RAM	On Screen Sprite data
+0276	b	u	0	RAM	On Screen Sprite data
+0277	b	u	0	RAM	On Screen Sprite data
+0278	b	u	0	RAM	On Screen Sprite data
+0279	b	u	0	RAM	On Screen Sprite data
+027A	b	u	0	RAM	On Screen Sprite data
+027B	b	u	0	RAM	On Screen Sprite data
+027C	b	u	0	RAM	On Screen Sprite data
+027D	b	u	0	RAM	On Screen Sprite data
+027E	b	u	0	RAM	On Screen Sprite data
+027F	b	u	0	RAM	On Screen Sprite data
+0280	b	u	0	RAM	On Screen Sprite data
+0281	b	u	0	RAM	On Screen Sprite data
+0282	b	u	0	RAM	On Screen Sprite data
+0283	b	u	0	RAM	On Screen Sprite data
+0284	b	u	0	RAM	On Screen Sprite data
+0285	b	u	0	RAM	On Screen Sprite data
+0286	b	u	0	RAM	On Screen Sprite data
+0287	b	u	0	RAM	On Screen Sprite data
+0288	b	u	0	RAM	On Screen Sprite data
+0289	b	u	0	RAM	On Screen Sprite data
+028A	b	u	0	RAM	On Screen Sprite data
+028B	b	u	0	RAM	On Screen Sprite data
+028C	b	u	0	RAM	On Screen Sprite data
+028D	b	u	0	RAM	On Screen Sprite data
+028E	b	u	0	RAM	On Screen Sprite data
+028F	b	u	0	RAM	On Screen Sprite data
+0290	b	u	0	RAM	On Screen Sprite data
+0291	b	u	0	RAM	On Screen Sprite data
+0292	b	u	0	RAM	On Screen Sprite data
+0293	b	u	0	RAM	On Screen Sprite data
+0294	b	u	0	RAM	On Screen Sprite data
+0295	b	u	0	RAM	On Screen Sprite data
+0296	b	u	0	RAM	On Screen Sprite data
+0297	b	u	0	RAM	On Screen Sprite data
+0298	b	u	0	RAM	On Screen Sprite data
+0299	b	u	0	RAM	On Screen Sprite data
+029A	b	u	0	RAM	On Screen Sprite data
+029B	b	u	0	RAM	On Screen Sprite data
+029C	b	u	0	RAM	On Screen Sprite data
+029D	b	u	0	RAM	On Screen Sprite data
+029E	b	u	0	RAM	On Screen Sprite data
+029F	b	u	0	RAM	On Screen Sprite data
+02A0	b	u	0	RAM	On Screen Sprite data
+02A1	b	u	0	RAM	On Screen Sprite data
+02A2	b	u	0	RAM	On Screen Sprite data
+02A3	b	u	0	RAM	On Screen Sprite data
+02A4	b	u	0	RAM	On Screen Sprite data
+02A5	b	u	0	RAM	On Screen Sprite data
+02A6	b	u	0	RAM	On Screen Sprite data
+02A7	b	u	0	RAM	On Screen Sprite data
+02A8	b	u	0	RAM	On Screen Sprite data
+02A9	b	u	0	RAM	On Screen Sprite data
+02AA	b	u	0	RAM	On Screen Sprite data
+02AB	b	u	0	RAM	On Screen Sprite data
+02AC	b	u	0	RAM	On Screen Sprite data
+02AD	b	u	0	RAM	On Screen Sprite data
+02AE	b	u	0	RAM	On Screen Sprite data
+02AF	b	u	0	RAM	On Screen Sprite data
+02B0	b	u	0	RAM	On Screen Sprite data
+02B1	b	u	0	RAM	On Screen Sprite data
+02B2	b	u	0	RAM	On Screen Sprite data
+02B3	b	u	0	RAM	On Screen Sprite data
+02B4	b	u	0	RAM	On Screen Sprite data
+02B5	b	u	0	RAM	On Screen Sprite data
+02B6	b	u	0	RAM	On Screen Sprite data
+02B7	b	u	0	RAM	On Screen Sprite data
+02B8	b	u	0	RAM	On Screen Sprite data
+02B9	b	u	0	RAM	On Screen Sprite data
+02BA	b	u	0	RAM	On Screen Sprite data
+02BB	b	u	0	RAM	On Screen Sprite data
+02BC	b	u	0	RAM	On Screen Sprite data
+02BD	b	u	0	RAM	On Screen Sprite data
+02BE	b	u	0	RAM	On Screen Sprite data
+02BF	b	u	0	RAM	On Screen Sprite data
+02C0	b	u	0	RAM	On Screen Sprite data
+02C1	b	u	0	RAM	On Screen Sprite data
+02C2	b	u	0	RAM	On Screen Sprite data
+02C3	b	u	0	RAM	On Screen Sprite data
+02C4	b	u	0	RAM	On Screen Sprite data
+02C5	b	u	0	RAM	On Screen Sprite data
+02C6	b	u	0	RAM	On Screen Sprite data
+02C7	b	u	0	RAM	On Screen Sprite data
+02C8	b	u	0	RAM	On Screen Sprite data
+02C9	b	u	0	RAM	On Screen Sprite data
+02CA	b	u	0	RAM	On Screen Sprite data
+02CB	b	u	0	RAM	On Screen Sprite data
+02CC	b	u	0	RAM	On Screen Sprite data
+02CD	b	u	0	RAM	On Screen Sprite data
+02CE	b	u	0	RAM	On Screen Sprite data
+02CF	b	u	0	RAM	On Screen Sprite data
+02D0	b	u	0	RAM	On Screen Sprite data
+02D1	b	u	0	RAM	On Screen Sprite data
+02D2	b	u	0	RAM	On Screen Sprite data
+02D3	b	u	0	RAM	On Screen Sprite data
+02D4	b	u	0	RAM	On Screen Sprite data
+02D5	b	u	0	RAM	On Screen Sprite data
+02D6	b	u	0	RAM	On Screen Sprite data
+02D7	b	u	0	RAM	On Screen Sprite data
+02D8	b	u	0	RAM	On Screen Sprite data
+02D9	b	u	0	RAM	On Screen Sprite data
+02DA	b	u	0	RAM	On Screen Sprite data
+02DB	b	u	0	RAM	On Screen Sprite data
+02DC	b	u	0	RAM	On Screen Sprite data
+02DD	b	u	0	RAM	On Screen Sprite data
+02DE	b	u	0	RAM	On Screen Sprite data
+02DF	b	u	0	RAM	On Screen Sprite data
+02E0	b	u	0	RAM	On Screen Sprite data
+02E1	b	u	0	RAM	On Screen Sprite data
+02E2	b	u	0	RAM	On Screen Sprite data
+02E3	b	u	0	RAM	On Screen Sprite data
+02E4	b	u	0	RAM	On Screen Sprite data
+02E5	b	u	0	RAM	On Screen Sprite data
+02E6	b	u	0	RAM	On Screen Sprite data
+02E7	b	u	0	RAM	On Screen Sprite data
+02E8	b	u	0	RAM	On Screen Sprite data
+02E9	b	u	0	RAM	On Screen Sprite data
+02EA	b	u	0	RAM	On Screen Sprite data
+02EB	b	u	0	RAM	On Screen Sprite data
+02EC	b	u	0	RAM	On Screen Sprite data
+02ED	b	u	0	RAM	On Screen Sprite data
+02EE	b	u	0	RAM	On Screen Sprite data
+02EF	b	u	0	RAM	On Screen Sprite data
+02F0	b	u	0	RAM	On Screen Sprite data
+02F1	b	u	0	RAM	On Screen Sprite data
+02F2	b	u	0	RAM	On Screen Sprite data
+02F3	b	u	0	RAM	On Screen Sprite data
+02F4	b	u	0	RAM	On Screen Sprite data
+02F5	b	u	0	RAM	On Screen Sprite data
+02F6	b	u	0	RAM	On Screen Sprite data
+02F7	b	u	0	RAM	On Screen Sprite data
+02F8	b	u	0	RAM	On Screen Sprite data
+02F9	b	u	0	RAM	On Screen Sprite data
+02FA	b	u	0	RAM	On Screen Sprite data
+02FB	b	u	0	RAM	On Screen Sprite data
+02FC	b	u	0	RAM	On Screen Sprite data
+02FD	b	u	0	RAM	On Screen Sprite data
+02FE	b	u	0	RAM	On Screen Sprite data
+02FF	b	u	0	RAM	On Screen Sprite data
 0500	b	u	0	RAM	Enemy 1 HP
 0501	b	u	0	RAM	Enemy 1 HP byte 2
 0502	b	u	0	RAM	Enemy 2 HP
@@ -74,6 +334,10 @@ SystemID NES
 0572	b	h	0	RAM	Group 2 Count
 0573	b	h	0	RAM	Group 3 Count
 0574	b	h	0	RAM	Group 4 Count
+06DE	b	u	0	RAM	Level (World?) X Position
+06DE	b	u	0	RAM	Level (World?) Y Position
+06DE	b	u	0	RAM	Time of day (sub bytes)
+06DF	b	u	0	RAM	Time of day
 0700	b	u	0	RAM	P1 Level
 0701	b	u	0	RAM	P2 Level
 0702	b	u	0	RAM	P3 Level
