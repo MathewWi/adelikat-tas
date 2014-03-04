@@ -5,7 +5,8 @@ mainmemory.write_u24_le(0x07BC, 99999)
 
 --Flags
 memory.usememorydomain("System Bus");
-memory.writebyte(0x60B8, 128)
+memory.writebyte(0x60B8, 128); --Ship Flag
+memory.writebyte(0x60B9, 128); --Phoenix Flag
 
 --Upgrade Hero
 mainmemory.write_u24_le(0x0744, 9999999); --XP

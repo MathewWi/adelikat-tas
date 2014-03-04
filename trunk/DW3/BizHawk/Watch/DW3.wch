@@ -19,4 +19,5 @@ SystemID NES
 0506	w	u	0	RAM	Enemy 4 HP
 0508	w	u	0	RAM	ENemy 5 HP
 60B8	b	u	0	System Bus	Ship status flag
+60B9	b	u	0	System Bus	Phoenix Flag
 
