@@ -1198,6 +1198,9 @@ forms.label(p1Window, "XP:",    110, 40,  30, 19);
 forms.label(p1Window, "Gold:",  210, 20,  33, 19);
 forms.label(p1Window, "Lv:",     10, 40,  30, 19);
 forms.label(p1Window, "To go:", 210, 40,  38, 19);
+forms.label(p1Window, "Str:",    10, 60,  30, 19);
+forms.label(p1Window, "Attack:", 70, 60,  42, 19);
+forms.label(p1Window, "Ag:",    145, 60,  23, 19);
 
 p1HPLabel     = forms.label(p1Window, "0", 41,  20, 100, 19)
 p1MPLabel     = forms.label(p1Window, "0", 141, 20, 100, 19)
@@ -1205,6 +1208,9 @@ p1XPLabel     = forms.label(p1Window, "0", 141, 40,  50, 19)
 p1GoldLabel   = forms.label(p1Window, "0", 245, 20, 150, 19)
 p1LevelLabel  = forms.label(p1Window, "0", 41,  40, 150, 19)
 p1XpToGoLabel = forms.label(p1Window, "0", 245, 40,  45, 19)
+p1StrLabel    = forms.label(p1Window, "0",  41, 60,  45, 19)
+p1AttackLabel = forms.label(p1Window, "0", 110, 60,  50, 19)
+p1AgLabel     = forms.label(p1Window, "0", 165, 60,  45, 19)
 
 forms.label(p1Window, "Inventory", 10, 100, 100, 19)
 forms.label(p1Window, "Slot 1:", 20, 120, 50, 19)
@@ -1289,15 +1295,29 @@ p1battleSpell23 = forms.label(p1Window, "*", 230, 510, 70, 19);
 
 
 function UpdateVars()
-	p1Slot1 = lookup[mainmemory.readbyte(0x077C)]; 
-	p1Slot2 = lookup[mainmemory.readbyte(0x077D)]; 
-	p1Slot3 = lookup[mainmemory.readbyte(0x077E)]; 
-	p1Slot4 = lookup[mainmemory.readbyte(0x077F)]; 
+	p1Slot1Val = mainmemory.readbyte(0x077C);
+	p1Slot1 = lookup[p1Slot1Val]; 
+	
+	p1Slot2Val = mainmemory.readbyte(0x077D);
+	p1Slot2 = lookup[p1Slot2Val]; 
 
-	p1Slot5 = lookup[mainmemory.readbyte(0x0780)]; 
-	p1Slot6 = lookup[mainmemory.readbyte(0x0781)]; 
-	p1Slot7 = lookup[mainmemory.readbyte(0x0782)]; 
-	p1Slot8 = lookup[mainmemory.readbyte(0x0783)];
+	p1Slot3Val = mainmemory.readbyte(0x077E);
+	p1Slot3 = lookup[p1Slot3Val]; 
+
+	p1Slot4Val = mainmemory.readbyte(0x077F);
+	p1Slot4 = lookup[p1Slot4Val]; 
+
+	p1Slot5Val = mainmemory.readbyte(0x0780);
+	p1Slot5 = lookup[p1Slot5Val]; 
+
+	p1Slot6Val = mainmemory.readbyte(0x0781);
+	p1Slot6 = lookup[p1Slot6Val];
+
+	p1Slot7Val = mainmemory.readbyte(0x0782);
+	p1Slot7 = lookup[p1Slot7Val]; 
+	
+	p1Slot8Val = mainmemory.readbyte(0x0783);
+	p1Slot8 = lookup[p1Slot8Val];
 
 	p1HP = mainmemory.read_u16_le(0x071C);
 	p1MaxHP = mainmemory.read_u16_le(0x0724);
@@ -1307,7 +1327,8 @@ function UpdateVars()
 	p1ClassVal = mainmemory.readbyte(0x0718);
 	p1Class = classLookup[p1ClassVal];
 	p1Level = mainmemory.readbyte(0x0700);
-
+	p1Str = mainmemory.readbyte(0x0704);
+	p1Ag = mainmemory.readbyte(0x0708);
 	gold = mainmemory.read_u24_le(0x07BC);
 
 	p1returnbytes = mainmemory.read_u32_le(0x0750);
@@ -1327,6 +1348,8 @@ function UpdateForm()
 	forms.settext(p1GoldLabel, gold);
 	forms.settext(p1LevelLabel, p1Level);
 	forms.settext(p1XpToGoLabel, p1XpToGo);
+	forms.settext(p1StrLabel, p1Str);
+	forms.settext(p1AgLabel, p1Ag);
 
 	forms.settext(p1Slot1Label, p1Slot1);
 	forms.settext(p1Slot2Label, p1Slot2);
@@ -1336,6 +1359,7 @@ function UpdateForm()
 	forms.settext(p1Slot6Label, p1Slot6);
 	forms.settext(p1Slot7Label, p1Slot7);
 	forms.settext(p1Slot8Label, p1Slot8);
+	forms.settext(p1AttackLabel, p1AttackPower);
 end
 
 function UpdateReturnList()
@@ -1618,8 +1642,31 @@ function UpdateSpellList()
 	end
 end
 
+function CalculateAttackPower()
+	p1AttackPower = p1Str;
+
+	if (p1Slot1Val >= 0x80 and weaponPowerLookup[p1Slot1Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot1Val - 0x80];
+	elseif (p1Slot2Val >= 0x80 and weaponPowerLookup[p1Slot2Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot2Val - 0x80];
+	elseif (p1Slot3Val >= 0x80 and weaponPowerLookup[p1Slot3Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot3Val - 0x80];
+	elseif (p1Slot4Val >= 0x80 and weaponPowerLookup[p1Slot4Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot4Val - 0x80];
+	elseif (p1Slot5Val >= 0x80 and weaponPowerLookup[p1Slot5Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot5Val - 0x80];
+	elseif (p1Slot6Val >= 0x80 and weaponPowerLookup[p1Slot6Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot6Val - 0x80];
+	elseif (p1Slot7Val >= 0x80 and weaponPowerLookup[p1Slot7Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot7Val - 0x80];
+	elseif (p1Slot8Val >= 0x80 and weaponPowerLookup[p1Slot8Val - 0x80] ~= nil) then
+		p1AttackPower = p1AttackPower + weaponPowerLookup[p1Slot8Val - 0x80];
+	end
+end
+
 while true do
 	UpdateVars();
+	CalculateAttackPower();
 	UpdateForm();
 	UpdateReturnList();
 	UpdateSpellList();
