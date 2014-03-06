@@ -1,6 +1,46 @@
 --TODO
 --Female characters
 --Non-hero spells
+armorPowerLookup = { };
+armorPowerLookup["Angel's Robe"] = 35;
+armorPowerLookup["Animal Suit"] =	8;
+armorPowerLookup["Armor of Hades"] = 65;
+armorPowerLookup["Armor of Radiance"] = 75;
+armorPowerLookup["Armor of Terrafirma"] = 50;
+armorPowerLookup["Chain Mail"] = 20;
+armorPowerLookup["Cloak of Evasion"] = 20;
+armorPowerLookup["Clothes"] =	4;
+armorPowerLookup["Dragon Mail"] =	45;
+armorPowerLookup["Fighting Suit"] = 23;
+armorPowerLookup["Flashy Clothes"] = 28;
+armorPowerLookup["Full Plate Armor"] = 32;
+armorPowerLookup["Half Plate Armor"] = 25;
+armorPowerLookup["Iron Apron"] = 22;
+armorPowerLookup["Leather Armor"] = 12;
+armorPowerLookup["Magic Armor"] = 40;
+armorPowerLookup["Magic Bikini"] = 40;
+armorPowerLookup["Revealing Swimsuit"] = 1;
+armorPowerLookup["Sacred Robe"] = 30;
+armorPowerLookup["Shell Armor"] = 16;
+armorPowerLookup["Swordedge Armor"] = 55;
+armorPowerLookup["Training Suit"] = 10;
+armorPowerLookup["Water Flying Clothes"] = 40;
+armorPowerLookup["Wayfayer's Clothes"] = 8;
+armorPowerLookup["Bronze Shield"] = 7;
+armorPowerLookup["Iron Shield"] = 12;
+armorPowerLookup["Leather Shield"] = 4;
+armorPowerLookup["Shield of Heroes"] = 50;
+armorPowerLookup["Shield of Sorrow"] = 35;
+armorPowerLookup["Shield of Strength"] = 40;
+armorPowerLookup["Silver Shield"] = 30;
+armorPowerLookup["Golden Crown"] = 6;
+armorPowerLookup["Iron Helmet"] = 16;
+armorPowerLookup["Iron Mask"] = 25;
+armorPowerLookup["Leather Helmet"] = 2;
+armorPowerLookup["Mysterious Hat"] = 8;
+armorPowerLookup["Noh Mask"] = 255;
+armorPowerLookup["Turban"] = 8;
+armorPowerLookup["Unlucky Helmet"] = 35;
 
 local heroBattleSpells = { };
 heroBattleSpells[0] = "Blaze";
@@ -1192,44 +1232,46 @@ Setup();
 
 p1Window = forms.newform(350, 600, "Character 1")
 
-forms.label(p1Window, "HP:",     10, 20,  30, 19);
-forms.label(p1Window, "MP:",    110, 20,  30, 19);
-forms.label(p1Window, "XP:",    110, 40,  30, 19);
-forms.label(p1Window, "Gold:",  210, 20,  33, 19);
-forms.label(p1Window, "Lv:",     10, 40,  30, 19);
-forms.label(p1Window, "To go:", 210, 40,  38, 19);
-forms.label(p1Window, "Str:",    10, 60,  30, 19);
-forms.label(p1Window, "Attack:", 70, 60,  42, 19);
-forms.label(p1Window, "Ag:",    145, 60,  23, 19);
+forms.label(p1Window, "HP:",       10, 20,  30, 19);
+forms.label(p1Window, "MP:",      110, 20,  30, 19);
+forms.label(p1Window, "XP:",      110, 40,  30, 19);
+forms.label(p1Window, "Gold:",    210, 20,  33, 19);
+forms.label(p1Window, "Lv:",       10, 40,  30, 19);
+forms.label(p1Window, "To go:",   210, 40,  38, 19);
+forms.label(p1Window, "Str:",      10, 60,  30, 19);
+forms.label(p1Window, "Attack:",   70, 60,  42, 19);
+forms.label(p1Window, "Ag:",      145, 60,  23, 19);
+forms.label(p1Window, "Def:", 210, 60,  33, 19);
 
-p1HPLabel     = forms.label(p1Window, "0", 41,  20, 100, 19)
-p1MPLabel     = forms.label(p1Window, "0", 141, 20, 100, 19)
-p1XPLabel     = forms.label(p1Window, "0", 141, 40,  50, 19)
-p1GoldLabel   = forms.label(p1Window, "0", 245, 20, 150, 19)
-p1LevelLabel  = forms.label(p1Window, "0", 41,  40, 150, 19)
-p1XpToGoLabel = forms.label(p1Window, "0", 245, 40,  45, 19)
-p1StrLabel    = forms.label(p1Window, "0",  41, 60,  45, 19)
-p1AttackLabel = forms.label(p1Window, "0", 110, 60,  50, 19)
-p1AgLabel     = forms.label(p1Window, "0", 165, 60,  45, 19)
+p1HPLabel     = forms.label(p1Window, "0", 41,  20, 100, 19);
+p1MPLabel     = forms.label(p1Window, "0", 141, 20, 100, 19);
+p1XPLabel     = forms.label(p1Window, "0", 141, 40,  50, 19);
+p1GoldLabel   = forms.label(p1Window, "0", 245, 20, 150, 19);
+p1LevelLabel  = forms.label(p1Window, "0", 41,  40, 150, 19);
+p1XpToGoLabel = forms.label(p1Window, "0", 245, 40,  45, 19);
+p1StrLabel    = forms.label(p1Window, "0",  41, 60,  45, 19);
+p1AttackLabel = forms.label(p1Window, "0", 110, 60,  50, 19);
+p1AgLabel     = forms.label(p1Window, "0", 165, 60,  45, 19);
+p1DefLabel    = forms.label(p1Window, "0", 245, 60,  45, 19);
 
-forms.label(p1Window, "Inventory", 10, 100, 100, 19)
-forms.label(p1Window, "Slot 1:", 20, 120, 50, 19)
-forms.label(p1Window, "Slot 2:", 20, 140, 50, 19)
-forms.label(p1Window, "Slot 3:", 20, 160, 50, 19)
-forms.label(p1Window, "Slot 4:", 20, 180, 50, 19)
-forms.label(p1Window, "Slot 5:", 180, 120, 50, 19)
-forms.label(p1Window, "Slot 6:", 180, 140, 50, 19)
-forms.label(p1Window, "Slot 7:", 180, 160, 50, 19)
-forms.label(p1Window, "Slot 8:", 180, 180, 50, 19)
+forms.label(p1Window, "Inventory", 10, 100, 100, 19);
+forms.label(p1Window, "Slot 1:", 20, 120, 50, 19);
+forms.label(p1Window, "Slot 2:", 20, 140, 50, 19);
+forms.label(p1Window, "Slot 3:", 20, 160, 50, 19);
+forms.label(p1Window, "Slot 4:", 20, 180, 50, 19);
+forms.label(p1Window, "Slot 5:", 180, 120, 50, 19);
+forms.label(p1Window, "Slot 6:", 180, 140, 50, 19);
+forms.label(p1Window, "Slot 7:", 180, 160, 50, 19);
+forms.label(p1Window, "Slot 8:", 180, 180, 50, 19);
 
-p1Slot1Label = forms.label(p1Window, "xxx", 70, 120, 150, 19)
-p1Slot2Label = forms.label(p1Window, "xxx", 70, 140, 150, 19)
-p1Slot3Label = forms.label(p1Window, "xxx", 70, 160, 150, 19)
-p1Slot4Label = forms.label(p1Window, "xxx", 70, 180, 150, 19)
-p1Slot5Label = forms.label(p1Window, "xxx", 230, 120, 150, 19)
-p1Slot6Label = forms.label(p1Window, "xxx", 230, 140, 150, 19)
-p1Slot7Label = forms.label(p1Window, "xxx", 230, 160, 150, 19)
-p1Slot8Label = forms.label(p1Window, "xxx", 230, 180, 150, 19)
+p1Slot1Label = forms.label(p1Window, "xxx", 70, 120, 150, 19);
+p1Slot2Label = forms.label(p1Window, "xxx", 70, 140, 150, 19);
+p1Slot3Label = forms.label(p1Window, "xxx", 70, 160, 150, 19);
+p1Slot4Label = forms.label(p1Window, "xxx", 70, 180, 150, 19);
+p1Slot5Label = forms.label(p1Window, "xxx", 230, 120, 150, 19);
+p1Slot6Label = forms.label(p1Window, "xxx", 230, 140, 150, 19);
+p1Slot7Label = forms.label(p1Window, "xxx", 230, 160, 150, 19);
+p1Slot8Label = forms.label(p1Window, "xxx", 230, 180, 150, 19);
 
 forms.label(p1Window, "Return List", 10, 220, 100, 19);
 p1r01Label = forms.label(p1Window, "Aliahan",    10, 240, 70, 19);
@@ -1350,7 +1392,7 @@ function UpdateForm()
 	forms.settext(p1XpToGoLabel, p1XpToGo);
 	forms.settext(p1StrLabel, p1Str);
 	forms.settext(p1AgLabel, p1Ag);
-
+	forms.settext(p1DefLabel, p1Def);
 	forms.settext(p1Slot1Label, p1Slot1);
 	forms.settext(p1Slot2Label, p1Slot2);
 	forms.settext(p1Slot3Label, p1Slot3);
@@ -1664,9 +1706,46 @@ function CalculateAttackPower()
 	end
 end
 
+function CalculateDefensePower()
+	p1Def = math.floor(p1Ag / 2);
+
+	if (p1Slot1Val >= 0x80 and armorPowerLookup[lookup[p1Slot1Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot1Val - 0x80]];
+	end
+	
+	if (p1Slot2Val >= 0x80 and armorPowerLookup[lookup[p1Slot2Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot2Val - 0x80]];
+	end
+
+	if (p1Slot3Val >= 0x80 and armorPowerLookup[lookup[p1Slot3Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot3Val - 0x80]];
+	end
+
+	if (p1Slot4Val >= 0x80 and armorPowerLookup[lookup[p1Slot4Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot4Val - 0x80]];
+	end
+
+	if (p1Slot5Val >= 0x80 and armorPowerLookup[lookup[p1Slot5Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot5Val - 0x80]];
+	end
+
+	if (p1Slot6Val >= 0x80 and armorPowerLookup[lookup[p1Slot6Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot6Val - 0x80]];
+	end
+
+	if (p1Slot7Val >= 0x80 and armorPowerLookup[lookup[p1Slot7Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot7Val - 0x80]];
+	end
+
+	if (p1Slot8Val >= 0x80 and armorPowerLookup[lookup[p1Slot8Val - 0x80]] ~= nil) then
+		p1Def = p1Def + armorPowerLookup[lookup[p1Slot8Val - 0x80]];
+	end
+end
+
 while true do
 	UpdateVars();
 	CalculateAttackPower();
+	CalculateDefensePower();
 	UpdateForm();
 	UpdateReturnList();
 	UpdateSpellList();
