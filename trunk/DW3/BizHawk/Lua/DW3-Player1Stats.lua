@@ -1241,7 +1241,8 @@ forms.label(p1Window, "To go:",   210, 40,  38, 19);
 forms.label(p1Window, "Str:",      10, 60,  30, 19);
 forms.label(p1Window, "Attack:",   70, 60,  42, 19);
 forms.label(p1Window, "Ag:",      145, 60,  23, 19);
-forms.label(p1Window, "Def:", 210, 60,  33, 19);
+forms.label(p1Window, "Def:",     210, 60,  33, 19);
+forms.label(p1Window, "Dmg:",      10, 80,  33, 19);
 
 p1HPLabel     = forms.label(p1Window, "0", 41,  20, 100, 19);
 p1MPLabel     = forms.label(p1Window, "0", 141, 20, 100, 19);
@@ -1253,6 +1254,7 @@ p1StrLabel    = forms.label(p1Window, "0",  41, 60,  45, 19);
 p1AttackLabel = forms.label(p1Window, "0", 110, 60,  50, 19);
 p1AgLabel     = forms.label(p1Window, "0", 165, 60,  45, 19);
 p1DefLabel    = forms.label(p1Window, "0", 245, 60,  45, 19);
+p1DmgLabel    = forms.label(p1Window, "-",  41, 80, 290, 19);
 
 forms.label(p1Window, "Inventory", 10, 100, 100, 19);
 forms.label(p1Window, "Slot 1:", 20, 120, 50, 19);
@@ -1380,6 +1382,15 @@ function UpdateVars()
 	p1XpToGo = xpLookup[(p1Level + 1) + (p1ClassVal * 100)] - p1XP;
 
 	p1isHero = p1ClassVal == 0 or p1ClassVal == 8;
+
+	e1Def = mainmemory.readbyte(0x0520);
+	e2Def = mainmemory.readbyte(0x0521);
+	e3Def = mainmemory.readbyte(0x0522);
+	e4Def = mainmemory.readbyte(0x0523);
+	e5Def = mainmemory.readbyte(0x0524);
+	e6Def = mainmemory.readbyte(0x0525);
+	e7Def = mainmemory.readbyte(0x0526);
+	e8Def = mainmemory.readbyte(0x0527);
 end
 
 function UpdateForm()
@@ -1402,6 +1413,7 @@ function UpdateForm()
 	forms.settext(p1Slot7Label, p1Slot7);
 	forms.settext(p1Slot8Label, p1Slot8);
 	forms.settext(p1AttackLabel, p1AttackPower);
+	forms.settext(p1DmgLabel, p1DmgStr);
 end
 
 function UpdateReturnList()
@@ -1742,10 +1754,31 @@ function CalculateDefensePower()
 	end
 end
 
+function CalculateDmg()
+	dmgLow = 102 / 256;
+	dmgHigh = 153 / 256;
+	
+	p1dmgE1Low = math.floor((p1AttackPower - (e1Def / 2)) * dmgLow);
+	p1dmgE1High = math.floor((p1AttackPower - (e1Def / 2)) * dmgHigh);
+
+	p1dmgE2Low = math.floor((p1AttackPower - (e2Def / 2)) * dmgLow);
+	p1dmgE2High = math.floor((p1AttackPower - (e2Def / 2)) * dmgHigh);
+
+	p1dmgE3Low = math.floor((p1AttackPower - (e3Def / 2)) * dmgLow);
+	p1dmgE3High = math.floor((p1AttackPower - (e3Def / 2)) * dmgHigh);
+
+	p1dmgE4Low = math.floor((p1AttackPower - (e4Def / 2)) * dmgLow);
+	p1dmgE4High = math.floor((p1AttackPower - (e4Def / 2)) * dmgHigh);
+
+	p1DmgStr = "E1: " .. p1dmgE1Low .. "/" .. p1dmgE1High .. " E2: " .. p1dmgE2Low .. "/" .. p1dmgE2High
+		.. " E3: " .. p1dmgE3Low .. "/" .. p1dmgE3High .. " E4 " .. p1dmgE4Low .. "/" .. p1dmgE4High;
+end
+
 while true do
 	UpdateVars();
 	CalculateAttackPower();
 	CalculateDefensePower();
+	CalculateDmg();
 	UpdateForm();
 	UpdateReturnList();
 	UpdateSpellList();
