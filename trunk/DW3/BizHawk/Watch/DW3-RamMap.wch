@@ -1,10 +1,12 @@
 Domain RAM
 SystemID NES
 001C	b	u	0	RAM	RNG
+002C	b	u	0	RAM	Party Travel type (ground, ship, air)
 004C	b	u	0	RAM	RNG
 0051	b	u	0	RAM	Battles - Who's turn it is
 00A4	b	u	0	RAM	RNG
-002C	b	u	0	RAM	Party Travel type (ground, ship, air)
+00AD	b	u	0	RAM	Fairy Water Counter
+00D8	b	u	0	RAM	Music counter
 0200	b	u	0	RAM	On Screen Sprite data Player 1
 0201	b	u	0	RAM	On Screen Sprite data Player 1
 0202	b	u	0	RAM	On Screen Sprite data Player 1
