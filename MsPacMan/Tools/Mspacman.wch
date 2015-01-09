@@ -1,0 +1,8 @@
+Domain RAM1
+SystemID A78
+00A3	b	u	0	RAM2	Num Lives
+00A6	b	u	0	RAM2	Level
+00DC	b	u	0	RAM2	Pill Timer
+0102	b	h	0	RAM2	Y Grid
+0103	b	h	0	RAM2	X Grid
+
