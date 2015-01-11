@@ -1,0 +1,11 @@
+Domain RAM
+SystemID NES
+0733	b	u	0	RAM	
+0737	b	u	0	RAM	
+073B	b	u	0	RAM	
+073F	b	u	0	RAM	
+0707	b	h	0	RAM	PacMan X
+0708	b	h	0	RAM	PacMan Y
+0068	b	u	0	RAM	Level
+006A	b	u	0	RAM	Pellets Remaining
+
