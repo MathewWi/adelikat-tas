@@ -49,6 +49,9 @@ while true do
 		moveCounter = 0;
 	end
 
+	if (emu.framecount() < 350) then-- Hack, this is during the bios or intro screen, we dont' want to count it
+		moveCounter = 0;
+	end
 	pressed = input.get();
 	if (pressed["End"]) then
 		moveCounter = 0;
