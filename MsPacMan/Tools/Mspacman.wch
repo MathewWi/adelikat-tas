@@ -3,6 +3,24 @@ SystemID A78
 00A3	b	u	0	RAM2	Num Lives
 00A6	b	u	0	RAM2	Level
 00DC	b	u	0	RAM2	Pill Timer
-0102	b	h	0	RAM2	Y Grid
-0103	b	h	0	RAM2	X Grid
+0103	b	h	0	RAM2	Pacman X Grid
+0102	b	h	0	RAM2	Pacman Y Grid
+0101	b	u	0	RAM2	PacmanX
+0100	b	u	0	RAM2	PacmanY
+012C	b	u	0	RAM2	Blinky Grid X
+0128	b	u	0	RAM2	Blinky Grid Y
+0124	b	u	0	RAM2	BlinkyX
+0120	b	u	0	RAM2	BlinkyY
+012D	b	u	0	RAM2	Pinky Grid X
+0129	b	u	0	RAM2	Pinky Grid Y
+0125	b	u	0	RAM2	PinkyX
+0121	b	u	0	RAM2	PinkyY
+012E	b	u	0	RAM2	Inky Grid X
+012A	b	u	0	RAM2	Inky Grid Y
+0126	b	u	0	RAM2	InkyX
+0122	b	u	0	RAM2	InkyY
+012F	b	u	0	RAM2	Sue Grid X
+012B	b	u	0	RAM2	Sue Grid Y
+0127	b	u	0	RAM2	SueX
+0123	b	u	0	RAM2	SueY
 
