@@ -1,4 +1,4 @@
-Domain RAM1
+Domain RAM
 SystemID A78
 08A3	b	u	0	RAM	Num Lives
 08A6	b	u	0	RAM	Level
@@ -23,4 +23,6 @@ SystemID A78
 092B	b	u	0	RAM	Sue Grid Y
 0927	b	u	0	RAM	SueX
 0923	b	u	0	RAM	SueY
+0843	b	h	0	RAM	RNG
+0844	b	h	0	RAM	RNG
 
