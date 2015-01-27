@@ -1,7 +1,7 @@
 
-yaddr = 0x0102;
-xaddr = 0x0103
-leveladdr = 0x00A6;
+yaddr = 0x902;
+xaddr = 0x903
+leveladdr = 0x08A6;
 moveCounter = 0;
 
 prevMoveCounters = { }
@@ -29,13 +29,12 @@ end
 event.onsavestate(OnSaveState, "OSD-OnSavestate");
 event.onloadstate(OnLoadState, "OSD-OnLoadstate");
 
-memory.usememorydomain("RAM2");
 while true do
 	prev_xval = xval;
 	prev_yval = yval;
 
-	xval = memory.readbyte(xaddr);
-	yval = memory.readbyte(yaddr);
+	xval = mainmemory.readbyte(xaddr);
+	yval = mainmemory.readbyte(yaddr);
 
 
 	if (xval ~= prev_xval or yval ~= prev_yval) then
@@ -43,7 +42,7 @@ while true do
 	end
 
 	prev_level = level;
-	level = memory.readbyte(leveladdr);
+	level = mainmemory.readbyte(leveladdr);
 
 	if (prev_level ~= level) then
 		moveCounter = 0;
