@@ -1,0 +1,19 @@
+Domain MainRAM
+SystemID PSX
+09B221	b	u	0	MainRAM	Damage
+09B1AC	d	u	0	MainRAM	Speed
+09B184	d	s	0	MainRAM	Z Speed
+09B180	d	s	0	MainRAM	Y Speed
+09B17C	d	s	0	MainRAM	X Speed
+09B0FA	w	s	0	MainRAM	Pitch Force
+09B0F6	w	s	0	MainRAM	Yaw Force
+09B0F2	w	s	0	MainRAM	Roll Force
+09B0EE	w	s	0	MainRAM	Z Force
+09B0EA	w	s	0	MainRAM	Y Force
+09B0E6	w	s	0	MainRAM	X Force
+09B0D8	w	s	0	MainRAM	Angle
+09B0C4	d	u	0	MainRAM	Z Position
+09B0C0	d	u	0	MainRAM	Y Position
+09B0BC	d	u	0	MainRAM	X Position
+096E7D	b	u	0	MainRAM	Max Damage
+
