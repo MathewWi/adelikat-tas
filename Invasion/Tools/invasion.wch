@@ -1,0 +1,8 @@
+Domain MainRAM
+SystemID PSX
+05BE40	w	s	0	MainRAM	Speed
+000000	S	_	0		
+11AC38	d	u	0	MainRAM	Photon Torpedo Count
+11AC64	d	u	0	MainRAM	Quantum Torpedo Count
+066ED4	w	u	0	MainRAM	?????????
+
