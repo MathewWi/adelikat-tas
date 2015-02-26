@@ -1,0 +1,7 @@
+Domain RAM
+SystemID NES
+0034	b	u	0	RAM	11 Frame Rule
+0046	b	u	0	RAM	X Position
+0047	b	u	0	RAM	Y Position
+0088	b	u	0	RAM	mov pattern
+
