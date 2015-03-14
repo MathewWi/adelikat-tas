@@ -1,0 +1,141 @@
+## Contributers ##
+  * Tompa 72
+  * adelikat 64
+  * Bablo 12
+  * CtrlAltDestroy 5
+  * Baxter 6
+  * Cardboard 4
+  * Randil 2
+
+
+## Water Bubbles ##
+Umbrellas allow you to warp 4-5 levels.  Umbrellas appear after you pop 20 water bubbles.  Water bubbles are spread out over several levels.  Unfortunately they appear in the levels at 240 frame intervals.  So it is actually not worth it to hang out in a level and pop 20 of them.  We determined that the optimal amount is to pop 2 bubbles in each water bubble level.  Doing so allows for 2 warps to occur in the game.  The reason for 2 is that all levels are completed with a 241-482 frame time span, so no bubble is waited on for a full 240 frames this way.  In reality not all levels work the same.  As such, some bubbles are waited on for a full 240 frames.  Still, enough aren't that warping is profitable.
+
+Unfortunately warping is only 1 level if used in A6 or A7!  As such the optimal situation is to collect extra bubbles in 92 to initiate a warp then.
+
+### Water bubble levels ###
+5, 6, 10, 11, 12, 13, 15, 18, 20, 40, 49, 52, 64, 74, 77, 87, 92, A6 and A7
+
+## Ram values ##
+  * 0439 Water bubble counter
+  * 0435 Bubbles blown
+  * 0436 Bubbles popped
+  * 0437 Bubbles hopped on
+
+## Power-ups ##
+There are 3 useful power-ups in the game.  The shoes for increased speed (a must!), the blue candy for longer range bubbles (comes in handy often), and the green candy for faster bubble delivery (a must).  Only 1 power-up can appear in a level at a time.  Each dragon needs each of these upgrades.  The upgrades happen based on certain events: Blowing bubbles, popping bubbles, hopping on bubbles.  The first levels of the game are devoted to making these power-ups appear in an optimal fashion.  Once both dragon's are leveled up, they keep them until they die (making dying never profitable).  The hardest part in  planning the TAS was figuring out the optimal power-up strategy.
+
+## Level contributions ##
+  * 1 adelikat/Tompa
+  * 2 Cardboard/Randil/Tompa
+  * 3 Cardboard/Tompa
+  * 4 adelikat/Baxter
+  * 5 adelikat/Cardboard/Tompa/
+  * 6 adelikat/Tompa
+  * 7 adelikat/Tompa
+  * 8 adelikat/Tompa
+  * 9 Baxter/Tompa
+  * 10 Tompa
+  * 11 Tompa
+  * 12 adelikat/Tompa
+  * 13 adelikat
+  * 14 adelikat/Tompa
+  * 15 adelikat/Tompa
+  * 16 Tompa
+  * 17 Tompa
+  * 18 Tompa
+  * 19 adelikat/Baxter
+  * 20 adelikat/Baxter
+  * 21 adelikat/Baxter
+  * 22 **Skipped by warp
+  * 23** Skipped by warp
+  * 24 **Skipped by warp
+  * 25** Skipped by warp
+  * 26 Tompa
+  * 27 adelikat
+  * 28 adelikat/Tompa
+  * 29 Tompa
+  * 30 adelikat/Tompa
+  * 31 adelikat/Tompa
+  * 32 adelikat/Tompa
+  * 33 Randil/Tompa
+  * 34 CtrlAltDestroy
+  * 35 adelikat/CtrlAltDestroy/Tompa
+  * 36 adelikat/Tompa
+  * 37 adelikat/Tompa
+  * 38 adelikat/Tompa
+  * 39 Tompa
+  * 40 Tompa
+  * 41 CtrlAltDestroy
+  * 42 Tompa/adelikat
+  * 43 adelikat
+  * 44 adelikat/Tompa
+  * 45 adelikat
+  * 46 adelikat
+  * 47 adelikat/Tompa
+  * 48 adelikat
+  * 49 adelikat
+  * 50 Tompa
+  * 51 adelikat/Tompa
+  * 52 adelikat
+  * 53 adelikat
+  * 54 adelikat/Tompa
+  * 55 Tompa
+  * 56 adelikat
+  * 57 adelikat/Tompa
+  * 58 adelikat/Tompa
+  * 59 adelikat/Tompa
+  * 60 adelikat/Tompa
+  * 61 Tompa
+  * 62 Tompa
+  * 63 adelikat/Tompa
+  * 64 adelikat
+  * 65 CtrlAltDestroy/Tompa
+  * 66 adelikat
+  * 67 adelikat/Tompa
+  * 68 adelikat/Tompa/Bablo
+  * 69 Bablo/Tompa
+  * 70 Bablo
+  * 71 Bablo/Tompa
+  * 72 Bablo/Tompa
+  * 73 adelikat/Tompa
+  * 74 adelikat/Tompa
+  * 75 adelikat/Tompa
+  * 76 adelikat/Tompa
+  * 77 adelikat/Bablo
+  * 78 adelikat
+  * 79 Bablo
+  * 80 Bablo
+  * 81 Bablo
+  * 82 Bablo/Tompa
+  * 83 adelikat/Tompa
+  * 84 Baxter/Tompa
+  * 85 Tompa
+  * 86 Bablo/Tompa
+  * 87 adelikat
+  * 88 Bablo
+  * 89 adelikat
+  * 90 adelikat
+  * 91 adelikat
+  * 92 adelikat
+  * 93 adelikat/Tompa
+  * 94 adelikat
+  * 95 **skipped by warp
+  * 96** skipped by warp
+  * 97 **skipped by warp
+  * 98** skipped by warp
+  * 99 Tompa
+  * A0 Tompa
+  * A1 Tompa
+  * A2 Tompa
+  * A3 adelikat
+  * A4 Tompa
+  * A5 Tompa
+  * A6 Tompa
+  * A7 adelikat/Tompa
+  * A8 adelikat/Tompa
+  * A9 adelikat/Tompa
+  * B0 Tompa
+  * B1 Tompa
+  * B2 adelikat
+  * BOSS adelikat/Tompa/Cardboard/CtrlAltDestroy/Baxter
